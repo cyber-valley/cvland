@@ -1,0 +1,110 @@
+- 1000 species on 30
+- strategic supplier of [[permabase]]
+- sectors-from top to bottom
+- guilds-left to right
+- [[utopia/strategy]]
+- TODO identify major [[plants]]
+- TODO species description
+- TODO mapping of plants
+- [[edem/guilds]]
+- [[edem/sectors]]
+	- example [[edem/01]]
+- TODO [[plants/research]] available in indonesia
+- [[plant/deseases]]
+- [[seeds]]
+- recently inroduced
+	- [[aleurites moluccanus]]
+	- [[chaya]]
+	- [[origanum vulgare]]
+- to introduce
+  query-sort-by:: page
+  query-table:: true
+  query-sort-desc:: false
+	- fruits
+		- [[garcinia intermedia]]
+		- [[baccaurea]]
+		- [[salacca zalacca]]
+		- [[coconut]] dwarf
+		- [[banana]] dwarf
+		- [[annona atemoya]]
+		- [[annona reticulata]]
+		- [[actinidia]]
+		- [[bouea macrophylla]]
+	- starch
+		- [[ipomoea batatas]]
+	- fodder
+		- [[gude]]
+		- [[gamal]]
+		- [[tuno]]
+		- [[kecipir]]
+	- greens
+		- [[moringa oleifera]]
+		- [[asparagus]]
+		- [[cynara scolymus]]
+		- [[solanum quitoense]]
+		- [[gynura procumbens]]
+		- [[portulaca oleracea]]
+		- [[vegy fern]]
+		- [[breynia androgyna]]
+		- [[aloe vera]]
+		- [[agastache foeniculum]]
+		- [[allium ursinum]]
+		- [[aloysia citrodora]]
+		- [[rumex acetosa]]
+		- [[cynometra cauliflora]]
+	- nuts
+		- [[gnetum gnemon]]
+		- [[artocarpus camansi]]
+	- teas
+		- [[camellia sinensis]]
+	- timber
+		- [[phyllostachys edulis]]
+	- utility
+		- [[salix]]
+		- [[cymbopogon nardus]]
+		- [[chrysopogon zizanioides]]
+		- [[tanacetum vulgare]]
+		- [[cynodon dactylon]]
+	- cool
+		- [[andrographis paniculata]]
+		- [[echinopsis pachanoi]]
+		- [[agave amica]]
+		- [[agarwood]]
+		- [[syzygium aromaticum]]
+		- [[eucalyptus pulverulenta]]
+		- [[canna indica]]
+		- [[pandanus tectorius]]
+		- [[acer]]
+		- [[bixa orellana]]
+		- [[ginkgo biloba]]
+		- [[humulus lupulus]]
+		- [[arenga pinnata]]
+		- [[cinnamomum camphora]]
+		- [[etlingera elatior]]
+		- [[cinnamomum tamala]]
+		- [[pueraria javanica]]
+		- [[eleutherine palmifolia]]
+		- [[ipomoea aquatica]]
+		- [[pimpinella pruatjan]]
+		- [[phyllanthus niruri]]
+		- [[clinacanthus nutans]]
+		- [[orthosiphon aristatus]]
+		- [[plectranthus amboinicus]]
+		- [[eurycoma longifolia]]
+		- [[urena lobata]]
+	- tubers
+		- [[dioscorea alata]]
+		- [[dioscorea bulbifera]]
+		- [[dioscorea alata]]
+		- [[dioscorea esculenta]]
+		- [[dioscorea hispida]]
+		- [[maranta arundinacea]]
+		- [[calathea allouia]]
+		- [[smallanthus sonchifolius]]
+		- [[boesenbergia rotunda]]
+		- [[zingiber zerumbet]]
+		- [[zingiber spectabile]]
+		- [[pachyrhizus erosus]]
+		- [[canna indica]]
+		- [[coleus rotundifolius]]
+		- [[curcuma zedoaria]]

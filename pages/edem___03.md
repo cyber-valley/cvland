@@ -1,0 +1,36 @@
+type:: sector
+
+- connected to [[edem/sectors]]
+	- [[edem/02]]
+	- [[edem/04]]
+- [[guilds]]
+	- [[olea europaea]]
+	  collapsed:: true
+		- [[symphytum officinale]]
+	- [[citrus japonica]]
+	- [[phaleria macrocarpa]]
+	- [[citrus japonica]]
+	- [[punica granatum]] black
+	- [[diospyros kaki]]
+	- [[cinamonium verum]]
+	- [[morinda citrifolia]]
+	- [[moringa oleifera]]
+	- [[diospyros kaki]]
+	- [[diospyros kaki]]
+	- [[spondias dulcis]]
+	- [[unknown plant]]
+- [[beds]]
+	- [[cnidoscolus aconitifolius]]: 4
+	- [[mitragyna speciosa]]: 4
+	- [[kalanchoe pinnata]]
+	- [[rumex sanguineus]]
+	- [[solanum melongena]]
+	- [[origanum vulgare]]
+	- [[centella asiatica]]
+	- [[mentha citrata]]
+	- [[mentha suaveolens]]
+	- [[gynura divaricata]]
+	- [[strobilanthes reptans]]
+	- [[basella alba]]
+-
+-

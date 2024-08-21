@@ -1,0 +1,3 @@
+tags:: genus
+
+- [[pinus merkusii]]

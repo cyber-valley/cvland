@@ -1,0 +1,40 @@
+tags:: genus
+
+- native
+	- [[ficus benjamina]]
+	- [[ficus fistulosa]]
+- introduced
+	- [[ficus carica]]
+	- [[ficus elastica]]
+	- [[ficus microcarpa]]
+- backlog
+	- [[ficus benghalensis]]
+	- [[ficus religiosa]]
+	- [[ficus pumila]]
+- research
+	- [[ficus panama]]
+	- [[ficus lyrata]]
+	- [[ficus longifolia]]
+	-
+	- [[ficus septica]]
+	- [[ficus variegata]]
+	- [[ficus hispida]]
+	- [[ficus racemosa]]
+	- [[ficus drupacea]]
+	- [[ficus virens]]
+	- [[ficus auriculata]]
+	- [[ficus retusa]]
+	- [[ficus ampelas]]
+	- [[ficus binnendijkii]]
+	- [[ficus callosa]]
+	- [[ficus deltoidea]]
+	- [[ficus villosa]]
+	- [[ficus palmata]]
+	- [[ficus neriifolia]]
+	- [[ficus fulva]]
+	- [[ficus kurzii]]
+	- [[ficus petiolaris]]
+	- [[ficus rumphii]]
+	- [[ficus superba]]
+	- [[ficus sycomorus]]
+	- [[ficus triangularis]]

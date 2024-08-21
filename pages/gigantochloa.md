@@ -1,0 +1,3 @@
+tags:: genus
+
+- [[gigantochloa verticillata]]
