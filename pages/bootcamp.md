@@ -2,29 +2,31 @@ icon:: 🏕️
 
 - 14 day educational program
 - for creators of autonomous societies and network states
-- at [[genesis]], [[cyber valley]], [[bali]]
+- place: [[citadel genesis]], [[cyber valley]], [[bali]]
 - starts on the new and full moon
 - ## for whom?
 	- for existing and future landlords
 	- for people who get stuck from cities and civilization
 	- for romantics who demand more freedom and autonomy
 	- for innovators who loves cutting edge at low cost
-- ## 15 hours of cutting edge lectures on autonomy
+- ## 20 hours of cutting edge lectures on autonomy
+	- [[intro to autonomy]]: complex can be simple
 	- [[energy system]]: how to build and make it work reliably?
 	- [[water system]]: simple solutions for clean water
 	- [[soil, heat and recycling]]: the source of magic
-	- [[biome engineering]]: create efficient and high margin magic forest
+	- [[biome engineering]]: create efficient and high margin [[magic forest]]
 	- [[longevity and health]]: simple secrets for better life
 	- [[cryptography and web3]]: confident use of modern apps
 	- [[learning and ai]]: knowledge graphs and prompt engineering basics
 	- [[lowtech construction]]: building fast and cheap
-	- [[sensors, dev and control]]: how to automate community development?
+	- [[sensors, dev and control]]: how to automate and lead community
 - ## 30 hours of workouts for skill setting and leadership intuition
 	- all workouts assigned individually
-	- according to real operational plan of [[genesis]] construction
+	- according to real operation plan of [[genesis]] construction
 	- workouts are practical: you do something useful
 	- examples of [[workouts]]
-	- you can do your own project instead of standard [[workouts]]
+	- you can [[do your own project]] instead of standard [[workouts]]
+	- but we recommend to try at least some of them! they are cool
 - ## mentors
 	- [[master]]: founder of cyber, bostrom, cyb, cyber academy, cyber fund and cyber valley
 	- [[stjoy]]: cyber valley founder

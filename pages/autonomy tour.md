@@ -1,2 +1,1 @@
-- free monthly tour from founders
-  title:: autonomy tour
+- monthly tour from founders
