@@ -4,25 +4,28 @@ icon:: 🏕️
 - for creators of autonomous societies and network states
 - at [[citadel]], [[cyber valley]], [[bali]]
 - starts on the new and full moon
-- ## message
-	- one year ago we moved to a remote location to learn how to live sustainably and autonomosly
-	- we have not yet fully reached this bliss
-	- but we were able to handle the most heavy parts
-	-
-	- we eager to share what we learn with you
-	- so you can launch your own autonomous community at extremely low price or [[join]] our!
--
-	- in addition to educational part and useful skills we will do our best to help you
-		- calm your mind
-		- improve your health
-		- and enjoy [[quality of life]]
-	- we invite you to establish unique collaboration environment together
 - ## for whom?
 	- for existing and future landlords
 	- for creators and founders of network states and autonomous communities
 	- for people who get stuck from cities and civilization
 	- for romantics who demand more freedom and autonomy
 	- for innovators who loves cutting edge at low cost
+- ## message
+	- one year ago we moved to a remote location to learn how to live sustainably and autonomously
+	- we have not yet fully reached this bliss
+	- but we were able to handle the most heavy parts
+	-
+	- we eager to share what we learn with you
+	- so you can launch your own autonomous community at extremely low price or [[join]] our!
+	-
+	- did you know that you can build your paradise for the price of a car?
+	-
+	- in addition to educational part and useful skills we will do our best to help you
+		- calm your mind
+		- improve your health
+		- and enjoy [[quality of life]]
+	-
+	- we invite you to establish unique collaboration environment together
 - ## timeline
 	- pack the product: 1 august
 	- launch of sales: 1 september
@@ -31,17 +34,22 @@ icon:: 🏕️
 	- [[cyberman]]: 5 november
 - ## price of one tent
 	- only 5 tents will become available at launch
-	- base price of the tent during program is $1k
-	- in addition
-		- for each female: $1k
-		- for each male: $4k
-	- max 3 people in the tent
-	- no discount for kids
-	- for your comfort you must arrange you company in the tent
+	- base price of the tent during program is $1k without habitats
+	- in addition for each habitat
+		- female: $1k
+		- male: $4k
+	- max 3 habitats in the tent
+	- no discount for kids and animals: they count as equal habitats
+	- you arrange your company in the tent yourself
+	- examples:
+		- 1 female: $2k
+		- 1 male: $5k
+		- 3 females: $4k
+		- 3 males: $13k
 - ## rules
 	- first 10 days - no connection to global internet
 	- any electric device and offline software are allowed
-	- 2 hours of lectures on default days
+	- 2 hour of lectures on default days
 	- 3 hours of workouts on default days
 	- traveling and evening events are optional
 - ## what you get?
