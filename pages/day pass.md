@@ -1,0 +1,3 @@
+- 10 daily visits target
+- 50$ day all inclusive
+- no discount for kids

@@ -1,0 +1,142 @@
+- 14 day educational program
+- for creators of autonomous societies and network states
+- at [[citadel]], [[cyber valley]], [[bali]]
+- starts on the new and full moon
+- ## message
+	- one year ago we moved to a remote location to learn how to live sustainably and autonomosly
+	- we have not yet fully reached this bliss
+	- but we were able to handle the most heavy parts
+	-
+	- we eager to share what we learn with you
+	- so you can launch your own autonomous community at extremely low price or [[join]] our!
+-
+	- in addition to educational part and useful skills we will do our best to help you
+		- calm your mind
+		- improve your health
+		- and enjoy [[quality of life]]
+	- we invite you to establish unique collaboration environment together
+- ## for whom?
+	- for existing and future landlords
+	- for creators and founders of network states and autonomous communities
+	- for people who get stuck from cities and civilization
+	- for romantics who demand more freedom and autonomy
+	- for innovators who loves cutting edge at low cost
+- ## timeline
+	- pack the product: 1 august
+	- launch of sales: 1 september
+	- call for friends: 1 october
+	- launch of camp: 1 november
+	- [[cyberman]]: 5 november
+- ## price of one tent
+	- only 5 tents will become available at launch
+	- base price of the tent during program is $1k
+	- in addition
+		- for each female: $1k
+		- for each male: $4k
+	- max 3 people in the tent
+	- no discount for kids
+	- for your comfort you must arrange you company in the tent
+- ## rules
+	- first 10 days - no connection to global internet
+	- any electric device and offline software are allowed
+	- 2 hours of lectures on default days
+	- 3 hours of workouts on default days
+	- traveling and evening events are optional
+- ## what you get?
+	- clean state of your mind
+	- focus on what are important to you and our planet
+	- meet extraordinary people
+- ## environment
+	- cozy tent with meals in natural and autonomous environment
+	- amazing infrastructure for kids
+- ## cutting edge lectures on autonomy
+	- energy system: how to build and make it work reliably?
+	- water system: simple solutions for clean water
+	- soil, heat and recycling: the source of magic
+	- biome engineering: create efficient and high margin magic forest
+	- longevity and health: simple secrets for better life
+	- cryptography and web3: confident use of modern apps
+	- learning and ai: knowledge graphs and prompt engineering basics
+	- lowtech construction: building fast and cheap
+	- sensors, development and control: how to automate community development?
+- ## mentors
+	- master: founder of cyber, bostrom, cyb, cyber academy, cyber fund
+	- stjoy: cyber valley founder
+- ## evening events
+	- new moon party
+	- live music with fire
+	- star observation
+	- hackathon
+	- full moon party
+- ## available facilities
+	- coworking: collaboration space
+	- organiq: marketplace and meals
+	- carpentry: place for crafting cool stuff
+	- elons: chill with sheeps and starlink
+	- monastery: kids playground
+	- kitchen: experiment with organic food production
+	- edem: experimental garden with ~200 species
+	- 2+ km of trails on site
+	- access to 37 ha of gardens and huge relic forest
+		- ~300 plant species
+		- ~10 animal species
+		- ~50 bird species
+- ## faq
+	- why prices so differs between genders?
+		- girls want cool boys
+		- boys want more girls
+		- club way to build and balance community
+	- what i will need with me?
+		- notebook
+		- [[list of wear]]
+		- will for change
+- ## mechanics
+	- 10 day includes lectures and workouts
+		- daily coordinanation based on real demands
+		- chosing tasks according to personal will of participants
+	- 4 days for rest and reflection => no rules apply
+	- long term rent and ownership
+		- our purpose is to persist community
+		- we are interested in long term rent on a year basis and more
+		- let us know if you are interested after visiting us
+		- we are still find out proper model for commuinty building
+- ## default day: utc time
+	- sunrise: wakeup and invest time into your body and mind
+		- [[meditation and yoga]]
+		- [[hiking trails]]
+	- 00:00 coordination and breakfast
+	- 00:30: workouts
+	- 02:00: lectures
+	- 04:00: lunch
+	- 05:00: workouts
+	- 07:00: personal time
+	- 09:00: dinner
+	- after sunset: personal time or evening events
+- ## 4 travel days: options from
+	- new land discovery: flexible
+	- wild huyang trip: flexible
+	- licking lesung whole: 3 hours
+	- rising sang huyang: 4 hours
+	- magic waterfalls: 4 hours
+	- jatiluwih trail: 9 hours
+	- rafting on pandora: 12 hours
+	- wet west of bali: 12 hours
+	- batukaru shoot: 12 hours
+- ## memes
+  collapsed:: true
+	- heal, learn, realize
+	- try different lifestyle
+	- next level of personal autonomy
+- ## day 0: : utc time (not sure)
+	- 00:00 arrival to the moon embassy in ubud
+	- 01:00 breakfast
+	- 02:00 health check and sauna
+	- 04:00 lunch
+	- 05:00 departure on shuttle to [[cyber valley]]
+	- 08:00 [[citadel]] [[housing]]
+	- 09:00 new moon party
+	- after sunset: personal time
+- ## how to apply?
+	- sent message to @mliubov in telegram
+-
+- # want less? try [[daily pass]]
