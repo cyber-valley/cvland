@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["bootcamp" "day pass" "cyber valley" "citadel" "birds" "sytech" "edem" "genus" "species"]
+ :favorites ["sytech" "genesis" "daypass" "bootcamp" "cyber valley" "magic forest" "energy system" "water system" "species"]
 
  ;; Set flashcards interval.
  ;; Expected value:

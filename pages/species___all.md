@@ -1,0 +1,1 @@
+- {{query (and (page-tags [[species]]) (not (page-tags [[class]])))}}

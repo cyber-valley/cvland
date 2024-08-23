@@ -2,14 +2,32 @@ icon:: 🏕️
 
 - 14 day educational program
 - for creators of autonomous societies and network states
-- at [[citadel]], [[cyber valley]], [[bali]]
+- at [[genesis]], [[cyber valley]], [[bali]]
 - starts on the new and full moon
 - ## for whom?
 	- for existing and future landlords
-	- for creators and founders of network states and autonomous communities
 	- for people who get stuck from cities and civilization
 	- for romantics who demand more freedom and autonomy
 	- for innovators who loves cutting edge at low cost
+- ## 15 hours of cutting edge lectures on autonomy
+	- [[energy system]]: how to build and make it work reliably?
+	- [[water system]]: simple solutions for clean water
+	- [[soil, heat and recycling]]: the source of magic
+	- [[biome engineering]]: create efficient and high margin magic forest
+	- [[longevity and health]]: simple secrets for better life
+	- [[cryptography and web3]]: confident use of modern apps
+	- [[learning and ai]]: knowledge graphs and prompt engineering basics
+	- [[lowtech construction]]: building fast and cheap
+	- [[sensors, dev and control]]: how to automate community development?
+- ## 30 hours of workouts for skill setting and leadership intuition
+	- all workouts assigned individually
+	- according to real operational plan of [[genesis]] construction
+	- workouts are practical: you do something useful
+	- examples of [[workouts]]
+	- you can do your own project instead of standard [[workouts]]
+- ## mentors
+	- [[master]]: founder of cyber, bostrom, cyb, cyber academy, cyber fund and cyber valley
+	- [[stjoy]]: cyber valley founder
 - ## message
 	- one year ago we moved to a remote location to learn how to live sustainably and autonomously
 	- we have not yet fully reached this bliss
@@ -18,7 +36,7 @@ icon:: 🏕️
 	- we eager to share what we learn with you
 	- so you can launch your own autonomous community at extremely low price or [[join]] our!
 	-
-	- did you know that you can build your paradise for the price of a car?
+	- did you know that you can build your small paradise for the price of a car?
 	-
 	- in addition to educational part and useful skills we will do our best to help you
 		- calm your mind
@@ -26,12 +44,6 @@ icon:: 🏕️
 		- and enjoy [[quality of life]]
 	-
 	- we invite you to establish unique collaboration environment together
-- ## timeline
-	- pack the product: 1 august
-	- launch of sales: 1 september
-	- call for friends: 1 october
-	- launch of camp: 1 november
-	- [[cyberman]]: 5 november
 - ## price of one tent
 	- only 5 tents will become available at launch
 	- base price of the tent during program is $1k without habitats
@@ -52,26 +64,15 @@ icon:: 🏕️
 	- 2 hour of lectures on default days
 	- 3 hours of workouts on default days
 	- traveling and evening events are optional
-- ## what you get?
-	- clean state of your mind
-	- focus on what are important to you and our planet
-	- meet extraordinary people
+- ## timeline
+	- pack the product: 1 august
+	- launch of sales: 1 september
+	- call for friends: 1 october
+	- launch of camp: 1 november
+	- [[cyberman]]: 5 november
 - ## environment
 	- cozy tent with meals in natural and autonomous environment
 	- amazing infrastructure for kids
-- ## cutting edge lectures on autonomy
-	- [[energy system]]: how to build and make it work reliably?
-	- [[water system]]: simple solutions for clean water
-	- [[soil, heat and recycling]]: the source of magic
-	- [[biome engineering]]: create efficient and high margin magic forest
-	- [[longevity and health]]: simple secrets for better life
-	- [[cryptography and web3]]: confident use of modern apps
-	- [[learning and ai]]: knowledge graphs and prompt engineering basics
-	- [[lowtech construction]]: building fast and cheap
-	- [[sensors, dev and control]]: how to automate community development?
-- ## mentors
-	- master: founder of cyber, bostrom, cyb, cyber academy, cyber fund
-	- stjoy: cyber valley founder
 - ## evening events
 	- new moon party
 	- live music with fire
@@ -90,8 +91,12 @@ icon:: 🏕️
 	- access to 37 ha of gardens and huge relic forest
 		- ~300 plant species
 		- ~10 animal species
-		- ~50 bird species
+		- ~50 [[bird]] species
 - ## faq
+	- what you get?
+		- clean state of your mind
+		- focus on what are important to you and our planet
+		- meet extraordinary people
 	- why prices so differs between genders?
 		- girls want cool boys
 		- boys want more girls
@@ -143,10 +148,10 @@ icon:: 🏕️
 	- 02:00 health check and sauna
 	- 04:00 lunch
 	- 05:00 departure on shuttle to [[cyber valley]]
-	- 08:00 [[citadel]] [[housing]]
+	- 08:00 [[genesis]] [[housing]]
 	- 09:00 new moon party
 	- after sunset: personal time
 - ## how to apply?
 	- sent message to @mliubov in telegram
 -
-- # want less? try [[day pass]]
+- # want less? try [[daypass]]
