@@ -1,3 +1,5 @@
+icon:: 🏕️
+
 - 14 day educational program
 - for creators of autonomous societies and network states
 - at [[citadel]], [[cyber valley]], [[bali]]
@@ -50,15 +52,15 @@
 	- cozy tent with meals in natural and autonomous environment
 	- amazing infrastructure for kids
 - ## cutting edge lectures on autonomy
-	- energy system: how to build and make it work reliably?
-	- water system: simple solutions for clean water
-	- soil, heat and recycling: the source of magic
-	- biome engineering: create efficient and high margin magic forest
-	- longevity and health: simple secrets for better life
-	- cryptography and web3: confident use of modern apps
-	- learning and ai: knowledge graphs and prompt engineering basics
-	- lowtech construction: building fast and cheap
-	- sensors, development and control: how to automate community development?
+	- [[energy system]]: how to build and make it work reliably?
+	- [[water system]]: simple solutions for clean water
+	- [[soil, heat and recycling]]: the source of magic
+	- [[biome engineering]]: create efficient and high margin magic forest
+	- [[longevity and health]]: simple secrets for better life
+	- [[cryptography and web3]]: confident use of modern apps
+	- [[learning and ai]]: knowledge graphs and prompt engineering basics
+	- [[lowtech construction]]: building fast and cheap
+	- [[sensors, dev and control]]: how to automate community development?
 - ## mentors
 	- master: founder of cyber, bostrom, cyb, cyber academy, cyber fund
 	- stjoy: cyber valley founder
@@ -139,4 +141,4 @@
 - ## how to apply?
 	- sent message to @mliubov in telegram
 -
-- # want less? try [[daily pass]]
+- # want less? try [[day pass]]
