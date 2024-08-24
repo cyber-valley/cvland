@@ -1,9 +1,11 @@
 - status: draft
 - in this article i describe the new type of policy for a more adoptable societies
+- i am going to bet on it while building [[citadel genesis]]
 - simple idea to solve [sociodemgraphic collapse](https://en.wikipedia.org/wiki/Population_decline) at low scale
 - using [[gender price differentiation]] as result of [[community consensus]]
-	- powerful males agree to pay more when females and in exchange enjoy [[prosperity]]
-	- smart females agree to share males and and in exchange also enjoy [[prosperity]]
+	- powerful males agree to pay significantly more when females and in exchange enjoy [[prosperity]]
+	- smart females agree to share male and in exchange also enjoy [[prosperity]]
+	- everyone agree on economical domination of females over males in all key areas
 - the effect suggested by research that female-biased societies, if well-managed
 	- could potentially lead to more rapid growth
 	- better social outcomes
@@ -48,10 +50,10 @@
 		- research by wolley suggests
 		- that groups with higher female representation
 		- tend to perform better in collaborative problem-solving and decision-making
-		- potentially leading to more innovative and effective solutions to complex challenges
+		- leading to more innovative and effective solutions to complex challenges
 	- economic growth and innovation
-		- as result of increased workforce participation
-		- female-biased society can benefit from a larger, more diverse labor pool
+		- as a result of a more dense resource usage needed to produce one offspring
+		- larger, more diverse labor pool of female-biased society
 	- environmental sustainability
 		- women are often more involved in sustainable practices and environmental conservation
 		- which can lead to better management of natural resources
