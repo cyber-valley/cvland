@@ -1,3 +1,4 @@
+tags:: birds
 alias:: lesser coucal
 
 - voice:: https://ebird.org/species/lescou1

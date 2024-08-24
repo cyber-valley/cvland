@@ -1,3 +1,4 @@
+tags:: birds
 alias:: long-tailed shrike
 
 - voice:: https://ebird.org/species/lotshr1

@@ -1,3 +1,4 @@
+tags:: birds
 alias:: javan munia, white-bellied munia
 
 - voice:: https://ebird.org/species/javmun1

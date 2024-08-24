@@ -1,3 +1,4 @@
+tags:: birds
 alias:: javan kingfisher
 
 - voice:: https://ebird.org/species/javkin1

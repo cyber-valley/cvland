@@ -1,3 +1,4 @@
+tags:: birds
 alias:: grey-headed canary-flycatcher
 
 - voice:: https://ebird.org/species/gyhcaf1

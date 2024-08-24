@@ -1,3 +1,4 @@
+tags:: birds
 alias:: square-tailed drongo-cuckoo
 
 - voice:: https://ebird.org/species/asidrc3

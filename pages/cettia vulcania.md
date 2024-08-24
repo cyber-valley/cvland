@@ -1,3 +1,4 @@
+tags:: birds
 alias:: horornis vulcanius, sunda bush-warbler
 
 - voice:: https://avibase.bsc-eoc.org/species.jsp?avibaseid=8C91ADCBD3FA353B

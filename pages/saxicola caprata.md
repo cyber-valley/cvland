@@ -1,3 +1,4 @@
+tags:: birds
 alias:: pied bushchat
 
 - voice:: https://ebird.org/species/piebus1

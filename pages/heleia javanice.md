@@ -1,3 +1,4 @@
+tags:: birds
 alias:: javan grey-throated white-eye
 
 - voice:: https://ebird.org/species/jgtwhe1
