@@ -13,11 +13,11 @@ icon:: 🪷
 	- more plant, animal and fungi species
 	- from [[forest]] and from [[lab]]
 - 3 phase: sustaining ecosystem
-- phase 1 output
+- phase 1 [[products]]
 	- basic [[food]]
 		- fruits: [[banana]], [[avocado]], [[inga]], [[markiza]]
 		- tubers: [[taro]], [[cassava]]
-		- berries: [[raspberry]], [[rhea]], [[rubus]], [[coffea arabica]]
+		- berries: [[raspberry]], [[rubus]], [[coffea]],
 		- legumes: [[inga]]
 		- greens:
 		- grains: [[sorghum]]
