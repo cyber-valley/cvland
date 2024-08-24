@@ -1,3 +1,4 @@
+tags:: birds
 alias:: blue-breasted quail, king quail
 
 - voice:: https://ebird.org/species/blbqua1

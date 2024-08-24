@@ -1,3 +1,4 @@
+tags:: birds
 alias:: white-crowned forktail
 
 - voice:: https://ebird.org/species/whcfor1

@@ -1,3 +1,4 @@
+tags:: birds
 alias:: himalayan cuckoo
 
 - voice:: https://ebird.org/species/himcuc1

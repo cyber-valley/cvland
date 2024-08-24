@@ -1,3 +1,4 @@
+tags:: birds
 alias:: yellow-eared barbet
 
 - voice:: https://ebird.org/species/litbar1

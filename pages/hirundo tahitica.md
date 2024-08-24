@@ -1,3 +1,4 @@
+tags:: birds
 alias:: pacific swallow
 
 - voice:: https://ebird.org/species/pacswa1

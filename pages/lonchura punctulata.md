@@ -1,3 +1,4 @@
+tags:: birds
 alias:: scaly-breasted munia
 
 - voice:: https://ebird.org/species/nutman

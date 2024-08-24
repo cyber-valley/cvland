@@ -1,3 +1,4 @@
+tags:: birds
 alias:: rusty-breasted cuckoo
 
 - voice:: https://avibase.bsc-eoc.org/species.jsp?avibaseid=D2883A16DA3C06BD

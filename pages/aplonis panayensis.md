@@ -1,3 +1,4 @@
+tags:: birds
 alias:: asian glossy starling
 
 - voice:: https://ebird.org/species/asgsta1

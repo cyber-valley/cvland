@@ -1,3 +1,4 @@
+tags:: birds
 alias:: sangkar white-eye, cape white-eye
 
 - voice:: https://ebird.org/species/sanwhe2

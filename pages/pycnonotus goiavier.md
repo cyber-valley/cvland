@@ -1,4 +1,5 @@
-alias::
+tags:: birds
+alias:: yellow-vented Bulbul
 
 - voice:: https://ebird.org/species/yevbul1
 - ![image](https://ipfs.io/ipfs/QmT4AaKbj3GzEfFYAkkfwtaWBGhak9n2uxyi3MK6KgzqWp)

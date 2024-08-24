@@ -1,3 +1,4 @@
+tags:: birds
 alias:: collared kingfisher
 
 - voice:: https://ebird.org/species/colkin1

@@ -1,3 +1,4 @@
+tags:: birds
 alias:: coppersmith barbet
 
 - voice:: https://ebird.org/species/copbar1

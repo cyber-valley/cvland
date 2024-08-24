@@ -1,3 +1,4 @@
+tags:: birds
 alias:: malaysian pied-fantail
 
 - voice:: https://ebird.org/species/piefan1

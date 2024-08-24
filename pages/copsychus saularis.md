@@ -1,3 +1,4 @@
+tags:: birds
 alias:: oriental magpie-robin
 
 - voice:: https://ebird.org/species/magrob
