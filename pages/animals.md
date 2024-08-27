@@ -4,8 +4,38 @@ tags:: species, class
 - [[bees]]
 - [[sheeps]]
 - [[worms]]
-- TODO squirrels
-- TODO birds
-- TODO rabbits
+- [[birds]]
+	- TODO [[raven]]
+	- TODO [[grey parrot]]
+- TODO [[minipig]]
+- TODO [[squirrels]]
 - TODO cats
-- TODO pigs
+	- siamese
+	- bengal
+	- abyssinian
+	- maine coon
+	- scottish fold
+- TODO dogs
+	- border collie
+	- poodle
+	- golden retriever
+	- siberian husky
+	- papillon
+	- belgian shepherd
+- TODO rabbits
+- interesting
+	- [[snail]]
+	- [[firefly]]
+	- [[glowworm]]
+	- [[silk spider]]
+	- [[cricket]]
+	- [[frog]]
+	- [[silk moth]]
+	- [[mealworm]]
+	- [[silkworm]]
+	- [[alpaca]]
+	- butterflies
+	- [[ostrich]]
+	- [[guinea pig]]
+- aquatics
+	- bioluminescent plankton

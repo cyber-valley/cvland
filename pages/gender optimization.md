@@ -4,7 +4,7 @@
 - simple idea to solve [sociodemgraphic collapse](https://en.wikipedia.org/wiki/Population_decline) at low scale
 - using [[gender price differentiation]] as result of [[community consensus]]
 	- powerful males agree to pay significantly more when females and in exchange enjoy [[prosperity]]
-	- smart females agree to share male and in exchange also enjoy [[prosperity]]
+	- smart females agree to share male and kids and in exchange also enjoy [[prosperity]]
 	- everyone agree on economical domination of females over males in all key areas
 - the effect suggested by research that female-biased societies, if well-managed
 	- could potentially lead to more rapid growth
@@ -102,7 +102,7 @@
 		- they may exert greater cultural and diplomatic influence on the global stage
 		- they might project an image of superiority
 		- setting trends, attracting talent, investment, and alliances
-- raising issues and their mitigation
+- raising issues and their mitigations
 	- resources availability
 		- the availability of basic resources such as
 		- [[land]], [[energy]], [[shelter]] and [[food]] plays a critical role
@@ -132,14 +132,14 @@
 		- a larger female population might lead to overdependence on social welfare systems
 		- especially if many women are single or supporting children without partners
 		- we are going to handle this using
-	- polyculture
-		- acceptance of polygamous form or relations as social norm
 	- ethical and moral considerations
+		- acceptance of polygamous form or relations as social norm
 		- the intentional manipulation of gender ratios and related social policies
 		- might raise ethical concerns, leading to resistance or backlash from certain segments of society
 	- long-term sustainability
 		- maintaining such a ratio over generations could prove challenging
 		- especially if external factors (e.g., migration, cultural shifts, economic crises) disrupt the balance
+		- so the ratio must be carefully maintained and decreased on saturation
 	- social engineering risks
 		- the level of social engineering required to maintain a stable 3:1 ratio
 		- seems to involve significant interventions in personal and societal choices,

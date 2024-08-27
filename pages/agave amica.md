@@ -1,5 +1,5 @@
 tags:: species
-alias:: tuberose
+alias:: tuberose, polianthes tuberosa, sedap malam
 
 - ![image](https://ipfs.io/ipfs/QmeHbtY1FjkSrRupo5jBXqZdMXudb2T5mGxm44UtDvqxQD)
 -
