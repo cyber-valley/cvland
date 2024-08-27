@@ -1,4 +1,4 @@
-- 1000 species on 30
+- 1000 species on on 30 ares
 - strategic supplier of [[permabase]]
 - sectors-from top to bottom
 - guilds-left to right
@@ -21,9 +21,9 @@
   query-table:: true
   query-sort-desc:: false
 	- fruits
+		- [[salacca zalacca]]
 		- [[garcinia intermedia]]
 		- [[baccaurea]]
-		- [[salacca zalacca]]
 		- [[coconut]] dwarf
 		- [[banana]] dwarf
 		- [[annona atemoya]]

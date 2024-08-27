@@ -5,4 +5,8 @@ icon:: 🌈
 - [[fungi]]
 - [[animals]]
 	- [[birds]]
+	- [[chickens]]
+	- [[sheeps]]
+	- [[cats]]
+	- [[dogs]]
 - [[species/all]]

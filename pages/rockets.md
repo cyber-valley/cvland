@@ -1,1 +1,2 @@
 - family clan
+- founders of [[citadel genesis]], [[cyber valley]]

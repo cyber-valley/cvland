@@ -22,7 +22,7 @@ icon:: 🏕️
 	- [[sensors, dev and control]]: how to automate and lead community
 - ## 30 hours of workouts for skill setting and leadership intuition
 	- all workouts assigned individually
-	- according to real operation plan of [[genesis]] construction
+	- according to real operation plan of [[citadel genesis]] construction
 	- workouts are practical: you do something useful
 	- examples of [[workouts]]
 	- you can [[do your own project]] instead of standard [[workouts]]
@@ -44,8 +44,11 @@ icon:: 🏕️
 		- calm your mind
 		- improve your health
 		- and enjoy [[quality of life]]
-	-
 	- we invite you to establish unique collaboration environment together
+- ## environment
+	- cozy tent with meals in natural and autonomous environment
+	- amazing infrastructure for kids
+	- nature everywhere
 - ## price of one tent
 	- only 5 tents will become available at launch
 	- base price of the tent during program is $1k without habitats
@@ -66,15 +69,6 @@ icon:: 🏕️
 	- 2 hour of lectures on default days
 	- 3 hours of workouts on default days
 	- traveling and evening events are optional
-- ## timeline
-	- pack the product: 1 august
-	- launch of sales: 1 september
-	- call for friends: 1 october
-	- launch of camp: 1 november
-	- [[cyberman]]: 5 november
-- ## environment
-	- cozy tent with meals in natural and autonomous environment
-	- amazing infrastructure for kids
 - ## evening events
 	- new moon party
 	- live music with fire
@@ -94,6 +88,17 @@ icon:: 🏕️
 		- ~300 plant species
 		- ~10 animal species
 		- ~50 [[bird]] species
+- ## mechanics
+	- 10 day includes lectures and workouts
+		- daily coordinanation based on real demands
+		- chosing tasks according to personal will of participants
+	- 4 days for rest and reflection => no rules apply
+	- relaxing schedule for better reflection and collaboration
+	- long term rent and ownership
+		- our purpose is to persist community
+		- we are interested in long term rent on a year basis and more
+		- let us know if you are interested after visiting us
+		- we are still find out proper model for commuinty building
 - ## faq
 	- what you get?
 		- clean state of your mind
@@ -107,16 +112,6 @@ icon:: 🏕️
 		- notebook
 		- [[list of wear]]
 		- will for change
-- ## mechanics
-	- 10 day includes lectures and workouts
-		- daily coordinanation based on real demands
-		- chosing tasks according to personal will of participants
-	- 4 days for rest and reflection => no rules apply
-	- long term rent and ownership
-		- our purpose is to persist community
-		- we are interested in long term rent on a year basis and more
-		- let us know if you are interested after visiting us
-		- we are still find out proper model for commuinty building
 - ## default day: utc time
 	- sunrise: wakeup and invest time into your body and mind
 		- [[meditation and yoga]]
@@ -139,21 +134,14 @@ icon:: 🏕️
 	- rafting on pandora: 12 hours
 	- wet west of bali: 12 hours
 	- batukaru shoot: 12 hours
-- ## memes
-  collapsed:: true
-	- heal, learn, realize
-	- try different lifestyle
-	- next level of personal autonomy
-- ## day 0: : utc time (not sure)
-	- 00:00 arrival to the moon embassy in ubud
-	- 01:00 breakfast
-	- 02:00 health check and sauna
-	- 04:00 lunch
-	- 05:00 departure on shuttle to [[cyber valley]]
-	- 08:00 [[genesis]] [[housing]]
-	- 09:00 new moon party
-	- after sunset: personal time
 - ## how to apply?
 	- sent message to @mliubov in telegram
+- ## timeline
+	- pack the product: 1 august
+	- launch of sales: 1 september
+	- call for friends: 1 october
+	- launch of camp: 1 november
+	- [[cyberman]]: 5 november
 -
 - # want less? try [[daypass]]
+- [[bootcamp/notes]]

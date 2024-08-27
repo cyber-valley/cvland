@@ -1,0 +1,44 @@
+- this is not ready yet
+-
+- pioneers
+	- [[ageratina]]: produce extensive biomass on low layer
+	- [[austroeupatorium]]: produce extensive biomass on middle layer
+	- [[brassica]]: suck mercury and cleanup from fertilization
+	- [[debregeasia]]: heavy metal extractor
+	- fast growing woody nitrogen generators
+		- [[leucaena]]: [[wood]]
+		- [[trema]]: [[wood]]
+		- [[caliandra]]: [[wood]]
+- [[australorp]]: [[meat]], [[eggs]]
+- [[trigona]]: [[honey]]
+- [[moringa]]: [[protein]], [[green]]
+- [[coffea]]: [[drinks]]
+- [[musa]]: [[fruit]], [[flour]]
+- [[persea]]: [[oil]], [[fruit]]
+- [[inga]]: [[protein]], [[fruit]]
+- [[mangifera]]: [[fruit]], [[wood]]
+- [[colocasia]]: [[starch]]
+- [[manihot]]: [[starch]]
+- [[carica]]: [[fruit]], [[green]]
+- [[morus]]: [[berry]]
+- [[camelia]]: [[drinks]]
+- [[sapindus]]: [[soap]]
+- [[phyllostachys]]: [[wood]]
+- [[rubus]]: [[berry]]
+- [[azadirachta]]
+- [[passiflora]]
+- [[magnolia]]
+- [[osmanthus]]
+- [[salvia]]: [[drinks]], [[oil]]
+- [[melissa]]: [[drinks]], [[oil]]
+- [[plumeria]]: [[medicine]] , [[oil]]
+- [[cnidoscolus]]
+- [[cocos]]
+- [[citrus]]: [[fruit]]
+- [[symphytum]]
+- [[zingiber]]
+- [[cajanus]]
+- [[olea]]
+- [[gliricidia]]
+-
+- [[genesis/forest]]
