@@ -1,0 +1,62 @@
+- ciradel genesis
+- meta
+	- better life - motivation
+	- in case of bad events - i am protected, in good case - i will live more happily and eat good food
+- did you know that you can afford autonomy and freedom by the cost of the car?
+- what do you like more? lush green forest and or high tech concrete wall?
+- well-known fact population density tightly correlates with our happiness
+- but how to build your personal autonomy? (what your personal autonomy made of?)
+- here is what your personal autonomy comprises
+	- you constantly need energy
+		- happily sun is shining and wind is blowing almost everywhere
+		- the cost of one kw/h renewable solar or wind is something ~1k$ per kw/h
+		- you need sustainable needs 3-5 kwt
+	- you need water
+		- on average 1 sq.m of land produce 0.3-3 m3 of water per year
+		- uou need ~ 50 m3 for home needs excluding gardening
+		- gather, clean it and drink it
+	- you need plants
+		- plants are amazing!
+		- they can produce everything you need
+		- food, medicine, heat, cosmetics, construction, textile and more
+- modeling demonstrates that you need 14th species on 500 m3 of land to grow everything you need
+- 100% autonomy allows you to aim your attention inside, not outside
+- existing system wouldn't let you rest
+- but autonomy is hard! you need to learn a lot
+	- how soil works
+	- how animals, shrooms and plants interact with each other
+	- you have to adapt resilient cryptographic communication protocols
+	- you have to coordinate the community way better
+- understanding that nearly everything must be build from gound up
+- lead us to a decision to move to cybervalley and start citadel genesis project
+- cybervalley located in one of the most attractive islands in the world - on Bali
+- and Bali is located in Indonesia
+	- beautiful country with the most lush nature
+	- it is the biggest islandic country in the world
+	- with a pretty straightforward relocation rule
+- cybervalley is a region up in Bali mountains
+	- with a perfect fresh climate
+	- amazing views
+	- enormous nature and biodiversity
+	- and most importantly not yet polluted with traffic
+	- with still affordable land prices
+- citadel genesis is a settlement on the 38 hectars of Cybervalley with three features
+	- sustainable infrastructure: sophisticated energy, water and communications system
+	- magic forest: forest that gives everything you need for life
+	- superintellegence: community empowered by collective intelligence
+- it's experiment, how to marry tech and nature
+- after 1 year of autonomous life
+	- we found out how to build next gen societies
+	- with help of affordable low tech solutions
+- we invite you to join this venture
+- november 1st is the beginning of eduhealth program - BOOTcamp
+- during 2 weeks you'll have
+	- 20 hours of cutting edge lectures on autonomy
+	- 30 hours of real life workouts
+	- connection to like-minded people
+	- health and mind improvements
+- bootcamp will help you to answer these questions:
+	- does autonomous life is for you?
+	- how to save time and money while moving off grid
+	- how to launch your community around the globe
+-

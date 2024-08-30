@@ -11,3 +11,4 @@
 - [[plantago]]
 - [[sapindus]]
 - [[salacca zalacca]]
+- [[pelargonium citrosum]]

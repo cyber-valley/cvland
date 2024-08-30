@@ -21,11 +21,9 @@ type:: sector
 	  collapsed:: true
 		- [[symphytum officinale]]
 	- [[inga edulis]]
-	  collapsed:: true
 		- [[lycium barbarum]]
 		- [[colocasia esculenta]]
 	- [[punica granatum]] red
-	  collapsed:: true
 		- [[calliandra calothyrsus]]
 - [[beds]]
 	- [[capsicum annuum]]

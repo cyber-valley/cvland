@@ -2,7 +2,7 @@ icon:: 🪷
 
 - tags:: cyber valley, permaculture
 - scalable, sustainable, multipurpose ecosystem regeneration
-- idea that combining just [[42 species]] in one ecosystem is very efficient form of sustainability
+- idea that combining just [[13 species]] in one ecosystem is very efficient form of sustainability
 - 1 phase: bootstrap ecosystem
 	- regenerate lifecycles
 	- building soil

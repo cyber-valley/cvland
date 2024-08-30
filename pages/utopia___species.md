@@ -1,6 +1,0 @@
-- not survived
-	- [[allium schoenoprasum]]
-	- [[ocimum tenuiflorum]]
-	- [[foeniculum vulgare]]
-	- [[tagetes patula]]
-	- [[moringa oleifera]]
