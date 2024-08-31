@@ -37,7 +37,8 @@
 		- everything you need to live a full life
 - scene 6: @master
 	- modeling shows that just 14 species on 500-1000 square meters of land
-	- can grow everything you need
+	- can grow everything you want
+	- and will supply energy and water you need
 	- this 100% autonomy allows you to focus your attention inward
 	- on what truly matters
 	- no more chasing after a system that never lets you rest
@@ -68,8 +69,17 @@
 	- we invite you to join this venture
 	- on november 1st, we begin our eduhealth program—bootcamp
 	- in just two weeks, you’ll experience
-		- 20 hours of cutting-edge lectures on autonomy
-		- 30 hours of real-life workouts
+		- 20 hours of cutting-edge lectures in 9 topics on autonomy
+			- energy and water system
+			- soil, heat and recycling
+			- biome engineering
+			- longevity and health
+			- cryptography and web3
+			- learning and ai
+			- lowtech construction
+			- sensors, dev and control
+			- token engineering
+		- mixed with 30 hours of real-life workouts
 		- connections with like-minded people
 		- and improvements to your health and mind
 - scene 12: @joy
