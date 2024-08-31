@@ -1,34 +1,48 @@
-- ciradel genesis
-- meta
-	- better life - motivation
-	- in case of bad events - i am protected, in good case - i will live more happily and eat good food
-- did you know that you can afford autonomy and freedom by the cost of the car?
-- what do you like more? lush green forest and or high tech concrete wall?
-- well-known fact population density tightly correlates with our happiness
-- but how to build your personal autonomy? (what your personal autonomy made of?)
+- imagine living on your own terms—a sanctuary not just for survival, but for a better life
+- a place where you’re protected from whatever the world throws at you,
+- and in good times, you thrive, happier and more fulfilled
+- did you know that this kind of autonomy and freedom could cost about the same as a car?
+- think about it
+- we spend so much on cars that lose value and limit us to routines
+- why not invest in a life where you control the rules, the pace, the future?
+- now, picture your ideal environment
+	- a lush, green forest where you feel deeply connected to nature
+	- or a sleek, high-tech space where innovation surrounds you
+- citadel Genesis is about choosing the life that matches your vision
+- whether it’s nature’s tranquility or a fortress of advanced technology.
+- here, you don’t just survive; you thrive
+- so, which world will you choose?
+- with Citadel Genesis, it’s up to you
+-
 - here is what your personal autonomy comprises
 	- you constantly need energy
 		- happily sun is shining and wind is blowing almost everywhere
 		- the cost of one kw/h renewable solar or wind is something ~1k$ per kw/h
-		- you need sustainable needs 3-5 kwt
+		- your needs: 3-5 kwt per hour of maximum capacity
 	- you need water
 		- on average 1 sq.m of land produce 0.3-3 m3 of water per year
-		- uou need ~ 50 m3 for home needs excluding gardening
+		- ~50 m3 for home demands excluding gardening would be enouth
 		- gather, clean it and drink it
 	- you need plants
 		- plants are amazing!
 		- they can produce everything you need
-		- food, medicine, heat, cosmetics, construction, textile and more
-- modeling demonstrates that you need 14th species on 500 m3 of land to grow everything you need
+		- food, medicine, heat, cosmetics, timber, textile and more
+- modeling demonstrates that you need just 14 species on 500-1000 m2 of land to grow everything you need
 - 100% autonomy allows you to aim your attention inside, not outside
 - existing system wouldn't let you rest
 - but autonomy is hard! you need to learn a lot
 	- how soil works
 	- how animals, shrooms and plants interact with each other
-	- you have to adapt resilient cryptographic communication protocols
 	- you have to coordinate the community way better
-- understanding that nearly everything must be build from gound up
+	- how to reliably communicate without middleman
+- your land and soft skills enables you personal autonomy
+-
+- understanding that
 - lead us to a decision to move to cybervalley and start citadel genesis project
+- we decide to reengineer nearly everything from ground up like tech tree in civilization
+- step by step we reproduce and optimize technological and cultural processes
+- to learn how to live in harmony with planet, community and yourself
+-
 - cybervalley located in one of the most attractive islands in the world - on Bali
 - and Bali is located in Indonesia
 	- beautiful country with the most lush nature
@@ -60,3 +74,117 @@
 	- how to save time and money while moving off grid
 	- how to launch your community around the globe
 -
+- scene 1
+	- visual
+		- warm, inviting visuals of people enjoying a natural, serene environment
+		- a mix of lush green forests, cozy wooden homes, and smiles. soft, inspiring background music begins
+	- voice
+		- imagine living on your own terms—
+		- a sanctuary not just for survival
+		- but for a better life
+		- a place where you’re protected from whatever the world throws at you
+		- and in good times, you don’t just live, you thrive—happier, more fulfilled
+- scene 2
+	- vision: quick cuts of people driving cars, followed by visuals of cars depreciating and losing value
+	- music: a subtle shift in music tone—more reflective
+	- voice
+		- did you know that this kind of autonomy and freedom could cost about the same as a car?
+		- think about it
+		- we spend so much on cars that lose value, locking us into routines, limiting our lives to the everyday grind
+		- but what if you could invest in a life where you control the rules, the pace, the future!
+- scene 3
+	- visual: transition to visuals of diverse environments from dense forests to sleek, futuristic homes
+	- music: rises in optimism and excitement
+	- voice
+		- now, picture your ideal environment
+		- a lush, green forest where you feel deeply connected to nature
+		- but also its a sleek, high-tech space where innovation surrounds you
+		- at citadel genesis, you choose the life that matches your vision
+		- whether it’s nature’s tranquility or a fortress of advanced technology
+		- here, you don’t just survive; you thrive
+- scene 4
+	- visual
+		- of a fork in the road, symbolic of choice
+		- then, show people making decisions
+		- building their ideal homes, growing plants, and generating energy
+	- voice
+		- so, which world will you choose? with citadel genesis, it’s up to you.
+- scene 5
+	- visual
+		- a shift to practical scenes—solar panels soaking up sunlight
+		- wind turbines turning
+		- water being collected and filtered
+		- plants growing in abundance
+	- voice
+		- your personal autonomy starts with the basics.
+		- energy?
+			- the sun is shining, and the wind is blowing,
+			- providing you with the power you need—3 to 5 kilowatts per hour
+		- water?
+			- it’s right there, gathered from the land
+			- enough to sustain your home and more
+		- and plants?
+			- they’re more than just food
+			- they give you medicine, heat, timber, textiles and advanced sensations
+			- everything you need to live a full life
+- scene 6
+	- visual: people working with plants, nurturing soil, harvesting food, and interacting harmoniously with animals
+	- voice
+		- modeling shows that just 14 species on 500-1000 square meters of land
+		- can grow everything you need
+		- this 100% autonomy allows you to focus your attention inward
+		- on what truly matters
+		- no more chasing after a system that never lets you rest
+		- but autonomy isn’t easy—it demands knowledge, skills, and community coordination
+- scene 7
+	- vision
+		- transition to cybervalley
+		- stunning views of bali’s mountains
+		- pristine nature, and vibrant biodiversity
+	- music: takes on an adventurous, hopeful tone
+	- voice
+		- that understanding led us to cybervalley
+		- and the start of citadel genesis
+		- we decided to reengineer nearly everything from the ground up
+		- like a tech tree in civilization
+		- optimizing technological and cultural processes to live in harmony
+		- with the planet, the community, and yourself
+- scene 8
+	- visuals of bali’s mountains, highlighting cybervalley’s unique features: fresh climate, amazing views, and unspoiled nature. the music becomes more grounding and peaceful
+	- voice
+		- "cybervalley is in one of the world’s most attractive islands—bali, indonesia. this beautiful, islandic country with lush nature and straightforward relocation rules. cybervalley, up in bali’s mountains, offers the perfect climate, stunning views, enormous biodiversity, and still affordable land."
+- scene 9
+	- visual: citadel genesis settlement: a blend of sustainable infrastructure, lush forests, and a thriving community
+	- music: swells with pride and accomplishment
+	- voice
+	- "citadel genesis is a 38-hectare settlement in cybervalley, featuring sustainable infrastructure, a magic forest that provides everything you need, and a community empowered by superintelligence. it’s an experiment in marrying tech with nature. and after just one year of autonomous life, we’ve discovered how to build the next generation of societies—with affordable, low-tech solutions."
+- scene 10
+	- visual:
+		- people joining the community, working together, and enjoying the fruits of their labor
+	- music: becomes inviting and encouraging
+	- voice
+		- we invite you to join this venture
+		- on november 1st, we begin our eduhealth program—bootcamp
+		- in just two weeks, you’ll experience
+			- 20 hours of cutting-edge lectures on autonomy
+			- 30 hours of real-life workouts
+			- connections with like-minded people
+			- and improvements to your health and mind
+- scene 11
+	- visual
+		- bootcamp in action—people learning, exercising, and engaging in deep discussions
+		- the music reaches a crescendo, inspiring action
+	- voice
+		- bootcamp will help you answer these crucial questions:
+		- is autonomous life for you?
+		- how can you save time and money while moving off-grid?
+		- and how do you launch your own community anywhere in the world?
+- scene 12
+	- visual
+		- final scene—people standing together in the settlement
+		- looking out over the beautiful landscape, united and ready for the future
+		- the music softly fades out, leaving a feeling of peace and determination
+	- voice
+		- with citadel genesis, the choice is yours
+		- take control
+		- create the life you’ve always imagined
