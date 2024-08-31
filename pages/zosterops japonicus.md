@@ -2,7 +2,7 @@ tags:: birds
 alias:: warbling white-eye
 
 - voice:: https://ebird.org/species/warwhe1
-- ![image](https://ipfs.io/ipfs/QmPJVp7P3sBxM8CxdBQZy7Wwxdy3Tytb7KCko1iMhFC6hx)
+- ![image](https://ipfs.io/ipfs/QmZSCJbc1fSWhxmyZPoUN1iHt3ark1PGyBRpwSMCefjXpU)
 - ![image](https://ipfs.io/ipfs/QmRGcVLWuW52RjQijKU53d18Y2SN5GnCooff2mXRFSa7rD)
 - general description
 	- appearance
@@ -41,5 +41,5 @@ alias:: warbling white-eye
 	- listed as least concern by the iucn due to its wide range and stable population.
 - interesting facts
 	- the japanese white-eye is a highly adaptable species and has successfully established populations in a variety of non-native habitats, sometimes competing with local bird species.
-	- its role as a pollinator makes it an important species in maintaining the health of its ecosystem.
+	- its role as a [[polinator]] makes it an important species in maintaining the health of its ecosystem.
 	- the bird's bright plumage and active, social behavior make it a popular subject for birdwatchers and nature enthusiasts.
