@@ -69,8 +69,9 @@
 	- we invite you to join this venture
 	- on november 1st, we begin our eduhealth program—bootcamp
 	- in just two weeks, you’ll experience
-		- 20 hours of cutting-edge lectures in 9 topics on autonomy
-			- energy and water system
+		- 20 hours of cutting-edge lectures in 10 topics on autonomy
+			- energy systems
+			- water systems
 			- soil, heat and recycling
 			- biome engineering
 			- longevity and health
