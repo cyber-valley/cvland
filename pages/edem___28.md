@@ -12,7 +12,7 @@ type:: sector
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 04:47:09]--[2024-04-26 Fri 07:32:14] =>  02:45:05
   :END:
-- [[anacardium occidentale]]
+- DONE [[anacardium occidentale]]
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:29:57]--[2024-04-26 Fri 07:56:50] =>  01:26:53
   :END:
