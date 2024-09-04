@@ -19,7 +19,7 @@ alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil
 	- **root**: inga edulis roots are known for their ability to fix [[nitrogen]] in the soil, which improves soil [[fertility]] . they are also used in traditional medicine for their [[anti-inflammatory]] properties.
 	- **stem**: the stem of inga edulis provides strong and durable timber that is used for construction, making [[furniture]] , and crafting various wooden items. the wood is also a good source of [[fuel]] when dried.
 	- **fruit**: the fruit of inga edulis is a long pod containing sweet, edible pulp around the seeds. the pulp is consumed fresh and is a popular snack in regions where the tree grows.
-	- **leaf**: inga edulis leaves can be used as green [[manure]] or [[mulch]] , enriching the soil with [[nitrogen]] and organic matter. they are also used in traditional medicine to treat various ailments.
+	- **leaf**: inga edulis leaves can be used as green [[manure]] or [[mulch]] , enriching the [[soil]] with [[nitrogen]] and [[organic]] matter. they are also used in [[traditional medicine]] to [[treat]] various ailments.
 	- **bark**: the bark has medicinal properties and is used in traditional remedies to treat skin conditions and digestive issues.
 	- **flower**: the flowers of inga edulis are not commonly used directly for any products but are important for attracting pollinators, which helps maintain biodiversity in the ecosystem.
 - #### uses of inga edulis
@@ -33,7 +33,7 @@ alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil
 	- **sun requirements**: inga edulis requires full sun to thrive.
 	- **water requirements**: it prefers moist, well-drained soils and requires regular watering, especially during dry periods.
 	- **soil ph**: it grows best in slightly acidic to neutral soils, with a ph range of 5.5 to 7.0.
-	- **plant/roles in permaculture guilds**: inga edulis plays a vital role in [[permaculture]] systems due to its [[nitrogen-fixing]] ability, which enriches the soil and benefits neighboring plants. it also provides shade, which can be useful for underplanting [[shade-tolerant]] species, and its fallen leaves contribute to organic matter and soil [[fertility]] . its flowers [[attracts pollinators]] , supporting [[biodiversity]] in the guild.
+	- **plant/roles in permaculture guilds**: inga edulis plays a vital role in [[permaculture]] systems due to its [[nitrogen-fixing]] ability, which enriches the soil and benefits neighboring plants. it also provides shade, which can be useful for underplanting [[shade-tolerant]] species, and its fallen leaves contribute to organic matter and soil [[fertility]] . its flowers [[attract pollinators]] , supporting [[biodiversity]] in the guild.
 	- **height in meters**: inga edulis can grow up to 30 meters tall, although it is often found at heights of 15-20 meters.
 	- **spacing in meters**: trees should be spaced about 8-10 meters apart to allow sufficient room for growth and root expansion.
 	- **germination days**: seeds typically germinate in 7-10 days under optimal conditions.
@@ -59,4 +59,4 @@ alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil
   | phenolic compounds| roots      | 1-3%        | act as [[antioxidants]] and reduce [[oxidative]] stress and [[inflammation]] . |
   | proteins          | seeds      | 20-25%      | provide a valuable source of nutrition, especially in [[protein]]-rich diets. |
   | fats and oils     | seeds      | 5-10%       | contain [[essential]] fatty acids and oils important for overall health. |
-  | nectar            | flowers    | variable (depends on environmental factors) | [[attracts pollinators]] and varies based on environmental factors; contains [[sugars]] and [[trace compounds]] . |
+  | nectar            | flowers    | variable (depends on environmental factors) | [[attract pollinators]] and varies based on environmental factors; contains [[sugars]] and [[trace compounds]] . |

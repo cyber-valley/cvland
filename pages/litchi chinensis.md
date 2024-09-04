@@ -28,7 +28,7 @@ alias:: litchi chinensis
 	- **sun requirements**: [[full sun]] to [[partial shade]].
 	- **water requirements**: [[regular watering]], prefers moist but well-drained soil.
 	- **soil ph**: [[slightly acidic]] to neutral (5.5 - 7.0).
-	- **plant/roles in permaculture guilds**: provides shade and [[attracts pollinators]].
+	- **plant/roles in permaculture guilds**: provides shade and [[attract pollinators]].
 	- **spacing in meter**: typically 6-10 meters apart.
 	- **germination days**: seeds typically germinate in 7-10 days.
 	- **strata**: [[mid canopy]] to [[upper canopy]].
