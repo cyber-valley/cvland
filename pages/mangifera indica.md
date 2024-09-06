@@ -9,18 +9,17 @@ alias:: indian mango, mango, mangga
 - [wiki](https://en.wikipedia.org/wiki/Mangifera_indica)
 - [info](http://www.plantsofasia.com/index/mangifera_indica/0-481)
 - [tokopedia](https://www.tokopedia.com/wijaya-agro/bibit-mangga-mahatir-mangifera-indica?extParam=ivf%3Dfalse%26src%3Dsearch)
-- products
-	- [[fruit]]
 - ### review of mangifera indica
 	- mangifera indica, commonly known as the mango tree, is a tropical tree widely cultivated for its delicious [[fruit]]. it is native to south asia, particularly india, but is now grown in many tropical and subtropical regions worldwide.
 - #### parts of the plant and their uses
+- #### products
 	- **root**: the roots of mangifera indica are mainly used in [[traditional medicine]]. they are believed to have [[astringent]] and [[tonic properties]] and are used to treat [[diarrhea]] , [[dysentery]] , and other [[digestive issues]].
 	- **stem**: the stem or trunk of the mango tree is a source of [[durable]] [[timber]] , used for making [[furniture]] , flooring, and construction materials. the wood is resistant to pests and has a fine grain, making it desirable for woodworking.
-	- **fruit**: the mango fruit is the most valuable product of mangifera indica. it is eaten fresh or processed into [[juices]] , jams, pickles, and dried snacks. mangoes are rich in [[vitamin a]] and [[vitamin c]], as well as [[fiber]], [[antioxidants]] , and various [[minerals]].
+	- [[fruit]] : the mango fruit is the most valuable product of mangifera indica. it is eaten fresh or processed into [[juices]] , jams, pickles, and dried snacks. mangoes are rich in [[vitamin a]] and [[vitamin c]], as well as [[fiber]], [[antioxidants]] , and various [[minerals]].
 	- **leaf**: mango leaves are used in [[traditional medicine]] for their [[antibacterial]], [[anti-inflammatory]] , and [[antioxidant]] properties. they are also used in cultural and religious ceremonies, especially in indian and southeast asian traditions.
 	- **bark**: the bark of the mango tree contains [[tannins]] and other [[compounds]] that have [[astringent]] and [[anti-inflammatory]] properties. it is used in traditional [[remedies]] for treating sore [[throats]], [[diarrhea]] , and [[skin diseases]] .
 	- **flower**: mango flowers are small, [[fragrant]], and have limited direct use. however, they are crucial for [[pollination]] and fruit development. in some cultures, they are used in [[traditional medicine]] to treat [[respiratory ailments]] .
-- #### uses of mangifera indica
+- #### uses
 	- **plants/fruits**: mango fruits are consumed fresh or processed into various products like juices, jams, and pickles.
 	- **plants/greens**: young [[mango]] leaves are sometimes used in salads or as garnishes.
 	- **plants/timber**: the [[wood]] from the [[mango]] tree is used in making [[furniture]] , [[construction materials]] , and various [[wooden]] items.
@@ -32,7 +31,7 @@ alias:: indian mango, mango, mangga
 	- **water requirements**: they prefer [[well-drained]] [[soil]] with moderate watering. young trees need regular watering, while mature trees are relatively [[drought-tolerant]] .
 	- **soil ph**: mango trees grow best in slightly acidic to neutral soils, with a ph range of 5.5 to 7.5.
 	- **plant/roles in permaculture guilds**: in [[permaculture]], [[mangifera indica]] serves as an overstory tree, providing [[shade]] and [[shelter]] for understory plants. its deep roots help stabilize the soil, while its fallen leaves improve [[soil fertility]] through natural [[mulch]] ing . mango trees also attract beneficial insects and birds, promoting biodiversity. they are often planted with nitrogen-fixing plants like legumes to enhance [[soil fertility]] .
-	- **height in meters**: [[mango]] trees can grow up to 35-40 meters tall, but they are often pruned to a height of 10-15 meters to facilitate easier harvesting.
+	- **height in meters**: [[mango]] trees can grow up to 35-40 [[meters]] tall, but they are often pruned to a height of 10-15 [[meters]] to facilitate easier harvesting.
 	- **spacing in meters**: [[mango]] trees should be spaced 8-10 meters apart to ensure adequate growth space and air circulation.
 	- **germination days**: [[mango seeds]] typically take 7-14 days to germinate under optimal conditions.
 	- **strata**: [[mangifera indica]] is considered an overstory tree in [[agroforestry systems]] , providing [[canopy]] cover and [[shade]] for other plants.

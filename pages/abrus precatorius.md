@@ -2,8 +2,6 @@ alias:: saga rambat, rosary pea, jequirity bean
 tags:: species
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmaMeMMzfZzYt5sUn6wBEFxSv8wtRuBSLG6yZLAvM9yZ3n)
-- native: tropical and subtropical regions
-- highly toxic plant, particularly its seeds, which contain the poison abrin, type 2 ribosome-inactivating protein (RIP) that inhibits protein synthesis, leading to cell death. [[seeds]] are more poisonous than [[ricinus communis]]
 - wiki:: [abrus_precatorius.pdf](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmU3yg2MFujJZTdeEmecgV1xmPvS2TAKKrKKJNAaFefyc7)
 - ### abrus precatorius review
 - native: tropical and subtropical regions, highly toxic plant, particularly its seeds, which contain the poison [[abrin]], type 2 ribosome-inactivating protein (RIP) that inhibits protein synthesis, leading to cell death. [[seeds]] are more poisonous than [[ricinus communis]]
