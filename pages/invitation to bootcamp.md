@@ -85,7 +85,7 @@
 		- and improvements to your health and mind
 - scene 12: @joy
 	- during the bootcamp, you’ll enjoy the comforts of full autonomy
-	- stay in fully equipped, autonomous tents designed for sustainability and ease
+	- stay in fully equipped tents designed for sustainability and ease
 	- you’ll have everything you need — from cozy bedding to all the amenities
 	- we’ll also provide nourishing
 	- organic meals sourced from the surrounding environment
