@@ -1,2 +1,3 @@
-- family clan
+- family clan established by [[@master]] and [[@joy]]
 - founders of [[citadel genesis]], [[cyber valley]]
+-

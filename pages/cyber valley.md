@@ -4,27 +4,33 @@ alias:: cv
 - geographical area in north mountains of [[bali]] [[indonesia]]
 - between [[batuka]] natural reserve and [[bali sea]] of pacific ocean
 -
-- Hi! We a [[@master]] and [[@joy]]
+- hi everyone!
+- we a [[rockets]]!
 -
 - we are building autonomous community in bali mountains on ~39 ha
 - we settled in cyber valley 1 year ago to learn how to live autonomously
-- once we learned we decide to create this knowledge graph on autonomy
+- once we learned some we decide to create this knowledge graph on autonomy
 -
-- the purpose of this book is to help you build your autonomous community everywhere!
+- we hope this book will help you build your autonomous community everywhere!
+-
 - with such knowledge
 	- you can establish very comfortable independent life
 	- in the most beautiful places on earth
 	- at extremely low cost which can be less when price of average car
 -
-- if you are interested in practical experience we launch [[bootcamp]] on november 1
+- if you are interested in practical experience we launch [[bootcamp]] training on November 1
 	- 2 week intensive training
 	- 10 days of complete offline
-	- theory, mentorship and participation in real process
+	- theory, mentorship and participation in real process of [[citadel genesis]] construction
+	- camp is limited to 5 tents
+-
+- ## you can [[visit us]]
 -
 - ## districts of cyber valley
-	- [[citadel genesis]]:  building autonomous community on 20 ha
+	- [[citadel genesis]]:  building autonomous community on 22 ha
 	- [[bridge]]:  7 ha public [[magic forest]] with residential estate and light commerce
-	- [[canyon]]: 12 ha street of commerce and clean small industry
+	- [[canyon]]: 10 ha street of green commerce and clean small industry
+-
 - ## why
 	- we live in an amazing time when people, tech, and nature can work together
 	- for the betterment of our planet and civilization
@@ -41,7 +47,6 @@ alias:: cv
 	- all we do, must add to the planet, not exploit it
 	- so we have decided to reclaim responsibility for our future to create a happier, longer, and more fulfilling life
 - ## status
-	- we are [master](https://cyb.ai/@master) and [joy](https://cyb.ai/@joy) [[rockets]]
 	- we began this project in 2021 by acquiring land in one of the most beautiful and pristine locations in Bali
 	- since then we have consolidated ~39 ha of land at the foot of [Sanghyang volcano](https://maps.app.goo.gl/CdD8vRYHrWkpTGYj6)
 	- we built the first completely offgrid home in the region and moved here in July 2023.
@@ -51,15 +56,11 @@ alias:: cv
 	  
 	  > Outstanding environment for planet aware people 🖖 to live and prosper
 - ## sharing is caring
-	- everything we learn we publish in [logseq](https://logseq.com/) knowledge graph notation at [cv.land](https://cv.land)
-	- we believe this knowledge and experience will help you establish sustainable [[network state]] or [[autonomous startup]] society
+	- everything we learn we publish in [logseq](https://logseq.com/) knowledge graph notation at [cv.land](https://cv.land) and [github](https://github.com/cyber-valley)
+	- we believe this knowledge and experience will help you establish sustainable [[network state]] or [[autonomous startup society]]
 - ## future
 	- several amazing people and leading bali entrepreneurs have been independently joined the project immediately making it not only one of the biggest Bali developments, but unique on the global scale
 	- the decentralized nature and philosophy behind the project, favorable climate for relocation to Indonesia, coupled with affordable land, and an unbelievable environment, will likely make Cyber Valley the leading development in Bali and the foundation of a global movement in the coming years.
-	- we are going to marry tech and nature here doing our best to avoid repeating the development mistakes of our predecessors.
-	- in november 1 we are going to launch [[bootcamp]]
-		- 2 week eduhealth program
-		- for people who want to do the same as us
-		- connect with nature and planet without sacrifice of civilization goodness
+	- we are going to marry tech and nature here doing our best to avoid repeating the development mistakes of our predecessors
 -
 - ## join us in this beautiful endeavor, no matter where you want to live

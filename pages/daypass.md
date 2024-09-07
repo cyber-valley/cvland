@@ -1,5 +1,5 @@
 icon:: 🧀
-alias:: day pass
+alias:: day pass, visit us
 
 - starts on 5 of november
 - 10 daily visits target
