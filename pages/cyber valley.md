@@ -13,10 +13,11 @@ alias:: cv
 -
 - we hope this book will help you build your autonomous community everywhere!
 -
-- with such knowledge
-	- you can establish very comfortable independent life
-	- in the most beautiful places on earth
-	- at extremely low cost which can be less when price of average car
+- ## dive into [[sytech]]: practical philosophy of autonomy
+-
+- we hope the knowledge help you establish very comfortable independent life
+- in the most beautiful places on earth
+- at extremely low cost which can be less when price of average car
 -
 - if you are interested in practical experience we launch [[bootcamp]] training on November 1
 	- 2 week intensive training
