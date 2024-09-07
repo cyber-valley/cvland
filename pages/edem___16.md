@@ -11,7 +11,7 @@ type:: sector
 - [[juniperus virginiana]]
 - [[prunus domestica]]
 - [[syzygium samarangence]]
-- [[syzygium samarangence]] jamaica
+- DONE [[syzygium samarangence]] jamaica
 - [[eugenia uniflora]]
 - [[pyrus communis]]
 - [[ficus carica]]
@@ -26,8 +26,8 @@ type:: sector
 - [[eriobotrya japonica]]
 - [[psidium guajava]] crystal
 - [[malus pumila]]
-- [[caliandra houstoniana]]
-- [[caliandra houstoniana]]
+- [[calliandra calothyrsus]]
+- [[calliandra calothyrsus]]
 - [[trema orientalis]]
 - [[melastoma malabathricum]]
 - [[averrhoa carambola]]

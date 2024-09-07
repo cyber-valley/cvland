@@ -6,7 +6,7 @@ icon:: ♻️
 -
 - we are building autonomous community in bali mountains on ~40 ha
 - we settled here 1 year ago to learn how to live autonomously
-- think of this knowledge graph is a book
+- think of this knowledge graph as a book with deep linking
 - that summarize our experience on this way
 -
 - it is young, but improving fast

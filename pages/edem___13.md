@@ -19,4 +19,3 @@ type:: sector
 - [[azadirachta indica]]
 - [[melaleuca viminalis]]
 - [[plinia cauliflora]]
-- [[carica papaya]]: 3

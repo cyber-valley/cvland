@@ -9,7 +9,6 @@ type:: sector
 - [[calliandra tergemina]]
 - [[breynia disticha]]
 - [[murraya paniculata]]
-- [[talinum fruticosum]]
 - [[ixora coccinea]]
 - [[xanthostemon chrysanthus]] [[guild]]
 - [[brunfelsia uniflora]] [[guild]]

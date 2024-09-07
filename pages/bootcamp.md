@@ -1,6 +1,6 @@
 icon:: 🏕️
 
-- 14 day educational program
+- 14 day eduhealth program
 - for creators of autonomous societies and network states
 - place: [[citadel genesis]], [[cyber valley]], [[bali]]
 - starts on the new and full moon
@@ -20,6 +20,7 @@ icon:: 🏕️
 	- [[learning and ai]]: knowledge graphs and prompt engineering basics
 	- [[lowtech construction]]: building fast and cheap
 	- [[sensors, dev and control]]: how to automate and lead community
+	- [[token engineering]]: sustainable and efficient models for regulation and growth
 - ## 30 hours of workouts for skill setting and leadership intuition
 	- all workouts assigned individually
 	- according to real operation plan of [[citadel genesis]] construction

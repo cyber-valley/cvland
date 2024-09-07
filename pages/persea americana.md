@@ -17,6 +17,8 @@ alias:: avocado, alpukat
 - [info](https://wikifarmer.com/all-avocado-varieties-explained-characteristics-and-advantages/)
 - ![How many types of avocados are there in California, USA? How do they taste  compared to Mexican avocados (tucumans)? - Quora](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmWNWJWq1GrdgeHdgWF2JJjH1A2x1P5LPGGovooEManLeM)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmNfvEyBAzteDte8VnY2sCEjYo5th1ZzRbpSYYz3FtxyHy)
+- {{video https://www.youtube.com/watch?v=k50-f74LUfI}}
+- {{video https://www.youtube.com/watch?v=rwc_WeASo2E}}
 - optical observations
 	- The change of color of the pile:
 	- in dark varieties like Hass from green to black-purple

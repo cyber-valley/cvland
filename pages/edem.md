@@ -5,7 +5,7 @@
 - [[edem/guilds]] left to right
 -
 - DONE [[plants/research]] available in indonesia
-- TODO establish [[13 species]] everywhere
+- TODO establish [[14 species]] everywhere
 - TODO identify major [[plants]]
 - TODO species description
 - TODO mapping of plants
@@ -102,17 +102,18 @@
 	- TODO [[actinidia]]
 	- TODO [[bouea macrophylla]]
 - greens, vitamins and vegies
+	- [[talinum fruticosum]]
 	- [[rumex]]
+	- [[aubergine]]
 	- [[hibiscus sabdariffa]]
 	- [[allium sativum]]
-	- [[aubergine]]
 	- [[breynia androgyna]]
+	- TODO [[asparagus]]
 	- TODO [[gynura procumbens]]
 	- TODO [[brassica oleracea]]
 	- TODO [[portulaca oleracea]]
 	- TODO [[rheum rhabarbarum]]
 	- TODO [[allium tuberosum]]
-	- TODO [[asparagus]]
 	- TODO [[diplazium esculentum]]
 	- TODO [[cynometra cauliflora]]
 - fragrance and polination

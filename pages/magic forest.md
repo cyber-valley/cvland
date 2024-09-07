@@ -2,34 +2,15 @@ icon:: 🪷
 
 - tags:: cyber valley, permaculture
 - scalable, sustainable, multipurpose ecosystem regeneration
-- idea that combining just [[13 species]] in one ecosystem is very efficient form of sustainability
-- 1 phase: bootstrap ecosystem
+- idea that combining thoughtful set of species in one ecosystem is very efficient form of sustainability
+- 1 phase: bootstrap ecosystem [[14 species]]
 	- regenerate lifecycles
 	- building soil
 	- develops in several years
 	- [[magic forest/species]]
-- 2 phase: increase biodiversity
+- 2 phase: increase biodiversity [[42 species]]
 	- [[aquatics development]]
 	- more plant, animal and fungi species
 	- from [[forest]] and from [[lab]]
-- 3 phase: sustaining ecosystem
-- phase 1 [[products]]
-	- basic [[food]]
-		- fruits: [[banana]], [[avocado]], [[inga]], [[markiza]]
-		- tubers: [[taro]], [[cassava]]
-		- berries: [[raspberry]], [[rubus]], [[coffea]],
-		- legumes: [[inga]]
-		- greens:
-		- grains: [[sorghum]]
-		- chicken [[eggs]] and [[meat]]
-		- [[honey]]
-		- [[shrooms]]
-	- verity of [[wood]]: [[bamboo]], [[albizia chinensis]], [[trema orientalis]]
-	- source of energy: up to 100 tons of [[biomass]] per year from 1 ha [[cenchrus purpureus]]
-	- essential medicine: [[zingiber officinale]], [[melastoma malabathricum]], [[plantago]], [[plumeria]]
-	- self improvements
-		- green manure: [[austroeupatorium inulifolium]], [[ageratina riparia]]
-		- [[biochar]] for outstanding [[soil]] fertility
-		- organic fertilizers: [[symphytum officinale]], [[vervian]], [[chicken manure]]
-		- feedstock for other animals: [[lucerne]], [[clover]], [[cenchrus purpureus]]
-		- extraction of heavy metals from [[soil]]: [[debregeasia longifolia]], [[melastoma malabathricum]], [[brassica juncea]]
+- 3 phase: sustaining ecosystem and maximize species
+- [[toolset]] for magic forest

@@ -9,12 +9,7 @@ tags:: species, class
 	- TODO [[grey parrot]]
 - TODO [[minipig]]
 - TODO [[squirrels]]
-- TODO cats
-	- siamese
-	- bengal
-	- abyssinian
-	- maine coon
-	- scottish fold
+- TODO [[cats]]
 - TODO dogs
 	- border collie
 	- poodle
