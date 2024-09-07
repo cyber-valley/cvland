@@ -128,7 +128,7 @@
  ;; If `:sidebar` remains unset, the right sidebar will stay hidden.
  ;; Examples:
  ;; 1. Set "Changelog" as the home page and display "Contents" in the right sidebar:
- :default-home {:page "cv"}
+ :default-home {:page "cyber valley"}
  ;; 2. Set "Jun 3rd, 2021" as the home page without the right sidebar:
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:

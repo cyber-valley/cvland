@@ -2,26 +2,7 @@ icon:: ♻️
 
 - welcome to the autonomy and sustainability knowledge graph
 - created by [[rockets]]
-- for [[citadel genesis]] district of [[cyber valley]]
--
-- we are building autonomous community in bali mountains on ~40 ha
-- we settled here 1 year ago to learn how to live autonomously
-- think of this knowledge graph as a book with deep linking
-- that summarize our experience on this way
--
-- it is young, but improving fast
-- you can make it better
--
-- the purpose of this book is to help you build your autonomous community everywhere!
-- with such knowledge
-	- you can establish very comfortable independent life
-	- in the most beautiful places on earth
-	- at extremely low cost which can be less when price of average car
--
-- if you are interested in practical experience we launch [[bootcamp]] in november
-	- 2 week intensive training
-	- 10 days of complete offline
-	- theory, mentorship and participation in real process
+- for [[cyber valley]]
 -
 - what is sytech?
 	- sytech is rooted to [[philosophy of harmonious complexity]]
