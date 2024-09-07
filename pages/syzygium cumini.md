@@ -10,27 +10,27 @@ alias:: black plum, damson plum, jambolan plum, java plum, jamun
 - products
 	- [[fruit]]
 - ### review of the syzygium cumini
-	- syzygium cumini, commonly known as the java plum, black plum, or jamun, is a tropical evergreen tree native to the indian subcontinent and southeast asia. it is widely cultivated for its fruit, which is known for its distinctive color and taste. the tree is valued for its various uses in food, medicine, and landscaping.
+	- tropical [[evergreen tree]] native to the indian subcontinent and southeast asia. it is widely cultivated for its [[fruit]] , which is known for its distinctive color and [[taste]]. the tree is valued for its various uses in [[food]], [[medicine]], and [[landscaping]].
 - #### parts of the plant and their uses
 - #### products
-	- **root**: the roots of syzygium cumini are sometimes used in traditional medicine. they are believed to have astringent properties and are used to treat digestive disorders and manage blood sugar levels.
-	- **stem**: the stem or trunk of the java plum tree provides strong and durable timber. the wood is resistant to water and insects, making it suitable for construction, furniture, and other wooden items.
-	- **fruit**: the fruit of syzygium cumini is small, oval-shaped, and deep purple to black when ripe. it is known for its sweet and slightly tangy flavor. the fruit is consumed fresh or processed into juices, jams, jellies, and wine. it is also used in traditional medicine for its antidiabetic properties.
-	- **leaf**: the leaves of syzygium cumini are used in traditional medicine for their anti-inflammatory, antibacterial, and antidiabetic properties. they are also used as fodder for livestock in some regions.
-	- **bark**: the bark of the java plum tree contains tannins and other compounds with astringent and antimicrobial properties. it is used in traditional remedies to treat diarrhea, dysentery, and skin conditions.
+	- **root**: the roots of syzygium cumini are sometimes used in [[traditional medicine]]. they are believed to have [[astringent]] properties and are used to treat [[digestive]] disorders and manage [[blood sugar]] levels.
+	- **stem**: the stem or trunk of the java plum tree provides strong and durable [[timber]]. the [[wood]] is [[resistance to water and insects]], making it suitable for [[construction]], [[furniture]], and other [[wooden items]].
+	- **fruit**: small, oval-shaped, and deep purple to black when ripe. it is known for its [[sweet]] and slightly tangy flavor. the fruit is consumed fresh or processed into [[juices]], [[jams]], jellies, and [[wine]]. it is also used in [[traditional medicine]] for its [[antidiabetic]] properties.
+	- **leaf**: the leaves of syzygium cumini are used in [[traditional medicine]] for their [[anti-inflammatory]], [[antibacterial]], and [[antidiabetic]] properties. used as [[fodder]] for livestock in some regions.
+	- **bark**: the bark of the java plum tree contains [[tannins]] and other compounds with [[astringent]] and [[antimicrobial]] properties. it is used in traditional remedies to treat [[diarrhea]], [[dysentery]], and [[skin conditions]] .
 	- **flower**: the flowers of syzygium cumini are small, white, and fragrant. they are important for [[pollination]] and fruit development and are sometimes used in traditional remedies for [[respiratory issues]].
 - #### uses
 	- **plants/fruits**: the fruit is eaten fresh or processed into various products like juices, jams, jellies, and wine.
-	- **plants/greens**: the leaves are sometimes used as animal fodder and in [[traditional medicine]] .
-	- **plants/timber**: the wood from the java plum tree is used in making [[furniture]], [[construction materials]], and various [[wooden]] items due to its durability and [[resistance]] to water and [[insects]] .
+	- **plants/greens**: the leaves are sometimes used as animal [[fodder]] and in [[traditional medicine]] .
+	- **plants/timber**: the wood from the java plum tree is used in making [[furniture]], [[construction materials]], and various [[wooden]] items due to its durability and [[resistance to water and insects]].
 	- **plants/medicine**: different parts of the java plum tree, including leaves, bark, seeds, and fruit, are used in [[traditional medicine]] for their [[antidiabetic]], [[antibacterial]], and [[anti-inflammatory]] properties.
-	- **plants/fuel**: dried wood and leaves of syzygium cumini are used as firewood and fuel for cooking.
-	- **plants/fertilizer**: fallen leaves decompose and add organic matter to the soil, enhancing soil fertility.
+	- **plants/fuel**: dried [[wood]] and leaves of syzygium cumini are used as [[firewood]] and [[fuel]] for cooking.
+	- **plants/fertilizer**: fallen leaves decompose and add organic matter to the [[soil]] , enhancing soil [[fertility]].
 - **data:**
 	- **sun requirements**: syzygium cumini prefers [[full sun]] to [[partial shade]] for optimal growth and [[fruit]] production.
-	- **water requirements**: it thrives in [[well-drained]] [[soil]] with moderate to high moisture levels. the tree is relatively [[drought-tolerant]] but performs best with regular watering, especially during the [[dry season]] .
+	- **water requirements**: it thrives in [[well-drained]] [[soil]] with moderate to high moisture levels. the tree is relatively [[drought-tolerant]] but performs best with regular watering, especially during the [[dry season]].
 	- **soil ph**: the java plum tree grows best in [[slightly acidic]] to [[neutral soils]], with a ph range of 5.5 to 7.5.
-	- **plant/roles in permaculture guilds**: in [[permaculture]], syzygium cumini can be used as a [[canopy tree]], providing [[shade]] and [[shelter]] for understory plants. its [[dense foliage]] helps [[reduce soil erosion]] , while its leaves contribute organic matter to the soil. the tree also [[attracts pollinators]] and other beneficial insects, supporting ecosystem health. it can be paired with nitrogen-fixing plants and other fruit trees to create a diverse and productive guild.
+	- **plant/roles in permaculture guilds**: in [[permaculture]], syzygium cumini can be used as a [[canopy tree]], providing [[shade]] and [[shelter]] for understory plants. its [[dense foliage]] helps [[reduce soil erosion]] , while its leaves contribute organic matter to the soil. the tree also [[attract pollinators]] and other beneficial insects, supporting ecosystem health. it can be paired with [[nitrogen-fixing]] plants and other fruit trees to create a diverse and productive guild.
 	- **height in meters**: java plum trees can grow up to 30 meters tall, but they are often maintained at 10-15 meters for easier harvesting and management.
 	- **spacing in meters**: trees should be spaced 8-10 meters apart to ensure sufficient room for growth and air circulation.
 	- **germination days**: seeds typically take 10-15 days to germinate under optimal conditions.
@@ -40,20 +40,20 @@ alias:: black plum, damson plum, jambolan plum, java plum, jamun
 		- planting is best done at the beginning of the [[rainy season]] to ensure good establishment.
 		- pruning can be done [[annually]] to maintain tree shape and promote healthy growth.
 		- flowering typically occurs in [[late spring]] to [[early summer]], with fruit ripening in mid to [[late summer]] .
-	- **good neighbors**: good companion plants for syzygium cumini include nitrogen-fixing plants like legumes, ground covers that help retain soil moisture, and herbs or flowers that attract pollinators.
+	- **good neighbors**: good companion plants for syzygium cumini include [[nitrogen-fixing]] plants like [[legumes]], ground covers that help retain [[soil]] moisture, and herbs or flowers that [[attract pollinators]].
 	- **bad neighbors**: java plum trees should not be planted near [[crops]] that require [[full sunlight]] for optimal growth, as their dense [[canopy]] can create too much [[shade]]. they should also be kept away from plants susceptible to the same [[pests]] and [[diseases]].
 - ### chemical compounds
 - | chemical compound       | plant part              | amount (%)        | description |
   |-------------------------|-------------------------|-------------------|-------------|
-  | tannins                 | bark, leaves, fruit     | 10-20%            | [[tannins]] have [[astringent]] properties and are used in [[traditional medicine]] to treat [[diarrhea]], [[dysentery]], and [[skin conditions]]. they also contribute to the [[antioxidant]] activity of the plant. |
-  | anthocyanins            | fruit                   | 0.1-1%            | [[anthocyanins]] are [[pigments]] responsible for the deep purple to black color of the fruit. they have [[antioxidant]] properties and contribute to the fruit's [[health benefits]]. |
-  | flavonoids              | leaves, bark, fruit     | 5-10%             | [[flavonoids]] are [[antioxidant]] with [[anti-inflammatory]] and [[antidiabetic]] properties, beneficial in traditional remedies for [[various ailments]]. |
-  | [[ellagic acid]] | leaves, bark, fruit     | 1-5%              | [[ellagic acid]] is a [[polyphenolic]] compound with [[antioxidants]] , [[anti-inflammatory]], and [[antimicrobial]] properties. it is often used in medicinal preparations. |
-  | [[oleanolic acid]] | leaves, fruit           | 0.5-2%            | [[oleanolic acid]] is a triterpenoid with anti-inflammatory, antidiabetic, and hepatoprotective properties, contributing to the plant's medicinal use. |
-  | [[gallic acid]] | leaves, fruit           | 0.5-1%            | [[gallic acid]] is a [[phenolic acid]] with [[antioxidant]] and antimicrobial properties, used in [[traditional medicine]] for treating [[various conditions]]. |
-  | [[jambosine]] | seeds, fruit            | trace to 0.5%     | [[jambosine]] is an [[alkaloids]] found in syzygium cumini that has been studied for its potential [[antidiabetic]] effects, particularly in lowering [[blood sugar]] levels. |
-  | [[ascorbic acid]] ([[vitamin c]])| fruit                  | 0.1-0.5%          | [[ascorbic acid]] is an [[essential vitamin]] and [[antioxidant]] , important for [[immune]] function and [[skin health]]. |
-  | [[dietary fiber]] | fruit                   | 1-2%              | [[dietary fiber]] in syzygium cumini helps in [[digestion]] and promotes a healthy gut. |
+  | tannins                 | bark, leaves, fruit     | 10-20%            |  [[astringent]] properties, used in [[traditional medicine]] to treat [[diarrhea]], [[dysentery]], and [[skin conditions]]. contribute to the [[antioxidant]] activity of the plant. |
+  | anthocyanins            | fruit                   | 0.1-1%            | [[pigments]] responsible for the deep purple to black color of the fruit. they have [[antioxidant]] properties and contribute to the fruit's [[health benefits]]. |
+  | flavonoids              | leaves, bark, fruit     | 5-10%             | [[antioxidant]] with [[anti-inflammatory]] and [[antidiabetic]] properties, beneficial in traditional remedies for [[various ailments]]. |
+  | [[ellagic acid]] | leaves, bark, fruit     | 1-5%              | [[polyphenolic]] compound with [[antioxidants]] , [[anti-inflammatory]], and [[antimicrobial]] properties. it is often used in medicinal preparations. |
+  | [[oleanolic acid]] | leaves, fruit           | 0.5-2%            | triterpenoid with anti-inflammatory, antidiabetic, and hepatoprotective properties, contributing to the plant's medicinal use. |
+  | [[gallic acid]] | leaves, fruit           | 0.5-1%            | [[antioxidant]] and antimicrobial properties, used in [[traditional medicine]] for treating [[various conditions]]. |
+  | [[jambosine]] | seeds, fruit            | trace to 0.5%     | [[alkaloids]] found in syzygium cumini that has been studied for its potential [[antidiabetic]] effects, particularly in lowering [[blood sugar]] levels. |
+  | [[ascorbic acid]] ([[vitamin c]])| fruit                  | 0.1-0.5%          | [[essential vitamin]] and [[antioxidant]] , important for [[immune]] function and [[skin health]]. |
+  | [[dietary fiber]] | fruit                   | 1-2%              | helps in [[digestion]] and promotes a healthy gut. |
 - ### traditional medicine recipes
 	- these recipes highlight the versatile medicinal uses of syzygium cumini in traditional remedies for treating [[digestive issues]], [[diabetes]], [[skin conditions]], and [[inflammation]].
 	- each part of the [[plant]], from its [[bark]] to its [[leaves]], [[seeds]], and [[fruits]], plays a role in [[holistic]] [[health]] practices.
