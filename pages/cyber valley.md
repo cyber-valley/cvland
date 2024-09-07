@@ -1,11 +1,12 @@
 icon:: ⛰
+alias:: cv
 
 - geographical area in north mountains of [[bali]] [[indonesia]]
 - between [[batuka]] natural reserve and [[bali sea]] of pacific ocean
 - ## districts
-	- [[genesis]]:  autonomous community building [[citadel]] on 25 ha
-	- [[bridge]]:  public [[magic forest]] with residential estate and light commerce
-	- [[canyon]]: 12 ha street of commerce and clean small industry street
+	- [[citadel genesis]]:  building autonomous community on 20 ha
+	- [[bridge]]:  7 ha public [[magic forest]] with residential estate and light commerce
+	- [[canyon]]: 12 ha street of commerce and clean small industry
 - ## why
 	- we live in an amazing time when people, tech, and nature can work together
 	- for the betterment of our planet and civilization
