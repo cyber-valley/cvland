@@ -1,12 +1,9 @@
 icon:: ⛰
 alias:: cv
 
-- geographical area in north mountains of [[bali]] [[indonesia]]
-- between [[batuka]] natural reserve and [[bali sea]] of pacific ocean
+- area in north mountains of [[bali]] [[indonesia]]
 -
-- hi everyone!
-- we a [[rockets]]!
--
+- hi everyone! we a [[rockets]]!
 - we are building autonomous community in bali mountains on ~39 ha
 - we settled in cyber valley 1 year ago to learn how to live autonomously
 - once we learned some we decide to create this knowledge graph on autonomy
@@ -15,16 +12,17 @@ alias:: cv
 -
 - ## dive into [[sytech]]: practical philosophy of autonomy
 -
-- we hope the knowledge help you establish very comfortable independent life
-- in the most beautiful places on earth
-- at extremely low cost which can be less when price of average car
+	- establish very comfortable independent life
+	- in the most beautiful places on earth
+	- at extremely low cost which can be less when price of average car
 -
-- if you are interested in practical experience we launch [[bootcamp]] training on November 1
+- ## invitation to [[bootcamp]]
+	- if you are interested in practical experience we launch [[bootcamp]] training on November 1
 	- 2 week intensive training
 	- 10 days of complete offline
 	- theory, mentorship and participation in real process of [[citadel genesis]] construction
 	- camp is limited to 5 tents
--
+	-
 - ## you can [[visit us]]
 -
 - ## districts of cyber valley
