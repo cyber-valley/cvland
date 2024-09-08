@@ -1,6 +1,6 @@
 - 1000 species on on 30 ares
 - experimental high labour [[magic forest]]
-- strategic supplier of [[permabase]]
+- strategic supplier of [[organiq]]
 - [[edem/sectors]] from top to bottom
 - [[edem/guilds]] left to right
 -
@@ -10,24 +10,13 @@
 - TODO species description
 - TODO mapping of plants
 -
-- recently inroduced
-	- [[aleurites moluccanus]]
-	- [[chaya]]
-	- [[origanum vulgare]]
-- not survived
-	- [[allium schoenoprasum]]
-	- [[ocimum tenuiflorum]]
-	- [[foeniculum vulgare]]
-	- [[tagetes patula]]
-	- [[moringa oleifera]]
--
 - fast growing woody nitrogen pioneers
 	- [[leucaena]]: [[wood]], [[nitrogener]]
 	- [[trema]]: [[wood]], [[nitrogener]]
 	- [[caliandra]]: [[wood]], [[nitrogener]]
 - fast growing green manure pioneers
 	- [[ageratina]]: produce extensive biomass on low layer
-	- [[austroeupatorium]]: produce extensive biomass on middle layer with beatiful [[aroma]]
+	- [[austroeupatorium]]: extensive biomass on middle layer with beautiful [[aroma]]
 - remediation plants
 	- [[debregeasia]]: heavy metal extractor
 	- [[melastoma malabathricum]]: heavy metal extractor
@@ -56,9 +45,9 @@
 	- TODO [[cocos]]: [[fruit]], [[oil]]
 - protein staple food
 	- TODO research deeper
-	- [[cajanus cajan]] : [[protein]], [[fodder]]
+	- TODO [[cajanus cajan]] : [[protein]], [[fodder]]
 	- [[cnidoscolus aconitifolius]] : [[protein]], [[green]]
-	- [[artocarpus altilis]]: [[protein]], [[starch]], [[flour]]
+	- TODO [[artocarpus altilis]]: [[protein]], [[starch]], [[flour]]
 	- [[psophocarpus tetragonolobus]]: [[green]]
 	- [[sesbania grandiflora]]: [[protein]]
 - starchy staple food
@@ -126,6 +115,7 @@
 	- TODO [[agave amica]]: [[aroma]], [[oil]], [[medicine]]
 - basic medicine and health care
 	- [[azadirachta indica]]: [[oil]]
+	- [[mentha]]
 	- [[melissa]]: [[drinks]], [[oil]]
 	- [[salvia rosmarinus]] : [[medicine]], [[oil]], [[fodder]], [[drink]], [[spice]]
 	- [[lavandula]]: [[medicine]]
