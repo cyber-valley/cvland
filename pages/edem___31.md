@@ -15,5 +15,5 @@ type:: sector
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:27:15]--[2024-04-26 Fri 07:49:44] =>  01:22:29
   :END:
-- [[phoenix dactylifera]]
-- [[durio zibethinus]]
+- DONE [[durio zibethinus]]
+- DONE [[phoenix dactylifera]]

@@ -135,14 +135,11 @@ icon:: 🏕️
 	- rafting on pandora: 12 hours
 	- wet west of bali: 12 hours
 	- batukaru shoot: 12 hours
-- ## how to apply?
-	- sent message to @mliubov in telegram
-- ## timeline
-	- pack the product: 1 august
-	- launch of sales: 1 september
-	- call for friends: 1 october
-	- launch of camp: 1 november
-	- [[cyberman]]: 5 november
 -
-- # want less? try [[daypass]]
-- [[bootcamp/notes]]
+- # [[apply for bootcamp]] or [[visit us]]
+-
+- ## memes
+	- heal, learn, realize
+	- try different lifestyle
+	- next level of personal autonomy
+-

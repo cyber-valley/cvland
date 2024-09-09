@@ -1,0 +1,3 @@
+- close to the road
+- panoramic view
+- close to parking and [[organiq]]

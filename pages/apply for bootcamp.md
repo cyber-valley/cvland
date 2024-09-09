@@ -1,0 +1,19 @@
+- you can apply be sending message
+	- to telegram group
+	- or by direct message[t.me/mliubov](https://t.me/mliubov) or [x.com/cybervalleyland](https://x.com/cybervalleyland)
+-
+- details on availability of tents
+	- 01 November - 16 November
+		- [[vitalik]]: available
+		- [[gavin]]: available
+		- [[satoshi]]: available
+		- [[nick]]: available
+		- [[andrej]]: available
+	- 16 November - 01 December
+		- [[vitalik]]: available
+		- [[gavin]]: available
+		- [[satoshi]]: available
+		- [[nick]]: available
+		- [[andrej]]: available
+- map of camp
+	- ![image.png](../assets/image_1725853719659_0.png)
