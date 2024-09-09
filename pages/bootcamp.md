@@ -1,7 +1,7 @@
 icon:: 🏕️
 
 - 14 day eduhealth program
-- for creators of autonomous societies and network states
+- for creators of [[autonomous community]], [[startup societies]] and [[network states]]
 - place: [[citadel genesis]], [[cyber valley]], [[bali]]
 - starts on the new and full moon
 - ## for whom?
@@ -51,6 +51,7 @@ icon:: 🏕️
 	- amazing infrastructure for kids
 	- nature everywhere
 - ## price of one tent
+  id:: 66c812f9-ab83-47f1-9b81-16eccba6005a
 	- only 5 tents will become available at launch
 	- base price of the tent during program is $1k without habitats
 	- in addition for each habitat
@@ -64,6 +65,14 @@ icon:: 🏕️
 		- 1 male: $5k
 		- 3 females: $4k
 		- 3 males: $13k
+	- full moon package
+		- package include whole month
+		- second month discount: 50%
+	- examples for 1 month of camp
+		- 1 female: $3k
+		- 1 male: $7.5k
+		- 3 females: $6k
+		- 3 males: $19.5k
 - ## rules
 	- first 10 days - no connection to global internet
 	- any electric device and offline software are allowed
@@ -77,17 +86,17 @@ icon:: 🏕️
 	- hackathon
 	- full moon party
 - ## available facilities
-	- coworking: collaboration space
-	- organiq: marketplace and meals
-	- carpentry: place for crafting cool stuff
-	- elons: chill with sheeps and starlink
-	- monastery: kids playground
-	- kitchen: experiment with organic food production
-	- edem: experimental garden with ~200 species
 	- 2+ km of trails on site
+	- [[coworking]]: collaboration space
+	- [[organiq]]: marketplace and meals
+	- [[carpentry]]: place for crafting cool stuff
+	- [[elons]]: chill with sheeps and starlink
+	- [[monastery]]: kids playground
+	- [[kitchen]]: experiment with organic food production
+	- [[edem]]: experimental garden with ~200 species
 	- access to 37 ha of gardens and huge relic forest
-		- ~300 plant species
-		- ~10 animal species
+		- ~300 [[plant]] species
+		- ~10 [[animal]] species
 		- ~50 [[bird]] species
 - ## mechanics
 	- 10 day includes lectures and workouts
@@ -106,9 +115,11 @@ icon:: 🏕️
 		- focus on what are important to you and our planet
 		- meet extraordinary people
 	- why prices so differs between genders?
+	  id:: 66c812f9-6b02-4449-b9bb-0f957a79c54e
 		- girls want cool boys
 		- boys want more girls
 		- club way to build and balance community
+		- its also experimental social hack: read [[gender optimization]]
 	- what i will need with me?
 		- notebook
 		- [[list of wear]]

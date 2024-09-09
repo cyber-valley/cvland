@@ -5,3 +5,4 @@ alias:: autonomous, autonomously
 -
 - as one of many possible paths to your personal autonomy
 - we offer you [[sytech]]: comprehensive thought framework on the topic
+- hope it will help you found the next amazing [[network state]] or [[startup society]]

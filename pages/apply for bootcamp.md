@@ -2,6 +2,9 @@
 	- to telegram group
 	- or by direct message[t.me/mliubov](https://t.me/mliubov) or [x.com/cybervalleyland](https://x.com/cybervalleyland)
 -
+- {{embed ((66c812f9-ab83-47f1-9b81-16eccba6005a))}}
+- {{embed ((66c812f9-6b02-4449-b9bb-0f957a79c54e))}}
+-
 - details on availability of tents
 	- 01 November - 16 November
 		- [[vitalik]]: available

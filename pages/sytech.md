@@ -1,4 +1,5 @@
 icon:: ♻️
+alias:: and more
 
 - welcome to the autonomy and sustainability knowledge graph
 - created by [[rockets]]

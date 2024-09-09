@@ -1,14 +1,10 @@
-- small-scale, experimental communities
-- that aim to innovate on technology, governance, economics, and social structures
-- by testing new ideas in a controlled environment
+- what is [[startup society]]?
 -
-- these societies often operate on the principle of entrepreneurship with broad impact
-- may emerge everywhere around the world!
--
-- by functioning as social, economic and technological laboratories
-- they experiment with focus on improving efficiency, freedom, and [[quality of life]]
-- if successful, these experiments can influence larger systems
--
-- list of known startup societies
+- list of recognized startup societies
 	- [[cyber valley]]
 	- [[add your startup society]]
+-
+- don't confuse startup societies with [[network states]]
+- [[startup society]] are about physical land, [[network states]] about virtual one
+-
+- [[start societies and network states]]

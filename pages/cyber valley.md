@@ -1,16 +1,16 @@
 icon:: ⛰
 alias:: cv
 
-- hi everyone! we a [[rockets]]!
-- we are building an [[autonomous]] community
+- Hi everyone! we a [[rockets]]!
+- we are building the [[autonomous community]]
 - in the north of Bali mountains
 - on approximately 39 hectares
-- ![image.png](../assets/image_1725854052098_0.png)
+- ![image.png](../assets/image_1725868123641_0.png)
 -
 - we settled in cyber valley one year ago to learn how to live [[autonomously]]
 - after gaining some experience, we decided to create this knowledge graph on [[autonomy]]
-- we hope this book will help you build your [[autonomous]] community everywhere!
-- or you can join our vibrant growing community!
+- we hope this book will help you build your [[autonomous community]] everywhere!
+- in addition we offer participation in [[bootcamp]] for practical skills and valuable connections
 -
 - ## dive into [[sytech]]: practical philosophy of autonomy
 	- establish very comfortable independent life
@@ -19,6 +19,7 @@ alias:: cv
 -
 - ## invitation to [[bootcamp]]
 	- we launch [[bootcamp]] training on November 1
+	- for founders and creators of [[network states]] powered by [[startup societies]]
 	- 2 week intensive training
 	- 10 days of complete offline
 	- theory, mentorship and participation in real process of [[citadel genesis]] construction
