@@ -1,6 +1,8 @@
-- [[edem]]
-- [[batuka]]
-- [[labs]]
+- [[edem]]: biodiverse experimental garden with 200+ useful species
+- [[kavo]]: mature coffee plantation with bananas, oranges, jackfruits and markiza
+- [[batuka]]:
+-
+- [[labs]]: founders bed
 -
 - [[plants/tubers]]
 - [[plants/greens]]

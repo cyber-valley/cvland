@@ -3,6 +3,7 @@ icon:: 🏕️
 - 14 day eduhealth program
 - for creators of [[autonomous community]], [[startup societies]] and [[network states]]
 - place: [[citadel genesis]], [[cyber valley]], [[bali]]
+- ![image.png](../assets/image_1725878367697_0.png)
 - starts on the new and full moon
 - ## for whom?
 	- for existing and future landlords

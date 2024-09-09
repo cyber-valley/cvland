@@ -1,12 +1,12 @@
 tags:: species, class
 icon:: 🌈
 
-- [[plants]] and [[plants/species]]
-- [[fungi]]
+- [[plants]]: discover species of [[cyber valley]]
 - [[animals]]
 	- [[birds]]
 	- [[chickens]]
+	- [[bees]]
 	- [[sheeps]]
-	- [[cats]]
-	- [[dogs]]
+- [[fungi]]
+-
 - [[species/all]]

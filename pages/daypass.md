@@ -4,6 +4,7 @@ alias:: day pass, visit us
 - our friends, including us, complain that
 - there aren’t many places to walk in silence on bali
 - we got 2 km of calm trails for you
+- ![image.png](../assets/image_1725878671199_0.png)
 - complete with picnic areas, unlimited food, and much more
 -
 - ## how?

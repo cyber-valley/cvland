@@ -3,8 +3,10 @@ icon:: 🧬
 
 - district in [[cyber valley]]
 - project of sustainable and autonomous [[citadel]]
+- on 22 ha of land
+- ![image.png](../assets/image_1725878222276_0.png)
 -
-- 22 ha of land
+-
 -
 - 4 residents
 	- [[rockets]]

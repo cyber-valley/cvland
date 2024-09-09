@@ -11,5 +11,5 @@
   | focus                     | coordination and community formation        | governance and regulatory innovation              |
   | legal status              | could seek legal recognition | can be recognized as special zones |
   | examples                  | daos and blockchains | village, district, area, region |
-  | long-term aim             | seek to establishing physical territories       | transform [[quality of life]] |
+  | long-term aim             | seek to establishing physical territories       | transform quality of life |
 - more on [[startup societies]] and [[network states]]
