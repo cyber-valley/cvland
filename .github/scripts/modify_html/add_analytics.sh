@@ -2,7 +2,7 @@
 
 analytics_script="<script>
     const script = document.createElement('script');
-    script.src = 'https://metrics.cyb.ai/js/script.js';
+    script.src = 'https://metrics.cyb.ai/js/script.hash.outbound-links.pageview-props.tagged-events.js'; 
     script.setAttribute('data-domain', location.host);
     script.defer = true;
     document.body.appendChild(script);
