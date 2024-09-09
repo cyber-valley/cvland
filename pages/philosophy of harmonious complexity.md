@@ -1,3 +1,4 @@
+- [[@master]]
 - posits that the universe operates on a principle of interconnectedness
 	- where elements coalesce
 	- in increasingly complex and harmonious forms
@@ -33,8 +34,8 @@
 -
 - examples
 	- biology: the evolution of species through symbiotic relationships and the emergence of complex ecosystems
-	- society: the formation of communities and civilizations through synergistic collaboration and cultural synthesis.
-	- art and music: the creation of works that balance diverse elements in harmonious compositions.
+	- society: the formation of communities and civilizations through synergistic collaboration and cultural synthesis
+	- art and music: the creation of works that balance diverse elements in harmonious compositions
 	- technology: the development of systems and algorithms that rely on synchronized processes and structured syntax
 - harmonious complexity offers a holistic view of reality
 	- where the interplay of cooperation, integration, order, and timing

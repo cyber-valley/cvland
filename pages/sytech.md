@@ -7,9 +7,9 @@ icon:: ♻️
 - what is sytech?
 	- sytech is rooted to [[philosophy of harmonious complexity]]
 	- on top of which we develop this design framework for fusing societies, biomes, technology, and architecture
-	- this knowledge graph is semantic setting for [[autonomy]], [[prosperity]] and [[evolution]]
+	- this knowledge graph is semantic setting for [[autonomy]], prosperity and evolution
 -
-- sytech applied to [[network states]] and [[startup communities]] is practical design framework
+- sytech applied to [[network states]] and [[startup societies]] is practical design framework
 	- [[intro to autonomy]]: complex can be simple
 	- [[energy system]]: how to build and make it work reliably?
 	- [[water system]]: simple solutions for clean water
