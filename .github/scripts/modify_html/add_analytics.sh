@@ -2,7 +2,7 @@
 
 analytics_script="<script>
     const script = document.createElement('script');
-    script.src = 'https://cv.land/js/script.hash.js';
+    script.src = 'https://plausible.io/js/script.hash.js';
     script.setAttribute('data-domain', location.host);
     script.defer = true;
     document.body.appendChild(script);
