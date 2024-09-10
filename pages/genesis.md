@@ -6,12 +6,40 @@ icon:: 🧬
 - on 22 ha of land
 - ![image.png](../assets/image_1725878222276_0.png)
 -
--
--
-- 4 residents
-	- [[rockets]]
--
-- products
-	- [[bootcamp]]
-	- [[daypass]]
-	- [[autonomy tour]]
+- ## dive into [[citadel/vision]]
+- ## [[rockets]] estate
+	- products
+		- [[bootcamp]]
+		- [[daypass]]
+		- [[autonomy tour]]
+	- commercial buildings
+		- [[parking]]: 10 cars and 20 bikes
+		- [[elons]] sheeps, chickens and chill
+		- [[organiq]]: market and resto
+		- [[permabase]]: processing facility for [[plants]], [[animals]] and [[fungi]]
+		- [[monastery]]: playground for kids
+		- TODO [[banya]]: spa and joys
+	- areas
+		- [[edem]]: experimental high labor [[magic forest]] on 30 ares
+		- [[pasture]]: area for sheeps with specialized vegetation on 60 ares
+		- [[senwood]]: 4 ha with thousands of [[albizia chinensis]] trees
+		- [[kavo]]: 2 ha coffee plantation with [[avocado]], [[banana]], [[orange]], [[jackfruit]] and [[markiza]]
+	- residential buildings
+		- [[carrot house]]
+		- [[vitalik]]
+		- [[gavin]]
+		- [[yann]]
+		- [[andrej]]
+		- [[satoshi]]
+	- industrial buildings
+		- [[carpentry]]
+- ## projects
+	- [[sensor network]]
+	- [[soil research]]
+	- [[fungi research]]
+	- [[birds research]]
+	- [[plants research]]
+- ## surrounded by the following districts
+	- [[batuka]]: relict forest
+	- [[bridge]]: commercial street
+	- [[canyon]]: commercial street

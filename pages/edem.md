@@ -1,5 +1,6 @@
-- 1000 species on on 30 ares
 - experimental high labour [[magic forest]]
+- with 200 species on 30 ares
+-
 - strategic supplier of [[organiq]]
 - [[edem/sectors]] from top to bottom
 - [[edem/guilds]] left to right

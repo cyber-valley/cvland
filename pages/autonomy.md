@@ -1,8 +1,9 @@
 alias:: autonomous, autonomously
 
-- skill to harness full power of life through prosperity and evolution
-- opportunity to free your mind and connect to planet
+- skill to harness full power of life
+- through the provision of basic needs
+- by yourself with support of community
 -
 - as one of many possible paths to your personal autonomy
 - we offer you [[sytech]]: comprehensive thought framework on the topic
-- hope it will help you found the next amazing [[network state]] or [[startup society]]
+- it could help you found the next amazing [[network state]] or [[startup society]]

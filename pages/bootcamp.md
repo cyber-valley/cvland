@@ -30,8 +30,8 @@ icon:: 🏕️
 	- you can [[do your own project]] instead of standard [[workouts]]
 	- but we recommend to try at least some of them! they are cool
 - ## mentors
-	- [[master]]: founder of cyber, bostrom, cyb, cyber academy, cyber fund and cyber valley
-	- [[stjoy]]: cyber valley founder
+	- [[@master]]: founder of cyber, bostrom, cyb, cyber academy, cyber fund and cyber valley
+	- [[@stjoy]]: cyber valley founder
 - ## message
 	- one year ago we moved to a remote location to learn how to live sustainably and autonomously
 	- we have not yet fully reached this bliss
@@ -51,29 +51,7 @@ icon:: 🏕️
 	- cozy tent with meals in natural and autonomous environment
 	- amazing infrastructure for kids
 	- nature everywhere
-- ## price of one tent
-  id:: 66c812f9-ab83-47f1-9b81-16eccba6005a
-	- only 5 tents will become available at launch
-	- base price of the tent during program is $1k without habitats
-	- in addition for each habitat
-		- female: $1k
-		- male: $4k
-	- max 3 habitats in the tent
-	- no discount for kids and animals: they count as equal habitats
-	- you arrange your company in the tent yourself
-	- examples:
-		- 1 female: $2k
-		- 1 male: $5k
-		- 3 females: $4k
-		- 3 males: $13k
-	- full moon package
-		- package include whole month
-		- second month discount: 50%
-	- examples for 1 month of camp
-		- 1 female: $3k
-		- 1 male: $7.5k
-		- 3 females: $6k
-		- 3 males: $19.5k
+- # [[bootcamp/pricing]]
 - ## rules
 	- first 10 days - no connection to global internet
 	- any electric device and offline software are allowed
@@ -111,16 +89,12 @@ icon:: 🏕️
 		- let us know if you are interested after visiting us
 		- we are still find out proper model for commuinty building
 - ## faq
-	- what you get?
-		- clean state of your mind
-		- focus on what are important to you and our planet
-		- meet extraordinary people
 	- why prices so differs between genders?
 	  id:: 66c812f9-6b02-4449-b9bb-0f957a79c54e
 		- girls want cool boys
 		- boys want more girls
 		- club way to build and balance community
-		- its also experimental social hack: read [[gender optimization]]
+		- its also experimental social hack: read about [[gender optimization]] of [[citadel genesis]]
 	- what i will need with me?
 		- notebook
 		- [[list of wear]]

@@ -17,7 +17,7 @@
 - #### laboratory test result
 - | parameter                          | coffee site | sen wood site | edem site | interpretation                    |
   |-----------------------------------|-------------|---------------|-----------|-----------------------------------|
-  | c-organic (%)                     | 5.46        | 5.00          | 3.79      | very high to high                 |
+  | c-organic (%)                     | 5.46        | 5.00          | 3.79      | low to medium                 |
   | total nitrogen (n) (%)            | 0.45        | 0.36          | 0.35      | medium                            |
   | available phosphorus (p) (ppm)    | 10.85       | 8.91          | 10.12     | low to very low                   |
   | available potassium (k) (ppm)     | 177.83      | 167.7         | 188.67    | medium                            |
