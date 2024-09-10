@@ -67,11 +67,11 @@
 
  ;; Enable flashcards.
  ;; Default value: true
- ;; :feature/enable-flashcards? true
+ :feature/enable-flashcards? false
 
  ;; Enable whiteboards.
  ;; Default value: true
- ;; :feature/enable-whiteboards? true
+ feature/enable-whiteboards? false
 
  ;; Disable the journal's built-in 'Scheduled tasks and deadlines' query.
  ;; Default value: false
