@@ -1,6 +1,9 @@
-- you can apply be sending message
-	- to telegram group
-	- or by direct message[t.me/mliubov](https://t.me/mliubov) or [x.com/cybervalleyland](https://x.com/cybervalleyland)
+icon:: 🥕
+
+- ## you can apply be sending message
+	- in telegram: [t.me/@mliubov](https://t.me/@mliubov)
+	- in twitter:  [x.com/cybervalleyland](https://x.com/cybervalleyland)
+	- or just drop dm to telegram group [t.me/cyberbali](https://t.me/cyberbali)
 -
 - ## check for [[bootcamp/pricing]]
 -

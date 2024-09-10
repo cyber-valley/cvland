@@ -1,3 +1,5 @@
+icon:: 💰
+
 - only 5 tents will become available at launch
 - price of one tent
   id:: 66c812f9-ab83-47f1-9b81-16eccba6005a

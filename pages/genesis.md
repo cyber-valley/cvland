@@ -1,9 +1,8 @@
 alias:: citadel genesis
 icon:: 🧬
 
-- district in [[cyber valley]]
 - project of sustainable and autonomous [[citadel]]
-- on 22 ha of land
+- district in [[cyber valley]] on 22 ha of land
 - ![image.png](../assets/image_1725878222276_0.png)
 -
 - ## dive into [[citadel/vision]]
