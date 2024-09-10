@@ -2,7 +2,10 @@
 - ![2024-09-09 07.54.32.jpg](../assets/2024-09-09_07.54.32_1725868485079_0.jpg)
 -
 - we are founders of [[cyber valley]] and [[citadel genesis]]
-- follow us
-	- master: [x.com/mastercyb](https://x.com/mastercyb)
+- if you have some practical help to build [[cyber valley]], please contact us
+	- master
+		- [x.com/mastercyb](https://x.com/mastercyb)
+		- [t.me/mastercyb](https://t.me/mastercyb)
+		- [cyb.ai/@mastercyb](https://cyb.ai/@mastercyb)
 	- joy:
 	-

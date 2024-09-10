@@ -8,9 +8,12 @@ alias:: cv
 - ![image.png](../assets/image_1725868123641_0.png)
 -
 - we settled in cyber valley one year ago to learn how to live [[autonomously]]
-- after gaining some experience, we decided to create this knowledge graph on [[autonomy]]
+- after gaining xp we decide to create the knowledge graph on [[autonomy]]
 - we hope this book will help you build your [[autonomous community]] everywhere!
-- in addition we offer participation in [[bootcamp]] for practical skills and valuable connections
+-
+- ## build [[citadel genesis]] with us
+	- you can join construction and venture. contact [[rockets]]
+	- first step: launch of [[bootcamp]] as eduhealth foundation of the project
 -
 - ## dive into [[sytech]]: practical philosophy of autonomy
 	- establish very comfortable independent life

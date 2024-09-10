@@ -3,7 +3,8 @@ alias:: and more
 
 - welcome to the autonomy and sustainability knowledge graph
 - created by [[rockets]]
-- for [[cyber valley]]
+- for [[cyber valley]] and [[citadel genesis]]
+- disclaimer: the sytech knowledge graph is under construction
 -
 - what is sytech?
 	- sytech is rooted to [[philosophy of harmonious complexity]]
