@@ -1,6 +1,7 @@
 tags:: genus
-alias:: trema orientale, mengkirai, ganja tree
+alias:: mengkirai, ganja tree
 
-- [[trema tomentosum]]
-- [[trema orientalis]]
-- [[trema micranthum]]
+- {{embed [[trema orientalis]]}}
+- {{embed [[trema micrantha]]}}
+- {{embed [[trema tomentosa]]}}
+-

@@ -4,8 +4,9 @@ tags:: genus
 	- {{embed [[salvia rosmarinus]]}}
 	- {{embed [[salvia officinalis]]}}
 	- {{embed [[salvia leucantha]]}}
-	- {{embed [[salvia splendens]]}}
+	- {{embed [[salvia coccinea]]}}
 - research
+	- {{embed [[salvia splendens]]}}
 	- {{embed [[salvia divinorum]]}}
 	- {{embed [[salvia miltiorrhiza]]}}
 	- {{embed [[salvia elegans]]}}

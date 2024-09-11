@@ -1,2 +1,3 @@
-tags:: species, genus
+tags:: genus
+
 - {{embed [[debregeasia longifolia]]}}

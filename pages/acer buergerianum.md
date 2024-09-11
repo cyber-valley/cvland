@@ -1,6 +1,6 @@
 tags:: species
 
-- tokopedia
+- availability:: tokopedia
 - ![image](https://ipfs.io/ipfs/QmU3LVsYyfLfwFwjxAjPu9UUb4EdTz1FvRbe7YoQV3z99g)
 - ![image](https://ipfs.io/ipfs/QmQRcjuNrzVFyLZ5VBYsduzMUgMivRJmD8ikM6ag5GoCyQ)
 -

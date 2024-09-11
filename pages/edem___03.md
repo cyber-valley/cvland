@@ -13,7 +13,7 @@ type:: sector
 	- [[punica granatum]] black
 	- [[diospyros kaki]]
 	- [[cinamonium verum]]
-	- [[morinda citrifolia]]
+	- DONE [[morinda citrifolia]]
 	- [[moringa oleifera]]
 	- [[diospyros kaki]]
 	- [[diospyros kaki]]

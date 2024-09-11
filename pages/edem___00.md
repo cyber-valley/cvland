@@ -31,7 +31,7 @@ type:: sector
 		- [[verbena hastata]]
 		- [[mentha piperita]]
 	- [[inga edulis]]
-	  collapsed:: true
+		- [[salvia coccinea]]
 		- [[taraxacum]]
 		- [[mentha piperita]]
 		  collapsed:: true

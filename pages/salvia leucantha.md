@@ -15,4 +15,3 @@ alias:: mexican sage, mexican bush sage
 - [[dyes]]
 - [[repeller]]
 - [[soil]] improvement
-- [[introduce to edem]]

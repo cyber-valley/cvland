@@ -1,5 +1,4 @@
-
-tags:: species, genus
+tags:: genus
 
 - [[bambusa balcooa]]
 - [[bambusa oldhamii]]

@@ -1,3 +1,3 @@
 tags:: genus
 
-- [[butea monosperma]]
+- {{embed [[butea monosperma]]}}

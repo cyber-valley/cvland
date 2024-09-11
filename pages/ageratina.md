@@ -1,3 +1,3 @@
-tags:: genus, species
+tags:: genus
 
 - {{embed [[ageratina riparia]]}}

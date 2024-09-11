@@ -1,171 +1,111 @@
 - experimental high labour [[magic forest]]
 - with 200 species on 30 ares
+- TODO strategic supplier of [[organiq]]
 -
-- strategic supplier of [[organiq]]
-- [[edem/sectors]] from top to bottom
-- [[edem/guilds]] left to right
+- ## navigation
+	- [[edem/sectors]] from top to bottom
+	- [[edem/guilds]] left to right
 -
+- ## whats there?
+	- fast growing woody nitrogen pioneers
+		- [[leucaena]]: [[wood]], [[nitrogener]]
+		- [[trema]]: [[wood]], [[nitrogener]]
+		- [[caliandra]]: [[wood]], [[nitrogener]]
+	- fast growing green manure pioneers
+		- [[ageratina]]: [[greens]] on low layer with [[flower]]
+		- [[austroeupatorium]]: [[greens]] on middle layer with beautiful [[aroma]]
+	- remediation plants
+		- [[debregeasia longifolia]] : heavy metal extractor
+		- [[melastoma malabathricum]]: heavy metal extractor
+		- TODO [[brassica]]: suck mercury and cleanup from fertilization
+	- extended [[fodder]] for [[animals]]
+		- [[montanoa hibiscifolia]]
+		- [[cenchrus purpureus]]
+		- [[imperata cylindrica]]
+		- [[symphytum]]: [[medicine]]
+		- [[tropaeolum majus]]: [[greens]]
+		- [[dandelion]]: [[medicine]]
+		- [[clover]]: [[medicine]]
+		- [[plantago]]: [[medicine]]
+		- [[arachis pintoi]]: [[medicine]]
+	- oily staple food
+		- [[olea]]: [[oil]] [[fruit]]
+		- [[persea]]: [[oil]], [[fruit]]
+	- protein staple food
+		- [[cnidoscolus aconitifolius]] : [[protein]], [[green]]
+	- starchy staple food
+		- [[colocasia esculenta]] : [[starch]], [[flour]]
+		- [[manihot esculenta]]: [[starch]]
+		- [[canna indica]]: [[starch]]
+		- [[artocarpus heterophyllus]] : [[fruit]], [[starch]]
+		- [[artocarpus camansi]]: [[starch]] [[flour]]
+	- iconic [[drinks]]
+		- [[theobroma cacao]]
+	- amazing fruits, nuts and berries
+		- [[mangifera]]: [[fruit]], [[wood]]
+		- [[musa]]: [[fruit]], [[flour]], [[fodder]]
+		- [[citrus]]: [[fruit]]
+		- [[rubus]]: [[berry]]
+		- [[morus]]: [[berry]], [[fodder]]
+		- [[manilkara zapota]] : [[fruit]]
+		- [[passiflora]]: [[fruit]]
+		- [[macadamia tetraphylla]] : [[nut]]
+		- [[prunus amygdalus]] : [[nut]], [[flour]]
+		- [[carica papaya]]: [[fruit]], [[green]], [[fodder]]
+		- [[nephelium]]
+		- [[flacourtia indica]]
+		- [[malus]]
+		- [[strawberry]]
+		- [[pyrus]]
+		- [[punica granatum]]
+		- [[anona]]
+		- [[garcinia]]
+		- [[diospyros]]
+		- [[ananas]]
+		- [[syzygium cumini]]
+		- [[psidium]]
+		- [[prunus]]
+		- [[malpighia]]
+		- [[dimocarpus]]
+		- [[spondias dulcis]]
+	- greens, vitamins and vegies
+		- [[talinum]]
+		- [[rumex]]
+		- [[aubergine]]
+		- [[hibiscus sabdariffa]]
+		- [[allium sativum]]
+		- [[breynia androgyna]]
+	- fragrance and polination
+		- [[magnolia cempaka]] : [[aroma]], [[oil]], [[medicine]]
+		- [[cananga odorata]]: [[aroma]], [[oil]], [[medicine]]
+		- [[plumeria rubra]] : [[aroma]], [[oil]], [[medicine]]
+		- [[osmanthus fragrans]] : [[drink]] [[aroma]], [[oil]], [[medicine]]
+		- [[rosa damascena]]: [[drinks]], [[aroma]], [[oil]], [[medicine]]
+		- [[jasminum]]: [[drinks]], [[aroma]], [[oil]], [[medicine]]
+	- basic medicine and health care
+		- [[azadirachta indica]]: [[oil]]
+		- [[sapindus]]
+		- [[mentha]]
+		- [[melissa]]: [[drinks]], [[oil]]
+		- [[salvia rosmarinus]] : [[medicine]], [[oil]], [[fodder]], [[drink]], [[spice]]
+		- [[lavandula]]: [[medicine]]
+		- [[melaleuca]]
+		- [[capsicum annuum]]
+		- [[santalum album]]
+		- [[cinnamomum]]
+		- [[centella asiatica]]
+		- [[origanum vulgare]]:: [[medicine]], [[oil]], [[fodder]], [[drink]], [[spice]]
+		- [[lemongrass]]: [[oil]], [[drinks]]
+	- TODO [[fungi]] needed for fast decomposition
+	- building and construction
+		- [[ficus elastica]]: living bridges
+		- [[cynodon dactylon]]: perfect and easy lawn
+- ## [[edem/introduce]]
+  query-sort-by:: page
+  query-table:: true
+  query-sort-desc:: false
 - DONE [[plants/research]] available in indonesia
 - TODO establish [[14 species]] everywhere
 - TODO identify major [[plants]]
 - TODO species description
 - TODO mapping of plants
--
-- fast growing woody nitrogen pioneers
-	- [[leucaena]]: [[wood]], [[nitrogener]]
-	- [[trema]]: [[wood]], [[nitrogener]]
-	- [[caliandra]]: [[wood]], [[nitrogener]]
-- fast growing green manure pioneers
-	- [[ageratina]]: produce extensive biomass on low layer
-	- [[austroeupatorium]]: extensive biomass on middle layer with beautiful [[aroma]]
-- remediation plants
-	- [[debregeasia]]: heavy metal extractor
-	- [[melastoma malabathricum]]: heavy metal extractor
-	- TODO [[brassica]]: suck mercury and cleanup from fertilization
-- building and construction
-	- TODO [[moss]]: walls and erosion control
-	- [[ficus elastica]]: living bridges
-	- TODO [[cynodon dactylon]]: perfect and easy lawn
-	- TODO [[salix]]
-- extended [[fodder]] for animals
-	- [[montanoa hibiscifolia]]
-	- [[cenchrus purpureus]]
-	- [[imperata cylindrica]]
-	- [[gliricidia sepium]]
-	- [[trichanthera gigantea]]
-	- [[symphytum]]: [[medicine]]
-	- [[tropaeolum majus]]: [[greens]]
-	- [[dandelion]]: [[medicine]]
-	- [[sorghum bicolor]]: [[grains]]
-	- [[clover]]: [[medicine]]
-	- [[plantago]]: [[medicine]]
-	- [[arachis pintoi]]: [[medicine]]
-- oily staple food
-	- [[olea]]: [[oil]] [[fruit]]
-	- [[persea]]: [[oil]], [[fruit]]
-	- TODO [[cocos]]: [[fruit]], [[oil]]
-- protein staple food
-	- TODO research deeper
-	- TODO [[cajanus cajan]] : [[protein]], [[fodder]]
-	- [[cnidoscolus aconitifolius]] : [[protein]], [[green]]
-	- TODO [[artocarpus altilis]]: [[protein]], [[starch]], [[flour]]
-	- [[psophocarpus tetragonolobus]]: [[green]]
-	- [[sesbania grandiflora]]: [[protein]]
-- starchy staple food
-	- [[colocasia esculenta]] : [[starch]], [[flour]]
-	- [[artocarpus heterophyllus]] : [[fruit]], [[starch]]
-	- [[artocarpus camansi]]: [[starch]] [[flour]]
-	- TODO [[ipomoea batatas]]: [[starch]]
-	- TODO [[canna indica]]: [[starch]]
-	- TODO [[zizania]]: [[fodder]], [[grains]], [[flour]]
-	- TODO [[pennisetum glaucum]]: [[fodder]], [[grains]], [[flour]]
-- [[fungi]] needed for fast decomposition
-	- TODO [[shitake]]
-	- TODO [[oyster]]
-	- TODO [[reishi]]
-- iconic [[drinks]]
-	- [[coffea arabica]]
-	- [[theobroma cacao]]
-	- TODO [[camellia sinensis]]
-- amazing fruits, nuts and berries
-	- [[mangifera]]: [[fruit]], [[wood]]
-	- [[musa]]: [[fruit]], [[flour]], [[fodder]]
-	- [[citrus]]: [[fruit]]
-	- [[rubus]]: [[berry]]
-	- [[morus]]: [[berry]], [[fodder]]
-	- [[manilkara zapota]] : [[fruit]]
-	- [[passiflora]]: [[fruit]]
-	- [[macadamia tetraphylla]] : [[nut]]
-	- [[prunus amygdalus]] : [[nut]], [[flour]]
-	- [[gnetum gnemon]]: [[nut]]
-	- [[carica papaya]]: [[fruit]], [[green]], [[fodder]]
-	- [[malus]]
-	- [[pyrus]]
-	- [[anona]]
-	- [[garcinia]]
-	- [[diospyros]]
-	- [[ananas]]
-	- TODO [[garcinia intermedia]]
-	- TODO [[baccaurea]]
-	- TODO [[salacca]]
-	- TODO [[musa]]
-	- TODO [[actinidia]]
-	- TODO [[bouea macrophylla]]
-- greens, vitamins and vegies
-	- [[talinum fruticosum]]
-	- [[rumex]]
-	- [[aubergine]]
-	- [[hibiscus sabdariffa]]
-	- [[allium sativum]]
-	- [[breynia androgyna]]
-	- TODO [[asparagus]]
-	- TODO [[gynura procumbens]]
-	- TODO [[brassica oleracea]]
-	- TODO [[portulaca oleracea]]
-	- TODO [[rheum rhabarbarum]]
-	- TODO [[allium tuberosum]]
-	- TODO [[diplazium esculentum]]
-	- TODO [[cynometra cauliflora]]
-- fragrance and polination
-	- [[magnolia cempaka]] : [[aroma]], [[oil]], [[medicine]]
-	- [[cananga odorata]]: [[aroma]], [[oil]], [[medicine]]
-	- [[plumeria rubra]] : [[aroma]], [[oil]], [[medicine]]
-	- [[osmanthus fragrans]] : [[drink]] [[aroma]], [[oil]], [[medicine]]
-	- [[rosa damascena]]: [[drinks]], [[aroma]], [[oil]], [[medicine]]
-	- [[jasminum sambac]]: [[drinks]], [[aroma]], [[oil]], [[medicine]]
-	- TODO [[agave amica]]: [[aroma]], [[oil]], [[medicine]]
-- basic medicine and health care
-	- [[azadirachta indica]]: [[oil]]
-	- [[mentha]]
-	- [[melissa]]: [[drinks]], [[oil]]
-	- [[salvia rosmarinus]] : [[medicine]], [[oil]], [[fodder]], [[drink]], [[spice]]
-	- [[lavandula]]: [[medicine]]
-	- [[zingiber]]: [[medicine]], [[drinks]]
-	- [[melaleuca]]
-	- [[capsicum annuum]]
-	- [[mentha]]
-	- [[santalum album]]
-	- [[cinnamomum]]
-	- [[centella asiatica]]
-	- [[origanum vulgare]]:: [[medicine]], [[oil]], [[fodder]], [[drink]], [[spice]]
-	- [[lemongrass]]: [[oil]], [[drinks]]
-	- TODO [[calendula]]
-	- TODO [[panax ginseng]]
-	- TODO [[syzygium aromaticum]]
-	- TODO [[justicia gendarussa]]
-	- TODO [[eucalyptus pulverulenta]]
-	- TODO [[vetiver]]: [[oil]], [[drinks]]
-	- TODO [[citronella]]: [[oil]], [[drinks]]
-	- TODO [[saponaria]]: [[soap]]
-	- TODO [[yucca]]: [[soap]]
-- considering to introduce
-  query-sort-by:: page
-  query-table:: true
-  query-sort-desc:: false
-	- [[cymbopogon nardus]]
-	- [[chrysopogon zizanioides]]
-	- [[tanacetum vulgare]]
-	- [[cynodon dactylon]]
-	- [[andrographis paniculata]]
-	- [[echinopsis pachanoi]]
-	- [[agarwood]]
-	- [[eucalyptus pulverulenta]]
-	- [[pandanus tectorius]]
-	- [[acer]]
-	- [[bixa orellana]]
-	- [[ginkgo biloba]]
-	- [[humulus lupulus]]
-	- [[arenga pinnata]]
-	- [[cinnamomum camphora]]
-	- [[etlingera elatior]]
-	- [[cinnamomum tamala]]
-	- [[pueraria javanica]]
-	- [[eleutherine palmifolia]]
-	- [[ipomoea aquatica]]
-	- [[pimpinella pruatjan]]
-	- [[phyllanthus niruri]]
-	- [[clinacanthus nutans]]
-	- [[orthosiphon aristatus]]
-	- [[plectranthus amboinicus]]
-	- [[eurycoma longifolia]]
-	- [[urena lobata]]

@@ -1,4 +1,3 @@
-alias:: ketapang kencana, madagascar almond
 tags:: genus
 
 - {{embed [[terminalia mantaly]]}}

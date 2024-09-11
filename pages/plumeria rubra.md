@@ -12,7 +12,7 @@ alias:: frangipani
 	- [[stem]]: utilized for cuttings to [[propagate]] new plants
 	- [[flower]]: highly valued for its [[fragrance]] and decorative use
 	- [[fruit]]: typically not used, as the focus is on flowers
-	- [[leave]]: used for [[medicinal]] purposes in traditional practices
+	- [[leave]]: used for [[medicine]] purposes in traditional practices
 	- [[bark]]: contains compounds used in traditional [[medicine]]
 - uses
 	- [[plants/fruits]]: not significant

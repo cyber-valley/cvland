@@ -1,4 +1,6 @@
 tags:: genus
 
-- [[camellia japonica]]
-- [[camellia sinensis]]
+- selected
+	- {{embed [[camellia japonica]]}}
+- research
+	- {{embed [[camellia sinensis]]}}

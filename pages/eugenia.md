@@ -1,8 +1,10 @@
 tags:: genus
 
-- ![undefined](https://upload.wikimedia.org/wikipedia/commons/0/0f/Eugenia_carissoides_fruit1.JPG)
-- [[eugenia reinwardtiana]]
-- [[eugenia selloi]]
-- [[eugenia uniflora]]
-- [[eugenia brasiliensis]]
-- [[eugenia luschnathiana]]
+- intoduced
+	- {{embed [[eugenia brasiliensis]]}}
+	- {{embed [[eugenia reinwardtiana]]}}
+	- {{embed [[eugenia uniflora]]}}
+- research
+	- {{embed [[eugenia selloi]]}}
+	- {{embed [[eugenia luschnathiana]]}}
+	-

@@ -1,7 +1,9 @@
 tags:: genus
 
-- {{embed [[acacia podalyriifolia]]}}
-- {{embed [[acacia senegal]]}}
+- selected
+	- {{embed [[acacia podalyriifolia]]}}
+- research
+	- {{embed [[acacia senegal]]}}
 	- [[acacia mangium]]
 	- [[acacia dealbata]]
 	- [[acacia auriculiformis]]
