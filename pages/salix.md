@@ -1,3 +1,5 @@
+tags:: genus, research
+
 - [[edem/introduce]]
 	- {{embed [[salix babylonica]]}}
 - research

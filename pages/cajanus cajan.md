@@ -1,5 +1,5 @@
 alias:: gude, pigeon pea
-tags:: species
+tags:: species, research
 
 - nitrogener:: 60
 - ![How to Plant and Grow Pigeon Peas | Gardener's Path](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmTtxtPXRNS4znjxaM83V2eiYzoXBuk5VryJeRT8MqirP2)

@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, research
 alias:: agathi, turi
 
 - nitrogener:: 120

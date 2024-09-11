@@ -1,5 +1,5 @@
 alias:: buko, melinjo
-tags:: species
+tags:: species, research
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qmc8HzFuyWGEDWV9AnZLcg8ews88zoCb4gacykQ3t6wWZM)
 -

@@ -1,5 +1,5 @@
 alias:: gamal
-tags:: species
+tags:: species, research
 
 - availability:: tokopedia
 - nitrogener:: 200

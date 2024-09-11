@@ -1,0 +1,7 @@
+- from my part i would bet on participation in youtube podcasts
+- short list
+	- https://www.youtube.com/@saifedean
+	- https://www.youtube.com/@thenetworkstate
+	- https://www.youtube.com/@futurethinkers
+	- https://www.youtube.com/c/unchainedpodcast
+	- https://www.youtube.com/@ScopeofScience

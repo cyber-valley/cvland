@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, research
 alias:: asian kudzu, pueraria javanica
 
 - nitrogener:: 150
