@@ -1,5 +1,5 @@
 alias:: tea
-tags:: species
+tags:: species, research
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmWxtGPaS17of2eQj55rHFaSJs1uWBeyFddUS5TWp9mZNf)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmSpMzT1YhTVz4gNsPC6mbsAQUX5FGq59U86A3qae9JTt9)
