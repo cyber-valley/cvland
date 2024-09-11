@@ -1,6 +1,7 @@
 tags:: genus
 
-- {{embed [[terminalia mantaly]]}}
+- selected for [[edem]]
+	- {{embed [[terminalia mantaly]]}}
 - research
 -
 	- [[terminalia neotaliala]]

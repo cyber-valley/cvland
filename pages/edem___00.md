@@ -8,13 +8,17 @@ type:: sector
 	  collapsed:: true
 		- [[symphytum officinale]]
 		- [[potentilla indica]]
-		- [[physalis peruviana]]
+		- [[allium tuberosum]]
+		- [[salvia leucantha]]
+		- [[eupatorium capillifolium]]
+		- [[ocimum basilicum]]
+		- [[cyperus mindorensis]]
+		- [[cynodon dactylon]]
+		- [[rubus wild]]
 	- [[jasminum officinale]] gambir
 	  collapsed:: true
 		- [[melastoma malabathricum]]
-		- [[ageratina riparia]]
 	- [[persea americana]] haas
-	  collapsed:: true
 	- [[psidium guajava]] white
 	  collapsed:: true
 		- [[salvia officinalis]]
@@ -26,11 +30,16 @@ type:: sector
 		- [[rosemary]]
 		- [[thymus vulgaris]]
 	- [[hibiscus sabdariffa]]
+	  collapsed:: true
+		- [[piper nigrum]]
+		- [[salvia rosmarinus]]
+		- [[thymus vulgaris]]
 	- [[malpighia emarginata]]
 	  collapsed:: true
-		- [[verbena hastata]]
+		- TODO check [[verbena hastata]]
 		- [[mentha piperita]]
 	- [[inga edulis]]
+	  collapsed:: true
 		- [[salvia coccinea]]
 		- [[taraxacum]]
 		- [[mentha piperita]]
@@ -43,6 +52,7 @@ type:: sector
 		- [[colocasia esculenta]]
 		- [[foeniculum vulgare]]
 - [[beds]]
+	- TODO move [[rubus idaeus]]
 	- [[foeniculum vulgare]]
 	  collapsed:: true
 	- [[ocimum basilicum]]
@@ -52,11 +62,10 @@ type:: sector
 	- [[eupatorium capillifolium]]
 	- [[allium tuberosum]]
 	- [[tagetes lucida]]
-	- TODO move [[rubus idaeus]]
-	- TODO move [[piper nigrum]]
+	-
 - [[walls]]
 	- [[debregeasia longifolia]]
 	- [[imperata cylindrica]]
 	- [[ageratina riparia]]
-	- [[rubus]]
+	- [[rubus wild]]
 - TODO build stone trail

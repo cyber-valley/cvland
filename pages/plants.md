@@ -1,8 +1,10 @@
-- [[edem]]: biodiverse experimental garden with 200+ useful species
-- [[kavo]]: mature coffee plantation with bananas, oranges, jackfruits and markiza
-- [[batuka]]:
--
-- [[labs]]: founders bed
+- [[genus]]:
+- locations
+	- [[edem]]: biodiverse experimental garden with 200+ useful species
+	- [[kavo]]: mature coffee plantation with bananas, oranges, jackfruits and markiza
+	- [[labs]]: founders beds
+	- [[batuka]]: relict forest
+	- [[senwood]]
 -
 - [[plants/tubers]]
 - [[plants/greens]]

@@ -1,7 +1,7 @@
 tags:: species
 alias:: water apple, water cherry, watery rose apple, jambu air
 
-- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmdfzFigpXyhurgyFHvtZKyAYXypH8XSXKWuayKpYLeNq2)
+- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmdfzFigpXyhurgyFHvtZKyAYXypH8XSXKWuayKpYLeNq2){:height 338, :width 558}
 	-
 - products
 	- [[fruit]]

@@ -38,4 +38,4 @@ type:: sector
 	- [[melissa officinalis]]
 	- [[salvia officinalis]]
 - [[walls]]
-	- [[lemongrass]]
+	- [[cymbopogon citratus]]

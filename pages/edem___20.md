@@ -14,8 +14,7 @@ type:: sector
 - [[dimocarpus longan]]
 - [[artocarpus heterophyllus]]
 	- [[asplenium nidus]]
--
-- [[rosa chinensis]]
+- [[rosa chinensis]]: 10
 - [[chamaecyparis pisifera]]
 - [[passiflora vitifolia]]
 - [[terminalia mantaly]]

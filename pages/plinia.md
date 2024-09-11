@@ -1,4 +1,6 @@
 tags:: genus
 
-- {{embed [[plinia edulis]]}}
-- {{embed [[plinia cauliflora]]}}
+- selected for [[edem]]
+	- {{embed [[plinia cauliflora]]}}
+- research
+	- {{embed [[plinia edulis]]}}

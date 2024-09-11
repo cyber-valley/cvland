@@ -20,7 +20,7 @@ type:: sector
 - [[clitoria ternatea]]
 - [[solanum melongena]]
 - [[unknown plant]]: 5
-	- [[lansium parasiticum]]
+- [[lansium parasiticum]]
 - DONE [[pouteria sapota]]
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 04:38:45]--[2024-04-26 Fri 07:18:20] =>  02:39:35

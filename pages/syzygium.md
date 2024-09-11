@@ -1,10 +1,12 @@
 tags:: genus
 
-- [[syzygium cumini]]
-- [[syzygium jambos]]
-- [[syzygium samarangense]]
+- selected for [[edem]]
+	- {{embed [[syzygium cumini]]}}
+	- {{embed [[syzygium samarangense]]}}
+	- {{embed [[syzygium aqueum]]}}
 - research
-	- [[syzygium zeylanicum]]
+	- [[syzygium aromaticum]]
+	- [[syzygium myrtifolium]]
+	- [[syzygium jambos]]
 	- [[syzygium oleina]]
-	- [[syzygium aqueum]]
-	-
+	- [[syzygium malaccense]]

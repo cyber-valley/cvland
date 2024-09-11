@@ -1,8 +1,10 @@
-tags:: genus, research
+tags:: genus
 
-- [[baccaurea racemosa]]
-- [[baccaurea motleyana]]
-- [[baccaurea macrocarpa]]
-- [[baccaurea lanceolata]]
-- [[baccaurea angulata]]
-- [[baccaurea dulcis]]
+- selected for [[edem]]
+	- {{embed [[baccaurea racemosa]]}}
+- research
+	- [[baccaurea motleyana]]
+	- [[baccaurea macrocarpa]]
+	- [[baccaurea lanceolata]]
+	- [[baccaurea angulata]]
+	- [[baccaurea dulcis]]

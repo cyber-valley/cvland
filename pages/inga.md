@@ -1,3 +1,4 @@
 tags:: genus
 
-- {{embed [[inga edulis]]}}
+- selected for [[edem]]
+	- {{embed [[inga edulis]]}}
