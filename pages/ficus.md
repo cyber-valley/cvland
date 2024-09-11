@@ -1,6 +1,6 @@
 tags:: genus
 
-- native
+- native to [[batuka]]
 	- {{embed [[ficus benjamina]]}}
 	- {{embed [[ficus fistulosa]]}}
 - introduced

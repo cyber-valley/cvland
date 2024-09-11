@@ -1,4 +1,4 @@
 alias:: tulip
-tags:: genus
+tags:: genus, research
 
 - [[tulipa gesneriana]]

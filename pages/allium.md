@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, research
 
 - {{embed [[allium ampeloprasum]]}}
 - {{embed [[allium sativum]]}}

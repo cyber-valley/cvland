@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, research
 
 - [[commiphora myrrha]]
 - [tokopedia](https://www.tokopedia.com/search?st=&q=Commiphora&srp_component_id=02.01.00.00&srp_page_id=&srp_page_title=&navsource=)

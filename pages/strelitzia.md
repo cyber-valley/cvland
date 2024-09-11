@@ -1,5 +1,5 @@
 alias:: bird of paradise
-tags:: genus
+tags:: genus, research
 
 - [[strelitzia reginae]]
 - [[sterlitzia juncea]]

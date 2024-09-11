@@ -1,3 +1,4 @@
 tags:: genus
 
-- {{embed [[daucus carota]]}}
+- native to [[edem]]
+	- {{embed [[daucus carota]]}}

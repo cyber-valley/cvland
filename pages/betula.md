@@ -1,5 +1,5 @@
 alias:: birch
-tags:: genus
+tags:: genus, research
 
 - [[betula pendula]]
 - [[betula verrucosa]]

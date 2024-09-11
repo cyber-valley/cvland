@@ -1,12 +1,10 @@
 tags:: genus
 
 - convinient [[pillar]]
-- selected species
-	- [[artocarpus heterophyllus]]
+- selected for [[edem]]
 	- {{embed [[artocarpus heterophyllus]]}}
 	- {{embed [[artocarpus altilis]]}}
 - research
-	-
 	- [[artocarpus integer]]
 	- [[artocarpus camansi]]
 	- [[artocarpus dadah]]

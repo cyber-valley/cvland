@@ -1,5 +1,5 @@
 tags:: genus
 
-- {{embed [[azadirachta indica]]}}
+- selected for [[edem]]
+	- {{embed [[azadirachta indica]]}}
 -
-- [[azadirachta indica]]

@@ -1,3 +1,4 @@
-tags:: genus
+tags:: genus, research
 
-- [[bixa orellana]]
+- [[research]]
+	- {{embed [[bixa orellana]]}}

@@ -1,3 +1,4 @@
 tags:: genus
 
-- {{embed [[foeniculum vulgare]]}}
+- selected for [[edem]]
+	- {{embed [[foeniculum vulgare]]}}

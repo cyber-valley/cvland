@@ -1,3 +1,4 @@
 tags:: genus
 
-- {{embed [[butea monosperma]]}}
+- selected for [[edem]]
+	- {{embed [[butea monosperma]]}}

@@ -1,4 +1,5 @@
 tags:: genus
 
-- {{embed [[anacardium occidentale]]}}
-- [[anacardium occidentale]]
+- selected for [[edem]]
+	- {{embed [[anacardium occidentale]]}}
+-

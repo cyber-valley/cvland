@@ -1,5 +1,5 @@
 alias:: maple
-tags:: genus
+tags:: genus, research
 
 - research
 	- {{embed [[acer palmatum]]}}

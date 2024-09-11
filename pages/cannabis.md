@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, research
 alias:: hemp
 
 - [[cannabis sativa]]

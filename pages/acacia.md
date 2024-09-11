@@ -1,6 +1,6 @@
 tags:: genus
 
-- selected
+- selected for [[edem]]
 	- {{embed [[acacia podalyriifolia]]}}
 - research
 	- {{embed [[acacia senegal]]}}

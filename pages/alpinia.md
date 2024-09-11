@@ -1,5 +1,7 @@
 tags:: genus
 
-- {{embed [[alpinia galanga]]}}
-- {{embed [[alpinia purpurata]]}}
-- {{embed [[alpinia zerumbet]]}}
+- selected for [[edem]]
+	- {{embed [[alpinia purpurata]]}}
+- research
+	- {{embed [[alpinia galanga]]}}
+	- {{embed [[alpinia zerumbet]]}}

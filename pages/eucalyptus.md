@@ -1,8 +1,9 @@
 tags:: genus
 
-- choose
+- selected for [[edem]]
+	- {{embed [[eucalyptus deglupta]]}}
+- research
 	- [[eucalyptus pulverulenta]]
-	- [[eucalyptus deglupta]]
 	- [[eucalyptus globulus]]
 	- [[eucalyptus piperita]]
 	- [[eucalyptus robusta]]

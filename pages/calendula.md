@@ -1,3 +1,4 @@
 tags:: genus
 
-- {{embed [[calendula officinalis]]}}
+- selected for [[edem]]
+	- {{embed [[calendula officinalis]]}}

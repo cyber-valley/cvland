@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, research
 alias:: rice
 
 - [[oryza sativa]]

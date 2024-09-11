@@ -1,8 +1,10 @@
 alias:: srikaya, anona
 tags:: genus
 
-- {{embed [[annona cherimola]]}}
-- {{embed [[annona muricata]]}}
-- {{embed [[annona reticulata]]}}
-- {{embed [[annona squamosa]]}}
-- {{embed [[annona atemoya]]}}
+- selected for [[edem]]
+	- {{embed [[annona cherimola]]}}
+	- {{embed [[annona muricata]]}}
+- research
+	- {{embed [[annona reticulata]]}}
+	- {{embed [[annona squamosa]]}}
+	- {{embed [[annona atemoya]]}}

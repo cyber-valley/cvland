@@ -41,7 +41,7 @@
 - TODO [[baccaurea]]
 - TODO [[salacca]]
 - TODO [[musa]]
-- TODO [[actinidia]]
+- TODO [[actinidia deliciosa]]
 - TODO [[bouea macrophylla]]
 - TODO [[cymbopogon nardus]]
 - [[myrica rubra]]

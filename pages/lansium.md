@@ -1,5 +1,6 @@
 tags:: genus
 
-- {{embed [[lansium parasiticum]]}}
+- selected for [[edem]]
+	- {{embed [[lansium parasiticum]]}}
 -
 -

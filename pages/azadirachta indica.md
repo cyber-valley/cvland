@@ -1,21 +1,5 @@
-alias:: neem
 tags:: species
 alias:: neem, mimba
-tags:: species
-alias:: neem, mimba
-tags:: species
-alias:: neem, mimba
-tags:: species
-alias:: neem, mimba
-tags:: species
-alias:: neem, mimba
-tags:: species
-alias:: neem, mimba
-tags:: species
-alias:: neem, mimba
-tags:: species
-alias:: neem, mimba
-tags:: species
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qma8Et35R8iZQyy6cnqc9czJRhTgbzFEaYw6GgUzCNdQ5U)
 - product

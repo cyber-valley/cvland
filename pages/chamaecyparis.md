@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, research
 
 - selected
 	- {{embed [[chamaecyparis pisifera]]}}

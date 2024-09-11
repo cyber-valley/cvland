@@ -1,6 +1,6 @@
 tags:: genus
 
-- intoduced
+- selected for [[edem]]
 	- {{embed [[eugenia brasiliensis]]}}
 	- {{embed [[eugenia reinwardtiana]]}}
 	- {{embed [[eugenia uniflora]]}}

@@ -1,10 +1,8 @@
-tags:: genus
+tags:: genus, research
 
 - 30 meter tree
-- selected
-	- {{embed [[alstonia scholaris]]}}
 - research
+	- {{embed [[alstonia scholaris]]}}
 	- [[alstonia angustiloba]]
-- [[alstonia scholaris]]
 	- [[alstonia spatulata]]
 -

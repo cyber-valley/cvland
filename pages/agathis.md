@@ -1,5 +1,7 @@
 tags:: genus
 
-- {{embed [[agathis robusta]]}}
-- {{embed [[agathis dammara]]}}
+- selected for [[edem]]
+	- {{embed [[agathis robusta]]}}
+- research
+	- {{embed [[agathis dammara]]}}
 -

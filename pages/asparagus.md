@@ -1,3 +1,5 @@
 tags:: genus
 
-- {{embed [[asparagus officinalis]]}}
+- selected for [[edem]]
+	- {{embed [[asparagus officinalis]]}}
+-

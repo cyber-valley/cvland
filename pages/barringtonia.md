@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, research
 
 - {{embed [[barringtonia asiatica]]}}
 - {{embed [[barringtonia papuana]]}}

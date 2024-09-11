@@ -1,5 +1,6 @@
 tags:: genus
 
-- {{embed [[aleurites moluccanus]]}}
+- selected for [[edem]]
+	- {{embed [[aleurites moluccanus]]}}
 -
 - [[aleurites moluccanus]]

@@ -1,5 +1,7 @@
 tags:: genus
 
-- [[phyllostachys aurea]]
-- [[phyllostachys nigra]]
-- [[phyllostachys edulis]]
+- selected for [[pasture]]
+	- [[phyllostachys aurea]]
+- research
+	- [[phyllostachys nigra]]
+	- [[phyllostachys edulis]]

@@ -1,6 +1,6 @@
 tags:: genus
 
-- selected
+- selected for [[edem]]
 	- {{embed [[artemisia absinthium]]}}
 - research
 	- {{embed [[artemisia vulgaris]]}}

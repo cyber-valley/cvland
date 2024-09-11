@@ -1,9 +1,9 @@
 alias:: lavender
 tags:: genus
 
-- selected
+- selected for [[edem]]
 	- {{embed [[lavandula angustifolia]]}}
-- research
+- [[research]]
 	- [[lavandula stoechas]]
 	- [[lavandula latifolia]]
 	- [[lavandula dentata]]

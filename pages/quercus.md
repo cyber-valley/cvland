@@ -1,4 +1,4 @@
 alias:: oak
-tags:: genus
+tags:: genus, research
 
 - [[quercus rubra]]
