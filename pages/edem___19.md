@@ -8,7 +8,7 @@ type:: sector
 	- [[peperomia magnoliifolia]]
 	- [[coleus scutellarioides]]
 - [[pinus halepensis]]
-	- [[celosia argentea]]
+	- DONE [[celosia argentea]]
 - [[mussaenda philippica]]
 - [[calla palustris]]
 - [[persea americana]]

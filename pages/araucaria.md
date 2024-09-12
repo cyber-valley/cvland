@@ -1,5 +1,6 @@
 tags:: genus
 
+- [[conifer]]
 - selected species
 	- {{embed [[araucaria heterophylla]]}}
 - research
