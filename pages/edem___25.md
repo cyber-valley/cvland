@@ -13,13 +13,13 @@ type:: sector
 - [[citrus reticulata]]
 - [[toona ciliata]]
 - [[manilkara zapota]]
-- [[tradescantia pallida]]
-- [[selaginella apoda]]
+-[[tradescantia pallida]]
+- DONE [[selaginella apoda]]
 - [[coleus amboinicus]]
 - [[origanum majorana]]
 - [[clitoria ternatea]]
 - [[solanum melongena]]
-- [[unknown plant]]: 5
+- DONE [[unknown plant]] 
 - [[lansium parasiticum]]
 - DONE [[pouteria sapota]]
   :LOGBOOK:
