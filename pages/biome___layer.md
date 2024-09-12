@@ -1,0 +1,22 @@
+- [[sky]]
+- [[surface]]
+	- [[titan]] >50m
+	- [[pillar]] <50m
+	- [[canopy]] <20m
+	- [[arbor]] <5m
+	- [[bush]] <2m
+	- [[herb]] <70cm
+	- [[carpet]] <10cm
+	- [[floor]]
+	- [[wall]]
+	- [[vine]]
+- [[aqua]]
+	- [[shore]]
+	- [[floats]]
+	- [[shallow]]
+	- [[water]]
+	- [[bottom]]
+- [[soil]]
+	- [[humus]]
+	- [[topsoil]]
+	- [[subsoil]]

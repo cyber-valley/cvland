@@ -1,0 +1,19 @@
+- purpopse of types
+	- plants can be classified by their type
+	- every type have very unique, distinct parts
+	- understanding parts is vital for efficient interactions
+- key types
+	- [[fern]]
+	- [[moss]]
+	- [[bamboo]]
+	- [[suculent]]
+	- [[tree]]
+	- [[bush]]
+	- [[herb]]
+	- [[creeper]]
+	- [[vine]]
+	- [[grass]]
+	- [[tuber]]
+	- [[palm]]
+	- [[epiphyte]]
+	- [[algae]]

@@ -1,5 +1,4 @@
 tags:: genus
-
 - selected for [[edem]]
 	- {{embed [[nephelium lappaceum]]}}
 - [[research]]
