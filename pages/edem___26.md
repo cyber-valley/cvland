@@ -7,7 +7,7 @@ type:: sector
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:23:16]--[2024-04-26 Fri 07:24:20] =>  01:01:04
   :END:
-- [[pithecellobium dulce]]
+- DONE[[pithecellobium dulce]]
 - [[pyrus pyrifolia]]
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:26:54]--[2024-04-26 Fri 07:25:41] =>  00:58:47
