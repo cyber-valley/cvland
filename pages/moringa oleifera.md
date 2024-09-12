@@ -49,20 +49,20 @@ alias:: ben oil tree, kelor
 		- no-water-days:: 180
 		- humidity:: 55%
 		- fog-resistance:: 30
-		- max-temp: 45
-		- optimal-temp: 30
-		- min-temp: 10
-		- wind-damage: cannot tolerate high-speed winds without damage
+		- max-temp:: 45
+		- optimal-temp:: 30
+		- min-temp:: 10
+		- wind-damage:: cannot tolerate high-speed winds without damage
 	- [[soil]]: prefers well-drained sandy or loamy soils; tolerates poor and rocky soils
-		- soil-ph: 6.5
-		- soil-type: sandy loam, loam, well-drained soils
+		- soil-ph:: 6.5
+		- soil-type:: sandy loam, loam, well-drained soils
 	- [[spacing]]: requires ample space to prevent overcrowding and to maximize sun
 		- good-neighbors:: [[nitrogener]] such as [[gliricidia]] or [[calliandra]]
 		- bad-neighbors:: plants with heavy root competition, like [[eucalyptus]]
 		- max-height:: 900
 		- max-spread:: 600
 - [[lifecycle]]
-	- longevity: 20
+	- longevity:: 20
 	- germination: seeds germinate quickly, usually within 5-12 days
 	- seedling: young seedlings need protection from extreme sun and wind
 	- mature: reaches in 1-2 years; rapid grower and can flower within 6 months
@@ -72,7 +72,7 @@ alias:: ben oil tree, kelor
 		- [[seeds]] are efficient
 		- [[cuttings]] are more reliable
 	- maintenance
-		- pruning: every 3 month
+		- [[pruning]]: every 3 months
 	- harvest:
 		- [[leave]]: can be harvested multiple times per year, dried, and powdered
 		- [[pods]]: harvested when young for vegetable use or mature for seed extraction
