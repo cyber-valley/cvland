@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, research
 alias:: madras thorn, manila tamarind, asam belanda
 
 - nitrogener:: 70

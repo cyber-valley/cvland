@@ -5,4 +5,5 @@ tags:: genus
 - research
 	- {{embed [[artemisia vulgaris]]}}
 	- {{embed [[artemisia dracunculus]]}}
+	- {{embed [[artemisia scoparia]]}}
 -

@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, research
 
-- selected for [[edem]]
+- research
 	- {{embed [[pithecellobium dulce]]}}

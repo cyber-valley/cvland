@@ -9,7 +9,7 @@ tags:: species, class
 	- TODO [[grey parrot]]
 - TODO [[minipig]]
 - TODO [[squirrels]]
-- TODO [[cats]]
+- TODO [[felis catus]]
 - TODO dogs
 	- border collie
 	- poodle
