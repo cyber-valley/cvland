@@ -22,16 +22,14 @@ type:: sector
 - TODO [[hylocereus undatus]]
 - [[annona muricata]] white
 - [[pouteria campechiana]]
-- DONE [[prunus armeniaca]]
+- TODO [[prunus armeniaca]]
 - TODO [[diospyros nigra]]
 - DONE [[malus pumila]]
 - [[eriobotrya japonica]]
 - TODO [[nephelium lappaceum]]
 - TODO [[ziziphus mauritiana]]
-
-- TODO pear coklat 
-
-- TODO[[ficus carica
+- TODO [[pirus]] coklat
+- TODO [[ficus carica]]
 - TODO[[magnolia cempaka]]
 - TODO [[rubus fruticosus]]: 5
 - [[debregeasia longifolia]]: 8
