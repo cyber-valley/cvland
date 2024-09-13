@@ -3,35 +3,37 @@ type:: sector
 - connected to [[edem/sectors]]
 	- [[edem/16]]
 	- [[edem/18]]
-- [[manilkara kauki]]
+- TODO [[manilkara kauki]]
 - [[casuarina equisetifolia]]
-- [[ixora coccinea]]
+- TODO [[ixora coccinea]]
 - [[magnolia alba]]
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:30:27]--[2024-04-26 Fri 08:11:05] =>  01:40:38
   :END:
-- [[carissa macrocarpa]]
+- TODO [[carissa macrocarpa]]
 - [[pyrus calleryana]] green
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:45:35]--[2024-04-26 Fri 08:11:06] =>  01:25:31
   :END:
 - [[muntingia calabura]]
-- [[melaleuca viminalis]]
-- [[flacourtia indica]]
+- TODO [[melaleuca viminalis]]
+- TODO [[flacourtia indica]]
 - [[pyrus communis]] green
-- [[hylocereus undatus]]
+- TODO [[hylocereus undatus]]
 - [[annona muricata]] white
 - [[pouteria campechiana]]
-- [[prunus armeniaca]]
-- [[diospyros nigra]]
-- [[ficus]]
-- [[malus pumila]]
+- DONE [[prunus armeniaca]]
+- TODO [[diospyros nigra]]
+- DONE [[malus pumila]]
 - [[eriobotrya japonica]]
-- [[nephelium lappaceum]]
-- [[ziziphus mauritiana]]
-- [[ficus carica]]
-- [[magnolia cempaka]]
-- [[rubus fruticosus]]: 5
+- TODO [[nephelium lappaceum]]
+- TODO [[ziziphus mauritiana]]
+
+- TODO pear coklat 
+
+- TODO[[ficus carica
+- TODO[[magnolia cempaka]]
+- TODO [[rubus fruticosus]]: 5
 - [[debregeasia longifolia]]: 8
 - [[melastoma malabathricum]]: 2
 - [[calliandra houstoniana]]: 1
