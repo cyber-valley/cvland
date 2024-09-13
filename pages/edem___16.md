@@ -17,11 +17,11 @@ type:: sector
 - [[ficus carica]]
 - [[mangifera indica]] miazaki
 - TODO [[mangifera indica]] miazaki
-- perseaamericanqa markus
+- [[persea americana]] markus
 - [[calliandra angustifolia]]
 - TODO [[prunus amygdalus]]
-melaleuca viminalis
-persea Americana miki
+- [[melaleuca viminalis]]
+- [[persea americana]] miki
 - [[mangifera indica]] irwin
 - [[mangifera indica]] irwin
 - TODO [[elaeagnus pungens]]
@@ -31,7 +31,7 @@ persea Americana miki
 - [[malus pumila]]
 - [[calliandra calothyrsus]]
 - [[calliandra calothyrsus]]
-lycium barbarum merati
+- [[lycium barbarum]] merati
 - [[trema orientalis]]
 - [[melastoma malabathricum]]
 - [[averrhoa carambola]]
