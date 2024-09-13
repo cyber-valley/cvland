@@ -1,12 +1,8 @@
 tags:: species, class
 icon:: 🌈
 
-- [[plants]]: discover species of [[cyber valley]]
-- [[animals]]
-	- [[birds]]
-	- [[chickens]]
-	- [[bees]]
-	- [[sheeps]]
-- [[fungi]]
+- [[plants]]: hundreds of species in [[citadel genesis]] and [[batuka]]
+- [[animals]]: dozens of species in [[citadel genesis]] and [[batuka]]
+- [[fungi]]: dozens of species in [[batuka]]
 -
-- [[species/all]]
+- ## [[species/all]]

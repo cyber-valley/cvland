@@ -1,4 +1,4 @@
-alias:: pakis sayur, vegetable fern
+alias:: pakis sayur, vegetable fern, vegy fern
 tags:: species, research
 
 - availability:: [[tokopedia]]

@@ -8,7 +8,6 @@ type:: sector
 - [[alocasia cucullata]]
 - [[bambusa multiplex]]
 - [[schizolobium parahyba]]
-- [[unknown plant]]
 - [[syzygium myrtifolium]]
 - [[ixora coccinea]]
 - [[crescentia cujete]]

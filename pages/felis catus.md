@@ -1,4 +1,5 @@
 alias:: cats
+tags:: species, animal
 
 - we suffer from rodents
 - the problem does not seems easy solvable without cats
