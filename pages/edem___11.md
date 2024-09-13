@@ -4,7 +4,7 @@ type:: sector
 	- [[edem/10]]
 	- [[edem/12]]
 - [[platycladus orientalis]] [[guild]]
-- [[plinia cauliflora]] [[guild]]
+- TODO [[plinia cauliflora]] [[guild]]
 - [[morus nigra]] [[guild]]
 - [[calliandra tergemina]]
 - [[breynia disticha]]
