@@ -12,7 +12,7 @@ type:: sector
 - TODO [[syzygium myrtifolium]]
 - TODO [[ixora coccinea]]
 - DONE [[crescentia cujete]]
-- [[araucaria heterophylla]]
+- TODO [[araucaria heterophylla]]
 - [[zamioculcas zamiifolia]]
 - TODO [[equisetum hyemale]]
 - [[cordyline fruticosa]]
