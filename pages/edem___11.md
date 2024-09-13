@@ -3,7 +3,7 @@ type:: sector
 - connected to [[edem/sectors]]
 	- [[edem/10]]
 	- [[edem/12]]
-- [[platycladus orientalis]] [[guild]]
+- TODO [[platycladus orientalis]] [[guild]]
 - TODO [[plinia cauliflora]] [[guild]]
 - [[morus nigra]] [[guild]]
 - [[calliandra tergemina]]
