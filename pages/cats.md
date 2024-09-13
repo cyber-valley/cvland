@@ -1,5 +1,0 @@
-- siamese
-- bengal
-- abyssinian
-- maine coon
-- scottish fold
