@@ -9,7 +9,7 @@ type:: sector
 - TODO [[hoya carnosa]]
 - [[anthurium andraeanum]]: 8
 - [[punica granatum]]
-- [[inga edilus]]: 10
+- [[inga edulis]]: 10
 - [[lantana camara]]
 - [[malus sylvestris]]
 - [[pyrus communis]]
