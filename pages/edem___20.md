@@ -3,11 +3,22 @@ type:: sector
 - connected to [[edem/sectors]]
 	- [[edem/19]]
 	- [[edem/21]]
-- [[pyrus]]
+- [[allamanda blanchetii]]
+- [[melaleuca viminalis]]
+- identify
+- [[citrus limon]]
+- [[schefflera arboricola]]
+- [[chrysophyllum cainito]]
+- ixora
+amla
+- [[litchi chinensis]]
+klengkeng
+
+[[pyrus]]
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:31:03]--[2024-04-26 Fri 06:48:12] =>  00:17:09
   :END:
-- [[litchi chinensis]]
+
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 04:42:50]--[2024-04-26 Fri 06:50:51] =>  02:08:01
   :END:
@@ -23,11 +34,10 @@ type:: sector
 - [[gymnanthemum amygdalinum]]
 - [[pyrus calleryana]]
 - [[foetidia mauritiana]]
-- [[chrysophyllum cainito]]
-- [[schefflera arboricola]]
-- [[citrus limon]]
-- [[allamanda blanchetii]]
-- [[melaleuca viminalis]]
+
+
+
+
 - [[phyllanthus emblica]]
 - [[artocarpus altilis]]
 - [[buxus sempervirens]]

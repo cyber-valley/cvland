@@ -24,11 +24,12 @@ type:: sector
 - [[pouteria campechiana]]
 - TODO [[prunus armeniaca]]
 - TODO [[diospyros nigra]]
-- DONE [[malus pumila]]
+- TODO [[malus pumila]]
 - [[eriobotrya japonica]]
 - TODO [[nephelium lappaceum]]
 - TODO [[ziziphus mauritiana]]
 - TODO [[pirus]] coklat
+- solanum torvum
 - TODO [[ficus carica]]
 - TODO [[magnolia cempaka]]
 - TODO [[rubus fruticosus]]: 5
