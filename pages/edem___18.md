@@ -1,3 +1,5 @@
+type:: sector
+
 - connected to [[edem/sectors]]
 	- [[edem/17]]
 	- [[edem/19]]
