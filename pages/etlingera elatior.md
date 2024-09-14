@@ -1,5 +1,5 @@
 alias:: kecombrang, kantan
-tags:: species
+tags:: species, research
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmUY7UwzUfwPpL4iU48fjhvfigcTpdmzYCyn7MyQbUVoch)
 -

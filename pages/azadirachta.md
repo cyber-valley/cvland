@@ -1,16 +1,5 @@
 tags:: genus
-tags:: genus, species
-tags:: genus, species
-tags:: genus, species
-tags:: genus, species
-tags:: genus, species
-tags:: genus, species
-tags:: genus, species
-tags:: genus, species
-tags:: genus, species
-tags:: genus, species
-tags:: genus, species
-tags:: genus, species
-- {{embed [[azadirachta indica]]}}
+
+- selected for [[edem]]
+	- {{embed [[azadirachta indica]]}}
 -
-- [[azadirachta indica]]

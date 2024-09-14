@@ -1,6 +1,7 @@
 tags:: genus
 
-- {{embed [[averrhoa carambola]]}}
-- {{embed [[averrhoa bilimbi]]}}
-- [[averrhoa bilimbi]]
-- [[averrhoa carambola]]
+- selected for [[edem]]
+	- {{embed [[averrhoa carambola]]}}
+- [[research]]
+	- {{embed [[averrhoa bilimbi]]}}
+-

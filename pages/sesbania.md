@@ -1,5 +1,5 @@
-tags:: genus
+tags:: genus, research
 
-- {{embed [[sesbania grandiflora]]}}
-- {{embed [[sesbania rostrata]]}}
-- {{embed [[sesbania drummondii]]}}
+- [[research]]
+	- {{embed [[sesbania grandiflora]]}}
+	- {{embed [[sesbania rostrata]]}}

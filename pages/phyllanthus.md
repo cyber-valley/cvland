@@ -1,5 +1,9 @@
 tags:: genus
 
-- {{embed [[phyllanthus acidus]]}}
-- {{embed [[phyllanthus emblica]]}}
-- {{embed [[phyllanthus tenellus]]}}
+- native
+	- {{embed [[phyllanthus tenellus]]}}
+- introduced
+	-
+	- {{embed [[phyllanthus casticum]]}}
+	- {{embed [[phyllanthus acidus]]}}
+	- {{embed [[phyllanthus emblica]]}}

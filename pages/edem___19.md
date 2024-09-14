@@ -7,37 +7,44 @@ type:: sector
 	- [[epidendrum ibaguense]]
 	- [[peperomia magnoliifolia]]
 	- [[coleus scutellarioides]]
+ - plumeria rubra
 - [[pinus halepensis]]
-	- [[celosia argentea]]
+	- DONE [[celosia argentea]]
 - [[mussaenda philippica]]
-- [[calla palustris]]
+- DONE [[calla palustris]] unknown
 - [[persea americana]]
 - [[hibiscus rosa-sinensis]]
-- [[canna indica]]
-- [[chrysanthemum morifolium]]
+- TODO [[canna indica]]
 - [[vachellia karroo]]
+  - [[chrysanthemum morifolium]]
+hibiscus trioneum
 - [[solanum pseudocapsicum]]
-- [[codiaeum variegatum]]
+- TODO [[codiaeum variegatum]]
 - [[nephelium lappaceum]]
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 04:34:46]
   CLOCK: [2024-04-26 Fri 04:34:47]--[2024-04-26 Fri 06:42:26] =>  02:07:39
   :END:
-	- [[torenia fournieri]]
-	- [[portulaca pilosa]]
-- [[plinia phitrantha]]
-- [[nerium oleander]]
-- [[neoregelia carolinae]]
+	- DONE[[torenia fournieri]]
+	- DONE [[portulaca pilosa]]
+- TODO [[plinia phitrantha]]
+- passiflora alata
+- TODO [[nerium oleander]]
+- TODO [[neoregelia carolinae]]
 - [[mangifera indica]]
 - [[inga edulis]]
-- [[melaleuca]]
-- [[pouteria sapota]]
+- TODO [[melaleuca]]
+Alternanthera ficoidea 
+- TODO [[pouteria sapota]]
 	- [[tradescantia palida]]
-	- [[osmoxylon lineare]]
-- [[phyllanthus emblica]]
-- [[cryptomeria japonica]]
-- [[annona squamosa]] jambo
+aDONae osmyxolone
+- TODO [[phyllanthus emblica]]
+
+- TODO [[cryptomeria japonica]]
+Asparagus densiflorus
+Dioscorea analalavensis
+
+- TODO [[annona squamosa]] jambo
 - [[malus domestica]] anna
-- identifiable plants: 9
-- unidentifiable plants: 5
+- buxus sempervirens
 - DONE [[tagetes minuta]]

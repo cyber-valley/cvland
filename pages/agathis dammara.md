@@ -1,7 +1,8 @@
 alias:: amboina, damar
 tags:: species
 
-- availability:: hanara, [tokopedia](https://www.tokopedia.com/dutatanaman/bibit-tanaman-kayu-putih-pohon-minyak?extParam=ivf%3Dfalse%26src%3Dsearch&refined=true)
+- availability:: hanara, tokopedia
+- [[conifer]]
 - ![image](https://ipfs.io/ipfs/QmPkab6xb3rFSUgzBYKfgRYeotbm6FY91UAGWyFMyxQ9Sk)
 -
 - ![image](https://ipfs.io/ipfs/QmYr22z4LNWX4RvGFCFhheHhv9Yh2iSQK5GzJqzZXondDi)

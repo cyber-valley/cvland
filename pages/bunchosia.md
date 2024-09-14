@@ -1,3 +1,3 @@
 tags:: genus
-
-- {{embed [[bunchosia armeniaca]]}}
+- selected for [[edem]]
+	- {{embed [[bunchosia armeniaca]]}}

@@ -1,3 +1,5 @@
 tags:: genus
 
-- {{embed [[macadamia tetraphylla]]}}
+- selected for [[edem]]
+	- {{embed [[macadamia tetraphylla]]}}
+-

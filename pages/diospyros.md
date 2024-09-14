@@ -1,7 +1,8 @@
 tags:: genus
 
-- {{embed [[diospyros kaki]]}}
-- {{embed [[diospyros nigra]]}}
+- selected for [[edem]]
+	- {{embed [[diospyros kaki]]}}
+	- {{embed [[diospyros nigra]]}}
 - research
 	- {{embed [[diospyros blancoi]]}}
 	- {{embed [[diospyros celebica]]}}

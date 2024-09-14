@@ -7,4 +7,4 @@ alias:: cuban pink trumpet tree, white cedar
 - [plantsofasia](http://www.plantsofasia.com/index/tabebuia_pallida/0-349)
 - [wiki](https://en.wikipedia.org/wiki/Tabebuia_pallida)
 - [tokopedia](https://www.tokopedia.com/hanaranurseries/tabebuia-pallida-bunga-pink-daun-kecil-pohon-instan-instant-tree?extParam=ivf%3Dfalse%26src%3Dsearch)
--
+- [[flower]]

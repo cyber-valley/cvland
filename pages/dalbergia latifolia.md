@@ -6,4 +6,5 @@ tags:: species
 -
 - [tokopedia](https://www.tokopedia.com/pesonabibitunggul/bibit-tanaman-pohon-sonokeling-kayu-sonokeling?extParam=ivf%3Dfalse%26src%3Dsearch)
 - [tokopedia](https://www.tokopedia.com/mitratunasrimba/benih-sono-keling-500gr?extParam=src%3Dshop%26whid%3D9687131)
+- [[wood]]
 -

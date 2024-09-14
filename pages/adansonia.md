@@ -1,6 +1,8 @@
 alias:: baobab
-tags:: genus
+tags:: genus, research
 
-- {{embed [[adansonia grandidierii]]}}
-- {{embed [[adansonia digitata]]}}
-- {{embed [[adansonia gregorii]]}}
+- research
+	- {{embed [[adansonia grandidierii]]}}
+	- {{embed [[adansonia digitata]]}}
+	- {{embed [[adansonia gregorii]]}}
+-

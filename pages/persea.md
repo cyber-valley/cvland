@@ -1,3 +1,5 @@
 tags:: genus
 
-- {{embed [[persea americana]]}}
+- selected for [[edem]]
+	- {{embed [[persea americana]]}}
+-

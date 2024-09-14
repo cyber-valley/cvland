@@ -1,2 +1,3 @@
-tags:: species, genus
-- {{embed [[debregeasia longifolia]]}}
+tags:: genus
+- native to [[batuka]] and [[edem]]
+	- {{embed [[debregeasia longifolia]]}}

@@ -1,10 +1,12 @@
 tags:: genus
 
-- {{embed [[prunus amygdalus]]}}
-- {{embed [[prunus armeniaca]]}}
-- {{embed [[prunus domestica]]}}
-- {{embed [[prunus cerasus]]}}
-- {{embed [[prunus avium]]}}
-- {{embed [[prunus padus]]}}
-- {{embed [[prunus serotina]]}}
-- {{embed [[prunus serrulata]]}}
+- selected for [[edem]]
+	- {{embed [[prunus domestica]]}}
+	- {{embed [[prunus amygdalus]]}}
+	- {{embed [[prunus armeniaca]]}}
+- research
+	- {{embed [[prunus cerasus]]}}
+	- {{embed [[prunus avium]]}}
+	- {{embed [[prunus padus]]}}
+	- {{embed [[prunus serotina]]}}
+	- {{embed [[prunus serrulata]]}}

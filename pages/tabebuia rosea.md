@@ -7,4 +7,4 @@ alias:: pink poui, rosy trumpet tree
 - [wiki](https://en.wikipedia.org/wiki/Tabebuia_rosea)
 - [tokopedia](https://www.tokopedia.com/plantismeid/1m-white-tabebuia-rosea-tanaman-pohon-tabebuya-putih?extParam=ivf%3Dfalse%26src%3Dsearch&refined=true)
 - height: up to 30m
--
+- [[flower]]

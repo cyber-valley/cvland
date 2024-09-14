@@ -8,4 +8,4 @@ type:: sector
 	- [[eucalyptus deglupta]]
 	- [[citrus limon]]
 	- [[bergera koenigii]]
-	- [[trema micranthum]]
+	- [[trema micrantha]]

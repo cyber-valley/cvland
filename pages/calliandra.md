@@ -1,6 +1,8 @@
 tags:: genus
 
-- {{embed [[calliandra tergemina]]}}
-- {{embed [[calliandra calothyrsus]]}}
-- {{embed [[calliandra surinamensis]]}}
-- {{embed [[calliandra angustifolia]]}}
+- native to [[batuka]]
+	- {{embed [[calliandra calothyrsus]]}}
+- selected for [[edem]]
+	- {{embed [[calliandra tergemina]]}}
+	- {{embed [[calliandra surinamensis]]}}
+	- {{embed [[calliandra angustifolia]]}}

@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, research
 
 - {{embed [[dracaena angustifolia]]}}
 - {{embed [[dracaena cinnabari]]}}

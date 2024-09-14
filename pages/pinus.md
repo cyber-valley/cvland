@@ -1,3 +1,5 @@
 tags:: genus
 
-- [[pinus merkusii]]
+- [[conifer]]
+- selected for [[edem]]
+	- {{embed [[pinus merkusii]]}}

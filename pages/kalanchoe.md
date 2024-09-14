@@ -1,3 +1,4 @@
 tags:: genus
 
-- {{embed [[kalanchoe pinnata]]}}
+- selected for [[edem]]
+	- {{embed [[kalanchoe pinnata]]}}

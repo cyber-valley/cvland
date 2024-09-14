@@ -1,3 +1,3 @@
 tags:: genus
-
-- {{embed [[litchi chinensis]]}}
+- selected for [[edem]]
+	- {{embed [[litchi chinensis]]}}

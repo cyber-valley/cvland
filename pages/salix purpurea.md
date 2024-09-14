@@ -1,4 +1,4 @@
-alias:: purple willow, purpleosier willow, purple osier
+alias:: purple willow, purple osier
 tags:: species
 
 - availability:: unknown

@@ -1,5 +1,5 @@
 alias:: salak 
-tags:: species
+tags:: species, research
 availability:: tokopedia
 edem:: need
 

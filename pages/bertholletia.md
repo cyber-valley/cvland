@@ -1,3 +1,4 @@
 tags:: genus
 
-- {{embed [[bertholletia excelsa]]}}
+- selected for [[edem]]
+	- {{embed [[bertholletia excelsa]]}}

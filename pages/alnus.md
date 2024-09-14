@@ -1,10 +1,9 @@
-tags:: genus
+tags:: genus, research
 alias:: alder
 
 - nitrogener:: 100
-- selected
-	- {{embed [[alnus rubra]]}}
 - research
+	- {{embed [[alnus rubra]]}}
 	- [[alnus incana]]
 	- [[alnus glutinosa]]
 -

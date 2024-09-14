@@ -1,9 +1,11 @@
 tags:: genus
 
-- {{embed [[adenium obesum]]}}
-- [[adenium obesum]]
-- [[adenium swazicum]]
-- [[adenium somalense]]
-- [[adenium multiflorum]]
-- [[adenium arabicum]]
-- [[adenium boehmianum]]
+- selected to [[edem]]
+	- {{embed [[adenium obesum]]}}
+- [[research]]
+	- [[adenium obesum]]
+	- [[adenium swazicum]]
+	- [[adenium somalense]]
+	- [[adenium multiflorum]]
+	- [[adenium arabicum]]
+	- [[adenium boehmianum]]

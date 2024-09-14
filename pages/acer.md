@@ -1,5 +1,5 @@
 alias:: maple
-tags:: genus
+tags:: genus, research
 
 - research
 	- {{embed [[acer palmatum]]}}
@@ -9,10 +9,4 @@ tags:: genus
 	- {{embed [[acer pictum]]}}
 	- {{embed [[acer buergerianum]]}}
 	- {{embed [[acer oliverianum]]}}
-- [[acer rubrum]]
-- [[acer truncatum]]
-- [[acer palmatum]]
-- [[acer pictum]]
-- [[acer buergerianum]]
-- [[acer oliverianum]]
 -

@@ -1,5 +1,8 @@
 tags:: genus
 
-- {{embed [[agathis robusta]]}}
-- {{embed [[agathis dammara]]}}
+- [[conifer]]
+- selected for [[edem]]
+	- {{embed [[agathis robusta]]}}
+- research
+	- {{embed [[agathis dammara]]}}
 -

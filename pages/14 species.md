@@ -1,5 +1,5 @@
 - basic [[magic forest]] ecosystem canvas with focus on survival reserve
-	- [[inga edulis]] : ecosystem [[nitrogener]] with hard [[wood]], [[fuel]], [[fodder]], tasty [[fruit]] and [[protein]]
+	- [[inga edulis]] : ecosystem [[nitrogener]] with hard [[wood]], [[fuel]], [[fodder]], tasty [[fruit]] and [[protein]] [[seeds]]
 	- [[medicago sativa]]: amazing hay optimized [[fodder]] and [[nitrogener]]
 	- [[musa acuminata]]: fast [[soil]] builder, tasty [[fruit]], [[starch]] and [[fodder]]
 	- [[bamboo]]: outstanding [[wood]], [[fuel]] and [[fodder]]
@@ -10,6 +10,10 @@
 	- [[manihot esculenta]] : [[starch]], [[flour]], [[fodder]]
 	- [[sapindus]]: [[soap]] base essential for [[health]], [[cosmetics]] and [[hygiene]]
 	- [[aloe vera]]: ultimate [[medicine]] and [[green]], [[water regulator]]
+	- [[thymus vulgaris]]
+	- [[salvia rosmarinus]]
+	- [[melissa officinalis]]
+	- [[symphytum officinale]]
 	- [[hericium erinaceus]]: [[decomposer]] supporting cognitive [[health]] and [[food]]
 	- [[worms]]: [[fodder]] for [[chickens]] and [[soil]] aeration
 	- [[homo sapiens]]: efficient [[regulator]] and [[predator]]

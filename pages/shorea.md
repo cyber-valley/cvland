@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, research
 
 - up to 100 meter height
 - https://www.tokopedia.com/saungbibitbt/bibit-pohon-meranti-shorea-sp?extParam=ivf%3Dfalse%26src%3Dsearch&refined=true

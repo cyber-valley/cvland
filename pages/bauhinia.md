@@ -1,7 +1,9 @@
 tags:: genus
 
-- [[bauhinia variegata]]
-- [[bauhinia blakeana]]
-- [[bauhinia coccinea]]
-- [[bauhinia purpurea]]
-- [[bauhinia acuminata]]
+- selected for [[edem]]
+	- {{embed [[bauhinia variegata]]}}
+- research
+	- [[bauhinia blakeana]]
+	- [[bauhinia coccinea]]
+	- [[bauhinia purpurea]]
+	- [[bauhinia acuminata]]

@@ -1,8 +1,9 @@
 tags:: genus
 
-- {{embed [[mangifera indica]]}}
+- selected for [[edem]]
+	- {{embed [[mangifera indica]]}}
+	- {{embed [[mangifera caesia]]}}
 - research
 	- [[mangifera odorata]]
-	- [[mangifera caesia]]
-	- mangifera pajang
-	- mangifera foetida
+	- [[mangifera foetida]]
+	- [[mangifera laurina]]

@@ -1,3 +1,4 @@
 tags:: genus
 
-- {{embed [[dimocarpus longan]]}}
+- selected for [[edem]]
+	- {{embed [[dimocarpus longan]]}}

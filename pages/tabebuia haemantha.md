@@ -7,4 +7,4 @@ alias:: blood-red trumpet tree, roble cimarron
 - height: up to 5m
 - [plantsofasia](http://www.plantsofasia.com/index/tabebuia_haemantha/0-346)
 - [tokopedia](https://www.tokopedia.com/hanaranurseries/tabebuia-haemantha-tabebuia-merah-pohon-instan-instant-tree?extParam=ivf%3Dfalse%26src%3Dsearch)
--
+- [[flower]]

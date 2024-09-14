@@ -1,8 +1,10 @@
 tags:: genus
 
-- {{embed [[melaleuca viminalis]]}}
--
-- [[melaleuca bracteata]]
-- [[melaleuca leucadendra]]
-- [[melaleuca alternifolia]]
-- [[melaleuca cajuputi]]
+- selected
+	- {{embed [[melaleuca viminalis]]}}
+	- {{embed [[melaleuca quinquenervia]]}}
+- consider
+	- [[melaleuca bracteata]]
+	- [[melaleuca leucadendra]]
+	- [[melaleuca alternifolia]]
+	- [[melaleuca cajuputi]]

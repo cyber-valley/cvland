@@ -60,3 +60,16 @@ alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil
   | proteins          | seeds      | 20-25%      | provide a valuable source of nutrition, especially in [[protein]]-rich diets. |
   | fats and oils     | seeds      | 5-10%       | contain [[essential]] fatty acids and oils important for overall health. |
   | nectar            | flowers    | variable (depends on environmental factors) | [[attract pollinators]] and varies based on environmental factors; contains [[sugars]] and [[trace compounds]] . |
+		- harvesting of the fruit occurs in the dry season, typically several months after flowering.
+	- **good neighbors**: inga edulis grows well with other nitrogen-fixing trees, fruit trees, and shade-tolerant crops. it is often used in agroforestry systems with cacao, coffee, and various fruit trees like banana and citrus.
+	- **bad neighbors**: it should not be planted with crops that require full sunlight for optimal growth, as its dense canopy can create too much shade.
+- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmR84KRKJ5hawM7dbqqGwvkauwNgh4Wn9y1s9Ghfy6pE38)
+- | Age of tree (years) | Trees per ha | Pruning (%) | Spacing (m) | DM of leaves (kg/tree) | DM of wood (kg/tree) | DM of leaves (Mg/ha) | DM of wood (Mg/ha) | Total above-ground biomass (Mg/ha) |
+  |---------------------|--------------|-------------|-------------|------------------------|----------------------|----------------------|--------------------|-----------------------------------|
+  | 1                   | 5000         | 0           | 1 × 2       | 0.4                    | 0.3                  | 2.10                 | 1.65               | 3.75                              |
+  | 2                   | 2500         | 50          | 2 × 2       | 1.1                    | 2.4                  | 2.80                 | 6.08               | 8.88                              |
+  | 3                   | 1250         | 75          | 2 × 4       | 3.0                    | 17.7                 | 3.78                 | 22.11              | 25.89                             |
+  | 4                   | 625          | 88          | 4 × 4       | 4.3                    | 35.9                 | 2.69                 | 22.43              | 25.12                             |
+  | 5                   | 313          | 94          | 4 × 8       | 5.8                    | 65.4                 | 1.82                 | 20.48              | 22.29                             |
+  | 6                   | 156          | 97          | 8 × 8       | 6.1                    | 73.0                 | 0.95                 | 11.39              | 12.34                             |
+	- [source](http://www.icabr.com/agricultura/pdf_files/vol_43_4_pdf/lojka.pdf)

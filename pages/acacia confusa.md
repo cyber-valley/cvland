@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, reseach
 
 - nitrogener:: 100
 - ![image](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmV3tKTy3v9ec57WpFRgiyWrSF9isnYjmY79EixcaxZvRy)
@@ -32,7 +32,7 @@ tags:: species
 	- **strata**: shrub or small tree stratum, typically grows to a height of around 3-8 meters
 	- **days to maturity**: 3-5 years under optimal growing conditions
 	- **plant, harvest, pruning calendar in months**: the early spring months (march-april) for **planting**, **harvesting** in late summer or early autumn, **pruning** - in late winter or early spring
-	- **good neighbors**: nitrogen-fixing plants, legumes ([[clover]], beans, [[peas]]), drought-tolerant plants (succulents or native grasses), deep-rooted plants, like [[yarrow]] [[achillea millefolium]] or [[comfrey]] [[symphytum ]] spp., insect-repelling plants [[marigold]], [[lavender]], pollinator-attracting plants such as bee balm, monarda or [[echinacea]]
+	- **good neighbors**: nitrogen-fixing plants, legumes ([[clover]], beans, [[peas]]), drought-tolerant plants (succulents or native grasses), deep-rooted plants, like [[yarrow]] [[achillea millefolium]] or [[comfrey]] [[symphytum ]] spp., insect-repelling plants [[marigold]], [[lavender]], pollinator-attracting plants such as bee balm, monarda or [[echinacea purpurea]]
 	- bad neighbors: plants that may hinder the growth of acacia confusa if located nearby
 - ## chemical compounds
 - | chemical compound | plant part | amount | description |

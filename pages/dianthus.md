@@ -1,7 +1,6 @@
-tags:: genus
+tags:: genus, research
 
-- selected
-	- {{embed [[dianthus barbatus]]}}
 - research
+	- {{embed [[dianthus barbatus]]}}
 	- {{embed [[dianthus caryophyllus]]}}
 -

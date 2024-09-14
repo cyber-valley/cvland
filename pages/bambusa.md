@@ -1,8 +1,9 @@
+tags:: genus
 
-tags:: species, genus
-
-- [[bambusa balcooa]]
-- [[bambusa oldhamii]]
-- [[bambusa textilis]]
-- [[bambusa ventricosa]]
-- [[bambusa vulgaris]]
+- selected for [[kavo]]
+	- [[bambusa oldhamii]]
+- research
+	- [[bambusa balcooa]]
+	- [[bambusa textilis]]
+	- [[bambusa ventricosa]]
+	- [[bambusa vulgaris]]

@@ -1,3 +1,4 @@
 tags:: genus
 
-- {{embed [[codiaeum variegatum]]}}
+- selected for [[edem]]
+	- {{embed [[codiaeum variegatum]]}}

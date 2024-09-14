@@ -1,3 +1,7 @@
-tags:: genus, species
-- {{embed [[juniperus communis]]}}
-- {{embed [[juniperus virginiana]]}}
+tags:: genus
+
+- [[conifer]]
+- selected for [[edem]]
+	- {{embed [[juniperus virginiana]]}}
+- [[research]]
+	- {{embed [[juniperus communis]]}}

@@ -1,2 +1,2 @@
-tags:: species
+tags:: species, research
 alias:: belalai gajah

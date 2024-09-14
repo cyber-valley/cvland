@@ -1,3 +1,4 @@
 tags:: genus
 
-- [[lantana camara]]
+- selected for [[edem]]
+	- {{embed [[lantana camara]]}}

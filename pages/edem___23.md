@@ -15,7 +15,6 @@ type:: sector
   :LOGBOOK:
   CLOCK: [2024-04-25 Thu 07:09:50]--[2024-04-26 Fri 02:30:44] =>  19:20:54
   :END:
-- [[phoenix dactylifera]]
 - [[mangifera indica]]
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:22:39]--[2024-04-26 Fri 07:09:11] =>  00:46:32

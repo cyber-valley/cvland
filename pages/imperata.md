@@ -1,4 +1,4 @@
 tags:: genus
-
-- [[imperata cylindrica]]
+- native for [[batuka]]
+	- {{embed [[imperata cylindrica]]}}
 -

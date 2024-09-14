@@ -1,0 +1,3 @@
+- founders house
+- please, respect our privacy
+- let us know in advance if you want to be our guest

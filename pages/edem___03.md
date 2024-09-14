@@ -13,15 +13,14 @@ type:: sector
 	- [[punica granatum]] black
 	- [[diospyros kaki]]
 	- [[cinamonium verum]]
-	- [[morinda citrifolia]]
+	- DONE [[morinda citrifolia]]
 	- [[moringa oleifera]]
 	- [[diospyros kaki]]
 	- [[diospyros kaki]]
 	- [[spondias dulcis]]
-	- [[unknown plant]]
 - [[beds]]
-	- [[cnidoscolus aconitifolius]]: 4
-	- [[mitragyna speciosa]]: 4
+	- [[cnidoscolus aconitifolius]]: 2
+	- [[mitragyna speciosa]]
 	- [[kalanchoe pinnata]]
 	- [[rumex sanguineus]]
 	- [[solanum melongena]]

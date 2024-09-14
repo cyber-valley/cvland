@@ -7,4 +7,4 @@ alias:: african tulip tree, fire bell, flame of the forest, fouain tree
 - [plantsofasia](http://www.plantsofasia.com/index/spathodea_campanulata/0-405)
 - [wiki](https://en.wikipedia.org/wiki/Spathodea)
 - [tokopedia](https://www.tokopedia.com/ziatokopot/pohon-spathodea-campanulata-tinggi-2meter?extParam=ivf%3Dfalse%26src%3Dsearch&refined=true)
--
+- [[flower]]

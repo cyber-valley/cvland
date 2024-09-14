@@ -67,7 +67,7 @@
 	- with affordable, low-tech solutions
 - scene 11: joy and @master
 	- we invite you to join this venture
-	- on november 1st, we begin our eduhealth program—bootcamp
+	- on november 1st, we begin our eduhealth program: BOOTcamp
 	- in just two weeks, you’ll experience
 		- 20 hours of cutting-edge lectures in 10 topics on autonomy
 			- energy systems
@@ -84,11 +84,20 @@
 		- connections with like-minded people
 		- and improvements to your health and mind
 - scene 12: @joy
+	- during the bootcamp, you’ll enjoy the comforts of full autonomy
+	- stay in fully equipped tents designed for sustainability and ease
+	- you’ll have everything you need — from cozy bedding to all the amenities
+	- we’ll also provide nourishing
+	- organic meals sourced from the surrounding environment
+	- so you can focus on what truly matters—your growth, learning, and connection
+	- and of course, we’ve planned stunning hikes through the local landscape
+	- and relaxing evening entertainment to unwind
+- scene 13: @joy
 	- bootcamp will help you answer these crucial questions:
 	- is autonomous life for you?
 	- how can you save time and money while moving off-grid?
 	- and how do you launch your own community anywhere in the world?
-- scene 13
+- scene 14: @joy and @master
 	- with citadel genesis, the choice is yours
 	- take control
 	- create the life you’ve always imagined

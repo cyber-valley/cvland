@@ -1,34 +1,17 @@
 icon:: ♻️
+alias:: and more
 
 - welcome to the autonomy and sustainability knowledge graph
 - created by [[rockets]]
-- for [[citadel genesis]] district of [[cyber valley]]
--
-- we are building autonomous community in bali mountains on ~40 ha
-- we settled here 1 year ago to learn how to live autonomously
-- think of this knowledge graph is a book
-- that summarize our experience on this way
--
-- it is young, but improving fast
-- you can make it better
--
-- the purpose of this book is to help you build your autonomous community everywhere!
-- with such knowledge
-	- you can establish very comfortable independent life
-	- in the most beautiful places on earth
-	- at extremely low cost which can be less when price of average car
--
-- if you are interested in practical experience we launch [[bootcamp]] in november
-	- 2 week intensive training
-	- 10 days of complete offline
-	- theory, mentorship and participation in real process
+- for [[cyber valley]] and [[citadel genesis]]
+- disclaimer: the sytech knowledge graph is under construction
 -
 - what is sytech?
 	- sytech is rooted to [[philosophy of harmonious complexity]]
 	- on top of which we develop this design framework for fusing societies, biomes, technology, and architecture
-	- this knowledge graph is semantic setting for [[autonomy]], [[prosperity]] and [[evolution]]
+	- this knowledge graph is semantic setting for [[autonomy]], prosperity and evolution
 -
-- sytech applied to [[network states]] and [[startup communities]] is practical design framework
+- sytech applied to [[network states]] and [[startup societies]] is practical design framework
 	- [[intro to autonomy]]: complex can be simple
 	- [[energy system]]: how to build and make it work reliably?
 	- [[water system]]: simple solutions for clean water
@@ -39,3 +22,4 @@ icon:: ♻️
 	- [[learning and ai]]: knowledge graphs and prompt engineering basics
 	- [[lowtech construction]]: building fast and cheap
 	- [[sensors, dev and control]]: how to automate and lead community
+	- [[token engineering]]: how to program society for good

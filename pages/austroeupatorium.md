@@ -1,4 +1,5 @@
-tags:: genus, species
-- [[austroeupatorium inulifolium]]
-- {{embed [[austroeupatorium inulifolium]]}}
+tags:: genus
+
+- selected for [[edem]]
+	- {{embed [[austroeupatorium inulifolium]]}}
 -

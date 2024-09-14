@@ -1,5 +1,7 @@
 tags:: genus
 
-- [[dendrocalamus asper]]
-- [[dendrocalamus giganteus]]
+- native to [[genesis]]
+	- {{embed [[dendrocalamus asper]]}}
+- research
+	- {{embed [[dendrocalamus giganteus]]}}
 -

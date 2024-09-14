@@ -1,6 +1,8 @@
 tags:: genus
 
-- {{embed [[thymus vulgaris]]}}
-- {{embed [[thymus serpyllum]]}}
+- selected for [[edem]]
+	- {{embed [[thymus vulgaris]]}}
+- research
+	- [[thymus serpyllum]]
 -
 -

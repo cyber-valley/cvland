@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, research
 alias:: kecipir
 
 - nitrogener:: 100

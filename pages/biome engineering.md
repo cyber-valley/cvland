@@ -1,0 +1,16 @@
+- emerging interdisciplinary field
+- focused on modifying and optimizing ecosystems
+- to meet human needs
+- restore natural balance
+- and create sustainable, self-sufficient environments
+- methods
+	- genetics: modifying organisms to enhance ecological functions
+	- restoration: reintroducing native species and rebuilding habitats to restore damaged ecosystems like forests and wetlands
+	- bioremediation: using lifeforms to clean polluted environments by breaking down or absorbing contaminants
+	- modeling: using computer simulations to predict and optimize biome structure
+	- robonomics: employing sensor, drone and neural networks to optimize biome net output
+	- aquaponics: growing plants in space-efficient  environments, integrated with sustainable fish farming
+	- carbon sequestration: enhancing ecosystems’ ability to store carbon through reforestation, soil management, and biochar use
+	- green infrastructure: incorporating natural elements into urban design to manage stormwater, improve air quality, and reduce heat
+	- regeneration: farming methods like no-till and cover cropping that restore soil health and increase biodiversity
+	- biomimicry: designing sustainable solutions inspired by nature, like energy-efficient buildings and water filtration systems

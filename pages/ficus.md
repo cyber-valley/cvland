@@ -1,12 +1,12 @@
 tags:: genus
 
-- native
-	- [[ficus benjamina]]
-	- [[ficus fistulosa]]
+- native to [[batuka]]
+	- {{embed [[ficus benjamina]]}}
+	- {{embed [[ficus fistulosa]]}}
 - introduced
-	- [[ficus carica]]
-	- [[ficus elastica]]
-	- [[ficus microcarpa]]
+	- {{embed [[ficus carica]]}}
+	- {{embed [[ficus elastica]]}}
+	- {{embed [[ficus microcarpa]]}}
 - backlog
 	- [[ficus benghalensis]]
 	- [[ficus religiosa]]
@@ -15,7 +15,6 @@ tags:: genus
 	- [[ficus panama]]
 	- [[ficus lyrata]]
 	- [[ficus longifolia]]
-	-
 	- [[ficus septica]]
 	- [[ficus variegata]]
 	- [[ficus hispida]]

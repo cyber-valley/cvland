@@ -1,4 +1,4 @@
-tags:: genus, species
+tags:: genus, species, research
 
 - availability:: unknown
 - nitrogener:: 70

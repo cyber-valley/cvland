@@ -1,4 +1,7 @@
-tags:: genus
+tags:: genus, research
 
-- {{embed [[agave amica]]}}
-- {{embed [[agave americana]]}}
+- research
+	- {{embed [[agave amica]]}}
+	- {{embed [[agave americana]]}}
+	- [[agave salmiana]]
+	- [[agave tequilana]]

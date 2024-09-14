@@ -1,6 +1,7 @@
-tags:: genus
+tags:: genus, research
 
-- ![Cara Menanam dan Merawat Bunga Lupin - BibitBunga.com](https://bibitbunga.com/wp-content/uploads/2017/04/tanaman-bunga-lupin.jpg)
 - nitrogener:: 150
-- [[lupinus polyphyllus]]
+- [[do not grow]] in [[edem]] and [[pasture]]
 - [[floor]]
+- research
+	- {{embed [[lupinus polyphyllus]]}}

@@ -1,3 +1,5 @@
 tags:: genus
 
-- {{embed [[ocimum basilicum]]}}
+- selected for [[edem]]
+	- {{embed [[ocimum basilicum]]}}
+	- {{embed [[ocimum tenuiflorum]]}}

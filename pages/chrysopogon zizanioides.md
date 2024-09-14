@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, research
 alias:: vetiver
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZGTT1ro7t6LXqASYXhbFNC1t2ftrSQFqTx9wCeaFym7t)

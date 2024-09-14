@@ -1,4 +1,5 @@
-tags:: species, american oak
+tags:: species
+alias:: american oak
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmTwxj4mQvjiJUhNCACnWeVjdG6dLSkjWdmvTvNPx8HMuS)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQxw7Z8867ffUegksseZQEXP4ATHUoLsYAhXUQGJesxxn)

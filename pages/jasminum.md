@@ -1,8 +1,10 @@
 tags:: genus
 
-- {{embed [[jasminum sambac]]}}
-- {{embed [[jasminum officinale]]}}
-- [[jasminum nitidum]]
-- [[jasminum grandiflorum]]
-- [[jasminum polyanthum]]
-- [[jasminum rex]]
+- selected for [[edem]]
+	- {{embed [[jasminum officinale]]}}
+	- {{embed [[jasminum sambac]]}}
+- research
+	- [[jasminum nitidum]]
+	- [[jasminum grandiflorum]]
+	- [[jasminum polyanthum]]
+	- [[jasminum rex]]

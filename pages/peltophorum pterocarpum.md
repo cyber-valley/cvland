@@ -8,4 +8,4 @@ alias:: copperpod, yellow flame tree, soga
 - [wiki](https://en.wikipedia.org/wiki/Peltophorum_pterocarpum)
 - [info](http://www.plantsofasia.com/index/peltophorum/0-110)
 - [tokopedia](https://www.tokopedia.com/javacrouse/bibit-peltophorum-pterocarpum-copperpod-bonggolan?extParam=ivf%3Dfalse%26src%3Dsearch)
--
+- [[flower]]

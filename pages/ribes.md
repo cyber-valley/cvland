@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, research
 
 - [[ribes nigrum]]
 - [[ribes rubrum]]

@@ -1,3 +1,4 @@
 tags:: genus
 
-- {{embed [[eriobotrya japonica]]}}
+- selected for [[edem]]
+	- {{embed [[eriobotrya japonica]]}}

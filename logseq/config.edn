@@ -67,11 +67,11 @@
 
  ;; Enable flashcards.
  ;; Default value: true
- ;; :feature/enable-flashcards? true
+ :feature/enable-flashcards? false
 
  ;; Enable whiteboards.
  ;; Default value: true
- ;; :feature/enable-whiteboards? true
+ feature/enable-whiteboards? false
 
  ;; Disable the journal's built-in 'Scheduled tasks and deadlines' query.
  ;; Default value: false
@@ -128,7 +128,7 @@
  ;; If `:sidebar` remains unset, the right sidebar will stay hidden.
  ;; Examples:
  ;; 1. Set "Changelog" as the home page and display "Contents" in the right sidebar:
- :default-home {:page "sytech"}
+ :default-home {:page "cyber valley"}
  ;; 2. Set "Jun 3rd, 2021" as the home page without the right sidebar:
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["sytech" "genesis" "daypass" "bootcamp" "cyber valley" "magic forest" "energy system" "water system" "species"]
+ :favorites ["cyber valley" "genesis" "bootcamp" "bootcamp/pricing" "apply for bootcamp" "daypass" "sytech"]
 
  ;; Set flashcards interval.
  ;; Expected value:

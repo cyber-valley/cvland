@@ -1,0 +1,24 @@
+icon:: 🥕
+
+- ## you can apply be sending message
+	- in telegram: [t.me/@mliubov](https://t.me/@mliubov)
+	- in twitter:  [x.com/cybervalleyland](https://x.com/cybervalleyland)
+	- or just drop dm to telegram group [t.me/cyberbali](https://t.me/cyberbali)
+-
+- ## check for [[bootcamp/pricing]]
+-
+- ## details on availability of tents
+	- 01 November - 16 November
+		- [[vitalik]]: available
+		- [[gavin]]: available
+		- [[satoshi]]: available
+		- [[nick]]: available
+		- [[andrej]]: available
+	- 16 November - 01 December
+		- [[vitalik]]: available
+		- [[gavin]]: available
+		- [[satoshi]]: available
+		- [[nick]]: available
+		- [[andrej]]: available
+- ## map of camp
+	- ![image.png](../assets/image_1725853719659_0.png)

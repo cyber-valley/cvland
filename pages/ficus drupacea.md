@@ -1,5 +1,4 @@
 tags:: species
-
 - availability:: tokopedia
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmU1ZVzGCRQ9NCKbfv2qcWYjRkf8BAH1ogiEaGp5yvDMyh)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmYCp2SnrtgdDeCTwwX6mWzw8qEx955wvcrEFpWeift2eC)

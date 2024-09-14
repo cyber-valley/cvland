@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, research
 alias:: adams needle
 
 - ![Screenshot 2024-05-12 at 07.14.04.png](../assets/Screenshot_2024-05-12_at_07.14.04_1715498123967_0.png)

@@ -1,4 +1,6 @@
 tags:: genus
 
-- [[ardisia elliptica]]
-- [[ardisia crenata]]
+- selected for [[edem]]
+	- {{embed [[ardisia crenata]]}}
+- native in [[batuka]]
+	- {{embed [[ardisia elliptica]]}}
