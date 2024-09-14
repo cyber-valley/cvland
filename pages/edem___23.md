@@ -3,31 +3,29 @@ type:: sector
 - connected to [[edem/sectors]]
 	- [[edem/22]]
 	- [[edem/24]]
-
-vallaris glabra done
-agthis robusta
-tagetes erects
-kalanhoe daegremontiana
-aloe vera
-comfrey
-malus domestica
-ixora
-Hedychium coronarium
-Cinnamomum verum
-protium javanicun
-- [[artocarpus heterophyllus
-
-- melaleuca brakteata
-anthurium :5 
-Citrus limon
-orchid: 2
-media ferea
-senna septemteionalis : 4
-zanthoxilum fagara
-- [[durio zibethinus
-unidentified: 2
-brunfelsia uniflora
-DONE meristica fragrans
-averhoa bilimbi
-TODO aegle marmelos 
-dyospirusmacrophilaa
+- DONE [[vallaris glabra]]
+- [[agathis robusta]]
+- [[tagetes erecta]]
+- [[kalanchoe daigremontiana]]
+- [[aloe vera]]
+- [[symphytum officinale]]: 3
+- [[malus domestica]]
+- [[ixora coccinea]]
+- TODO [[hedychium coronarium]]
+- [[cinamonium verum]]
+- [[protium javanicum]]
+- DONE [[artocarpus heterophyllus]]
+- [[melaleuca bracteata]]
+- [[anthurium andraeanum]]: 5
+- [[citrus limon]]
+- [[orchidaceae]]: 2
+- [[mesua ferrea]]
+- [[senna septemtrionalis]] : 4
+- [[zanthoxylum fagara]]
+- [[durio zibethinus]]
+- [[unidentified]]: 2
+- [[brunfelsia uniflora]]
+- DONE [[myristica fragrans]]
+- TODO [[averrhoa bilimbi]]
+- TODO [[aegle marmelos]]
+- [[diospyros macrophilia]]

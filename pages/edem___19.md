@@ -7,7 +7,7 @@ type:: sector
 	- [[epidendrum ibaguense]]
 	- [[peperomia magnoliifolia]]
 	- [[coleus scutellarioides]]
-	- plumeria rubra
+	- [[plumeria rubra]]
 - [[pinus halepensis]]
 	- DONE [[celosia argentea]]
 - [[mussaenda philippica]]
@@ -25,7 +25,7 @@ type:: sector
   CLOCK: [2024-04-26 Fri 04:34:46]
   CLOCK: [2024-04-26 Fri 04:34:47]--[2024-04-26 Fri 06:42:26] =>  02:07:39
   :END:
-	- DONE[[torenia fournieri]]
+	- DONE [[torenia fournieri]]
 	- DONE [[portulaca pilosa]]
 - TODO [[plinia phitrantha]]
 - [[passiflora alata]]
@@ -33,7 +33,7 @@ type:: sector
 - TODO [[neoregelia carolinae]]
 - [[mangifera indica]]
 - [[inga edulis]]
-- TODO [[melaleuca]]
+- DONE [[melaleuca]]
 - [[alternanthera ficoidea]]
 - TODO [[pouteria sapota]]
 	- [[tradescantia palida]]

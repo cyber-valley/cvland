@@ -8,7 +8,7 @@ type:: sector
 - TODO [[melaleuca viminalis]]
 - [[citrus limon]]
 - [[schefflera arboricola]]
-- TODO [[chrysophyllum cainito
+- TODO [[chrysophyllum cainito]]
 - [[eugenia brasiliensis]]
 - [[pyrus communis]]
 - [[gymnanthemum amygdalinum]]
@@ -18,22 +18,10 @@ type:: sector
   CLOCK: [2024-04-26 Fri 06:31:03]--[2024-04-26 Fri 06:48:12] =>  00:17:09
   :END:
 - [[dimocarpus longan]]
-
+  
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 04:42:50]--[2024-04-26 Fri 06:50:51] =>  02:08:01
   :END:
 - [[nerium oleander]]
 - [[mangifera indica]]
 - [[pouteria sapota]]
--
-- [[artocarpus heterophyllus]]
-- [[chamaecyparis pisifera]]
-- [[passiflora vitifolia]]
--
-- [[artocarpus altilis]]
-- [[lagerstroemia indica]]
-- [[passiflora quadrangularis]]
-- [[euphorbia millii]]
-- [[premna serratifolia]]
-- [[nephelium lappaceum]]
-- [[polyscias fruticosa]]
