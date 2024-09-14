@@ -1,5 +1,5 @@
 alias:: lemon verbena
-tags:: species
+tags:: species, research
 
 - ![image](https://ipfs.io/ipfs/QmdXoqWDteZgTUPeCQqfpEYAyVHgugJdpQFisCWFcwbWnZ)
--
+- [[salad]]

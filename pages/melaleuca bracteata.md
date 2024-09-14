@@ -8,5 +8,3 @@ alias:: black tea-tree, mock olive
 - height: 5-8m
 - [wiki](https://en.wikipedia.org/wiki/Melaleuca_bracteata)
 - [tokopedia](https://www.tokopedia.com/tokobunganusantara/tanaman-hias-melaleuca-bracteata?extParam=ivf%3Dfalse%26src%3Dsearch)
--
--

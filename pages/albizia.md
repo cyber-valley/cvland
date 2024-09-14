@@ -1,4 +1,7 @@
 tags:: genus
 
-- {{embed [[albizia julibrissin]]}}
-- {{embed [[albizia chinensis]]}}
+- selected for [[edem]]
+	- {{embed [[albizia julibrissin]]}}
+- native to [[senwood]]
+	- {{embed [[albizia chinensis]]}}
+-

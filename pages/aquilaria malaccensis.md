@@ -1,20 +1,5 @@
 alias:: agarwood, gaharu
-tags:: species
-availability:: tokopedia
-tags:: species
-alias:: agarwood, gaharu
-tags:: species
-alias:: agarwood, gaharu
-tags:: species
-alias:: agarwood, gaharu
-tags:: species
-alias:: agarwood, gaharu
-tags:: species
-alias:: agarwood, gaharu
-tags:: species
-alias:: agarwood, gaharu
-tags:: species
-alias:: agarwood, gaharu
+tags:: species, research
 
 - availability:: tokopedia
 - ![image](https://ipfs.io/ipfs/QmTB8iZE5q21mEhTHHoTSLUEMDSe3a14dDbHA8yAKJx6mb)

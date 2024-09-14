@@ -3,24 +3,29 @@ type:: sector
 - connected to [[edem/sectors]]
 	- [[edem/21]]
 	- [[edem/23]]
-- [[manilkara kauki]]
-- [[psidium guajava]]
-  :LOGBOOK:
-  CLOCK: [2024-04-26 Fri 04:26:21]--[2024-04-26 Fri 07:00:59] =>  02:34:38
-  :END:
-- [[antidesma bunius]]
-- [[flacourtia indica]]
-- [[anthurium andraeanum]]
-- [[ardisia crenata]]
-- [[cereus hexagonus]]
-- [[ficus microcarpa]]
-- [[ixora coccinea]]
+	  :LOGBOOK:
+	  CLOCK: [2024-04-26 Fri 04:26:21]--[2024-04-26 Fri 07:00:59] =>  02:34:38
+	  :END:
 - [[gardenia jasminoides]]
-- [[orchid]]
+- [[ixora coccinea]]
+- [[ficus microcarpa]]
+- [[orchidaceae]]: 5
+- [[manilkara kauki]]
+- [[cereus hexagonus]]
+- [[psidium guajava]]
 - [[ficus elastica]]
-- [[pouteria sapota]]
-- [[eugenia reinwardtiana]]
-- [[allamanda cathartica]]
-- [[dimocarpus longan]]
+- [[gardenia jasminoides]]
+	- [[lilium longiflorum]] : 4
+- [[cuphea hyssopifolia]]
+- [[antidesma bunius]]
+- [[plumeria pudica]]
+- [[anthurium andraeanum]]: 6
+- TODO [[pouteria sapota]]
+- [[flacourtia indica]]
+- [[impatiens walleriana]]
+- [[ardisia crenata]]
 - [[pyrus communis]]
--
+- [[allamanda cathartica]]
+- [[psidium guajava]]
+- [[eugenia reinwardtiana]]
+- DONE [[dimocarpus longan]]

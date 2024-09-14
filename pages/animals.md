@@ -1,24 +1,33 @@
 tags:: species, class
 
-- [[chickens]]
-- [[bees]]
-- [[sheeps]]
-- [[worms]]
-- [[birds]]
-	- TODO [[raven]]
-	- TODO [[grey parrot]]
-- TODO [[minipig]]
-- TODO [[squirrels]]
-- TODO [[cats]]
-- TODO dogs
-	- border collie
-	- poodle
-	- golden retriever
-	- siberian husky
-	- papillon
-	- belgian shepherd
-- TODO rabbits
-- interesting
+- animals are foundational for biome development
+- we try to support as many animals as possible
+- trying to provide them comfortable habitat
+-
+- we integrate support for native species
+- and introduce only the most useful for biome
+- which are smart enough for cooperation
+-
+- native for [[batuka]]
+	- [[tiger]]
+	- [[birds]]
+	- [[deer]]
+	- [[luwak]]
+	- [[monkey]]
+	- [[squirrel]]
+	- [[worm]]
+	- [[mouse]]
+- selected for [[citadel genesis]]
+	- [[sheep]]
+	- [[chicken]]
+- [[research]]
+	- TODO [[felis catus]]
+	- TODO [[bees]]
+	- [[minipig]]
+	- [[raven]]
+	- [[grey parrot]]
+	- [[dogs]]
+	- [[rabbits]]
 	- [[snail]]
 	- [[firefly]]
 	- [[glowworm]]
@@ -29,8 +38,6 @@ tags:: species, class
 	- [[mealworm]]
 	- [[silkworm]]
 	- [[alpaca]]
-	- butterflies
 	- [[ostrich]]
 	- [[guinea pig]]
-- aquatics
-	- bioluminescent plankton
+	- [[aquatics]]

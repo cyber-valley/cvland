@@ -5,3 +5,5 @@ tags:: genus
 - research
 	- {{embed [[alpinia galanga]]}}
 	- {{embed [[alpinia zerumbet]]}}
+	- {{embed [[alpinia nutans]]}}
+-

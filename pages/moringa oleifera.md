@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, plant
 alias:: ben oil tree, kelor
 
 - ![Screenshot 2024-05-26 at 08.19.22.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQfBx32Rc1A1HfLdaYkvV2PmE1ufavJSU8RHvB4745PFU)
@@ -6,9 +6,80 @@ alias:: ben oil tree, kelor
 - ![Screenshot 2024-05-26 at 08.18.57.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZeDVca7UDGM96TSADABGy2u9LZ6BXCi763Jfma57MYkU)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmNMwZZUQgzBnsS2ynZ4ngvr5FHpS2ubCe8r7XY3wWnSrt)
 - [[plant/miracle]]
-- height: 10-12m
-- [tokopedia](https://www.tokopedia.com/bataviaherbalshop/biji-kelor-kupas-moringa-seeds-kernel-kelor-premium-herbs-time?extParam=ivf%3Dfalse&src=topads)
-- [wiki](https://en.wikipedia.org/wiki/Moringa_oleifera)
-- [tokopedia](https://www.tokopedia.com/originalflora/bibit-kelor-pohon-kelor-tanaman-kelor-moringa-oleifera-daun-kelor?extParam=ivf%3Dfalse%26src%3Dsearch)
-- [info](http://www.plantsofasia.com/index/moringa_oleifera/0-913)
+- [[products]]
+	- [[oil]]: extracted from seeds, used in [[cooking]], [[cosmetics]], and [[biodiesel]]
+	- [[carb]]: young pods and seeds are carbohydrate-rich
+	- [[protein]]: [[leaves]], [[seeds]], and [[pods]] are protein-rich, making it a staple food
+	- [[medicine]]: [[bark]] used for anti-inflammatory and antioxidant properties
+	- [[cosmetics]]: [[oil]] used in skin and hair care products
+	- [[fuel]]: wood can be used as firewood
+	- [[fertilizer]]: seed cake after oil extraction can be used as organic fertilizer
+	- [[dye]]: leaves can produce a natural green dye
+- [[plant/features]]
+	- [[pioneer]]: can bootstrap biomes in arid and degraded soils
+	- [[accumulator]]: mines minerals from deep soil: [[iron]], [[calcium]], and [[potassium]]
+	- [[phytominer]]: able to clean soil of  [[arsenic]]
+- [[biome/layer]]: [[canopy]], [[pillar]]
+- [[plant/type]]: [[tree]]
+	- [[root]]: taproot system that penetrates deep into the soil
+		- [[alkaloids]]
+		- [[flavonoids]]
+	- [[trunk]]: slender, soft wood, prone to damage from strong winds but grows rapidly
+	- [[bark]]: smooth and light-colored [[medicine]]
+		- [[tannins]]
+		- [[saponins]]
+	- [[leave]]: pinnate, oval-shaped, rich in vitamins and elements
+		- [[protein]]
+		- [[vitamins A]]
+		- [[vitamin C]]
+		- [[vitamin E]]
+		- [[calcium]]
+		- [[iron]]
+	- [[flower]]: white to cream-colored, fragrant, attracting [[pollinators]] such as [[bees]]
+	- [[fruit]]: long, slender pods called drumsticks, containing seeds rich in oil and protein
+	- [[seeds]]: round, oily, with water-purifying properties
+		- [[oleic acid]]
+		- [[sterols]]
+		- [[tocopherols]]
+- [[environment]]: thrives in tropical and subtropical regions with full sun exposure
+	- [[climate]]: arid to semi-arid climates; can tolerate drought but prefers warm
+		- sun:: 650
+		- no-sun-days:: 30
+		- water:: 1000
+		- no-water-days:: 180
+		- humidity:: 55%
+		- fog-resistance:: 30
+		- max-temp:: 45
+		- optimal-temp:: 30
+		- min-temp:: 10
+		- wind-damage:: cannot tolerate high-speed winds without damage
+	- [[soil]]: prefers well-drained sandy or loamy soils; tolerates poor and rocky soils
+		- soil-ph:: 6.5
+		- soil-type:: sandy loam, loam, well-drained soils
+	- [[spacing]]: requires ample space to prevent overcrowding and to maximize sun
+		- good-neighbors:: [[nitrogener]] such as [[gliricidia]] or [[calliandra]]
+		- bad-neighbors:: plants with heavy root competition, like [[eucalyptus]]
+		- max-height:: 900
+		- max-spread:: 600
+- [[lifecycle]]
+	- longevity:: 20
+	- germination: seeds germinate quickly, usually within 5-12 days
+	- seedling: young seedlings need protection from extreme sun and wind
+	- mature: reaches in 1-2 years; rapid grower and can flower within 6 months
+	- death: tends to weaken after 15 years but can be extended with [[pruning]]
+- operations
+	- propagation
+		- [[seeds]] are efficient
+		- [[cuttings]] are more reliable
+	- maintenance
+		- [[pruning]]: every 3 months
+	- harvest:
+		- [[leave]]: can be harvested multiple times per year, dried, and powdered
+		- [[pods]]: harvested when young for vegetable use or mature for seed extraction
+		- [[seeds]]: extracted from dried pods for oil production or water purification
+- links
+	- [tokopedia](https://www.tokopedia.com/bataviaherbalshop/biji-kelor-kupas-moringa-seeds-kernel-kelor-premium-herbs-time?extParam=ivf%3Dfalse&src=topads)
+	- [wiki](https://en.wikipedia.org/wiki/Moringa_oleifera)
+	- [tokopedia](https://www.tokopedia.com/originalflora/bibit-kelor-pohon-kelor-tanaman-kelor-moringa-oleifera-daun-kelor?extParam=ivf%3Dfalse%26src%3Dsearch)
+	- [plantsofasia](http://www.plantsofasia.com/index/moringa_oleifera/0-913)
 -

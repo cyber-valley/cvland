@@ -20,9 +20,11 @@ icon:: 🧬
 		- TODO [[banya]]: spa and joys
 	- areas
 		- [[edem]]: experimental high labor [[magic forest]] on 30 ares
+		- [[cypher]]: 2 ha of community driven chaotic development
 		- [[pasture]]: area for sheeps with specialized vegetation on 60 ares
 		- [[senwood]]: 4 ha with thousands of [[albizia chinensis]] trees
-		- [[kavo]]: 2 ha coffee plantation with [[avocado]], [[banana]], [[orange]], [[jackfruit]] and [[markiza]]
+		- [[kavo]]: 2 ha coffee plantation with [[avocado]], [[banana]], [[orange]], [[jackfruit]], [[markiza]] and [[bamboo]]
+		- [[wilderness]]: 12 ha of wild biomes
 	- residential buildings
 		- [[carrot house]]
 		- [[vitalik]]

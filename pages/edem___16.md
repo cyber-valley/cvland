@@ -10,24 +10,28 @@ type:: sector
 - [[juniperus virginiana]]
 - [[juniperus virginiana]]
 - [[prunus domestica]]
-- [[syzygium samarangence]]
-- DONE [[syzygium samarangence]] jamaica
-- [[eugenia uniflora]]
-- [[pyrus communis]]
+- TODO [[syzygium samarangence]]
+- TODO [[syzygium samarangence]] jamaica
+- TODO [[eugenia uniflora]]
+- TODO [[pyrus communis]]
 - [[ficus carica]]
 - [[mangifera indica]] miazaki
-- [[mangifera indica]] miazaki
+- TODO [[mangifera indica]] miazaki
+- [[persea americana]] markus
 - [[calliandra angustifolia]]
-- [[prunus amygdalus]]
-- [[elaeagnus pungens]]
-- [[azadirachta indica]]
+- TODO [[prunus amygdalus]]
+- [[melaleuca viminalis]]
+- [[persea americana]] miki
 - [[mangifera indica]] irwin
 - [[mangifera indica]] irwin
-- [[eriobotrya japonica]]
+- TODO [[elaeagnus pungens]]
+- TODO [[azadirachta indica]]
+- TODO [[eriobotrya japonica]]
 - [[psidium guajava]] crystal
 - [[malus pumila]]
 - [[calliandra calothyrsus]]
 - [[calliandra calothyrsus]]
+- [[lycium barbarum]] merati
 - [[trema orientalis]]
 - [[melastoma malabathricum]]
 - [[averrhoa carambola]]

@@ -3,7 +3,7 @@ type:: sector
 - connected to [[edem/sectors]]
 	- [[edem/30]]
 	- [[edem/32]]
-- [[anacardium occidentale]]
+- DONE [[anacardium occidentale]]
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:21:53]--[2024-04-26 Fri 07:50:21] =>  01:28:28
   :END:

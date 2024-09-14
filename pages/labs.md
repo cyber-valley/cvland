@@ -1,4 +1,3 @@
-- [[neem]]
 - [[populus alba]]
 - [[gusticia gendarussa]]
 - [[calendula]]
@@ -9,6 +8,5 @@
 - [[comfrey]]
 - [[dogfennel]]
 - [[plantago]]
-- [[sapindus]]
 - [[salacca zalacca]]
 - [[pelargonium citrosum]]

@@ -1,6 +1,7 @@
 alias:: siberian fir
 tags:: species
 
+- [[conifer]]
 - ![image](https://ipfs.io/ipfs/QmZ6tLZ79ygJzbh6cPwUGVnw8LxEK3HQcmzHJQYENjr2bX)
 - ![image](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZq9PxC66ZdKTyFKsCKWxNTsNxPAidZo9XSouAif3QBAq)
 - [Abies_sibirica.pdf](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmVeW68byCzoebpeAe3iTz1149z8xrC2esZP4Ranhtok9D)

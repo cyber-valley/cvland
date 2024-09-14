@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, research
 alias:: clove, chengkeh,
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmPq1ahzKyDJbtbbHFyBXKv78B2Z9iEbk9DUdsV4w4zrpV)

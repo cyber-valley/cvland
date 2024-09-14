@@ -1,5 +1,5 @@
 - experimental high labour [[magic forest]]
-- with 200 species on 30 ares
+- with 161 [[genus]] and 200+ speceis
 - TODO strategic supplier of [[organiq]]
 -
 - ## navigation
@@ -100,7 +100,7 @@
 	- building and construction
 		- [[ficus elastica]]: living bridges
 		- [[cynodon dactylon]]: perfect and easy lawn
-- ## [[edem/introduce]]
+- ## [[research/plants]]
   query-sort-by:: page
   query-table:: true
   query-sort-desc:: false
