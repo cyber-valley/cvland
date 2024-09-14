@@ -14,13 +14,13 @@ alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmR84KRKJ5hawM7dbqqGwvkauwNgh4Wn9y1s9Ghfy6pE38)
 - [wiki](https://en.wikipedia.org/wiki/Inga_edulis)
 - ### review of inga edulis
-	- inga edulis, commonly known as ice cream bean or guabo, is a [[leguminous]] tree native to the tropical regions of central and south america. it is valued for its multiple uses, including food, timber, medicine, and its role in [[permaculture]] systems.
+	- [[inga edulis]], commonly known as ice cream bean or guabo, is a [[leguminous]] tree native to the tropical regions of central and south america. it is valued for its multiple uses, including [[food]], [[timber]] , [[medicine]], and its role in [[permaculture]] systems.
 - #### parts of the plant and their uses
-	- **root**: inga edulis roots are known for their ability to fix [[nitrogen]] in the soil, which improves soil [[fertility]] . they are also used in traditional medicine for their [[anti-inflammatory]] properties.
-	- **stem**: the stem of inga edulis provides strong and durable timber that is used for construction, making [[furniture]] , and crafting various wooden items. the wood is also a good source of [[fuel]] when dried.
-	- **fruit**: the fruit of inga edulis is a long pod containing sweet, edible pulp around the seeds. the pulp is consumed fresh and is a popular snack in regions where the tree grows.
+	- **root**: inga edulis roots are known for their ability to fix [[nitrogen]] in the soil, which improves soil [[fertility]] . they are also used in [[traditional medicine]] for their [[anti-inflammatory]] properties.
+	- **stem**: the stem of inga edulis provides strong and durable [[timber]] that is used for construction, making [[furniture]] , and crafting various wooden items. the [[wood]] is also a good source of [[fuel]] when dried.
+	- **fruit**: the [[fruit]] of inga edulis is a long pod containing [[sweet]], [[edible]] pulp around the seeds. the pulp is consumed fresh and is a popular snack in regions where the tree grows.
 	- **leaf**: inga edulis leaves can be used as green [[manure]] or [[mulch]] , enriching the [[soil]] with [[nitrogen]] and [[organic]] matter. they are also used in [[traditional medicine]] to [[treat]] various ailments.
-	- **bark**: the bark has medicinal properties and is used in traditional remedies to treat skin conditions and digestive issues.
+	- **bark**: the bark has [[medicinal]] properties and is used in traditional remedies to treat skin conditions and digestive issues.
 	- **flower**: the flowers of inga edulis are not commonly used directly for any products but are important for attracting pollinators, which helps maintain biodiversity in the ecosystem.
 - #### uses of inga edulis
 	- **plants/fruits**: the [[edible fruit]] pulp is sweet and often eaten fresh. it is also used in desserts and beverages.
