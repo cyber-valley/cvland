@@ -3,6 +3,8 @@ type:: sector
 - connected to [[edem/sectors]]
 	- [[edem/20]]
 	- [[edem/22]]
+- [[terminalia mantaly]]
+- [[rosa chinensis]]: 10
 - [[pometia pinnata]]
 - [[manilkara zapota]]
 - [[malus]]

@@ -7,7 +7,7 @@ type:: sector
 	- [[epidendrum ibaguense]]
 	- [[peperomia magnoliifolia]]
 	- [[coleus scutellarioides]]
- - plumeria rubra
+	- plumeria rubra
 - [[pinus halepensis]]
 	- DONE [[celosia argentea]]
 - [[mussaenda philippica]]
@@ -16,8 +16,8 @@ type:: sector
 - [[hibiscus rosa-sinensis]]
 - TODO [[canna indica]]
 - [[vachellia karroo]]
-  - [[chrysanthemum morifolium]]
-hibiscus trioneum
+	- [[chrysanthemum morifolium]]
+	- [[hibiscus trionum]]
 - [[solanum pseudocapsicum]]
 - TODO [[codiaeum variegatum]]
 - [[nephelium lappaceum]]
@@ -28,23 +28,20 @@ hibiscus trioneum
 	- DONE[[torenia fournieri]]
 	- DONE [[portulaca pilosa]]
 - TODO [[plinia phitrantha]]
-- passiflora alata
+- [[passiflora alata]]
 - TODO [[nerium oleander]]
 - TODO [[neoregelia carolinae]]
 - [[mangifera indica]]
 - [[inga edulis]]
 - TODO [[melaleuca]]
-Alternanthera ficoidea 
+- [[alternanthera ficoidea]]
 - TODO [[pouteria sapota]]
 	- [[tradescantia palida]]
-aDONae osmyxolone
 - TODO [[phyllanthus emblica]]
-
-- TODO [[cryptomeria japonica]]
-Asparagus densiflorus
-Dioscorea analalavensis
-
+	- TODO [[cryptomeria japonica]]
+	- [[asparagus densiflorus]]
+- [[dioscorea analalavensis]]
 - TODO [[annona squamosa]] jambo
 - [[malus domestica]] anna
-- buxus sempervirens
+- [[buxus sempervirens]]
 - DONE [[tagetes minuta]]

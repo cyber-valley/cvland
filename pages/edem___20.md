@@ -3,61 +3,37 @@ type:: sector
 - connected to [[edem/sectors]]
 	- [[edem/19]]
 	- [[edem/21]]
-- [[allamanda blanchetii]]
-- [[melaleuca viminalis]]
-- identify
+- TODO [[allamanda blanchetii]]
+- TODO [[melaleuca viminalis]]
+- [[unidentified]]
+- [[eugenia brasiliensis]]
+- [[gymnanthemum amygdalinum]]
 - [[citrus limon]]
 - [[schefflera arboricola]]
-- [[chrysophyllum cainito]]
-- ixora
-amla
+- TODO [[chrysophyllum cainito]]
+- [[phyllanthus emblica]]
 - [[litchi chinensis]]
-klengkeng
-
-[[pyrus]]
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:31:03]--[2024-04-26 Fri 06:48:12] =>  00:17:09
   :END:
-
+- [[dimocarpus longan]]
+- [[pyrus communis]]
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 04:42:50]--[2024-04-26 Fri 06:50:51] =>  02:08:01
   :END:
-- [[dimocarpus longan]]
+-
+- [[nerium oleander]]
+- [[mangifera indica]]
+- [[pouteria sapota]]
+-
 - [[artocarpus heterophyllus]]
-	- [[asplenium nidus]]
-- [[rosa chinensis]]: 10
 - [[chamaecyparis pisifera]]
 - [[passiflora vitifolia]]
-- [[terminalia mantaly]]
-- [[dianthus barbatus]]
-- [[litchi chinensis]]
-- [[gymnanthemum amygdalinum]]
-- [[pyrus calleryana]]
-- [[foetidia mauritiana]]
-
-
-
-
-- [[phyllanthus emblica]]
+-
 - [[artocarpus altilis]]
-- [[buxus sempervirens]]
-- [[phanera championii]]
 - [[lagerstroemia indica]]
-- [[asparagus densiflorus]]
-- [[osmoxylon lineare]]
-- [[tradescantia pallida]]
-- [[crinum asiaticum]]
-- [[pouteria sapota]]
-- [[nerium oleander]]
-- [[syzygium cumini]]
-- [[alternanthera ficoidea]]
-- [[melaleuca viminalis]]
-- [[mangifera indica]]
 - [[passiflora quadrangularis]]
 - [[euphorbia millii]]
-- [[mangifera indica]]
-- [[torenia fournieri]]
-- [[neoregelia carolinae]]
-- [[premna serratigolia]]
+- [[premna serratifolia]]
 - [[nephelium lappaceum]]
 - [[polyscias fruticosa]]
