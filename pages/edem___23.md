@@ -10,6 +10,7 @@ tagetes erects
 kalanhoe daegremontiana
 aloe vera
 comfrey
+malus domestica
 ixora
 Hedychium coronarium
 Cinnamomum verum
@@ -25,7 +26,7 @@ senna septemteionalis : 4
 zanthoxilum fagara
 - [[durio zibethinus
 unidentified: 2
-brunfelsia
+brunfelsia uniflora
 DONE meristica fragrans
 averhoa bilimbi
 TODO aegle marmelos 
