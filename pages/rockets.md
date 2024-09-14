@@ -8,4 +8,8 @@
 		- [t.me/mastercyb](https://t.me/mastercyb)
 		- [cyb.ai/@mastercyb](https://cyb.ai/@mastercyb)
 	- joy:
-	-
+		- [x.com/JooyRocket](https://x.com/JooyRocket)
+		- https://t.me/st_joy
+		- [cyb.ai/@jooy](https://cyb.ai/@jooy)
+-
+-
