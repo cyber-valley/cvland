@@ -25,7 +25,6 @@ type:: sector
 		- [[salvia rosmarinus]]
 - [[beds]]
 	- [[cnidoscolus aconitifolius]]: 2
-	- [[mitragyna speciosa]]
 	- [[kalanchoe pinnata]]
 	- [[hydrocotyle bonariensis]]
 	- [[rumex sanguineus]]

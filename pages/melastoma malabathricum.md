@@ -1,5 +1,5 @@
 tags:: species
-alias:: melastoma, senduduk
+alias:: senduduk
 
 - ![Screenshot 2024-06-02 at 05.46.45.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmYid5D55k3w9eKGWyTks4sd4Tz7SuvRWmiVqabaReGmtd)
 - ![Screenshot 2024-06-02 at 05.46.06.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmetWnqKbHoCmLk9UFe1nodwnTA8yU6ANNUsMfXzLbQLLy)

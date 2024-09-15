@@ -6,3 +6,4 @@ tags:: genus
 	- {{embed [[passiflora edulis]]}}
 	- {{embed [[passiflora quadrangularis]]}}
 	- {{embed [[passiflora alata]]}}
+	- {{embed [[passiflora ligularis]]}}

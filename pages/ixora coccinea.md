@@ -1,21 +1,4 @@
 alias:: flame of the woods
-alias:: flame of the woods
-tags:: species
-alias:: flame of the woods
-tags:: species
-alias:: flame of the woods
-tags:: species
-alias:: flame of the woods
-tags:: species
-alias:: flame of the woods
-tags:: species
-alias:: flame of the woods
-tags:: species
-alias:: flame of the woods
-tags:: species
-alias:: flame of the woods
-tags:: species
-alias:: flame of the woods
 tags:: species
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmYmbeDPAE9Ejz8Q3ENLkuKPqFBi3RTAVcSnkM869tS6US)

@@ -1,6 +1,6 @@
 tags:: genus
 
-- [[edem]]
+- selected for [[edem]]
 	- {{embed [[magnolia cempaka]]}}
 - research
 	- [[magnolia alba]]

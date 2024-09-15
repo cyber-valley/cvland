@@ -1,5 +1,5 @@
 tags:: genus
 alias:: dandelion
 
-- ![image.png](../assets/image_1716646120695_0.png)
-- [[taraxacum officinale]]
+- selected for [[edem]]
+	- {{embed [[taraxacum officinale]]}}

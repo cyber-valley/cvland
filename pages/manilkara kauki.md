@@ -11,5 +11,3 @@ alias:: sawo kecik, caqui
 - [wiki](https://en.wikipedia.org/wiki/Manilkara_kauki)
 - [info](http://www.plantsofasia.com/index/manilkara_kauki/0-755)
 - [tokopedia](https://www.tokopedia.com/aqilaflora/pohon-sawo-kecik-saho-kecik-tinggi-2-meter?extParam=ivf%3Dfalse%26src%3Dsearch)
--
--

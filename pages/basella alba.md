@@ -1,3 +1,3 @@
-tags:: species, research
+tags:: species
 
 - [[vine]] for [[salad]]

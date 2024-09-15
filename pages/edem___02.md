@@ -8,17 +8,17 @@ type:: sector
 	- [[senna septemtrionalis]]
 - [[guilds]]
 	- [[morus nigra]]
-	- [[murraya koenigii]]
+	- [[bergera koenigii]]
 	- [[cinamonium verum]]
 	- [[citrus hystrix]]
-	- [[mytragyma speciosa]]
-		- [[nopalea cochenillifera]]
+	- [[nopalea cochenillifera]]
 	- [[diospyros nigra]]
 	  collapsed:: true
 		- [[symphytum officinale]]
 	- [[adenium obesum]]: 4
 	- [[dimocarpus longan]]
 	- [[plinia cauliflora]]
+	  collapsed:: true
 		- [[symphytum officinale]]
 		- [[salvia leucantha]]
 		- [[salvia rosmarinus]]
@@ -44,6 +44,6 @@ type:: sector
 	- [[lavandula angustifolia]]
 	- [[euphorbia lactea]]
 	- [[salvia leucantha]]
-	- [[sansevieria cylindrica]]
+	- [[dracaena angolensis]]
 	- [[physalis peruviana]]
 	- [[talinum paniculatum]]
