@@ -1,6 +1,7 @@
 tags:: species, research
 alias:: clove, chengkeh,
 
+- [[high margin]] [[oil]]
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmPq1ahzKyDJbtbbHFyBXKv78B2Z9iEbk9DUdsV4w4zrpV)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmcmzcjiWaTewqRFEFfnXQPdWvwL9Nf64fWuVaw8G8EEqP)
 - height: 8-12m
