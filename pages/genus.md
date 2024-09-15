@@ -1,4 +1,6 @@
-## selected genus for [[citadel genesis]]
+icon:: 🦚
+
+- ## selected genus for [[citadel genesis]]
 - {{query (and (page-tags [[genus]]) (not (page-tags [[class]])) (not (page-tags [[research]])))}}
   query-sort-by:: page
   query-sort-desc:: false

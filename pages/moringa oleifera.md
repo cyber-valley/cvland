@@ -78,8 +78,7 @@ alias:: ben oil tree, kelor
 		- [[pods]]: harvested when young for vegetable use or mature for seed extraction
 		- [[seeds]]: extracted from dried pods for oil production or water purification
 - links
-	- [tokopedia](https://www.tokopedia.com/bataviaherbalshop/biji-kelor-kupas-moringa-seeds-kernel-kelor-premium-herbs-time?extParam=ivf%3Dfalse&src=topads)
 	- [wiki](https://en.wikipedia.org/wiki/Moringa_oleifera)
-	- [tokopedia](https://www.tokopedia.com/originalflora/bibit-kelor-pohon-kelor-tanaman-kelor-moringa-oleifera-daun-kelor?extParam=ivf%3Dfalse%26src%3Dsearch)
+	- [tokopedia](https://www.tokopedia.com/bataviaherbalshop/biji-kelor-kupas-moringa-seeds-kernel-kelor-premium-herbs-time?extParam=ivf%3Dfalse&src=topads)
 	- [plantsofasia](http://www.plantsofasia.com/index/moringa_oleifera/0-913)
 -
