@@ -5,10 +5,17 @@ type:: sector
 	- [[edem/06]]
 - [[guilds]]
 	- [[inga edulis]]
+	- [[melaleuca quinquenervia]]
 	- [[garcinia mangostana]]
 	- [[garcinia mangostana]]
 	- [[prunus persica]]
+	- [[cinamonium verum]]
+	- [[melaleuca viminalis]]
+	- [[phyllanthus casticum]]
 	- [[mangifera indica]]
 	- [[inga edulis]]
-- [[beds]]
-	- [[manihot esculenta]]
+- [[bed]]
+	- [[manihot esculenta]]: 10
+	- [[apium graveolens]] : 2
+	- [[fragaria ananassa]]: 3
+	- [[canna indica]]: 10

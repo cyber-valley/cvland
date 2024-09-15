@@ -4,7 +4,7 @@ alias:: join us
 	- learn about project by discovering this knowledge graph
 	- start from [[sytech]]
 - step 2
-	- follow us in telegram, x and youtube
+	- follow us in [telegram](http://t.me/cyberbali), [x](https://x.com/cybervalleyland) and [youtube](https://www.youtube.com/@cybervalleyland)
 - step 3
 	- [[visit us]]
 - step 4
