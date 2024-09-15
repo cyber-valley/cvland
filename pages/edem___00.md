@@ -19,25 +19,25 @@ type:: sector
 	  collapsed:: true
 		- [[melastoma malabathricum]]
 	- [[persea americana]] haas
+	- [[cananga odorata]]
 	- [[psidium guajava]] white
 	  collapsed:: true
 		- [[salvia officinalis]]
 		- [[symphytum officinale]]
 	- [[prunus domestica]]
 	- [[jasminum officinale]]
-	  collapsed:: true
-		- [[clitoria ternatea]]
 		- [[rosemary]]
 		- [[thymus vulgaris]]
 	- [[hibiscus sabdariffa]]
-	  collapsed:: true
 		- [[piper nigrum]]
 		- [[salvia rosmarinus]]
 		- [[thymus vulgaris]]
+	- [[magnolia cempaka]]
 	- [[malpighia emarginata]]
 	  collapsed:: true
 		- TODO check [[verbena hastata]]
 		- [[mentha piperita]]
+	- [[cinamonium verum]]
 	- [[inga edulis]]
 	  collapsed:: true
 		- [[salvia coccinea]]
@@ -54,14 +54,13 @@ type:: sector
 - [[beds]]
 	- TODO move [[rubus idaeus]]
 	- [[foeniculum vulgare]]
-	  collapsed:: true
 	- [[ocimum basilicum]]
-	- [[ocimum tenuiflorum]]
 	- [[symphytum officinale]]
-	- [[hibiscus sabdariffa]]
+	- TODO [[ocimum tenuiflorum]]
+	- TODO [[hibiscus sabdariffa]]
 	- [[eupatorium capillifolium]]
-	- [[allium tuberosum]]
-	- [[tagetes lucida]]
+	- TODO [[allium tuberosum]]
+	- TODO [[tagetes lucida]]
 - [[walls]]
 	- [[debregeasia longifolia]]
 	- [[imperata cylindrica]]
