@@ -10,5 +10,5 @@ type:: sector
 	- [[prunus persica]]
 	- [[mangifera indica]]
 	- [[inga edulis]]
-- [[bed]]
+- [[beds]]
 	- [[manihot esculenta]]

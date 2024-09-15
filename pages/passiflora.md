@@ -5,3 +5,4 @@ tags:: genus
 	- {{embed [[passiflora vitifolia]]}}
 	- {{embed [[passiflora edulis]]}}
 	- {{embed [[passiflora quadrangularis]]}}
+	- {{embed [[passiflora alata]]}}

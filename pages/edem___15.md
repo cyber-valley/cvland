@@ -14,7 +14,7 @@ type:: sector
 - TODO [[triphasia trifoila]]
 - TODO [[strobilanthes auriculatus]]
 - TODO [[magnolia cempaka]]
-- [[citrus sinensis]] [[green]]
+- [[citrus sinensis]]
 - [[persea americana]]: 3
 - [[citrus sinensis]]
 - [[albizia julibrissin]]

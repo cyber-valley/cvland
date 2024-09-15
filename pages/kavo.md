@@ -7,3 +7,8 @@ tags:: area
 	- [[passiflora edulis]]
 	- [[artocarpus heterophyllus]]
 	- [[citrus sinensis]]
+	- [[erythrina variegata]]
+	- [[bambusa oldhamii]]
+	- [[montanoa hibiscifolia]]
+	- [[melastoma malabathricum]]
+	- [[ageratina riparia]]
