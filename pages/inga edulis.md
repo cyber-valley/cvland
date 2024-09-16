@@ -1,5 +1,5 @@
 tags:: species
-alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil
+alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil, inga edilus
 
 - availability:: cv
 - nitrogener:: 250
@@ -11,7 +11,7 @@ alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil
 - [[shader]]
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmWydt72tNvQizZmCb7ZCvtut6didjT5uqSxvmXbBUxs5P)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmNSBkfGTpPK5pXFFD9C2iapHtsRkpZZ86cB2c74oPvV5M)
-<<<<<<< Updated upstream
+  <<<<<<< Updated upstream
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmR84KRKJ5hawM7dbqqGwvkauwNgh4Wn9y1s9Ghfy6pE38)
 - [wiki](https://en.wikipedia.org/wiki/Inga_edulis)
 - inga edulis, commonly known as ice cream bean or guabo, is a leguminous tree native to the tropical regions of central and south america. it is valued for its multiple uses, including food, timber, medicine, and its role in permaculture systems.
@@ -45,9 +45,9 @@ alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil
 		- harvesting of the fruit occurs in the dry season, typically several months after flowering.
 	- **good neighbors**: inga edulis grows well with other nitrogen-fixing trees, fruit trees, and shade-tolerant crops. it is often used in agroforestry systems with cacao, coffee, and various fruit trees like banana and citrus.
 	- **bad neighbors**: it should not be planted with crops that require full sunlight for optimal growth, as its dense canopy can create too much shade.
-||||||| Stash base
+	  ||||||| Stash base
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmR84KRKJ5hawM7dbqqGwvkauwNgh4Wn9y1s9Ghfy6pE38)
-=======
+  =======
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmR84KRKJ5hawM7dbqqGwvkauwNgh4Wn9y1s9Ghfy6pE38)
 - | Age of tree (years) | Trees per ha | Pruning (%) | Spacing (m) | DM of leaves (kg/tree) | DM of wood (kg/tree) | DM of leaves (Mg/ha) | DM of wood (Mg/ha) | Total above-ground biomass (Mg/ha) |
   |---------------------|--------------|-------------|-------------|------------------------|----------------------|----------------------|--------------------|-----------------------------------|
@@ -58,4 +58,4 @@ alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil
   | 5                   | 313          | 94          | 4 × 8       | 5.8                    | 65.4                 | 1.82                 | 20.48              | 22.29                             |
   | 6                   | 156          | 97          | 8 × 8       | 6.1                    | 73.0                 | 0.95                 | 11.39              | 12.34                             |
 	- [source](http://www.icabr.com/agricultura/pdf_files/vol_43_4_pdf/lojka.pdf)
->>>>>>> Stashed changes
+	  >>>>>>> Stashed changes

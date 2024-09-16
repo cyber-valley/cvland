@@ -11,7 +11,7 @@ type:: sector
 - [[ficus microcarpa]]
 - [[orchidaceae]]: 5
 - [[manilkara kauki]]
-- [[cereus hexagonus]]
+- TODO [[cereus hexagonus]]
 - [[psidium guajava]]
 - [[ficus elastica]]
 - [[gardenia jasminoides]]
@@ -19,7 +19,7 @@ type:: sector
 - [[cuphea hyssopifolia]]
 - [[antidesma bunius]]
 - [[plumeria pudica]]
-- [[anthurium andraeanum]]: 6
+- TODO [[anthurium andraeanum]]: 6
 - TODO [[pouteria sapota]]
 - [[flacourtia indica]]
 - [[impatiens walleriana]]
@@ -27,5 +27,5 @@ type:: sector
 - [[pyrus communis]]
 - [[allamanda cathartica]]
 - [[psidium guajava]]
-- [[eugenia reinwardtiana]]
+- TODO [[eugenia reinwardtiana]]
 - DONE [[dimocarpus longan]]

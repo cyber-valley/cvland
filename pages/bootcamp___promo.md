@@ -1,7 +1,18 @@
 - from my part i would bet on participation in youtube podcasts
-- short list
+- youtube
 	- https://www.youtube.com/@saifedean
 	- https://www.youtube.com/@thenetworkstate
 	- https://www.youtube.com/@futurethinkers
 	- https://www.youtube.com/c/unchainedpodcast
 	- https://www.youtube.com/@ScopeofScience
+- reddit
+	- https://www.reddit.com/r/Futurology
+	- https://www.reddit.com/r/Permaculture/
+	- https://www.reddit.com/r/simpleliving/
+	- https://www.reddit.com/r/SelfSufficiency
+	- https://www.reddit.com/r/solarpunk/
+	- https://www.reddit.com/r/digitalnomad/
+	- https://www.reddit.com/r/homestead/
+	- https://www.reddit.com/r/intentionalcommunity/
+	- https://www.reddit.com/r/OffGrid/
+	- https://www.reddit.com/r/solarpunk/

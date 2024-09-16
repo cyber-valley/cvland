@@ -11,7 +11,7 @@ type:: sector
 	- [[garcinia mangostana]]
 	- [[trema tomentosa]]
 		- [[passiflora edulis]]
-		- [[inga edilus]]
+		- [[inga edulis]]
 	- [[cinamonium verum]]
 	- [[cananga odorata]]
 	- [[prunus persica]]

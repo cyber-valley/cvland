@@ -5,7 +5,7 @@ alias:: ben oil tree, kelor
 - ![Screenshot 2024-05-26 at 08.19.08.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZ5mjEtwd2LtyoxCikHpH3tg8UwPWUQAhDoJTUNBWT7X4){:height 517, :width 676}
 - ![Screenshot 2024-05-26 at 08.18.57.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZeDVca7UDGM96TSADABGy2u9LZ6BXCi763Jfma57MYkU)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmNMwZZUQgzBnsS2ynZ4ngvr5FHpS2ubCe8r7XY3wWnSrt)
-- [[plant/miracle]]
+- [[plant/miracle]], [[high margin]]
 - [[products]]
 	- [[oil]]: extracted from seeds, used in [[cooking]], [[cosmetics]], and [[biodiesel]]
 	- [[carb]]: young pods and seeds are carbohydrate-rich

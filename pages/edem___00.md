@@ -54,6 +54,7 @@ type:: sector
 	  collapsed:: true
 	- [[ocimum basilicum]]
 	- [[symphytum officinale]]
+	- [[lablab purpureus]]
 	- TODO [[ocimum tenuiflorum]]
 	- TODO [[hibiscus sabdariffa]]
 	- [[eupatorium capillifolium]]
