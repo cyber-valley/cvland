@@ -1,11 +1,12 @@
 - from my part i would bet on participation in youtube podcasts
-- youtube
-	- https://www.youtube.com/@saifedean
-	- https://www.youtube.com/@thenetworkstate
-	- https://www.youtube.com/@futurethinkers
-	- https://www.youtube.com/c/unchainedpodcast
-	- https://www.youtube.com/@ScopeofScience
-- reddit
+- youtube - not complete
+	- podcasts
+		- https://www.youtube.com/@ScopeofScience 178k
+		- https://www.youtube.com/@futurethinkers 74k
+		- https://www.youtube.com/@saifedean 46k
+		- https://www.youtube.com/c/unchainedpodcastЖ 63k
+		- https://www.youtube.com/@thenetworkstate 19k
+- reddit - kinda complete
 	- https://www.reddit.com/r/Futurology 21m
 	- https://www.reddit.com/r/homestead 3.2m
 	- https://www.reddit.com/r/digitalnomad 2.2m
