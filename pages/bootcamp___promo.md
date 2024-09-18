@@ -6,13 +6,12 @@
 	- https://www.youtube.com/c/unchainedpodcast
 	- https://www.youtube.com/@ScopeofScience
 - reddit
-	- https://www.reddit.com/r/Futurology
-	- https://www.reddit.com/r/Permaculture/
-	- https://www.reddit.com/r/simpleliving/
-	- https://www.reddit.com/r/SelfSufficiency
-	- https://www.reddit.com/r/solarpunk/
-	- https://www.reddit.com/r/digitalnomad/
-	- https://www.reddit.com/r/homestead/
-	- https://www.reddit.com/r/intentionalcommunity/
-	- https://www.reddit.com/r/OffGrid/
-	- https://www.reddit.com/r/solarpunk/
+	- https://www.reddit.com/r/Futurology 21m
+	- https://www.reddit.com/r/homestead 3.2m
+	- https://www.reddit.com/r/digitalnomad 2.2m
+	- https://www.reddit.com/r/simpleliving 1.4m
+	- https://www.reddit.com/r/Permaculture 295k
+	- https://www.reddit.com/r/solarpunk 141k
+	- https://www.reddit.com/r/SelfSufficiency 128k
+	- https://www.reddit.com/r/OffGrid 112k
+	- https://www.reddit.com/r/intentionalcommunity 19k
