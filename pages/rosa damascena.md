@@ -1,4 +1,4 @@
-tags:: species, research
+tags:: species
 
 - [[high margin]] [[oil]]
 -

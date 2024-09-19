@@ -5,7 +5,6 @@
 	- [[acer saccharum]]
 	- [[commiphora myrrha]]
 	- [[betula]]
-	- [[cannabis]]
 	- [[ceratonia siliqua]]
 	- [[erythroxylum coca]]
 	- [[paullinia cupana]]

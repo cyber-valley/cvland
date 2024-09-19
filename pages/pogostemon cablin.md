@@ -1,4 +1,4 @@
-tags:: species, research
+tags:: species
 alias:: patchouli
 
 - [[high margin]] [[oil]]

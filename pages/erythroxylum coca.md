@@ -1,5 +1,5 @@
 alias:: coca
-tags:: species
+tags:: species, prohibited
 
 - availability:: prohibited
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmY14GF76DinE8Eowj7cTg8AA4422PgDbN2BpXJ27emRmz)
