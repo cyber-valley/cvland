@@ -21,6 +21,7 @@ alias:: cv
 	- at extremely low cost which can be less when price of average car
 -
 - ## invitation to [[bootcamp]]
+	- {{video https://www.youtube.com/watch?v=kt_lYA6JCVo}}
 	- we launch [[bootcamp]] training on November 1
 	- for founders and creators of [[network states]] powered by [[startup societies]]
 	- 2 week intensive training

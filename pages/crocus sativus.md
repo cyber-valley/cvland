@@ -1,4 +1,5 @@
 tags:: species, research
+alias:: saffron
 
-- saffron: [[high margin]] [[spice]]
+- [[high margin]] [[spice]]
 - state:: supply
