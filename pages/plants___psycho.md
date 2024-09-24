@@ -1,3 +1,5 @@
+- {{query [[@master]]}}
+  query-table:: true
 - {{query (page-tags [[psycho]])}}
   query-properties:: [:page :tags]
 - |  | [[scientific name]]       | longevity (years)     | height of plant    | [[compounds]]                                   | [[psychoactive effect]]                              |

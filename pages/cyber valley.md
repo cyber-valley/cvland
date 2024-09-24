@@ -1,7 +1,7 @@
 icon:: ⛰
 alias:: cv
 
-- Hi everyone! we a [[rockets]]!
+- Hi everyone! we are [[rockets]]!
 - we are building the [[autonomous community]]
 - in the north of Bali mountains
 - on approximately 39 hectares

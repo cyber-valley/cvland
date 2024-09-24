@@ -14,3 +14,11 @@
 	- green infrastructure: incorporating natural elements into urban design to manage stormwater, improve air quality, and reduce heat
 	- regeneration: farming methods like no-till and cover cropping that restore soil health and increase biodiversity
 	- biomimicry: designing sustainable solutions inspired by nature, like energy-efficient buildings and water filtration systems
+- essentials
+	- [[maps]], [[shapes]], [[patterns]] and [[beds]]
+	- [[zones]] and [[biome/layer]]
+	- [[guild]] and  [[plant/features]]
+	- [[stratification]]
+	- [[lifecicle]] and [[propogation]]
+	- [[biomes]] and [[climate]]
+	- [[plant/type]] and its [[products]]
