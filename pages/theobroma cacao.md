@@ -1,7 +1,9 @@
 tags:: species
 alias:: cacao tree, chocolate, coklat, kakao
 
+- state:: supply
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmXij4UgeYZMTcrNiTWN42KJnTAvusrKuCSkmPaGZAZiMF)
+- [[high margin]]
 - product
 	- [[fruit]]
 - [wiki](https://en.wikipedia.org/wiki/Theobroma_cacao)

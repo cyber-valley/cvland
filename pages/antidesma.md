@@ -1,4 +1,5 @@
 tags:: genus
 
-- {{embed [[antidesma bunius]]}}
-- [[antidesma bunius]]
+- selected for [[edem]]
+	- {{embed [[antidesma bunius]]}}
+-

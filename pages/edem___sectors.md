@@ -3,7 +3,7 @@
   query-table:: true
   query-sort-desc:: false
   query-properties:: [:page :type :updated-at]
-- query-sort-by:: page
+- query-sort-by:: block
   query-table:: true
   query-sort-desc:: false
   #+BEGIN_QUERY
@@ -16,4 +16,5 @@
            [(not= ?pname "edem/sectors")]]
    :inputs []
    :result-transform (fn [result] result)}
-  #+END_QUERY
+  #+END_QUERY/
+-

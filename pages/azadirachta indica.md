@@ -7,3 +7,4 @@ alias:: neem, mimba
 	- [[leave]]
 - [tokopedia](https://www.tokopedia.com/armenda/seedcenter-2-benih-biji-buah-mimba-margosier-margosatree-neem-tree?extParam=ivf%3Dfalse%26src%3Dsearch)
 - [[plant/miracle]]
+- [[high margin]]

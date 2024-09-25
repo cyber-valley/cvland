@@ -1,2 +1,4 @@
 tags:: species, research
-alias:: tongkat ali
+alias:: tongkat ali, pasak bumi
+
+- state:: supply

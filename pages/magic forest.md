@@ -11,6 +11,6 @@ icon:: 🪷
 - 2 phase: increase biodiversity [[42 species]]
 	- [[aquatics development]]
 	- more plant, animal and fungi species
-	- from [[forest]] and from [[lab]]
+	- from [[forest]] and from [[labs]]
 - 3 phase: sustaining ecosystem and maximize species
 - [[toolset]] for magic forest

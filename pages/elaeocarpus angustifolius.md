@@ -1,4 +1,5 @@
 tags:: species
-alias:: ganitri
+alias:: ganitri, rudraksha
 
+-
 -

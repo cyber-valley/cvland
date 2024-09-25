@@ -6,4 +6,4 @@ alias:: cendana, east indian sandalwood, sandal, sandalwood
 - height: 4-9 m
 - [wiki](https://en.wikipedia.org/wiki/Santalum_album)
 - [tokopedia](https://www.tokopedia.com/najabmart/bibit-pohon-santalum-album-bibit-pohon-cendana-beribu-manfaat-murahhh?extParam=ivf%3Dfalse%26src%3Dsearch)
--
+- [[high margin]]

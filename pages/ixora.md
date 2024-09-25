@@ -1,3 +1,4 @@
 tags:: genus
 
-- {{embed [[ixora coccinea]]}}
+- selected for [[edem]]
+	- {{embed [[ixora coccinea]]}}

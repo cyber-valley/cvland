@@ -36,7 +36,7 @@ type:: sector
 - DONE [[melaleuca]]
 - [[alternanthera ficoidea]]
 - TODO [[pouteria sapota]]
-	- [[tradescantia palida]]
+	- [[tradescantia pallida]]
 - TODO [[phyllanthus emblica]]
 	- TODO [[cryptomeria japonica]]
 	- [[asparagus densiflorus]]

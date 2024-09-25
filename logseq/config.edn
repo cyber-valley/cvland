@@ -71,7 +71,7 @@
 
  ;; Enable whiteboards.
  ;; Default value: true
- feature/enable-whiteboards? false
+ :feature/enable-whiteboards? false
 
  ;; Disable the journal's built-in 'Scheduled tasks and deadlines' query.
  ;; Default value: false
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["cyber valley" "genesis" "bootcamp" "bootcamp/pricing" "apply for bootcamp" "daypass" "sytech"]
+ :favorites ["cyber valley" "genesis" "bootcamp" "bootcamp/pricing" "apply for bootcamp" "daypass" "sytech" "genus"]
 
  ;; Set flashcards interval.
  ;; Expected value:

@@ -1,2 +1,4 @@
 tags:: genus
-- {{embed [[tagetes lucida]]}}
+
+- selected for [[edem]]
+	- {{embed [[tagetes lucida]]}}

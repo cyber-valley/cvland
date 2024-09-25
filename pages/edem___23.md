@@ -4,7 +4,7 @@ type:: sector
 	- [[edem/22]]
 	- [[edem/24]]
 - DONE [[vallaris glabra]]
-- [[agathis robusta]]
+- TODO [[agathis robusta]]
 - [[tagetes erecta]]
 - [[kalanchoe daigremontiana]]
 - [[aloe vera]]
@@ -19,7 +19,7 @@ type:: sector
 - [[anthurium andraeanum]]: 5
 - [[citrus limon]]
 - [[orchidaceae]]: 2
-- [[mesua ferrea]]
+- TODO [[mesua ferrea]]
 - [[senna septemtrionalis]] : 4
 - [[zanthoxylum fagara]]
 - [[durio zibethinus]]

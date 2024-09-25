@@ -5,7 +5,7 @@ type:: sector
 	- [[edem/26]]
 - [[durio zibethinus]] super tembaga
 - [[dysoxylum densiflorum]]
-- [[elaeocarpus angustifolius]]
+- TODO [[elaeocarpus angustifolius]]
 - [[citrus sinensis]]
 - TODO [[chrysophyllum cainito]]
 - [[litchi chinensis]]
@@ -19,7 +19,7 @@ type:: sector
 - [[origanum majorana]]
 - [[clitoria ternatea]]
 - [[solanum melongena]]
-- [[lansium parasiticum]]
+- TODO [[lansium parasiticum]]
 - DONE [[pouteria sapota]]
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 04:38:45]--[2024-04-26 Fri 07:18:20] =>  02:39:35

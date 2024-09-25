@@ -1,4 +1,4 @@
 tags:: genus
 
 - selected for [[edem]]
-- {{embed [[fragaria ananassa]]}}
+	- {{embed [[fragaria ananassa]]}}

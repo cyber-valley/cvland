@@ -28,3 +28,8 @@
 	- [[firefighter]]: resistant to fires
 	- [[distractor]]: diverts malicious activity to itself
 - [[agressor]]: non symbiotic invasive species for biomass production
+- [[longevity]]
+	- annual: short lived so can walk and appear here and there
+	- short-lived: 2-10 years
+	- medium-lived: 10-100 years
+	- long-lived: 100+ years

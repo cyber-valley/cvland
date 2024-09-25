@@ -1,8 +1,10 @@
 tags:: genus
 
-- {{embed [[pouteria sapota]]}}
-- {{embed [[pouteria campechiana]]}}
-- {{embed [[pouteria caimito]]}}
-- {{embed [[pouteria lucuma]]}}
-- {{embed [[pouteria viridis]]}}
+- selected for [[edem]]
+	- {{embed [[pouteria sapota]]}}
+- research
+	- {{embed [[pouteria campechiana]]}}
+	- {{embed [[pouteria caimito]]}}
+	- {{embed [[pouteria lucuma]]}}
+	- {{embed [[pouteria viridis]]}}
 -

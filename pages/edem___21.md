@@ -4,23 +4,23 @@ type:: sector
 	- [[edem/20]]
 	- [[edem/22]]
 - [[passiflora vitifolia]]
-- [[terminalia mantaly]]
-- [[chamaecyparis pisifera]]
+- TODO [[terminalia mantaly]]
+- TODO [[chamaecyparis pisifera]]
 - [[manilkara kauki]]
 - [[jatropha integerrima]]
 - [[rosa chinensis]]: 10
-- [[pometia pinnata]]
-- [[manilkara zapota]]
+- TODO [[pometia pinnata]]
+- TODO [[manilkara zapota]]
 - [[bauhinia variegata]]
 - [[xanthostemon chrysanthus]]
-- [[malus domestica]]
+- TODO [[malus domestica]]
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:30:42]--[2024-04-26 Fri 06:55:24] =>  00:24:42
   :END:
 - [[medinilla magnifica]]
-- [[cocos nucifera]]
-- [[melaleuca linariifolia]]
-- [[durio zibethinus]]
+- TODO [[cocos nucifera]]
+- TODO [[melaleuca linariifolia]]
+- TODO [[durio zibethinus]]
 - [[hibiscus rosa-sinensis]]
 - [[hibiscus rosa-sinensis]]
 - [[unidentified]]
@@ -35,4 +35,4 @@ type:: sector
   CLOCK: [2024-04-26 Fri 06:53:23]--[2024-04-26 Fri 06:55:22] =>  00:01:59
   :END:
 - [[plumeria rubra]]
-- [[butea monosperma]]
+- TODO [[butea monosperma]]

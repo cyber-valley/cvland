@@ -1,7 +1,10 @@
 tags:: genus
 
-- [[mentha piperita]]
-- [[mentha spicata]]
-- [[mentha citrata]]
-- [[mentha suaveolens]]
-- [[mentha pulegium]]
+- selected for [[edem]]
+	- {{embed [[mentha piperita]]}}
+	- {{embed [[mentha spicata]]}}
+	- {{embed [[mentha citrata]]}}
+	- {{embed [[mentha suaveolens]]}}
+- [[research]]
+	- [[mentha pulegium]]
+-

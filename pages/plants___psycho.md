@@ -1,10 +1,11 @@
-- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmdraiCaUEc3ACxpgCYaMWG8fP2sekZ2hmovswjtQUf2Jfname)              
-  |  | [[scientific name]]       | longevity (years)     | height of plant    | [[compounds]]                                   | [[psychoactive effect]]                              |
-  |---------------------|------------------------|-----------------------|--------------------|---------------------------------------------|--------------------------------------------------|
-  | [[magic shrooms]]| [[psilocybe spp.]]         | annual                | 5-15 cm            | [[psilocybin]], [[psilocin]]                        | [[produces strong euphoria]], [[altered perception]], [[enhanced senses]] |
-  | [[peyote]]              | [[lophophora williamsii]]  | 10-20                 | 2.5-12.5 cm        | [[mescaline]]                                   | [[produces strong euphoria]], [[altered perception]], [[enhanced senses]] |
-  | [[san pedro]]    | [[echinopsis pachanoi]]    | 30-50                 | 3-6 m              | [[mescaline]]                                   | [[produces euphoria]], [[altered perception]]            |
-  | [[sacred mushroom]]     | [[amanita muscaria]]       | annual                | 10-20 cm           | [[muscimol]], [[ibotenic acid]]                     | [[produces euphoria]], [[altered perception]]            |
+- {{query [[@master]]}}
+  query-table:: true
+- {{query (page-tags [[psycho]])}}
+  query-properties:: [:page :tags]
+- |  | [[scientific name]]       | longevity (years)     | height of plant    | [[compounds]]                                   | [[psychoactive effect]]                              |
+  |---------------------|------------------------|-----------------------|--------------------|---------------------------------------------|----------------------------------------------
+  
+  
   | [[damiana]]             | [[turnera diffusa]]        | 10-15                 | 0.6-1.8 m          | [[flavonoids]], [[terpenoids]], [[caffeine]]            | [[enhances sexual pleasure]], [[increases libido]]       |
   | [[kanna]]               | [[sceletium tortuosum]]    | 10-20                 | 15-30 cm           | [[mesembrine]], [[mesembrenone]]                    | [[produces euphoria]], [[increased sociability]]         |
   | [[catuaba]]             | [[erythroxylum catuaba]]   | 5-10                  | 4-6 m              | [[alkaloids]], [[flavonoids]]                       | [[enhances sexual arousal and pleasure]]             |
@@ -13,7 +14,7 @@
   | [[blue lotus]]          | [[nymphaea caerulea]]      | 5-10                  | 0.3-0.6 m          | [[aporphine]], [[nuciferine]]                       | [[produces relaxation]], [[mild euphoria]]               |
   | [[saffron]]             | [[crocus sativus]]         | 5-10                  | 10-15 cm           | [[crocin]], [[safranal]], [[picrocrocin]]               | [[improves mood]], [[enhances sexual function]], [[mild euphoria]] |
   | [[hemp]]                | [[cannabis sativa]]        | annual                | 1-3 m              | [[thc]], [[cbd]], [[terpenes]]                          | [[produces euphoria]], [[enhances mood]], [[increases sociability]] |
-  | [[paullinia cupana]]             | [[paullinia cupana]]       | 5-10                  | 3-4 m              | [[caffeine]], [[theobromine]], [[tannins]]              | [[boosts energy]], [[enhances mood]], [[improves libido]]    |
+  | [[guarana]] | [[paullinia cupana]]       | 5-10                  | 3-4 m              | [[caffeine]], [[theobromine]], [[tannins]]              | [[boosts energy]], [[enhances mood]], [[improves libido]]    |
   | [[yohimbe]]             | [[pausinystalia johimbe]]  | 50-100                | 9-30 m             | [[yohimbine]], [[indole alkaloids]]                 | [[enhances sexual performance]], [[treats erectile dysfunction]] |
   | [[panax ginseng]]             | [[panax ginseng]]          | 20-30                 | 30-60 cm           | [[ginsenosides]], [[panaxosides]]                   | [[enhances sexual performance]], [[reduces stress]]      |
   | [[ashwagandha]]         | [[withania somnifera]]     | 5-10                  | 0.5-1.5 m          | [[withanolides]], [[alkaloids]], [[saponins]]           | [[reduces stress]], [[enhances libido]]                  |
@@ -28,3 +29,4 @@
   | [[erythroxylum coca]]                | [[erythroxylum coca]]      | 20-30                 | 1-3 m              | [[cocaine]], [[benzoylecgonine]]                    | [[stimulates]], [[increases energy and mood]], [[mild euphoria]] |
   | [[lepidium meyenii]]                | [[lepidium meyenii]]       | 5-10                  | 15-20 cm           | [[macamides]], [[macaenes]], [[glucosinolates]]         | [[increases libido]], [[stamina]], and [[fertility]]         |
   | [[kava]]                | [[piper methysticum]]      | 3-5                   | 0.9-1.8 m          | [[kavalactones]]                                | [[produces relaxation]], [[mild euphoria]]               |
+	-
