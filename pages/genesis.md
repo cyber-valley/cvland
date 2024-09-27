@@ -15,7 +15,7 @@ icon:: 🧬
 		- [[parking]]: 10 cars and 20 bikes
 		- [[elons]] sheeps, chickens and chill
 		- [[organiq]]: market and resto
-		- [[permabase]]: processing facility for [[plants]], [[animals]] and [[fungi]]
+		- [[permabase]]: processing facility of [[plants]], [[animals]] and [[fungi]]
 		- [[monastery]]: playground for kids
 		- TODO [[banya]]: spa and joys
 	- areas
@@ -23,7 +23,7 @@ icon:: 🧬
 		- [[cypher]]: 2 ha of community driven chaotic development
 		- [[pasture]]: area for sheeps with specialized vegetation on 60 ares
 		- [[senwood]]: 4 ha with thousands of [[albizia chinensis]] trees
-		- [[kavo]]: 2 ha coffee plantation with [[avocado]], [[banana]], [[orange]], [[jackfruit]], [[markiza]] and [[bamboo]]
+		- [[kavo]]: 2 ha [[coffea arabica]] plantation with [[avocado]], [[banana]], [[orange]], [[jackfruit]], [[markiza]] and [[bamboo]]
 		- [[wilderness]]: 12 ha of wild biomes
 	- residential buildings
 		- [[carrot house]]

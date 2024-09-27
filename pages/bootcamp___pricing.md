@@ -1,6 +1,8 @@
 icon:: 💰
 
-- only 5 tents will become available at launch
+- only 2 tents will become available at launch for money
+- 3 tents will be freely allocated for applicants
+- you can apply by sending
 - price of one tent
   id:: 66c812f9-ab83-47f1-9b81-16eccba6005a
 	- base price during 2 week program is $1k without habitats
