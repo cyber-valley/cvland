@@ -30,7 +30,12 @@ What do you do with your hands? Pushing buttons and mentoring don’t count. If 
 Brainstorm the potential roles you wish to take on. Everything counts!
 
 ## Are you willing to share living space with 1-2 humans?
-Please share your preferences, requirements, and any limitations you may have regarding shared accommodations.
+Please share your preferences, requirements, and any limitations you may have regarding shared accommodations. In case of paid participation you can decide your company.
 
-## Question
+## Type of application
+What is your preference: paid or free participation?
+Free participation is competitive.
+Paid participation is allocated on a first-come, first-served basis
+
+## Questions
 Feel free to ask us any questions! We will answer them shortly
