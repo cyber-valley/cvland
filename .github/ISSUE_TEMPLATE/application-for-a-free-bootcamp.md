@@ -2,7 +2,7 @@
 name: Application for a free bootcamp
 about: Collection of bootcamp applications
 title: Name the issue as a character, or simply by your nickname
-labels: ''
+labels: bootcamp application
 assignees: DiotimaEva
 
 ---
@@ -18,16 +18,19 @@ age: can be approximated
 languages you can use: 
 
 ## What is you purpose with BOOTcamp?
-Describe why do you want to participate: homestead at your place, looking for community, curiosity etc.
+Describe why you want to participate: homesteading at your place, looking for community, curiosity, etc.
 
 ## Your story
-Pitch you personal and/or professional story! We want to know everything about you! Your passions, skills, powers ...
+Pitch your personal and/or professional story! We want to know everything about you — your passions, skills, and strengths.
 
 ## Estimate you physical power
-What do you do by your hands? pushing buttons and mentoring does not count. If nothing, which is unfortunately common nowdays, estimate your will and capacity to do something in physical world?
+What do you do with your hands? Pushing buttons and mentoring don’t count. If you currently don’t engage in physical tasks, which is unfortunately common nowadays, estimate your willingness and capacity to contribute to the physical world.
 
 ## How can you be useful in building the citadel genesis and broader network state?
-Brainstorm on the potential roles you wish to take? Everything counts ...
+Brainstorm the potential roles you wish to take on. Everything counts!
+
+## Are you willing to share living space with 1-2 humans?
+Please share your preferences, requirements, and any limitations you may have regarding shared accommodations.
 
 ## Question
-Feel free to ask as any questions! We will answer them shortly
+Feel free to ask us any questions! We will answer them shortly
