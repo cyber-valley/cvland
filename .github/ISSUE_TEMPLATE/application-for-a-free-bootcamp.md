@@ -26,7 +26,7 @@ Pitch your personal and/or professional story! We want to know everything about 
 ## Estimate you physical power
 What do you do with your hands? Pushing buttons and mentoring don’t count. If you currently don’t engage in physical tasks, which is unfortunately common nowadays, estimate your willingness and capacity to contribute to the physical world.
 
-## How can you be useful in building the citadel genesis and broader network state?
+## How can you be useful in building the [citadel genesis](https://cv.land/#/page/genesis) and broader network state?
 Brainstorm the potential roles you wish to take on. Everything counts!
 
 ## Are you willing to share living space with 1-2 humans?
