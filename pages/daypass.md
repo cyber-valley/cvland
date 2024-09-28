@@ -8,21 +8,18 @@ alias:: day pass, visit us
 - complete with picnic areas, unlimited food, and much more
 -
 - ## how?
-	- starts on 5 of november
+	- starts on 3 of January 2024
 	- 50$ day all inclusive
 	- unlimited [[organiq]] food
 	- plant 1 tree for free
-	- 10 daily visits limit
-	- no discount for kids
+	- no discount for kids and animals
 -
-- ## book tickets
-	- send direct message to [x.com/cybervalleyland](https://x.com/cybervalleyland)
-	- or drop dm to telegram group
+- No need for booking tickets, you can pay on arrival!
+-
 - ## facilities
 	- TODO [[picnic areas]]: places for chill
 	- TODO [[organiq]]: organic food and market
 	- [[carpentry]]: place for crafting cool stuff
 	- [[elons]]: spend time with sheeps and chickens
 	- [[monastery]]: kids growing paradise
-	- [[edem]]: useful and young botanic garden
-	-
+	- [[edem]]: young but useful botanic garden

@@ -13,10 +13,10 @@ icon:: 🧬
 		- [[autonomy tour]]
 	- commercial buildings
 		- [[parking]]: 10 cars and 20 bikes
-		- [[elons]] sheeps, chickens and chill
-		- [[organiq]]: market and resto
-		- [[permabase]]: processing facility of [[plants]], [[animals]] and [[fungi]]
 		- [[monastery]]: playground for kids
+		- [[elons]] sheeps, chickens and chill
+		- [[permabase]]: processing facility of [[plants]], [[animals]] and [[fungi]]
+		- TODO [[organiq]]: market and resto
 		- TODO [[banya]]: spa and joys
 	- areas
 		- [[edem]]: experimental high labor [[magic forest]] on 30 ares
@@ -24,12 +24,12 @@ icon:: 🧬
 		- [[pasture]]: area for sheeps with specialized vegetation on 60 ares
 		- [[senwood]]: 4 ha with thousands of [[albizia chinensis]] trees
 		- [[kavo]]: 2 ha [[coffea arabica]] plantation with [[avocado]], [[banana]], [[orange]], [[jackfruit]], [[markiza]] and [[bamboo]]
-		- [[wilderness]]: 12 ha of wild biomes
+		- [[wilderness]]: 12 ha of wild biomes without trails
 	- residential buildings
 		- [[carrot house]]
 		- [[vitalik]]
 		- [[gavin]]
-		- [[yann]]
+		- [[nick]]
 		- [[andrej]]
 		- [[satoshi]]
 	- industrial buildings
@@ -37,9 +37,9 @@ icon:: 🧬
 - ## projects
 	- [[sensor network]]
 	- [[soil research]]
-	- [[fungi research]]
 	- [[birds research]]
 	- [[plants research]]
+	- TODO [[fungi research]]
 - ## surrounded by the following districts
 	- [[batuka]]: relict forest
 	- [[bridge]]: commercial street

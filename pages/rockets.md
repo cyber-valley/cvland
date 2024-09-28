@@ -11,5 +11,3 @@
 		- [x.com/JooyRocket](https://x.com/JooyRocket)
 		- https://t.me/st_joy
 		- [cyb.ai/@jooy](https://cyb.ai/@jooy)
--
--
