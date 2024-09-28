@@ -3,7 +3,6 @@ name: Application for a free bootcamp
 about: Collection of bootcamp applications
 title: Name the issue as a character, or simply by your nickname
 labels: bootcamp application
-assignees: DiotimaEva
 
 ---
 
