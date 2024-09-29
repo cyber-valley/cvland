@@ -11,7 +11,9 @@ icon:: 🥕
 -
 - # [[apply for bootcamp]] today — it’s free to join!
 -
-- # rules
+- # rules of the game
+	- you have a goal: build autonomous tent and [[develop citadel genesis]]
+	- the most valuable participant win the land
 	- expect chaos
 	- [[pilot]] of [[bootcamp]] starts at 1 of november 2024 in a day before new moon
 	- there are 16 [[bootcamp]] rounds
@@ -32,7 +34,11 @@ icon:: 🥕
 		- in such case the right receiver must be dao audited by [[citadel genesis]] residents
 		- [[team speed competition]] will become available to clans soon
 	- winners are chosen by residents of [[citadel genesis]]
+- ## get familiar with [[bootcamp/rules]]
 - # [[apply for bootcamp]] today — it’s free to join!
+- # [[bootcamp/map]]
+- # [[bootcamp/rules]]
+- # [[bootcamp/schedule]]
 - # schedule
 	- draft version: subject to update
 	- | stage      | start date  | end date    | start moon phase | end moon phase | tents | premium |

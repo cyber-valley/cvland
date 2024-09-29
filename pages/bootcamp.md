@@ -51,7 +51,11 @@ icon:: 🏕️
 	- cozy tent with meals in natural and autonomous environment
 	- amazing infrastructure for kids
 	- nature everywhere
+- # [[bootcamp/map]]
+- # [[bootcamp/rules]]
+- # [[bootcamp/schedule]]
 - # [[bootcamp/premium]]
+- # [[game of freedom]]
 - ## rules
 - ## evening events
 	- new moon party
