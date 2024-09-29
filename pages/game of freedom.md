@@ -1,6 +1,7 @@
 icon:: 🥕
 
 - ## Unlock 2 weeks of transformative living
+- ## Join [[bootcamp]]
 - ## and win
 	- ## 42 ares (4200 m²) of prime land
 	- ## 1T [[$BOOT]] in capital to build your dream life
