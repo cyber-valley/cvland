@@ -6,9 +6,9 @@
 - ## tldr
 	- | problem | mechanism |
 	  | overpopulation | staking mechanism for residentship |
-	  | broken ecology | automated slashing driven by sensor network |
 	  |no collective insurance | capital driven basic income |
-	  | lack of freedoms | automated slashing driven by sensor network |
+	  | broken ecology | automated slashing driven by sensor network |
+	  | lack of freedoms |  |
 	  | inefficient public goods | public good infrastructure owned by community |
 	  | | advanced decision making |
 - ## mechanisms
