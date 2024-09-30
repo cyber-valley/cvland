@@ -6,6 +6,13 @@
 	- powerful males agree to pay significantly more when females and in exchange enjoy [[prosperity]]
 	- smart females agree to share male and kids and in exchange also enjoy [[prosperity]]
 	- everyone agree on economical domination of females over males in all key areas
+- # disclaimer
+	- being in blockchain community since the beginning i observed how males dominated the space
+	- still up to 90% of participants in almost all engineering ralated events are males
+	- this led to an extremely uneven capital distribution between genders
+	- i think that was one of the biggest mistakes while building the industry
+	- during citadel construction i believe even achieving normal balance 50/50 is already awesome
+	- but if the society we build choose to growth really fast we have to look deeper into the culture more rationally
 - the effect suggested by research that female-biased societies, if well-managed
 	- could potentially lead to more rapid growth
 	- better social outcomes
