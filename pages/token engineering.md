@@ -1,3 +1,3 @@
 - TODO lecture at [[bootcamp]]
 - articles
-	- [[sustainable model of autonomous community]]
+	- [[token engineering for startup societies]]

@@ -45,7 +45,7 @@
 		- its important that community iterate and constantly improve decision making
 - ## token model
 	- initial distribution: proportionally to land ownership on the start
-	- mint: basic income defined by community. 0.1% on the start
+	- mint: basic income defined by community. 0.01% on the start
 	- burn: payments for services and infrastructure
 	- lock: residency staking
 	- pay: small community defined tax on every transfer. 0.1% on the start

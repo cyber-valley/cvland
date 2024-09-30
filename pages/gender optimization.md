@@ -109,7 +109,7 @@
 		- even with a favorable female-biased ratio, if resources are scarce,
 		- population growth may harm the environment
 		- these needs must be optimized on the lowest level of [[community consensus]]
-		- TODO article on [[sustainable model of autonomous community]]
+		- TODO article on [[token engineering for startup societies]]
 	- expensive physical force
 		- as males are rare and mostly resourceful there is an issue with physical force availability
 		- however with focus on robotics, animal education and nurturing soft force
