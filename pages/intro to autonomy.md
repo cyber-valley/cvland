@@ -1,2 +1,12 @@
 - TODO lecture at [[bootcamp]]
-- will be published soon
+- high level lecture touching all necessary components of autonomy
+	- [[energy system]]: how to build and make it work reliably?
+	- [[water system]]: simple solutions for clean water
+	- [[soil, heat and recycling]]: the source of magic
+	- [[biome engineering]]: create efficient and high margin [[magic forest]]
+	- [[longevity and health]]: simple secrets for better life
+	- [[cryptography and web3]]: confident use of modern apps
+	- [[learning and ai]]: knowledge graphs and prompt engineering basics
+	- [[lowtech construction]]: building fast and cheap
+	- [[sensors, dev and control]]: how to automate and lead community
+	- [[token engineering]]: sustainable and efficient models for regulation and growth

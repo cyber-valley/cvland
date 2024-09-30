@@ -1,2 +1,12 @@
 - TODO lecture at [[bootcamp]]
-- will be published soon
+- we are obsessed with the idea of fast, cheap and lowtech construction
+- typical development of housing takes 2-3 years
+- it is too slow for a such dynamic world
+- our idea is to grow settlement using quasi temporary constructions from bamboo
+- such constructions can be durable enough for comfortable living
+	- can sustain for 3-5 years
+	- can be constructed in weeks and cost $10k - $20k
+	- including furniture, electronics and autonomy equipment
+	- most of these costs can be transplanted to capital construction
+- if you find a way to settle its way faster to build something cheaper and faster
+- follow us to get updates and reports on the effort

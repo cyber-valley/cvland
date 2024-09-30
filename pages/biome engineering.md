@@ -3,7 +3,11 @@
 - to meet human needs
 - restore natural balance
 - and create sustainable, self-sufficient environments
+- this is an area we are specifically focused
+- in the following months we are going to post tons of useful information on the topic
 - methods
+  collapsed:: true
+	- [[magic forest]]: bootstrapping amazing ecosystem using affordable low tech methods
 	- genetics: modifying organisms to enhance ecological functions
 	- restoration: reintroducing native species and rebuilding habitats to restore damaged ecosystems like forests and wetlands
 	- bioremediation: using lifeforms to clean polluted environments by breaking down or absorbing contaminants
