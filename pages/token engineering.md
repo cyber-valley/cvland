@@ -1,2 +1,3 @@
 - TODO lecture at [[bootcamp]]
-- will be published soon
+- articles
+	- [[sustainable model of autonomous community]]
