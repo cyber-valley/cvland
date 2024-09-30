@@ -1,0 +1,5 @@
+- will be the most intensive, but heavy stage
+- we are currently working on preparing the camp to all things
+- however, it is a construction, and construction is hard to predict
+- this is our first effort as developers in physical world
+- the agenda for the pilot will likely be to debug everything, so it really works
