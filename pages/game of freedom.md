@@ -16,7 +16,7 @@ icon:: 🥕
 	- the most valuable participant win the land
 	- expect chaos
 	- [[pilot]] of [[bootcamp]] starts at 1 of november 2024 in a day before new moon
-	- there are 16 [[bootcamp]] rounds
+	- there are 8 [[bootcamp]] rounds
 	- winners of rounds pass to the semifinal
 	- winners of semifinals pass to final
 	- only 1 winner of final win the competition
@@ -33,7 +33,7 @@ icon:: 🥕
 		- they can merge into clans during [[game of freedom]]
 		- in such case the right receiver must be dao audited by [[citadel genesis]] residents
 		- [[team speed competition]] will become available to clans soon
-	- winners are chosen by residents of [[citadel genesis]]
+	- ## [[choosing the winner]]
 - ## get familiar with [[bootcamp/rules]]
 - # [[apply for bootcamp]] today — it’s free to join!
 - # [[bootcamp/map]]
@@ -51,15 +51,5 @@ icon:: 🥕
 	  | 6 round    | 2025-01-11  | 2025-01-24  | Full Moon        | New Moon       | | |
 	  | 7 round    | 2025-01-25  | 2025-02-07  | New Moon         | Full Moon      | | |
 	  | 8 round    | 2025-02-08  | 2025-02-21  | Full Moon        | New Moon       | | |
-	  | 9 round    | 2025-02-22  | 2025-03-06  | New Moon         | Full Moon       | | |
-	  | 10 round   | 2025-03-07  | 2025-03-20  | Full Moon        | New Moon       | | |
-	  | 11 round   | 2025-03-21  | 2025-04-03  | New Moon         | Full Moon      | | |
-	  | 12 round   | 2025-04-04  | 2025-04-17  | Full Moon        | New Moon       | | |
-	  | 13 round   | 2025-04-18  | 2025-05-01  | New Moon         | Full Moon      | | |
-	  | 14 round   | 2025-05-02  | 2025-05-15  | Full Moon        | New Moon       | | |
-	  | 15 round   | 2025-05-16  | 2025-05-29  | New Moon         | Full Moon      | | |
-	  | 16 round   | 2025-05-30  | 2025-06-12  | Full Moon        | New Moon       | | |
-	  | 1 semi  | 2025-06-13  | 2025-06-26  | New Moon         | Full Moon      | | |
-	  | 2 semi  | 2025-06-27  | 2025-07-10  | Full Moon        | New Moon       | | |
 	  | final  | 2025-07-11  | 2025-07-24  | New Moon         | Full Moon      | | |
 - # [[apply for bootcamp]] today — it’s free to join!
