@@ -7,8 +7,6 @@ icon:: 🥕
 	- ## 1T [[$BOOT]] in capital to build your dream life
 - ## in the [[citadel genesis]] on Bali’s magical island!
 -
-- ## Or bootstrap your real business with [[team speed competition]]
--
 - # [[apply for bootcamp]] today — it’s free to join!
 -
 - # rules of the game
@@ -28,6 +26,7 @@ icon:: 🥕
 			- provided as is to the .moon address
 			- with lock for 5 years
 			- and ability to withdraw staking rewards
+	- mechanism of [[choosing the winner]] is up to public discussion
 	- participants can organize into clans
 		- if participants think that together their wining chance is higher
 		- they can merge into clans during [[game of freedom]]
