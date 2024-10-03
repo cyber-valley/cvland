@@ -27,6 +27,9 @@
 	- https://cyb.ai/oracle/stats
 	- [introduction to bostrom for ai geeks](https://cyber.page/#/page/introduction%20to%20bostrom%20for%20ai%20geeks)
 	- where superintelligence come from?
+		- ![image.png](../assets/image_1727964304056_0.png)
+		- now is 3 mln cyberlinks
+		- exponential acceleration of cybergraph grow already in place
 	- applications
 		- public storage and distribution
 		- collaborative labeling
