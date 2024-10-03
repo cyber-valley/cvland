@@ -4,7 +4,7 @@ icon:: 💰
 - ## pricing
 	- 10k for 3 invites in one tent (including you)
 	  id:: 66c812f9-ab83-47f1-9b81-16eccba6005a
-	- in addition for each male invite: $10k
+	- in addition for each male invite: $10k USDT
 	- you can invite females for free
 	- no discount for kids and animals: they count as equal habitats
 - ## sponsorship
