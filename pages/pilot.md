@@ -1,3 +1,8 @@
+- target
+	- demonstrate that [[fully autonomous tent]] is possible
+	- in 2 weeks
+	- for $10k (could be more)
+	- using some reasonable amount of physical and intellectual force
 - will be the most intensive, but heavy stage
 - we are currently working on preparing the camp to all things
 - however, it is a construction, and construction is hard to predict
