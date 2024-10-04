@@ -19,6 +19,11 @@
 	- [[permabase]]: kitchen
 	- [[coworking]]: creative space
 - prepare [[pilot]]
+	- target
+		- demonstrate that fully autonomous tent is possible
+		- in 2 weeks
+		- for $10k (could be more)
+		- using some reasonable amount of physical and intellectual force
 	- schedule
 	- tools
 	- materials
