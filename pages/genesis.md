@@ -15,6 +15,7 @@ icon:: 🧬
 		- [[parking]]: 10 cars and 20 bikes
 		- [[monastery]]: playground for kids
 		- [[elons]] sheeps, chickens and chill
+		- [[coworking]]: place for meetups
 		- [[permabase]]: processing facility of [[plants]], [[animals]] and [[fungi]]
 		- TODO [[organiq]]: market and resto
 		- TODO [[banya]]: spa and joys
@@ -25,7 +26,7 @@ icon:: 🧬
 		- [[senwood]]: 4 ha with thousands of [[albizia chinensis]] trees
 		- [[kavo]]: 2 ha [[coffea arabica]] plantation with [[avocado]], [[banana]], [[orange]], [[jackfruit]], [[markiza]] and [[bamboo]]
 		- [[wilderness]]: 12 ha of wild biomes without trails
-	- residential buildings
+	- [[residential buildings]]
 		- [[carrot house]]
 		- [[vitalik]]
 		- [[gavin]]

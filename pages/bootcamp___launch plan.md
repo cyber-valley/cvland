@@ -1,0 +1,25 @@
+- deadline: 31 october
+- setup media channel youtube.com/@cybervalleyland
+	- boost channel to 100k subscribers
+		- video with game of freedom
+		- video with details of pilot
+		- interview with applicants
+		- last preparations
+	- find producer for game of freedom
+		- find operator
+		- find youtube manager
+		- organize live streaming of construction
+		- 14 updates during [[pilot]] every day updates
+		- 12 videos covering topics of autonomy
+		- placement for producer and operator
+		- bootcamp participant preferable
+- construct infrastructure
+	- 6 [[residential buildings]]
+	- [[organiq]]: resto and market
+	- [[permabase]]: kitchen
+	- [[coworking]]: creative space
+- prepare [[pilot]]
+	- schedule
+	- tools
+	- materials
+	- equipment
