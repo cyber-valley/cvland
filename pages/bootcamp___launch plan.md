@@ -22,15 +22,17 @@
 	- [[permabase]]: kitchen [[@joy]] + [[@love]]
 	- [[edem]] and [[pasture]]: [[love]]
 	- [[@robonomics]] + [[joe]]: water system, energy system, network
+	- [[recycling]]
 - prepare [[pilot]]
 	- target
-		- demonstrate that fully autonomous tent is possible
+		- demonstrate that [[fully autonomous tent]] is possible
 		- in 2 weeks
 		- for $10k (could be more on the pilot)
 		- using some reasonable amount of physical and intellectual force
-	- schedule: [[@joe]] [[@master]] [[@love]]
+	- schedule: [[@joe]] [[@master]] [[@love]] [[@joy]]
+		- [[cyberman]]
 	- materials: [[@joe]]
-	- tools: [[@love]]
+	- tools: [[@joy]]
 	- plants: [[@love]]
-	- compost: ?
-	- equipment: ?
+	- compost: [[@love]]
+	- equipment: [[@love]] and [[@joy]]

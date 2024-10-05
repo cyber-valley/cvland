@@ -25,7 +25,7 @@ icon:: 🧬
 		- [[pasture]]: area for sheeps with specialized vegetation on 60 ares
 		- [[senwood]]: 4 ha with thousands of [[albizia chinensis]] trees
 		- [[kavo]]: 2 ha [[coffea arabica]] plantation with [[avocado]], [[banana]], [[orange]], [[jackfruit]], [[markiza]] and [[bamboo]]
-		- [[wilderness]]: 12 ha of wild biomes without trails
+		- [[wilderness]]:  12 ha with fog of war: wild biomes without trails
 	- [[residential buildings]]
 		- [[carrot house]]
 		- [[vitalik]]
