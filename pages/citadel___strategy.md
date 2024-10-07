@@ -1,1 +1,19 @@
--
+- tourism
+	- [[autonomous shelters]]
+	- [[clean food]]
+	- [[wellness paradise]]
+	- [[extreme epicenter]]
+	- [[cool events]]
+	- [[tech labs]]
+	- [[community capital]]
+- export
+	- [[quality genetics]]
+	- [[smart capital]]
+	- [[authenticated data ]]
+- policies
+	- [[carbon policy]]
+	- [[energy autonomy]]
+	- [[water storage maximization]]
+	- [[sound policy]]
+	- [[light policy]]
+	- [[gender optimization]]
