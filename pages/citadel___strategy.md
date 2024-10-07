@@ -5,15 +5,15 @@
 	- [[extreme epicenter]]
 	- [[cool events]]
 	- [[tech labs]]
-	- [[community capital]]
-- export
-	- [[quality genetics]]
-	- [[smart capital]]
-	- [[authenticated data ]]
-- policies
+- living
 	- [[carbon policy]]
+	- [[community capital]]
 	- [[energy autonomy]]
 	- [[water storage maximization]]
 	- [[sound policy]]
 	- [[light policy]]
 	- [[gender optimization]]
+- export
+	- [[quality genetics]]
+	- [[smart capital]]
+	- [[authenticated data ]]
