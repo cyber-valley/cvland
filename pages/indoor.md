@@ -29,3 +29,4 @@
 	- [[echeveria]]
 	- [[sedum]]
 	- [[bromeliaceae]]
+- TODO adding ~15 species will open the market of indoor plants

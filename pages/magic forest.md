@@ -7,10 +7,10 @@ icon:: 🪷
 	- regenerate lifecycles
 	- building soil
 	- develops in several years
-	- [[magic forest/species]]
 - 2 phase: increase biodiversity [[42 species]]
 	- [[aquatics development]]
 	- more plant, animal and fungi species
 	- from [[forest]] and from [[labs]]
 - 3 phase: sustaining ecosystem and maximize species
 - [[toolset]] for magic forest
+- [[important species not available in indonesia]]
