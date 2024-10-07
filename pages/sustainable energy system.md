@@ -2,7 +2,6 @@ icon:: ⚡️
 
 - ![Types of Renewable Energy, Green Energy, Clean Energy | The Engineer's Mess](https://i.pinimg.com/videos/thumbnails/originals/ab/e8/15/abe815265a1809ea8e52eeb1055ea01f.0000000.jpg)
 - ![image.png](../assets/image_1728273074044_0.png)
-- TODO lecture at [[bootcamp]]
 - energies
 	- sun
 		- according to kardashev scale

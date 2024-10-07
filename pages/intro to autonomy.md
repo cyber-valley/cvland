@@ -1,4 +1,3 @@
-- TODO lecture at [[bootcamp]]
 - high level course structure touching all necessary components of autonomy
 	- [[sustainable energy system]]: how to build and make it work reliably?
 	- [[water system]]: simple solutions for clean water

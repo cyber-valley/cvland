@@ -16,6 +16,7 @@
 	- [[psycho]]: have psychoactive effects
 	- [[flower]]: beautiful flowers for [[floristics]]
 	- [[aroma]]: for olfactory pleasure and for [[essential oil]] extraction
+	- [[indoor]]:
 - [[food]] by types
 	- [[drink]]: can produce [[juice]], [[tea]], [[sap]] or [[milk]]
 	- [[meat]]: can produce meaty structure
