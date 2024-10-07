@@ -10,9 +10,9 @@ icon:: 🏕️
 	- for people who get stuck from cities and civilization
 	- for romantics who demand more freedom and autonomy
 	- for innovators who loves cutting edge at low cost
-- ## 20 hours of cutting edge lectures on autonomy
+- ## 20 hours of cutting edge [[lectures]] on autonomy
 	- [[intro to autonomy]]: complex can be simple
-	- [[energy system]]: how to build and make it work reliably?
+	- [[sustainable energy system]]: how to build and make it work reliably?
 	- [[water system]]: simple solutions for clean water
 	- [[soil, heat and recycling]]: the source of magic
 	- [[biome engineering]]: create efficient and high margin [[magic forest]]

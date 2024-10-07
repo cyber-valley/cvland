@@ -1,19 +1,24 @@
-- **notes:**
-	- | name | recipe | uses of oil macerate | compounds in oil macerate |
+- [[passiflora edulis]]
+	- part::  [[leaves]] and [[flowers]]
+	- infusion-time:: 4 weeks
+	- uses:: calming [[massage oil]], [[soothing skin]]
+	- compounds:: [[flavonoids]], [[alkaloids]]
+- TODO formate as in example above
+	- improves queries and enable to surf by uses and compounds
+	- | name | infusion time | uses of oil macerate | compounds in oil macerate |
 	  |---|---|---|---|
-	  | [[symphytum officinale]] (comfrey) | dry comfrey leaves, place them in a jar, cover with carrier oil, and let it infuse for 4-6 weeks. | topical application for [[bruises]], [[sprains]], and [[skin irritations]]. | [[allantoin]], [[mucilage]], [[tannins]] |
-	  | [[common dandelion]] | dry dandelion flowers, place in a jar, cover with oil, and infuse for 4-6 weeks in a cool, dark place. | massage oil for [[sore muscles]], [[skin moisturizer]]. | [[flavonoids]], [[terpenoids]], [[vitamins a]], [[vitamin c]], [[vitamin e]] |
-	  | [[plantago]] (plantain) | infuse dried plantain leaves in a carrier oil for 4-6 weeks. | topical [[application for cuts]], [[insect bites]], and [[skin irritations]]. | [[allantoin]], [[aucubin]], [[mucilage]] |
-	  | [[olea europaea]] (olive) | infuse dried olive leaves in a carrier oil for several weeks. | antioxidant-rich oil for [[skin care]], [[anti-inflammatory uses]]. | [[oleuropein]], [[hydroxytyrosol]] |
-	  | [[persea americana]] (avocado) | infuse dried avocado leaves in oil for 4-6 weeks. | [[skin nourishment]] and [[moisturization]]. | [[flavonoids]], [[tannins]] |
-	  | [[citrus limon]], [[citrus reticulata]] | dry citrus peels (e.g., [[orange]], [[lemon]]), infuse in oil for 2-4 weeks. | uplifting [[massage oil]], natural [[skin toner]]. | [[limonene]], [[flavonoids]], [[vitamin c]] |
-	  | [[rubus idaeus]] (raspberry) | infuse dried [[raspberry]] or [[blackberry]] leaves in oil for 4-6 weeks. | [[soothing skin]] applications, [[anti-inflammatory properties]]. | [[tannins]], [[flavonoids]] |
-	  | [[passiflora edulis]] | infuse dried passionflower leaves and flowers in oil for several weeks. | calming [[massage oil]], [[soothing skin]] properties. | [[flavonoids]], [[alkaloids]] |
+	  | [[symphytum officinale]] | 4-6 week | topical application for [[bruises]], [[sprains]], and [[skin irritations]]. | [[allantoin]], [[mucilage]], [[tannins]] |
+	  | [[common dandelion]] | 4-6 weeks| massage oil for [[sore muscles]], [[skin moisturizer]]. | [[flavonoids]], [[terpenoids]], [[vitamins a]], [[vitamin c]], [[vitamin e]] |
+	  | [[plantago]] | 4-6 weeks | topical [[application for cuts]], [[insect bites]], and [[skin irritations]]. | [[allantoin]], [[aucubin]], [[mucilage]] |
+	  | [[olea europaea]] | several weeks | antioxidant-rich oil for [[skin care]], [[anti-inflammatory uses]]. | [[oleuropein]], [[hydroxytyrosol]] |
+	  | [[persea americana]] | 4-6 weeks | [[skin nourishment]] and [[moisturization]]. | [[flavonoids]], [[tannins]] |
+	  | [[citrus limon]], [[citrus reticulata]] | dry citrus peels (e.g., [[orange]], [[lemon]]), 2-4 weeks | uplifting [[massage oil]], natural [[skin toner]]. | [[limonene]], [[flavonoids]], [[vitamin c]] |
+	  | [[rubus idaeus]] | infuse dried [[raspberry]] or [[blackberry]] leaves 4-6 weeks | [[soothing skin]] applications, [[anti-inflammatory properties]]. | [[tannins]], [[flavonoids]] |
 	  | [[carica papaya]] | infuse dried papaya leaves in oil for 2-4 weeks. | [[skin exfoliant]], [[anti-inflammatory]] uses. | [[papain enzyme]], [[flavonoids]] |
 	  | [[punica granatum]] | infuse dried pomegranate peels in oil for 4-6 weeks. | [[anti-aging skin]] care, [[antioxidant]]-rich oil. | [[ellagic acid]], [[punicalagins]] |
-	  | [[annona muricata]] (soursop) | infuse dried soursop leaves in oil for several weeks. | [[anti-inflammatory]], [[soothing skin]] applications. | [[acetogenins]], [[alkaloids]] |
-	  | [[psidium guajava]] (guava) | infuse dried guava leaves in oil for 4-6 weeks. | [[antibacterial]] uses, [[skin toning]]. | [[quercetin]], [[flavonoids]] |
-	  | [[rumex acetosa]] (sorrel) | infuse dried sorrel leaves in oil for 2-4 weeks. | [[soothing skin]], [[anti-inflammatory]] applications. | [[anthraquinones]], [[tannins]] |
+	  | [[annona muricata]] | infuse dried soursop leaves in oil for several weeks. | [[anti-inflammatory]], [[soothing skin]] applications. | [[acetogenins]], [[alkaloids]] |
+	  | [[psidium guajava]] | infuse dried guava leaves in oil for 4-6 weeks. | [[antibacterial]] uses, [[skin toning]] | [[quercetin]], [[flavonoids]] |
+	  | [[rumex acetosa]] | infuse dried sorrel leaves in oil for 2-4 weeks. | [[soothing skin]], [[anti-inflammatory]] applications. | [[anthraquinones]], [[tannins]] |
 	  | [[hibiscus sabdariffa]] | infuse dried hibiscus flowers in oil for 4-6 weeks. | [[skin moisturizer]], [[anti-aging properties]]. | [[ahas]], [[anthocyanins]] |
 	  | [[allium sativum]] (garlic) | infuse fresh garlic cloves in oil; to reduce botulism risk, keep refrigerated and use within one week. | [[antimicrobial oil]], [[supports hair growth]]. | [[allicin]], [[sulfur compounds]] |
 	  | [[magnolia cempaka]] | infuse dried magnolia flowers in oil for several weeks. | [[perfumery]], calming [[massage oil]]. | [[linalool]], [[magnolol]] |
@@ -21,19 +26,19 @@
 	  | [[plumeria rubra]] | infuse dried frangipani flowers in oil for 4-6 weeks. | [[perfumery]], [[skin moisturizer]]. | [[iridoids]] |
 	  | [[osmanthus fragrans]] | infuse dried osmanthus flowers in oil for several weeks. | [[perfumery]], [[skin care applications]]. | [[ionones]], [[flavonoids]] |
 	  | [[rosa damascena]] | infuse dried rose petals in oil for 4-6 weeks. | [[skin moisturizer]], [[anti-aging skin]], [[perfumery]]. | [[citronellol]], [[geraniol]] |
-	  | [[jasminum officinale]] (jasmine) | infuse dried jasmine flowers in oil for several weeks. | [[perfumery]], [[skin care]], [[aphrodisiac properties]]. | [[benzyl acetate]], [[indole]] |
-	  | [[azadirachta indica]] (neem) | infuse dried neem leaves in oil for 4-6 weeks. | [[antifungal]], [[antibacterial skin treatments]]. | [[azadirachtin]], [[nimbin]] |
-	  | [[mentha]] (mint) | infuse dried mint leaves in oil for 2-4 weeks. | cooling [[massage oil]], [[relief for muscle aches]]. | [[menthol]], [[menthone]] |
+	  | [[jasminum officinale]] | infuse dried jasmine flowers in oil for several weeks. | [[perfumery]], [[skin care]], [[aphrodisiac properties]]. | [[benzyl acetate]], [[indole]] |
+	  | [[azadirachta indica]] | infuse dried neem leaves in oil for 4-6 weeks. | [[antifungal]], [[antibacterial skin treatments]]. | [[azadirachtin]], [[nimbin]] |
+	  | [[mentha]]  | infuse dried mint leaves in oil for 2-4 weeks. | cooling [[massage oil]], [[relief for muscle aches]]. | [[menthol]], [[menthone]] |
 	  | [[melissa officinalis]] (lemon balm) | infuse dried lemon balm leaves in oil for several weeks. | [[calming oil]], [[soothing skin]] applications. | [[citral]], [[citronellal]] |
 	  | [[salvia rosmarinus]] (rosemary) | infuse dried rosemary leaves in oil for 4-6 weeks. | stimulating [[massage oil]], [[supports hair growth]]. | [[carnosic acid]], [[rosmarinic acid]] |
-	  | [[lavandula]] (lavender) | infuse dried lavender flowers in oil for 4-6 weeks. | calming [[massage oil]], [[skin care]] applications. | [[linalool]], [[linalyl acetate]] |
-	  | [[melaleuca viminalis]] (tea tree) | infuse dried tea tree leaves in oil for several weeks. | [[antimicrobial oil]] for [[skin issues]]. | [[terpinen-4-ol]], [[cineole]] |
-	  | [[capsicum annuum]] | infuse dried chili peppers in oil for 2–4 weeks. ensure the peppers are thoroughly dried to reduce the risk of bacterial growth. after infusion, strain out the peppers and store the oil in a clean container. | warming [[massage oil]] for [[muscle pain relief]]. | [[capsaicin]] |
-	  | [[santalum album]] (sandalwood) | infuse sandalwood chips in oil over several weeks. | [[perfumery]], [[skin care]], [[meditation aid]]. | [[alpha-santalol]], [[beta-santalol]] |
+	  | [[lavandula]] | infuse dried lavender flowers in oil for 4-6 weeks. | calming [[massage oil]], [[skin care]] applications. | [[linalool]], [[linalyl acetate]] |
+	  | [[melaleuca viminalis]] | infuse dried tea tree leaves in oil for several weeks. | [[antimicrobial oil]] for [[skin issues]]. | [[terpinen-4-ol]], [[cineole]] |
+	  | [[capsicum annuum]] | dried chili peppers in oil 2–4 weeks. ensure the peppers are thoroughly dried to reduce the risk of bacterial growth. after infusion, strain out the peppers and store the oil in a clean container. | warming [[massage oil]] for [[muscle pain relief]]. | [[capsaicin]] |
+	  | [[santalum album]] | infuse sandalwood chips in oil over several weeks. | [[perfumery]], [[skin care]], [[meditation aid]]. | [[alpha-santalol]], [[beta-santalol]] |
 	  | [[cinnamomum verum]] (cinnamon) | infuse cinnamon sticks or bark in oil for 2-4 weeks. | warming [[massage oil]], [[antimicrobial uses]]. | [[cinnamaldehyde]], [[eugenol]] |
-	  | [[centella asiatica]] (gotu kola) | infuse dried gotu kola leaves in oil for several weeks. | [[skin healing]], [[anti-aging]] applications. | [[asiaticoside]], [[madecassoside]] |
-	  | [[origanum vulgare]] (oregano) | infuse dried oregano leaves in oil for 2-4 weeks. | [[antimicrobial oil]], [[relief for muscle aches]]. | [[carvacrol]], [[thymol]] |
-	  | [[cymbopogon citratus]] (lemongrass) | infuse dried lemongrass stalks in oil for 2-4 weeks. | [[insect repellent]], refreshing [[massage oil]]. | [[citral]], [[limonene]] |
+	  | [[centella asiatica]]| infuse dried gotu kola leaves in oil for several weeks. | [[skin healing]], [[anti-aging]] applications. | [[asiaticoside]], [[madecassoside]] |
+	  | [[origanum vulgare]] | infuse dried oregano leaves in oil for 2-4 weeks. | [[antimicrobial oil]], [[relief for muscle aches]]. | [[carvacrol]], [[thymol]] |
+	  | [[cymbopogon citratus]]  | infuse dried lemongrass stalks in oil for 2-4 weeks. | [[insect repellent]], refreshing [[massage oil]]. | [[citral]], [[limonene]] |
 	  
 	  **notes:**
 	- **safety precautions:** when making oil macerates, ensure all plant materials are thoroughly dried to prevent mold and bacterial growth. for plants like garlic and chili peppers, there is a risk of botulism when infusing fresh ingredients in oil. to mitigate this, keep the infusion refrigerated and use it within one week, or consider using dried forms of the plants.

@@ -1,43 +1,40 @@
 icon:: 🌶
 
-- you get to the point at your expense
-- golden rule: do not do to others what you would not want them do to you
-- you have a personal goal
+- ## you get to the point at your expense
+- ## golden rule
+	- do not do to others
+	- what you would not want them do to you
+- ## goals
 	- bring as much value to [[citadel genesis]] as you can
 	- so [[citadel genesis]] residents can choose you for living together
 	- details are in [[game of freedom]]
-- you have a team goal
-	- build the [[autonomous tent]] as fast as possible
-	- the faster the tent your round will be able to produce
-	- the likely your team wins [[team speed competition]]
-	- the faster the community could grow
-- you participate in 1 hour of [[lectures]] on default days
-	- every lecture will charge you to the next level of personal autonomy
-	- all lectures will give you the full picture
-- you complete at least 4 hours of [[workouts]] on default days
-	- every default day during workout hours [[board masters]] are at [[elons]]
-	- can support you with task assignment and provide any help needed
-	- general rule of choice is that you decide what you do based on real task in citadel construction
-- first 10 days - no connection to global internet
-	- you are likely spin the wheel
-	- through dopamine dependency to social feeds
-	- its verified that after just 100 of offline hours
-	- you brain become calm and say you don't need so much anymore
-	- the next 5 days of offline in calm state will transform you better when psychedelics
-- any electric device and offline software are allowed during first 10 days
-	- content creation, reflection, writing, reading is ok
-	- as long it does not require external communication
-	- we recommend you to avoid consuming new, unknown media though
-	- as this strengthen your gain
-- no worries, last 5 days of bootcamp you will have the connection again
-- energy is limited and can be quoted on per tent basis during low or no sun
-- during rainy season water is unlimited, during dry season it is precious resource
-- you must not bring your cosmetics, soaps, shampoo
-	- 99% of modern cosmetics is really bad for [[soil]]
-	- leave it alone if you or your friend did not created it from known source by your hands
-	- we cook beautiful cosmetics from [[sapindus]] and [[essential oils]]
-	- you skin and body will give you deep respect
-- you must use minimum light and sound after sunset
-	- TODO [[sound policy]]
-	- TODO [[light policy]]
-- traveling and evening events are completely optional
+	- you have a team goal
+		- build the [[autonomous tent]] as fast as possible
+		- the faster the tent your round will be able to produce
+		- the likely your team wins [[team speed competition]]
+		- the faster the community could grow
+- ## participation
+	- 1 hour of [[lectures]] on default days
+		- every lecture will charge you to the next level of personal autonomy
+		- all lectures will give you the full picture
+	- at least 4 hours of [[workouts]] on default days
+		- every default day during workout hours [[board masters]] are at [[elons]]
+		- can support you with task assignment and provide any help needed
+		- general rule of choice is that you decide what you do based on real task in [[citadel]] construction
+	- traveling and evening events are completely optional
+- ## resource limitations
+	- energy is limited and can be quoted on per tent basis during low or no sun
+	- during rainy season water is unlimited, during dry season it is precious resource
+	- you must not bring your cosmetics, soaps, shampoo
+		- 99% of modern cosmetics is really bad for [[soil]]
+		- try to leave it alone
+		- we cook beautiful cosmetics from [[sapindus]] and [[essential oils]]
+		- you skin and body will give you deep respect
+	- try to minimize usage of light and sound after sunset
+		- [[sound policy]]
+		- [[light policy]]
+		- [[carbon policy]]
+- [[smart vipassana option]]
+- ## game of freedom
+	- participation in [[game of freedom]] is optional
+	- and may not match your goals

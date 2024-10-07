@@ -22,5 +22,5 @@
 		- **[[influenza virus]]**: [research link](https://scholar.google.com/scholar?q=tannins+antiviral+influenza)
 		- **[[herpes simplex virus]]**: [research link](https://scholar.google.com/scholar?q=tannins+antiviral+herpes+simplex)
 - ### references
-  1. [tannins: chemistry and biological properties](https://scholar.google.com/scholar?q=tannins+chemistry+biological+properties)
-  2. [antimicrobial properties of tannins](https://scholar.google.com/scholar?q=antimicrobial+properties+of+tannins)
+	- 1. [tannins: chemistry and biological properties](https://scholar.google.com/scholar?q=tannins+chemistry+biological+properties)
+	- 2. [antimicrobial properties of tannins](https://scholar.google.com/scholar?q=antimicrobial+properties+of+tannins)

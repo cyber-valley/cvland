@@ -13,7 +13,7 @@ alias:: and more
 -
 - sytech applied to [[network states]] and [[startup societies]] is practical design framework
 	- [[intro to autonomy]]: complex can be simple
-	- [[energy system]]: how to build and make it work reliably?
+	- [[sustainable energy system]]: how to build and make it work reliably?
 	- [[water system]]: simple solutions for clean water
 	- [[soil, heat and recycling]]: the source of magic
 	- [[biome engineering]]: create efficient and high margin [[magic forest]]
