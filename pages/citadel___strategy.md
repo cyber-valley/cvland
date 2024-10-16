@@ -12,6 +12,7 @@
 	- [[water storage maximization]]
 	- [[sound policy]]
 	- [[light policy]]
+	- [[sensor network]]
 	- [[gender optimization]]
 - export
 	- [[quality genetics]]

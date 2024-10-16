@@ -24,11 +24,7 @@ icon:: 🏕️
 	- [[token engineering]]: sustainable and efficient models for regulation and growth
 - ## 30 hours of workouts for skill setting and leadership intuition
 	- all workouts assigned individually
-	- according to real operation plan of [[citadel genesis]] construction
-	- workouts are practical: you do something useful
-	- examples of [[workouts]]
-	- you can [[do your own project]] instead of standard [[workouts]]
-	- but we recommend to try at least some of them! they are cool
+	- according to the plan of game masters
 - ## mentors
 	- [[@master]]: founder of cyber, bostrom, cyb, cyber academy, cyber fund and cyber valley
 	- [[@stjoy]]: cyber valley founder
@@ -54,7 +50,6 @@ icon:: 🏕️
 - # [[bootcamp/map]]
 - # [[bootcamp/rules]]
 - # [[bootcamp/schedule]]
-- # [[bootcamp/premium]]
 - # [[game of freedom]]
 - ## rules
 - ## evening events

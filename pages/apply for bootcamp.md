@@ -6,17 +6,14 @@ icon:: 🥕
 	- ## star [cyber-valley/cvland](https://github.com/cyber-valley/cvland) repo
 	- ## engage with other people on forum
 - ## wait
-	- if you are premium participant we contact you shortly
-	- if you are free participant please wait for announcements
-- ## cant wait? check for [[bootcamp/premium]]
 -
 - ## details on current allocation
 	- 1 round: 01 November - 16 November
-		- [[vitalik]]: available
+		- [[vitalik]]: not available
 		- [[gavin]]: available
 		- [[satoshi]]: available
 		- [[nick]]: available
-		- [[andrej]]: available
+		- [[andrej]]: not available
 - ## essay instructions
 	- ---
 	  name: Application for a free bootcamp

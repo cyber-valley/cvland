@@ -26,7 +26,7 @@
 		- our case
 			- zero infrastructure: chicken and egg problem
 			- gap between local physical force and foreign intellectual force
-			- lack of capital
+			- lack of internal capital
 			- local features
 			  id:: 67036113-1801-49a3-8ef0-5045456021ff
 				- motorcycles without a muffler

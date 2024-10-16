@@ -1,6 +1,9 @@
 icon:: 💰
 
-- ## only 1 premium tent available on [[pilot]]
+- ## premium will not be available unless
+	- we have excess demand for [[bootcamp]]
+	- we complete [[legal engineering]]
+-
 - ## pricing
 	- 10k for 3 invites in one tent (including you)
 	  id:: 66c812f9-ab83-47f1-9b81-16eccba6005a

@@ -35,6 +35,7 @@ icon:: 🧬
 		- [[satoshi]]
 	- industrial buildings
 		- [[carpentry]]
+- ## [[citadel/strategy]]
 - ## projects
 	- [[sensor network]]
 	- [[soil research]]

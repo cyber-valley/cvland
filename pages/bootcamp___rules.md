@@ -4,23 +4,15 @@ icon:: 🌶
 - ## golden rule
 	- do not do to others
 	- what you would not want them do to you
-- ## goals
-	- bring as much value to [[citadel genesis]] as you can
-	- so [[citadel genesis]] residents can choose you for living together
+- ## goal
+	- learn to survive
 	- details are in [[game of freedom]]
-	- you have a team goal
-		- build the [[autonomous tent]] as fast as possible
-		- the faster the tent your round will be able to produce
-		- the likely your team wins [[team speed competition]]
-		- the faster the community could grow
 - ## participation
 	- 1 hour of [[lectures]] on default days
 		- every lecture will charge you to the next level of personal autonomy
 		- all lectures will give you the full picture
-	- at least 4 hours of [[workouts]] on default days
-		- every default day during workout hours [[board masters]] are at [[elons]]
-		- can support you with task assignment and provide any help needed
-		- general rule of choice is that you decide what you do based on real task in [[citadel]] construction
+	- at least 4 hours of workouts on default days
+		- every default day during workout hours [[game masters]]
 	- traveling and evening events are completely optional
 - ## resource limitations
 	- energy is limited and can be quoted on per tent basis during low or no sun
@@ -37,4 +29,4 @@ icon:: 🌶
 - [[smart vipassana option]]
 - ## game of freedom
 	- participation in [[game of freedom]] is optional
-	- and may not match your goals
+	- you can left bootcamp anytime at your will
