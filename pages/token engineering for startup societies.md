@@ -8,9 +8,8 @@
 	  | overpopulation | staking mechanism for residentship |
 	  |no collective insurance | capital driven basic income |
 	  | broken ecology | automated slashing driven by sensor network |
-	  | lack of freedoms |  |
-	  | inefficient public goods | public good infrastructure owned by community |
-	  | | advanced decision making |
+	  | lack of freedoms | public good infrastructure owned by community |
+	  | inefficient public goods | advanced decision making |
 - ## mechanisms
 	- staking mechanism for residentship
 		- mechanism propose self regulation of density
@@ -18,8 +17,8 @@
 		- leads to inability of inhabitants to produce enough energy and food to sustain themselves
 		- results in majority of problems including crime, poverty and modern types of slavery
 		- residentship is granted for staking amount of tokens defined by community
-		- amount is defined by community demandfor density
-		- the more demand for residentship, the higher price of residentship
+		- amount is defined by community demand for density
+		- the more demand for more dense residentship, the higher price of residentship
 	- capital driven basic income
 		- inflation flow to staking residents
 		- this approach tackles issues of community insurance
