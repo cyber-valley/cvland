@@ -1,3 +1,0 @@
-- TODO lecture at [[bootcamp]]
-- articles
-	- [[token engineering for startup societies]]

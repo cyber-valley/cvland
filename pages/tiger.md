@@ -1,5 +1,0 @@
-- [[panthera tigris sondaica]] is considered extinct on bali for over the century
-- however we have evidence that she is living near [[carrot house]]
-- locals also see her occasionally
--
--

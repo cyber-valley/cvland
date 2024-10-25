@@ -1,2 +1,0 @@
-- grow without [[roots]] and [[soil]]
-- {{video https://www.youtube.com/watch?v=iu1Ikro3lVM}}

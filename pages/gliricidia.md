@@ -1,1 +1,0 @@
-- {{embed [[gliricidia sepium]]}}
