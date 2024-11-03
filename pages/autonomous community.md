@@ -1,0 +1,7 @@
+- blend between [[startup society]] and [[network state]]
+- which choose to be independent in all key needs
+	- [[energy]]
+	- [[water]]
+	- [[food]]
+	- [[data]]
+	- [[and more]]

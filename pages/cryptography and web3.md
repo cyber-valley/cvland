@@ -1,0 +1,3 @@
+- TODO lecture at [[bootcamp]]
+- we believe these techonologies are foundational for our civilization
+- that is why we will make sure that [[bootcamp]] participants understand them properly

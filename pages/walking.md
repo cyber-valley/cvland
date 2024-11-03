@@ -1,0 +1,7 @@
+- [[acmella repens]]
+- [[sonchus oleraceus]]
+- [[sonchus asper]]
+- [[bidens pilosa]]
+- [[galinsoga parvilflora]]
+- [[erigeron bonariensis]]
+- [[daucus]]
