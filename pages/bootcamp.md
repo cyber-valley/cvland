@@ -1,5 +1,6 @@
 icon:: 🏕️
 
+- not actual anymore: we are currently restructuring the program
 - 14 day eduhealth program
 - for creators of [[autonomous community]], [[startup societies]] and [[network states]]
 - place: [[citadel genesis]], [[cyber valley]], [[bali]]
