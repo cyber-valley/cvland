@@ -1,2 +1,3 @@
 - tags: genus, research
-- alias:: cotton
+  scalable:: true
+- [[cotton]]

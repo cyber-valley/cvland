@@ -1,4 +1,5 @@
 tags:: genus, research
+scalable:: true
 
 - research
 	- {{embed [[agave amica]]}}

@@ -1,13 +1,16 @@
 icon:: 🦚
 
 - ## selected genus for [[citadel genesis]]
-- {{query (and (page-tags [[genus]]) (not (page-tags [[class]])) (not (page-tags [[research]])))}}
+- {{query (and (page-tags [[genus]]) (not (page-tags [[class]])) (not (page-tags [[research]])) (not (page-tags [[prohibited]])))}}
   query-sort-by:: page
   query-sort-desc:: false
   query-properties:: [:page :alias]
-- ## prohibited genus
-- {{query (and (page-tags [[genus]]) (not (page-tags [[class]])) (and (page-tags [[prohibited]] )))}}
-  query-properties:: [:page :tags]
+  background-color:: blue
 - ## genus to research
 - {{query (and (page-tags [[genus]]) (not (page-tags [[class]])) (and (page-tags [[research]])))}}
   query-properties:: [:page :alias :tags]
+  query-sort-by:: page
+  query-sort-desc:: false
+- ## prohibited genus
+- {{query (and (page-tags [[genus]]) (not (page-tags [[class]])) (and (page-tags [[prohibited]] )))}}
+  query-properties:: [:page :tags]

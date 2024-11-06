@@ -1,4 +1,5 @@
 tags:: genus
+scalable:: true
 
 - native to [[genesis]]
 	- {{embed [[dendrocalamus asper]]}}

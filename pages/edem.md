@@ -10,7 +10,7 @@
 	- fast growing woody nitrogen pioneers
 		- [[leucaena]]: [[wood]], [[nitrogener]]
 		- [[trema]]: [[wood]], [[nitrogener]]
-		- [[caliandra]]: [[wood]], [[nitrogener]]
+		- [[calliandra]]: [[wood]], [[nitrogener]]
 	- fast growing green manure pioneers
 		- [[ageratina]]: [[greens]] on low layer with [[flower]]
 		- [[austroeupatorium]]: [[greens]] on middle layer with beautiful [[aroma]]

@@ -1,4 +1,5 @@
 tags:: genus
+scalable:: true
 
 - ![Screenshot 2024-05-16 at 01.23.45.png](../assets/Screenshot_2024-05-16_at_01.23.45_1715822701428_0.png)
 - {{embed [[sapindus mukorossi]]}}

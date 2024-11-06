@@ -1,5 +1,6 @@
 tags:: genus
 alias:: mengkirai, ganja tree
+scalable:: true
 
 - selected for [[edem]]
 	- {{embed [[trema orientalis]]}}

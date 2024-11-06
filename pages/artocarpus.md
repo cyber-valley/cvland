@@ -1,4 +1,5 @@
 tags:: genus
+scalable:: true
 
 - convinient [[pillar]]
 - selected for [[edem]]

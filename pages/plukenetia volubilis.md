@@ -1,5 +1,5 @@
-tags:: species
-alias:: plukenetia volubilis
+tags:: species, research
+alias:: sacha inchi
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZcL2EwLJE27yvp4gjQyAuSpPKfjgP5CpmCfKGBmsrLPH)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmdhA9KRg13esxNt1vuPJXhkeqUZBbyt4SJzPAKjHmwxxw)

@@ -1,4 +1,5 @@
 tags:: genus
+scalable:: true
 
 - selected
 	- {{embed [[cymbopogon citratus]]}}
