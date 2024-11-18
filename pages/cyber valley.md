@@ -4,7 +4,7 @@ alias:: cv
 - Hi everyone! we are [[rockets]]!
 - we are building the [[autonomous community]]
 - in the north of Bali mountains
-- on approximately 39 hectares
+- on approximately 36.4 hectares
 - ![image.png](../assets/image_1725868123641_0.png)
 -
 -
