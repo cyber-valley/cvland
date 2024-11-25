@@ -8,9 +8,9 @@ icon:: 🦚
   background-color:: blue
 - ## genus to research
 - {{query (and (page-tags [[genus]]) (not (page-tags [[class]])) (and (page-tags [[research]])))}}
-  query-properties:: [:page :alias :tags]
-  query-sort-by:: page
-  query-sort-desc:: false
+  query-properties:: [:page :alias :tags :scalable]
+  query-sort-by:: scalable
+  query-sort-desc:: true
 - ## prohibited genus
 - {{query (and (page-tags [[genus]]) (not (page-tags [[class]])) (and (page-tags [[prohibited]] )))}}
   query-properties:: [:page :tags]

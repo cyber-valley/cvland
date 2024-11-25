@@ -1,5 +1,5 @@
+tags:: species, research
 alias:: saga rambat, rosary pea, jequirity bean
-tags:: species
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmaMeMMzfZzYt5sUn6wBEFxSv8wtRuBSLG6yZLAvM9yZ3n)
 - native: tropical and subtropical regions

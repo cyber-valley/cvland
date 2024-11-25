@@ -22,7 +22,7 @@ type:: sector
 - TODO [[selenicereus undatus]]
 - [[annona muricata]] white
 - [[pouteria campechiana]]
-- TODO [[prunus armeniaca]]
+- DONE [[prunus armeniaca]]
 - TODO [[diospyros nigra]]
 - TODO [[malus pumila]]
 - [[eriobotrya japonica]]
@@ -35,4 +35,4 @@ type:: sector
 - TODO [[rubus fruticosus]]: 5
 - [[debregeasia longifolia]]: 8
 - [[melastoma malabathricum]]: 2
-- [[calliandra houstoniana]]: 1
+- [[calliandra calothyrsus]] : 1

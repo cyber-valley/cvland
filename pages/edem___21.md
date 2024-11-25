@@ -25,7 +25,6 @@ type:: sector
 - [[hibiscus rosa-sinensis]]
 - [[unidentified]]
 - [[psidium cattleianum]]
-- [[schizolobium parahyba]]
 - [[pyrus communis]]
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:23:38]--[2024-04-26 Fri 06:55:23] =>  00:31:45

@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, research
 alias:: garlic
 
 - ![image](https://ipfs.io/ipfs/QmNZvnwnSW5zpJDL17NfHzs6Zk8EuEeghu6jUbxKbEteoN)

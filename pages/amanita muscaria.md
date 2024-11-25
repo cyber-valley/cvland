@@ -1,4 +1,4 @@
-tags:: species, fungi, psycho
+tags:: species, fungi, psycho, research
 alias:: sacred muchrom
 
 - compounds

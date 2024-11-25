@@ -27,14 +27,11 @@ type:: sector
 	  collapsed:: true
 		- [[rosemary]]
 		- [[thymus vulgaris]]
-	- [[hibiscus sabdariffa]]
-	  collapsed:: true
+	- [[salvia rosmarinus]]
 		- [[piper nigrum]]
-		- [[salvia rosmarinus]]
 		- [[thymus vulgaris]]
 	- [[magnolia cempaka]]
 	- [[malpighia emarginata]]
-	  collapsed:: true
 		- TODO check [[verbena hastata]]
 		- [[mentha piperita]]
 	- [[cinamonium verum]]
@@ -56,7 +53,6 @@ type:: sector
 	- [[symphytum officinale]]
 	- [[lablab purpureus]]
 	- TODO [[ocimum tenuiflorum]]
-	- TODO [[hibiscus sabdariffa]]
 	- [[eupatorium capillifolium]]
 	- TODO [[allium tuberosum]]
 	- TODO [[tagetes lucida]]

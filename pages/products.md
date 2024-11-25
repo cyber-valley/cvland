@@ -1,3 +1,5 @@
+tags:: class
+
 - every life form serve a purpose
 - classifier of products produced by [[plants]], [[animals]] and [[fungi]]
 -
@@ -43,3 +45,4 @@
 	- [[chemical]]: pharmaceuticals, solvents, and industrial processes
 	- [[metal]]: extracted through phytomining by metal-accumulating plants
 	- [[dye]]: natural source for sustainable colorants
+	- [[landscape]]: landscape design and aesthetics

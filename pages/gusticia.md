@@ -1,4 +1,4 @@
-alias:: пей чай и кончай
+alias:: чайкончай
 tags:: genus
 scalable:: true
 

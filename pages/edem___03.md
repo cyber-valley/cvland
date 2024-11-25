@@ -26,7 +26,7 @@ type:: sector
 - [[beds]]
 	- [[cnidoscolus aconitifolius]]: 2
 	- [[kalanchoe pinnata]]
-	- [[hydrocotyle bonariensis]]
+	- [[hydrocotyle umbelara]]
 	- [[rumex sanguineus]]
 	- [[ocimum basilicum]]
 	- [[solanum melongena]]

@@ -1,2 +1,2 @@
 tags:: species
-alias:: sugarcan
+alias:: sugarcane

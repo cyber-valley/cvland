@@ -1,5 +1,5 @@
 tags:: species
-alias:: pendejera, devils fig, pea eggplant, susumber
+alias:: pendejera, devils fig
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmWjrDJhW4s7GPYiPajpvsz4qFzDb7gyJRw2vYqUxxy7zr)
 - height: 2-3 m

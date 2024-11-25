@@ -21,3 +21,5 @@
 - [[melissa officinalis]]
 - [[sonchus oleraceus]]
 - [[ulmus parviflora]]
+- [[cenchrus setaceus]]
+- [[broussonetia papyrifera]]

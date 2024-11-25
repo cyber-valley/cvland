@@ -2,11 +2,8 @@ tags:: genus
 scalable:: true
 
 - convinient [[pillar]]
-- selected for [[edem]]
-	- {{embed [[artocarpus heterophyllus]]}}
-- research
-	- [[artocarpus altilis]]
-	- [[artocarpus integer]]
-	- [[artocarpus camansi]]
-	- [[artocarpus dadah]]
-	- [[artocarpus elasticus]]
+- {{embed [[artocarpus heterophyllus]]}}
+- {{embed [[artocarpus altilis]]}}
+- {{embed [[artocarpus integer]]}}
+- {{embed [[artocarpus camansi]]}}
+- {{embed [[artocarpus elasticus]]}}

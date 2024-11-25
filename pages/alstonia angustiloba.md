@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, research
 alias:: pulai hitam
 
 - availability:: hanara, [tokopedia](https://www.tokopedia.com/hanaranurseries/alstonia-angustiloba-pulai-hitam-pohon-instan-instant-tree?extParam=ivf%3Dfalse%26src%3Dsearch)

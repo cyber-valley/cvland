@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, research
 alias:: terap, benda
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qmeaw7QnH3xo9Dx9mdabUTaABTaaT3hDX2dWydNACnUSPf)

@@ -1,4 +1,4 @@
-tags:: genus, prohibited, psycho
+tags:: genus, prohibited, psycho, fungi
 
 - compounds
 	- [[psilocybin]]

@@ -45,5 +45,4 @@ type:: sector
 	- [[euphorbia lactea]]
 	- [[salvia leucantha]]
 	- [[dracaena angolensis]]
-	- [[physalis peruviana]]
 	- [[talinum paniculatum]]

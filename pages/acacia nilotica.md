@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, research
 
 - availability:: [[eka karya]]
 - ![image](https://gateway.ipfs.cybernode.ai/ipfs/QmT22XCoFmHp5ksEM6Gz9EATg9ACErKD3MHo57LFtDqRQf)

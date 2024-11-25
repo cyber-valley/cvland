@@ -1,5 +1,5 @@
+tags:: species, supply
 alias:: sukun, breadfruit
-tags:: species
 
 - availability:: hanara
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmPWgAjNBimZx92n12Zku2vBcqQFGAZMYd9AcaM73bc5Mx)

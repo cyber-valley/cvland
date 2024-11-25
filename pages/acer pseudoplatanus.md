@@ -1,5 +1,5 @@
 alias:: sycamore maple
-tags:: species
+tags:: species, research
 
 - availability:: unknown
 - ![image](https://ipfs.io/ipfs/QmYy8v8eNSzzdCpcXnPck4uARhfaVQwcWXPfcPCvChkAeU)

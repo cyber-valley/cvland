@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, research
 
 - availability:: unknown
 - ![image](https://ipfs.io/ipfs/QmQ4BBz57LzGvWD85emuX7D3TZsEpsWXU7q6tBT51PEqiR)

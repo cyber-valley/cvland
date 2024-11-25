@@ -1,5 +1,5 @@
 alias:: saga
-tags:: species
+tags:: species, research
 
 - availability:: tokopedia
 - nitrogener:: 70

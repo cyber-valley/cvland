@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, research
 alias:: bulls heart
 
 - availability:: tokopedia

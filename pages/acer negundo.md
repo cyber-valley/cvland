@@ -1,5 +1,5 @@
 alias:: box elder
-tags:: species
+tags:: species, research
 
 - availability:: unknown
 - common namе: **box elder**, **boxelder maple**, **manitoba maple** or **ash-leaved maple**
