@@ -1,5 +1,5 @@
 - [[passiflora edulis]]
-	- part::  [[leaves]] and [[flowers]]
+	- part::  [[leaves]] and [[flower]]
 	- infusion-time:: 4 weeks
 	- uses:: calming [[massage oil]], [[soothing skin]]
 	- compounds:: [[flavonoids]], [[alkaloids]]

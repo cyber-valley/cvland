@@ -1,0 +1,30 @@
+- products
+	- [[bootcamp]]
+	- [[daypass]]
+	- [[autonomy tour]]
+- commercial buildings
+	- [[parking]]: 10 cars and 20 bikes
+	- [[organiq]]: market and resto
+	- [[monastery]]: playground for kids
+	- [[elons]] energy, animal, plants and chill
+	- [[soft]]: scene for 42 persons
+	- [[permabase]]: processing facility of [[plants]], [[animals]] and [[fungi]]
+	- [[gym]]: place for sports
+	- [[changing room]]: showers with lockers
+	- TODO [[terrabyte]]: resto with coworking
+	- TODO [[banya]]: spa and joys
+- areas
+	- [[edem]]: experimental high labor [[magic forest]] on 30 ares
+	- [[pasture]]: area for sheeps with specialized vegetation on 60 ares
+	- [[cypher]]: 2 ha of community driven chaotic development
+	- [[kavo]]: 2 ha [[coffea arabica]] plantation with [[avocado]], [[banana]] and [[bamboo]]
+	- [[senwood]]: 4 ha with thousands of [[albizia chinensis]] trees
+- [[residential buildings]]
+	- [[carrot house]]
+	- [[vitalik]]
+	- [[gavin]]
+	- [[nick]]
+	- [[satoshi]]
+- industrial buildings
+	- [[carpentry]]
+- [[infra analysis]]

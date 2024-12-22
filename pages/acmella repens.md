@@ -1,4 +1,4 @@
 tags:: species
 
 - [[carpet]] [[perenial]]
-- [[salad]]
+- [[salad]]: 10g per day

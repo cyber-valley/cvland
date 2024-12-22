@@ -1,4 +1,4 @@
-tags:: genus, research
+tags:: genus
 scalable:: true
 
 - {{embed [[dalbergia latifolia]]}}
