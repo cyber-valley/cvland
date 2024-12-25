@@ -1,0 +1,29 @@
+- our simple kitchen rules
+- keep it clean!
+  collapsed:: true
+	- clean as you go (it's way easier than cleaning later)
+	- everything has its spot - put stuff back where you found it
+	- wipe surfaces before & after use
+	- keep your station tidy
+- cooking do's & don'ts:
+	- ⛔️ no salt (seriously, none, at all!)
+	- ⛔️ no onion (nope, not even a little)
+	- ⛔️ go easy on the oil (little olive for salads, ghee OR avocado oil for fire pan, not much)
+- use special seasonings instead
+- use measure tools for precise cooking
+- save that water! 💧
+	- don't leave taps running
+	- see a leak? let us know
+	- use water in moderation (because of its limited)
+	- use eco-friendly washing methods
+- take care of stuff: 🔧
+	- treat equipment like it's yours
+	- something broken? tell us as soon as possible
+- clean equipment after using it
+- storage basics: 📦
+	- label stuff (mark date, when you put food to the fridge)
+	- keep things organized
+	- if you open it, close it properly
+- stay fresh & clean: 👕
+	- keep yourself clean
+	- wash those hands

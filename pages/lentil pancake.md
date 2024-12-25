@@ -1,0 +1,29 @@
+- ingredient estimation (2-3 small pancakes or 1 big)
+	- 1/2 cup of lentils
+	- 1 cup water (for soaking)
+	- 1/4 cup water (for blending)
+	- oil for frying
+- instructions
+	- rinse the lentils
+		- place the lentils in a colander and rinse under cold running water.
+	- soak the lentils
+		- place the rinsed lentils in a bowl and cover with 1 cup of water.
+		- let them soak for at least 10 minutes (or up to 4-6 hours for a softer texture).
+	- blend the batter
+		- drain the soaked lentils and rinse them again.
+		- in a blender, combine the lentils with 1/4 cup of water.
+		- blend until smooth, forming a batter.
+	- prepare the pan
+		- heat a non-stick skillet over medium heat.
+		- lightly grease the pan with ghee or avocado oil.
+	- make the pancakes
+		- pour a small ladleful of batter into the skillet and spread it gently into a thin circle.
+		- cook for 2-3 minutes until the edges lift and the bottom is golden brown.
+		- flip the pancake and cook for another 1-2 minutes.
+	- repeat
+		- repeat the process with the remaining batter, greasing the pan as needed.
+	- serve
+		- serve the lentil pancakes warm with dips, chutneys, or as a wrap for vegetables and proteins.
+- notes
+	- soaking for a minimum of 10 minutes ensures the lentils are easier to cook or blend.
+	- for added flavor, mix herbs or spices (e.g., cumin, turmeric, or chili powder) into the batter.

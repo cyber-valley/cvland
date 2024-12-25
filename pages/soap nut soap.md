@@ -1,0 +1,17 @@
+- preparing soap concentrate
+	- first step (one night)
+		- put soap nut to the pot
+		- cover with water
+		- leave for one night
+	- second step* (one hour+)
+		- add 30 drops of each essential oil
+		- put on the fire, wait until it boils and cook for one hour
+		- remove from heat and leave to cool
+- preparing water for diluting soap concentrate (*same time)
+	- boil water
+	- let the water boil for 1-3 minutes after reaching a rolling boil
+	- let the boiled water cool to room temperature
+- final step
+	- pour a quarter of a bottle of concentrate and dilute with cooled boiled water
+	- separate the pits from the soap nut shell, grind the shell in a blender and add the resulting mixture to bottles with soap liquid
+	- plant pits

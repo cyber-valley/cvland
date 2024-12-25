@@ -1,0 +1,21 @@
+- sample menu with the main principle of daily alternation
+	- example: monday scrumble, tuesday oatmeal porrige, wednesday omelette, thurdsday oat pancake, friday boiled eggs, etcetra
+- breakfast (9am)
+	- porridge (oatmeal, linen)
+	- pancakes (oat, buckwheat)
+	- eggs (scrambled, boiled)
+- lunch (12pm-13pm)
+	- meat
+	- green salad
+	- sides (cereals or vegetables) - boiled or baked
+- dinner (~18pm)
+	- side dishes (cereals or vegetables or lentils) - boiled or baked
+	- green salad
+- dessert (in stock on a permanent basis)
+	- almond cookie
+	- flaxseed cookies
+- snacks (in stock on a permanent basis, in the fridge)
+	- sliced cheese
+	- sliced bread
+	- sliced meat
+	- bread with cheese (baked)

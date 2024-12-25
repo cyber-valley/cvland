@@ -1,0 +1,29 @@
+- ingredient estimation
+	- 1/2 cup green buckwheat groats (per person),
+	- 1/4 cup water (for blending),
+	- 1/4 teaspoon psyllium husk (if the batter turned out to be liquid),
+	- ghee or avocado oil for frying.
+- instructions
+	- PRE-PREPAIRING STEP (overnight)
+	- rinse and soak the buckwheat
+		- rinse the green buckwheat groats under cold running water.
+		- place them in a bowl and cover with water.
+		- soak for at least 4-6 hours or overnight for a softer texture.
+	- drain and blend
+		- drain the soaked buckwheat and transfer it to a blender or food processor.
+		- add 1/4 cup water and blend until smooth to form a thick batter.
+		- if desired, add baking powder for fluffiness.
+	- prepare the pan
+		- heat a non-stick skillet or frying pan over medium heat.
+		- lightly grease the pan with oil.
+	- make the pancakes
+		- pour a small ladleful of batter into the skillet and spread it gently into a circle.
+		- cook for 2-3 minutes until bubbles form on the surface and the edges lift.
+		- flip the pancake and cook for another 1-2 minutes until golden brown.
+	- repeat
+		- repeat with the remaining batter, greasing the pan as needed.
+	- serve:
+		- serve the green buckwheat pancakes warm with optional toppings: yogurt, fresh fruits, honey, or savory options like avocado or vegetables.
+- notes:
+	- for a savory version, add herbs or spices like parsley, cumin, or garlic powder to the batter.
+	- buckwheat pancakes can also be prepared in the oven (200°C, 20 minutes).
