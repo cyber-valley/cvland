@@ -1,4 +1,8 @@
-- sample menu with the main principle of daily alternation
+- 🕐 meal schedule (we prepare food by this time):
+	- breakfast: 9am
+	- lunch: 12pm
+	- dinner: 5-6pm
+- ### sample menu with the main principle of daily alternation
   title:: kitchen/menu
 	- example: monday scrumble, tuesday oatmeal porrige, wednesday omelette, thurdsday oat pancake, friday boiled eggs, etcetra
 - breakfast (9am)
