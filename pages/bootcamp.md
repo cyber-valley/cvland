@@ -66,7 +66,7 @@ icon:: 🏕️
 	- [[carpentry]]: place for crafting cool stuff
 	- [[elons]]: chill with sheeps and starlink
 	- [[monastery]]: kids playground
-	- [[kitchen]]: experiment with organic food production
+	- [[permabase kitchen]]: experiment with organic food production
 	- [[edem]]: experimental garden with ~200 species
 	- access to 37 ha of gardens and huge relic forest
 		- ~300 [[plant]] species
