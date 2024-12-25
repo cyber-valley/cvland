@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["permabase kitchen" "cyber valley" "genesis" "bootcamp" "bootcamp/pricing" "apply for bootcamp" "daypass" "sytech"]
+ :favorites ["cyber valley" "genesis" "bootcamp" "apply for bootcamp" "daypass" "sytech"]
 
  ;; Set flashcards interval.
  ;; Expected value:

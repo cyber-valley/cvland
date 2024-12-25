@@ -1,5 +1,7 @@
 tags:: genus
+scalable:: true
 
-- {{embed [[talinum fruticosum]]}}
-- {{embed [[talinum paniculatum]]}}
-- [[talinum triangulare]]
+- selected for [[edem]]
+	- {{embed [[talinum fruticosum]]}}
+	- {{embed [[talinum paniculatum]]}}
+-

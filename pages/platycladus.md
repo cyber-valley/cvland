@@ -1,5 +1,7 @@
 tags:: genus
+scalable:: true
 
 - [[conifer]]
-- {{embed [[platycladus orientalis]]}}
+- selected for [[edem]]
+	- {{embed [[platycladus orientalis]]}}
 -

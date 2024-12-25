@@ -1,0 +1,5 @@
+- we must be example of carbon negative society
+- factors
+	- [[sustainable energy system]]
+	- [[energy efficiency]]
+	- [[biochar]] production

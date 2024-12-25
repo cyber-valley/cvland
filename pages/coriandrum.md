@@ -1,3 +1,3 @@
-tags:: genus
+tags:: genus, research
 
 - {{embed [[coriandrum sativum]]}}

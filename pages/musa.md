@@ -1,3 +1,5 @@
 tags:: genus
+scalable:: true
 
-- [[musa acuminata]]
+- {{embed [[musa acuminata]]}}
+-

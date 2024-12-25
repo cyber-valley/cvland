@@ -1,2 +1,5 @@
 tags:: genus
-- {{embed [[tagetes lucida]]}}
+scalable:: true
+
+- selected for [[edem]]
+	- {{embed [[tagetes lucida]]}}

@@ -5,7 +5,6 @@ type:: sector
 	- [[zone two]]
 - [[guilds]]
 	- [[syzygium cumini]]
-	  collapsed:: true
 		- [[symphytum officinale]]
 		- [[potentilla indica]]
 		- [[allium tuberosum]]
@@ -16,9 +15,9 @@ type:: sector
 		- [[cynodon dactylon]]
 		- [[rubus wild]]
 	- [[jasminum officinale]] gambir
-	  collapsed:: true
 		- [[melastoma malabathricum]]
 	- [[persea americana]] haas
+	- [[cananga odorata]]
 	- [[psidium guajava]] white
 	  collapsed:: true
 		- [[salvia officinalis]]
@@ -26,28 +25,23 @@ type:: sector
 	- [[prunus domestica]]
 	- [[jasminum officinale]]
 	  collapsed:: true
-		- [[clitoria ternatea]]
 		- [[rosemary]]
 		- [[thymus vulgaris]]
-	- [[hibiscus sabdariffa]]
-	  collapsed:: true
+	- [[salvia rosmarinus]]
 		- [[piper nigrum]]
-		- [[salvia rosmarinus]]
 		- [[thymus vulgaris]]
+	- [[magnolia cempaka]]
 	- [[malpighia emarginata]]
-	  collapsed:: true
 		- TODO check [[verbena hastata]]
 		- [[mentha piperita]]
+	- [[cinamonium verum]]
 	- [[inga edulis]]
-	  collapsed:: true
 		- [[salvia coccinea]]
-		- [[taraxacum]]
+		- [[taraxacum officinale]]
 		- [[mentha piperita]]
-		  collapsed:: true
 		- [[melissa officinalis]]
 		- [[thymus vulgaris]]
 	- [[manilkara zapota]]
-	  collapsed:: true
 		- [[ocimum tenuiflorum]]
 		- [[colocasia esculenta]]
 		- [[foeniculum vulgare]]
@@ -56,12 +50,12 @@ type:: sector
 	- [[foeniculum vulgare]]
 	  collapsed:: true
 	- [[ocimum basilicum]]
-	- [[ocimum tenuiflorum]]
 	- [[symphytum officinale]]
-	- [[hibiscus sabdariffa]]
+	- [[lablab purpureus]]
+	- TODO [[ocimum tenuiflorum]]
 	- [[eupatorium capillifolium]]
-	- [[allium tuberosum]]
-	- [[tagetes lucida]]
+	- TODO [[allium tuberosum]]
+	- TODO [[tagetes lucida]]
 - [[walls]]
 	- [[debregeasia longifolia]]
 	- [[imperata cylindrica]]

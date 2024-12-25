@@ -19,20 +19,20 @@ type:: sector
 - TODO [[melaleuca viminalis]]
 - TODO [[flacourtia indica]]
 - [[pyrus communis]] green
-- TODO [[hylocereus undatus]]
+- TODO [[selenicereus undatus]]
 - [[annona muricata]] white
 - [[pouteria campechiana]]
-- TODO [[prunus armeniaca]]
+- DONE [[prunus armeniaca]]
 - TODO [[diospyros nigra]]
 - TODO [[malus pumila]]
 - [[eriobotrya japonica]]
 - TODO [[nephelium lappaceum]]
 - TODO [[ziziphus mauritiana]]
 - TODO [[pirus]] coklat
-- solanum torvum
+- [[solanum torvum]]
 - TODO [[ficus carica]]
 - TODO [[magnolia cempaka]]
 - TODO [[rubus fruticosus]]: 5
 - [[debregeasia longifolia]]: 8
 - [[melastoma malabathricum]]: 2
-- [[calliandra houstoniana]]: 1
+- [[calliandra calothyrsus]] : 1

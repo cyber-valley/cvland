@@ -5,4 +5,4 @@ alias:: pistachio
 - height: 7-9m
 - [tokopedia](https://www.tokopedia.com/e-landelectronics-1/tm-turkish-antep-pistachios-genuine-pistachio-pistacia-vera-25?extParam=ivf%3Dfalse%26src%3Dsearch&refined=true)
 - [info](https://www.gardenia.net/plant/pistacia-vera)
--
+- [[high margin]]

@@ -1,11 +1,10 @@
 tags:: species
-alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil
-
+alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil, inga edilus
 - availability:: cv
 - nitrogener:: 250
-- [[plant/miracle]
+- [[plant/miracle]]
 - products
-	- [[fruit]]
+- [[fruit]]
 - [[legume]]
 - [[canopy layer]]
 - [[shader]]
@@ -63,6 +62,8 @@ alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil
 		- harvesting of the fruit occurs in the dry season, typically several months after flowering.
 	- **good neighbors**: inga edulis grows well with other nitrogen-fixing trees, fruit trees, and shade-tolerant crops. it is often used in agroforestry systems with cacao, coffee, and various fruit trees like banana and citrus.
 	- **bad neighbors**: it should not be planted with crops that require full sunlight for optimal growth, as its dense canopy can create too much shade.
+	  ||||||| Stash base
+- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmR84KRKJ5hawM7dbqqGwvkauwNgh4Wn9y1s9Ghfy6pE38)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmR84KRKJ5hawM7dbqqGwvkauwNgh4Wn9y1s9Ghfy6pE38)
 - | Age of tree (years) | Trees per ha | Pruning (%) | Spacing (m) | DM of leaves (kg/tree) | DM of wood (kg/tree) | DM of leaves (Mg/ha) | DM of wood (Mg/ha) | Total above-ground biomass (Mg/ha) |
   |---------------------|--------------|-------------|-------------|------------------------|----------------------|----------------------|--------------------|-----------------------------------|

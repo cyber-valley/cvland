@@ -5,7 +5,7 @@ tags:: species
 	- [[fruit]]
 - guild
 	- [[black pepper]], [[vanilla]], [[markiza]] or [[chayote]] as vine
-	- or some [[bromelia]] or [[orchid]] as limiting factor
+	- or some [[bromelia]] or [[orchidaceae]] as limiting factor
 	- or: [[thyme]], [[melissa]], [[mentha]], [[wintergreen]], [[oregano]]
 	- [[comfrey]] or [[dandelion]]
 	- [[alfalfa]] or [[clover]]

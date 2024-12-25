@@ -1,4 +1,4 @@
-alias:: soursup, sersak
+alias:: soursup, soursop, sersak
 tags:: species
 
 - availability:: cv

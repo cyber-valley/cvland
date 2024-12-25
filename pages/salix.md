@@ -1,4 +1,5 @@
 tags:: genus, research
+scalable:: true
 
 - [[edem/introduce]]
 	- {{embed [[salix babylonica]]}}

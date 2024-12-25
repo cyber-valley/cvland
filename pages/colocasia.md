@@ -1,3 +1,5 @@
 tags:: genus
+scalable:: true
 
-- {{embed [[colocasia esculenta]]}}
+- selected for [[edme]]
+	- {{embed [[colocasia esculenta]]}}

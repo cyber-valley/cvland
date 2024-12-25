@@ -1,4 +1,6 @@
 tags:: genus
+scalable:: true
 
-- {{embed [[manilkara zapota]]}}
-- {{embed [[manilkara kauki]]}}
+- selected for [[edme]]
+	- {{embed [[manilkara zapota]]}}
+	- {{embed [[manilkara kauki]]}}

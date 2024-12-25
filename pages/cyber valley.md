@@ -1,39 +1,29 @@
 icon:: ⛰
 alias:: cv
 
-- Hi everyone! we a [[rockets]]!
+- Hi everyone! we are [[rockets]]!
 - we are building the [[autonomous community]]
 - in the north of Bali mountains
-- on approximately 39 hectares
+- on approximately 36.4 hectares
 - ![image.png](../assets/image_1725868123641_0.png)
 -
-- we settled in cyber valley one year ago to learn how to live [[autonomously]]
-- after gaining xp we decide to create the knowledge graph on [[autonomy]]
-- we hope this book will help you build your [[autonomous community]] everywhere!
 -
 - ## build [[citadel genesis]] with us
-	- you can join construction and venture. contact [[rockets]]
-	- first step: launch of [[bootcamp]] as eduhealth foundation of the project
+	- first step: launch of [[bootcamp]] [[pilot]] as eduhealth foundation of the project
+	- second step: complete [[game of freedom]] and go to the next level
+	- you can join construction and venture: [[apply for bootcamp]]
 -
-- ## dive into [[sytech]]: practical philosophy of autonomy
+- ## dive into [[sytech]]: practical philosophy of [[autonomy]]
 	- establish very comfortable independent life
 	- in the most beautiful places on earth
 	- at extremely low cost which can be less when price of average car
 -
 - ## invitation to [[bootcamp]]
-	- we launch [[bootcamp]] training on November 1
-	- for founders and creators of [[network states]] powered by [[startup societies]]
-	- 2 week intensive training
-	- 10 days of complete offline
-	- theory, mentorship and participation in real process of [[citadel genesis]] construction
-	- camp is limited to 5 tents
+	- {{video https://www.youtube.com/watch?v=kt_lYA6JCVo}}
 -
 - ## [[apply for bootcamp]] or [[visit us]]
 -
-- ## districts of cyber valley
-	- [[citadel genesis]]:  building autonomous community on 22 ha: status: under construction
-	- [[bridge]]:  7 ha public [[magic forest]] with residential estate and light commerce. status: planned
-	- [[canyon]]: 10 ha street of green commerce and clean small industry. status: planned
+- ## discover [[cv/districts]]
 -
 - ## why cyber valley?
 	- we live in an amazing time when people, tech, and nature can work together

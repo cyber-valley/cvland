@@ -1,5 +1,6 @@
 icon:: 🏕️
 
+- not actual anymore: we are currently restructuring the program
 - 14 day eduhealth program
 - for creators of [[autonomous community]], [[startup societies]] and [[network states]]
 - place: [[citadel genesis]], [[cyber valley]], [[bali]]
@@ -10,9 +11,9 @@ icon:: 🏕️
 	- for people who get stuck from cities and civilization
 	- for romantics who demand more freedom and autonomy
 	- for innovators who loves cutting edge at low cost
-- ## 20 hours of cutting edge lectures on autonomy
+- ## 20 hours of cutting edge [[lectures]] on autonomy
 	- [[intro to autonomy]]: complex can be simple
-	- [[energy system]]: how to build and make it work reliably?
+	- [[sustainable energy system]]: how to build and make it work reliably?
 	- [[water system]]: simple solutions for clean water
 	- [[soil, heat and recycling]]: the source of magic
 	- [[biome engineering]]: create efficient and high margin [[magic forest]]
@@ -24,11 +25,7 @@ icon:: 🏕️
 	- [[token engineering]]: sustainable and efficient models for regulation and growth
 - ## 30 hours of workouts for skill setting and leadership intuition
 	- all workouts assigned individually
-	- according to real operation plan of [[citadel genesis]] construction
-	- workouts are practical: you do something useful
-	- examples of [[workouts]]
-	- you can [[do your own project]] instead of standard [[workouts]]
-	- but we recommend to try at least some of them! they are cool
+	- according to the plan of game masters
 - ## mentors
 	- [[@master]]: founder of cyber, bostrom, cyb, cyber academy, cyber fund and cyber valley
 	- [[@stjoy]]: cyber valley founder
@@ -51,13 +48,11 @@ icon:: 🏕️
 	- cozy tent with meals in natural and autonomous environment
 	- amazing infrastructure for kids
 	- nature everywhere
-- # [[bootcamp/pricing]]
+- # [[bootcamp/map]]
+- # [[bootcamp/rules]]
+- # [[bootcamp/schedule]]
+- # [[game of freedom]]
 - ## rules
-	- first 10 days - no connection to global internet
-	- any electric device and offline software are allowed
-	- 2 hour of lectures on default days
-	- 3 hours of workouts on default days
-	- traveling and evening events are optional
 - ## evening events
 	- new moon party
 	- live music with fire
@@ -89,38 +84,10 @@ icon:: 🏕️
 		- let us know if you are interested after visiting us
 		- we are still find out proper model for commuinty building
 - ## faq
-	- why prices so differs between genders?
-	  id:: 66c812f9-6b02-4449-b9bb-0f957a79c54e
-		- girls want cool boys
-		- boys want more girls
-		- club way to build and balance community
-		- its also experimental social hack: read about [[gender optimization]] of [[citadel genesis]]
 	- what i will need with me?
 		- notebook
 		- [[list of wear]]
 		- will for change
-- ## default day: utc time
-	- sunrise: wakeup and invest time into your body and mind
-		- [[meditation and yoga]]
-		- [[hiking trails]]
-	- 00:00 coordination and breakfast
-	- 00:30: workouts
-	- 02:00: lectures
-	- 04:00: lunch
-	- 05:00: workouts
-	- 07:00: personal time
-	- 09:00: dinner
-	- after sunset: personal time or evening events
-- ## 4 travel days: options from
-	- new land discovery: flexible
-	- wild huyang trip: flexible
-	- licking lesung whole: 3 hours
-	- rising sang huyang: 4 hours
-	- magic waterfalls: 4 hours
-	- jatiluwih trail: 9 hours
-	- rafting on pandora: 12 hours
-	- wet west of bali: 12 hours
-	- batukaru shoot: 12 hours
 -
 - # [[apply for bootcamp]] or [[visit us]]
 -

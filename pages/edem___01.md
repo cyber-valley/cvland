@@ -22,12 +22,15 @@ type:: sector
 		- [[tagetes lucida]]
 		- [[melissa officinalis]]
 		- [[begonia]]
+		- [[tropaeolum majus]]
 	- [[nephelium lappaceum]]
 	  collapsed:: true
 		- [[rosemary]]
+	- [[cananga odorata]]
 	- [[syzygium samarangense]]
 		- [[thymus vulgaris]]
 		- [[melissa officinalis]]
+	- [[cinnamomum verum]]
 	- [[flacourtia indica]]
 	  collapsed:: true
 		- [[ocimum africanum]]
@@ -37,5 +40,6 @@ type:: sector
 	- [[salvia rosmarinus]]
 	- [[melissa officinalis]]
 	- [[salvia officinalis]]
+	- [[salvia leucantha]]
 - [[walls]]
 	- [[cymbopogon citratus]]

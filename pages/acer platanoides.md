@@ -1,5 +1,5 @@
 alias:: norway maple
-tags:: species
+tags:: species, research
 
 - availability:: unknown
 - ![image](https://ipfs.io/ipfs/QmcGaPWEmLxxXHtNaMzdqgwFTA4BKRjCZbSJYYVx7mgG4E)

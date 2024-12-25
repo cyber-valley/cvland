@@ -7,7 +7,6 @@
 - [[plants/species]]
 	-
 - [[plants/psycho]]
-- [[utopia/strategic]]
 -
 - [[plants/rare]]
 -

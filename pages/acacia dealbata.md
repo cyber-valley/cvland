@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, research
 alias:: winter mimosa, silver wattle
 
 - availability:: tokopedia

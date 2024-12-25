@@ -1,4 +1,5 @@
 tags:: genus
 alias:: pitahaya, dragon fruit, naga
+scalable:: true
 
-- {{embed [[hylocereus undatus]]}}
+- {{embed [[selenicereus undatus]]}}

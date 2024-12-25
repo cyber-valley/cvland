@@ -7,4 +7,4 @@ alias:: keruing, kruing
 - ![image](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmVL5JxcyAHnyHNoscqDaHtFskrXxk3tJtLnkMDfrM7tYn)
 - ![image](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmbHtMhF4Dt4BUnFC19NDyGRstUuv2xVngo8JY4SJFaKyh)
 - ![image](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmcXHTct8sUU5KmTEmdxgGwRDbYR865qGu7hZdHqTAFuib)
-- rare big endangered trees with amazing resin
+- rare big endangered trees with amazing [[resin]]

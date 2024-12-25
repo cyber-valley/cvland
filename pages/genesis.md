@@ -2,44 +2,20 @@ alias:: citadel genesis
 icon:: 🧬
 
 - project of sustainable and autonomous [[citadel]]
-- district in [[cyber valley]] on 22 ha of land
+- region in [[cyber valley]] on 30 ha of land
 - ![image.png](../assets/image_1725878222276_0.png)
 -
 - ## dive into [[citadel/vision]]
-- ## [[rockets]] estate
-	- products
-		- [[bootcamp]]
-		- [[daypass]]
-		- [[autonomy tour]]
-	- commercial buildings
-		- [[parking]]: 10 cars and 20 bikes
-		- [[elons]] sheeps, chickens and chill
-		- [[organiq]]: market and resto
-		- [[permabase]]: processing facility for [[plants]], [[animals]] and [[fungi]]
-		- [[monastery]]: playground for kids
-		- TODO [[banya]]: spa and joys
-	- areas
-		- [[edem]]: experimental high labor [[magic forest]] on 30 ares
-		- [[cypher]]: 2 ha of community driven chaotic development
-		- [[pasture]]: area for sheeps with specialized vegetation on 60 ares
-		- [[senwood]]: 4 ha with thousands of [[albizia chinensis]] trees
-		- [[kavo]]: 2 ha coffee plantation with [[avocado]], [[banana]], [[orange]], [[jackfruit]], [[markiza]] and [[bamboo]]
-		- [[wilderness]]: 12 ha of wild biomes
-	- residential buildings
-		- [[carrot house]]
-		- [[vitalik]]
-		- [[gavin]]
-		- [[yann]]
-		- [[andrej]]
-		- [[satoshi]]
-	- industrial buildings
-		- [[carpentry]]
+- ## [[citadel/strategy]]
+- ## districts
+	- [[rockets estate]]: 10 ha
+	- other 5 districts are being structured
 - ## projects
 	- [[sensor network]]
 	- [[soil research]]
-	- [[fungi research]]
 	- [[birds research]]
 	- [[plants research]]
+	- TODO [[fungi research]]
 - ## surrounded by the following districts
 	- [[batuka]]: relict forest
 	- [[bridge]]: commercial street

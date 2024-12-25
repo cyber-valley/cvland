@@ -1,3 +1,5 @@
+tags:: class
+
 - every life form serve a purpose
 - classifier of products produced by [[plants]], [[animals]] and [[fungi]]
 -
@@ -16,6 +18,7 @@
 	- [[psycho]]: have psychoactive effects
 	- [[flower]]: beautiful flowers for [[floristics]]
 	- [[aroma]]: for olfactory pleasure and for [[essential oil]] extraction
+	- [[indoor]]: plants typical used indoor for aesthetics and air purification
 - [[food]] by types
 	- [[drink]]: can produce [[juice]], [[tea]], [[sap]] or [[milk]]
 	- [[meat]]: can produce meaty structure
@@ -42,3 +45,4 @@
 	- [[chemical]]: pharmaceuticals, solvents, and industrial processes
 	- [[metal]]: extracted through phytomining by metal-accumulating plants
 	- [[dye]]: natural source for sustainable colorants
+	- [[landscape]]: landscape design and aesthetics

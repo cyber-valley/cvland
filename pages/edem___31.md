@@ -17,3 +17,4 @@ type:: sector
   :END:
 - DONE [[durio zibethinus]]
 - DONE [[phoenix dactylifera]]
+- [[pogostemon cablin]]

@@ -1,10 +1,10 @@
 alias:: markiza, passion fruit
 tags:: genus
+scalable:: true
 
-- ![Yellow Passion Fruit Seeds - Mountain Top Seed Bank](https://mtseedbank.in/wp-content/uploads/2021/04/passion_fruit_seeds_image_1.jpg)
--
-- {{embed [[passiflora vitifolia]]}}
-- {{embed [[passiflora edulis]]}}
-- {{embed [[passiflora quadrangularis]]}}
--
--
+- selected for [[edem]]
+	- {{embed [[passiflora vitifolia]]}}
+	- {{embed [[passiflora edulis]]}}
+	- {{embed [[passiflora quadrangularis]]}}
+	- {{embed [[passiflora alata]]}}
+	- {{embed [[passiflora ligularis]]}}

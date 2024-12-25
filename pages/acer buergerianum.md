@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, research
 
 - availability:: tokopedia
 - ![image](https://ipfs.io/ipfs/QmU3LVsYyfLfwFwjxAjPu9UUb4EdTz1FvRbe7YoQV3z99g)

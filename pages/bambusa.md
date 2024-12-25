@@ -1,7 +1,9 @@
 tags:: genus
 
 - selected for [[kavo]]
-	- [[bambusa oldhamii]]
+	- {{embed [[bambusa oldhamii]]}}
+- selected for [[edem]]
+	- {{embed [[bambusa multiplex]]}}
 - research
 	- [[bambusa balcooa]]
 	- [[bambusa textilis]]

@@ -1,5 +1,7 @@
 alias:: anggur, grape
 tags:: genus
+scalable:: true
 
-- {{embed [[vitis vinifera]]}}
+- selected for [[edem]]
+	- {{embed [[vitis vinifera]]}}
 -

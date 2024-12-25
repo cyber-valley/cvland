@@ -1,2 +1,3 @@
 - TODO lecture at [[bootcamp]]
-- will be published soon
+- articles
+	- [[token engineering for startup societies]]

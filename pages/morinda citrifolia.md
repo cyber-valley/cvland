@@ -8,4 +8,4 @@ alias:: cheese fruit, noni, mengkudu pace
 - [wiki](https://en.wikipedia.org/wiki/Morinda_citrifolia)
 - [info](http://www.plantsofasia.com/index/morinda_citrifolia/0-782)
 - [tokopedia](https://tokopedia.com/asitaru/vdb-egrow-10pcs-pack-noni-morinda-citrifolia-pohon-bibit?extParam=ivf%3Dfalse%26src%3Dsearch)
--
+- [[high margin]]

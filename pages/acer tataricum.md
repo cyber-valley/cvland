@@ -1,5 +1,5 @@
 alias:: tatar maple
-tags:: species
+tags:: species, research
 
 - availability:: unknown
 - ![image](https://ipfs.io/ipfs/QmWTMFZskEKFRL4LBrYtAgMMcQddG4iq6xVPF3Hm8EhCMF)

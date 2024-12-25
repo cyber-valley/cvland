@@ -1,5 +1,5 @@
 alias:: green wattle, black wattle
-tags:: species
+tags:: species, research
 
 - ![image](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmYNjcjJH21stvEcdbTznw2MhAAvoPSuqNrMexZKg4Ycur)
 - wiki:: [acacia_decurrens.pdf](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQ4y9YFEhJ4T9y8DCFhJksSnQUDGEs6XyhLG44fTKdctB)

@@ -5,3 +5,4 @@ alias:: chives, kucai
 - {{video https://www.youtube.com/watch?v=Z7QzM5ny4LU}}
 - products
 	- [[leave]]
+- [[salad]]

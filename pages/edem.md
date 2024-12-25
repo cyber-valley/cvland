@@ -1,6 +1,6 @@
 - experimental high labour [[magic forest]]
-- with 161 [[genus]] and 200+ speceis
-- TODO strategic supplier of [[organiq]]
+- with 240+ [[genus]] and 300+ species
+- TODO strategic supplier of [[organiq]] and genetics for [[citadel genesis]]
 -
 - ## navigation
 	- [[edem/sectors]] from top to bottom
@@ -10,7 +10,7 @@
 	- fast growing woody nitrogen pioneers
 		- [[leucaena]]: [[wood]], [[nitrogener]]
 		- [[trema]]: [[wood]], [[nitrogener]]
-		- [[caliandra]]: [[wood]], [[nitrogener]]
+		- [[calliandra]]: [[wood]], [[nitrogener]]
 	- fast growing green manure pioneers
 		- [[ageratina]]: [[greens]] on low layer with [[flower]]
 		- [[austroeupatorium]]: [[greens]] on middle layer with beautiful [[aroma]]
@@ -57,7 +57,7 @@
 		- [[malus]]
 		- [[strawberry]]
 		- [[pyrus]]
-		- [[punica granatum]]
+		- [[punica]]
 		- [[anona]]
 		- [[garcinia]]
 		- [[diospyros]]
@@ -72,9 +72,9 @@
 		- [[talinum]]
 		- [[rumex]]
 		- [[aubergine]]
-		- [[hibiscus sabdariffa]]
-		- [[allium sativum]]
-		- [[breynia androgyna]]
+		- [[hibiscus]]
+		- [[allium]]
+		- [[breynia]]
 	- fragrance and polination
 		- [[magnolia cempaka]] : [[aroma]], [[oil]], [[medicine]]
 		- [[cananga odorata]]: [[aroma]], [[oil]], [[medicine]]
@@ -90,11 +90,11 @@
 		- [[salvia rosmarinus]] : [[medicine]], [[oil]], [[fodder]], [[drink]], [[spice]]
 		- [[lavandula]]: [[medicine]]
 		- [[melaleuca]]
-		- [[capsicum annuum]]
-		- [[santalum album]]
+		- [[capsicum]]
+		- [[santalum]]
 		- [[cinnamomum]]
-		- [[centella asiatica]]
-		- [[origanum vulgare]]:: [[medicine]], [[oil]], [[fodder]], [[drink]], [[spice]]
+		- [[centella]]
+		- [[origanum]]: [[medicine]], [[oil]], [[fodder]], [[drink]], [[spice]]
 		- [[lemongrass]]: [[oil]], [[drinks]]
 	- TODO [[fungi]] needed for fast decomposition
 	- building and construction

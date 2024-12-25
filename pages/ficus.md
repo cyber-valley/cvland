@@ -1,9 +1,10 @@
 tags:: genus
+scalable:: true
 
 - native to [[batuka]]
 	- {{embed [[ficus benjamina]]}}
 	- {{embed [[ficus fistulosa]]}}
-- introduced
+- selected for [[edem]]
 	- {{embed [[ficus carica]]}}
 	- {{embed [[ficus elastica]]}}
 	- {{embed [[ficus microcarpa]]}}

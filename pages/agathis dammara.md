@@ -1,5 +1,5 @@
 alias:: amboina, damar
-tags:: species
+tags:: species, research
 
 - availability:: hanara, tokopedia
 - [[conifer]]

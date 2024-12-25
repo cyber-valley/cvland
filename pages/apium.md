@@ -1,3 +1,4 @@
-tags:: genus, research
+tags:: genus
 
-- {{embed [[apium graveolens]]}}
+- selected for [[edem]]
+	- {{embed [[apium graveolens]]}}

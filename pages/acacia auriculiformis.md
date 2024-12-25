@@ -1,5 +1,5 @@
+tags:: species, research
 alias:: auri, earleaf acacia
-tags:: species
 
 - availability:: tokopedia
 - nitrogener:: 250

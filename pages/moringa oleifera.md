@@ -1,11 +1,12 @@
 tags:: species, plant
 alias:: ben oil tree, kelor
 
+- state:: supply
 - ![Screenshot 2024-05-26 at 08.19.22.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQfBx32Rc1A1HfLdaYkvV2PmE1ufavJSU8RHvB4745PFU)
 - ![Screenshot 2024-05-26 at 08.19.08.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZ5mjEtwd2LtyoxCikHpH3tg8UwPWUQAhDoJTUNBWT7X4){:height 517, :width 676}
 - ![Screenshot 2024-05-26 at 08.18.57.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZeDVca7UDGM96TSADABGy2u9LZ6BXCi763Jfma57MYkU)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmNMwZZUQgzBnsS2ynZ4ngvr5FHpS2ubCe8r7XY3wWnSrt)
-- [[plant/miracle]]
+- [[plant/miracle]], [[high margin]]
 - [[products]]
 	- [[oil]]: extracted from seeds, used in [[cooking]], [[cosmetics]], and [[biodiesel]]
 	- [[carb]]: young pods and seeds are carbohydrate-rich
@@ -28,7 +29,7 @@ alias:: ben oil tree, kelor
 	- [[bark]]: smooth and light-colored [[medicine]]
 		- [[tannins]]
 		- [[saponins]]
-	- [[leave]]: pinnate, oval-shaped, rich in vitamins and elements
+	- [[leave]]: pinnate, oval-shaped, rich in vitamins and elements, amazing for [[salad]]
 		- [[protein]]
 		- [[vitamins A]]
 		- [[vitamin C]]
@@ -78,8 +79,7 @@ alias:: ben oil tree, kelor
 		- [[pods]]: harvested when young for vegetable use or mature for seed extraction
 		- [[seeds]]: extracted from dried pods for oil production or water purification
 - links
-	- [tokopedia](https://www.tokopedia.com/bataviaherbalshop/biji-kelor-kupas-moringa-seeds-kernel-kelor-premium-herbs-time?extParam=ivf%3Dfalse&src=topads)
 	- [wiki](https://en.wikipedia.org/wiki/Moringa_oleifera)
-	- [tokopedia](https://www.tokopedia.com/originalflora/bibit-kelor-pohon-kelor-tanaman-kelor-moringa-oleifera-daun-kelor?extParam=ivf%3Dfalse%26src%3Dsearch)
+	- [tokopedia](https://www.tokopedia.com/bataviaherbalshop/biji-kelor-kupas-moringa-seeds-kernel-kelor-premium-herbs-time?extParam=ivf%3Dfalse&src=topads)
 	- [plantsofasia](http://www.plantsofasia.com/index/moringa_oleifera/0-913)
--
+- [[high margin]]

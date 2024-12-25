@@ -1,6 +1,7 @@
 tags:: genus
+scalable:: true
 
-- selected
+- selected for [[edem]]
 	- {{embed [[theobroma cacao]]}}
 - research
 	- {{embed [[theobroma grandiflorum]]}}

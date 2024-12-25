@@ -1,5 +1,5 @@
 alias:: japanese maple
-tags:: species
+tags:: species, research
 
 - availability:: tokopedia
   collapsed:: true

@@ -6,16 +6,19 @@ type:: sector
 - TODO [[unknown]]: 3
 - [[platycladus orientalis]]
 - [[pouteria campechiana]]
-- DONE [[alocasia cucullata]]
 - [[bambusa multiplex]]
 - [[schizolobium parahyba]]
-- TODO [[syzygium myrtifolium]]
-- TODO [[ixora coccinea]]
-- DONE [[crescentia cujete]]
-- TODO [[araucaria heterophylla]]
+- [[syzygium myrtifolium]]
+- [[ixora coccinea]]
+- [[crescentia cujete]]
+  :LOGBOOK:
+  CLOCK: [2024-11-06 Wed 11:07:29]--[2024-11-06 Wed 11:07:30] =>  00:00:01
+  :END:
+- [[araucaria heterophylla]]
 - [[zamioculcas zamiifolia]]
-- TODO [[equisetum hyemale]]
+- [[equisetum hyemale]]
 - [[cordyline fruticosa]]
-- TODO [[azadirachta indica]]
+- [[azadirachta indica]]
 - [[melaleuca viminalis]]
-- TODO [[plinia cauliflora]]
+- [[plinia cauliflora]]
+- DONE [[alocasia cucullata]]

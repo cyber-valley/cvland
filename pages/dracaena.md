@@ -1,5 +1,9 @@
-tags:: genus, research
+tags:: genus
 
-- {{embed [[dracaena angustifolia]]}}
-- {{embed [[dracaena cinnabari]]}}
-- {{embed [[dracaena reflexa]]}}
+- selected for [[edme]]
+	- {{embed [[dracaena sanderiana]]}}
+	- {{embed [[dracaena angolensis]]}}
+- research
+	- {{embed [[dracaena angustifolia]]}}
+	- {{embed [[dracaena cinnabari]]}}
+	- {{embed [[dracaena reflexa]]}}

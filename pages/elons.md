@@ -1,3 +1,7 @@
+tags:: back
+workers:: 4
+users:: 0
+
 - multipurpose facility
 - components
 	- solar station

@@ -8,4 +8,6 @@ What is there?
 
 - [x] information on ~1k plant species availability in our location
 - [x] information on ~50 bird species available on our site
-- [ ] soil research
+- [x] soil research
+- [x] general information on the citadel genesis project
+- [x] information on the game of freedom

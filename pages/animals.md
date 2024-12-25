@@ -1,4 +1,4 @@
-tags:: species, class
+tags:: class
 
 - animals are foundational for biome development
 - we try to support as many animals as possible
