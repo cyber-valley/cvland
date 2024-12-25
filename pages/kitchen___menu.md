@@ -1,4 +1,5 @@
 - sample menu with the main principle of daily alternation
+  title:: kitchen/menu
 	- example: monday scrumble, tuesday oatmeal porrige, wednesday omelette, thurdsday oat pancake, friday boiled eggs, etcetra
 - breakfast (9am)
 	- porridge (oatmeal, linen)

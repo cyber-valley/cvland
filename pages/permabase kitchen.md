@@ -1,8 +1,8 @@
-- [[rules]]
-- [[launch]]
-- [[delivery and storage]]
+- [[kitchen/rules]]
+- [[kitchen/launch]]
+- [[food delivery&storage]]
 - [[soap nut soap]]
-- [[menu]]
+- [[kitchen/menu]]
 - [[recipes]]
 -
 -

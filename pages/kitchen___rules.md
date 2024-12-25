@@ -1,4 +1,5 @@
 - our simple kitchen rules
+  title:: kitchen/rules
 - keep it clean!
   collapsed:: true
 	- clean as you go (it's way easier than cleaning later)
