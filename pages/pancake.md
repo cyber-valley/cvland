@@ -1,0 +1,3 @@
+- [[green buckwheat pancake]]
+- [[lentil pancake]]
+- [[oat pancake]]

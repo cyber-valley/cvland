@@ -1,10 +1,10 @@
 - [[eggs]]
-- [[oatmeal]]
-- [[oat pancake]]
-- [[green buckwheat pancake]]
-- [[lentil pancake]]
-- [[almond cookie]]
+- [[porridge]]
+- [[pancakes]]
+- [[cookies]]
 - [[meat]]
 - [[vegetables]]
-- [[boiled lentils]]
-- [[boiled buckwheat]]
+- [[sides]]
+- [[snacks]]
+-
+-
