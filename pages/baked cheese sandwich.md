@@ -1,0 +1,8 @@
+- turn on oven
+- prepare the baking tray
+- put silicone cover in the baking tray
+- slice bread
+- slice cheese
+- put cheese on top of the bread
+- put it inside of the oven
+- cook until the cheese melts
