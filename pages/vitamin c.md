@@ -1,7 +1,7 @@
 alias:: ascorbic acid
 
 - ![Vitamin_C.pdf](../assets/Vitamin_C_1719303309556_0.pdf)
-- vitamin c, also known as ascorbic acid, is a water-soluble vitamin that is essential for normal growth and development. it is known for its antioxidant properties, which help protect cells from damage by free radicals. vitamin c is crucial for the biosynthesis of collagen, L-carnitine, and certain neurotransmitters. it also aids in the absorption of non-heme iron, the form of iron present in plant-based foods.
+- [[vitamin]] c, also known as ascorbic acid, is a water-soluble vitamin that is essential for normal growth and development. it is known for its [[antioxidant]] properties, which help protect cells from damage by free radicals. vitamin c is crucial for the [[biosynthesis of collagen]], [[L-carnitine]], and certain neurotransmitters. it also aids in the [[absorption of non-heme iron]], the form of iron present in plant-based foods.
 - ### chemical properties
 	- **molecular weight**: 176.12 g/mol
 	- **density**: 1.65 g/cm³
@@ -22,5 +22,3 @@ alias:: ascorbic acid
 - ### research links
 - [vitamin c and immune function](https://scholar.google.com/scholar?q=vitamin+c+immune+function)
 - [antimicrobial properties of vitamin c](https://scholar.google.com/scholar?q=antimicrobial+properties+of+vitamin+c)
-  
-  this detailed information provides a comprehensive overview of vitamin c, including its chemical properties, medical usefulness, and antimicrobial activity.

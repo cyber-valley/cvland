@@ -46,3 +46,7 @@ tags:: class
 	- [[metal]]: extracted through phytomining by metal-accumulating plants
 	- [[dye]]: natural source for sustainable colorants
 	- [[landscape]]: landscape design and aesthetics
+- security
+	- [[woodfire]]
+	- [[soil hold]]
+	-

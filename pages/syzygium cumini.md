@@ -45,9 +45,9 @@ alias:: black plum, damson plum, jambolan plum, java plum, jamun
 - ### chemical compounds
 - | chemical compound       | plant part              | amount (%)        | description |
   |-------------------------|-------------------------|-------------------|-------------|
-  | tannins                 | bark, leaves, fruit     | 10-20%            |  [[astringent]] properties, used in [[traditional medicine]] to treat [[diarrhea]], [[dysentery]], and [[skin conditions]]. contribute to the [[antioxidant]] activity of the plant. |
-  | anthocyanins            | fruit                   | 0.1-1%            | [[pigments]] responsible for the deep purple to black color of the fruit. they have [[antioxidant]] properties and contribute to the fruit's [[health benefits]]. |
-  | flavonoids              | leaves, bark, fruit     | 5-10%             | [[antioxidant]] with [[anti-inflammatory]] and [[antidiabetic]] properties, beneficial in traditional remedies for [[various ailments]]. |
+  | [[tannins]]                 | bark, leaves, fruit     | 10-20%            |  [[astringent]] properties, used in [[traditional medicine]] to treat [[diarrhea]], [[dysentery]], and [[skin conditions]]. contribute to the [[antioxidant]] activity of the plant. |
+  | [[anthocyanins]]            | fruit                   | 0.1-1%            | [[pigments]] responsible for the deep purple to black color of the fruit. they have [[antioxidant]] properties and contribute to the fruit's [[health benefits]]. |
+  | [[flavonoids]]              | leaves, bark, fruit     | 5-10%             | [[antioxidant]] with [[anti-inflammatory]] and [[antidiabetic]] properties, beneficial in traditional remedies for [[various ailments]]. |
   | [[ellagic acid]] | leaves, bark, fruit     | 1-5%              | [[polyphenolic]] compound with [[antioxidants]] , [[anti-inflammatory]], and [[antimicrobial]] properties. it is often used in medicinal preparations. |
   | [[oleanolic acid]] | leaves, fruit           | 0.5-2%            | triterpenoid with anti-inflammatory, antidiabetic, and hepatoprotective properties, contributing to the plant's medicinal use. |
   | [[gallic acid]] | leaves, fruit           | 0.5-1%            | [[antioxidant]] and antimicrobial properties, used in [[traditional medicine]] for treating [[various conditions]]. |
