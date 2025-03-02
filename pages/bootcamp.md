@@ -2,7 +2,7 @@ icon:: 🏕️
 
 - not actual anymore: we are currently restructuring the program
 - 14 day eduhealth program
-- for creators of [[autonomous community]], [[startup societies]] and [[network states]]
+- for creators of [[sustainable community]], [[startup societies]] and [[network states]]
 - place: [[citadel genesis]], [[cyber valley]], [[bali]]
 - ![image.png](../assets/image_1725878367697_0.png)
 - starts on the new and full moon
@@ -12,7 +12,7 @@ icon:: 🏕️
 	- for romantics who demand more freedom and autonomy
 	- for innovators who loves cutting edge at low cost
 - ## 20 hours of cutting edge [[lectures]] on autonomy
-	- [[intro to autonomy]]: complex can be simple
+	- [[intro to sustainability]]: complex can be simple
 	- [[sustainable energy system]]: how to build and make it work reliably?
 	- [[water system]]: simple solutions for clean water
 	- [[soil, heat and recycling]]: the source of magic

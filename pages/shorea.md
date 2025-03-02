@@ -1,4 +1,4 @@
-tags:: genus, research
+tags:: genus, research, major
 scalable:: true
 
 - up to 100 meter height

@@ -8,7 +8,7 @@
 	- driven by the principles of togetherness
 - seeks to explore the underlying principles
 	- that govern the interconnectedness of elements in various systems
-	- whether biological, social, artistic, or linguistic
+	- whether biological, artificial, technological, social, artistic, or linguistic
 - built upon the interrelation of 8 beautiful phenomena
 	- [[symbiosis]]: all entities in the universe are interconnected, and their survival and flourishing depend on mutual cooperation
 	- [[synergy]]: the combined effect of interacting elements is greater than the sum of their individual effects

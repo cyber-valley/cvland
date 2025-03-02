@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: pendejera, devils fig
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmWjrDJhW4s7GPYiPajpvsz4qFzDb7gyJRw2vYqUxxy7zr)

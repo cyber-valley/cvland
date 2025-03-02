@@ -40,7 +40,6 @@
 			- slow, expensive but easy: build capital stuff first => take years
 	- outline of development
 		- define high level goals, example
-		  collapsed:: true
 			- debug energy, connection and water system
 			- diversify energy with wind
 			- provide staple food
@@ -50,6 +49,5 @@
 		- do fast and small things based on the most needed today
 		- act consistently: 2-4 hours a day
 		- mindset
-			- first year is hard
-			- second is normal
-			- third year is cool
+			- first 3 years is cool and hard
+			- years after cool and easy

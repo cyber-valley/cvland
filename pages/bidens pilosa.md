@@ -1,5 +1,5 @@
 alias:: ketul
-tags:: species
+tags:: species, major
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmbnxW6n1Dsf3VVBSgvU9fo3aVSgFp4nWaKQbN7u5FuT8a)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmeirZeWkwGGa8HPQfTXfSdKixTrn2pQqJQXojwDwXzNya)

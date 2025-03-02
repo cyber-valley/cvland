@@ -1,6 +1,11 @@
+tags:: rocket estate
+
+- TODO move to dedicated graph altogether with majority of [[species]]
 - experimental high labour [[magic forest]]
 - with 240+ [[genus]] and 300+ species
 - TODO strategic supplier of [[organiq]] and genetics for [[citadel genesis]]
+- {{query (or (page-tags [[edem]]) (namespace [[edem]]))}}
+  query-properties:: [:page]
 -
 - ## navigation
 	- [[edem/sectors]] from top to bottom

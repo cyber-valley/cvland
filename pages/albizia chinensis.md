@@ -1,5 +1,5 @@
 alias:: sengon merah
-tags:: species
+tags:: species, major
 
 - nitrogener:: 100
 - ![image](https://ipfs.io/ipfs/Qmee77kinxNP6F8Eb4pKPtxxJCWotu8wj4YS5qUJ9vMKiN)

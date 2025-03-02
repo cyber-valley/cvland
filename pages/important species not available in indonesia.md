@@ -1,3 +1,5 @@
+tags:: edem
+
 - [[abies sibirica]]
 - [[acacia senegal]]
 - [[alnus rubra]]

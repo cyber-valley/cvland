@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: candyleaf, sweetleaf, sugarleaf
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQGcriyHtQgVbRPXEH9WUHTigDSzAZnt9hXDPWsL2nYzz)

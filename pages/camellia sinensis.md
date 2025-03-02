@@ -1,5 +1,5 @@
 alias:: tea
-tags:: species, research
+tags:: species, research, major
 
 - [[high margin]] [[drink]]
 - state:: supply

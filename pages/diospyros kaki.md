@@ -1,5 +1,5 @@
 alias:: persimmon
-tags:: species
+tags:: species, major
 
 - availability:: cv
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmbUoZqinF2wMPg4RkDPhyEVfcYis3Jk1u1GiC7NwaCahi)

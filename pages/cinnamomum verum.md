@@ -1,23 +1,4 @@
-tags:: species
-tags:: species
-alias:: cinnamon
-tags:: species
-alias:: cinnamon
-tags:: species
-alias:: cinnamon
-tags:: species
-alias:: cinnamon
-tags:: species
-alias:: cinnamon
-tags:: species
-alias:: cinnamon
-tags:: species
-alias:: cinnamon
-tags:: species
-alias:: cinnamon
-tags:: species
-alias:: cinnamon
-tags:: species
+tags:: species, major
 alias:: cinnamon
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmViy3gvZDRdoexz6oKLUuSJtCPMFcrbfpJ7fByPd39vYL)

@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: benying
 
 - availability:: tokopedia

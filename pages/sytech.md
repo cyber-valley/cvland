@@ -1,7 +1,7 @@
 icon:: ♻️
 alias:: and more
 
-- welcome to the autonomy and sustainability knowledge graph
+- welcome to the sustainability knowledge graph
 - created by [[rockets]]
 - for [[cyber valley]] and [[citadel genesis]]
 - disclaimer: the sytech knowledge graph is under construction
@@ -12,7 +12,7 @@ alias:: and more
 	- this knowledge graph is semantic setting for [[autonomy]], prosperity and evolution
 -
 - sytech applied to [[network states]] and [[startup societies]] is practical design framework
-	- [[intro to autonomy]]: complex can be simple
+	- [[intro to sustainability]]: complex can be simple
 	- [[sustainable energy system]]: how to build and make it work reliably?
 	- [[water system]]: simple solutions for clean water
 	- [[soil, heat and recycling]]: the source of magic

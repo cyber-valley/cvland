@@ -1,5 +1,5 @@
 alias:: sapote hitam, sapote black, nigra
-tags:: species
+tags:: species, major
 
 - availability:: cv
 - ![undefined](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmUh8aHEmRoBjmLgREgBo23Rc26zXmRPvGBxudR4Wi72J6){:height 364, :width 534}

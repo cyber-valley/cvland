@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: cendana, east indian sandalwood, sandal, sandalwood
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmTvWmfaiadRKJapuwBSnd1W1epZ2WuFzcFscJLCW1KYX5)
