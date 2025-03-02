@@ -1,3 +1,5 @@
+icon:: 💰
+
 - TODO lecture at [[bootcamp]]
 - @mastercyb
 - ## abstract
