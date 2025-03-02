@@ -42,5 +42,5 @@ icon:: ⚖️
 -
 - The following PT PMA companies established according to Indonesian laws
 	- [[cyber valley estate]]: holding company
-	- [[cyber devops force]]: development company
-	- [[rocket family estate]]: anchor investor
+	- TODO [[cyber devops force]]: development company
+	- TODO [[rocket family estate]]: anchor investor
