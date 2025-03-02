@@ -1,4 +1,4 @@
-alias:: citadel genesis
+alias:: citadel genesis, vision
 icon:: 🧬
 
 - project of sustainable and autonomous [[citadel]]

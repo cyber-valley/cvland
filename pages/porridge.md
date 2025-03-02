@@ -1,1 +1,2 @@
-- [[oatmeal]]
+- [[oatmeal with spices]]
+- [[oatmeal with dried fruits]]

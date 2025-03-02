@@ -30,7 +30,7 @@ jobs:
         run: ./.github/scripts/modify_html/add_analytics.sh
 
       - name: deploy to netlify
-        uses: jsmrcaga/action-netlify-deploy@v2.2.0
+        uses: jsmrcaga/action-netlify-deploy@v2.4.0
         with:
           build_directory: build
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
