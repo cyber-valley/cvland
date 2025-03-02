@@ -1,7 +1,7 @@
 alias:: citadel genesis, vision
 icon:: 🧬
 
-- project of sustainable and autonomous [[citadel]]
+- project of sustainable and [[autonomous]] [[citadel]]
 - region in [[cyber valley]] on 30 ha of land
 - ![image.png](../assets/image_1725878222276_0.png)
 -

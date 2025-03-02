@@ -1,4 +1,4 @@
-tags:: species, plant
+tags:: species, plant, major
 alias:: ben oil tree, kelor
 
 - state:: supply
