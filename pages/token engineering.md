@@ -1,8 +1,4 @@
 - TODO lecture at [[bootcamp]]
-- articles
-	- [[token engineering]]
-icon::
-
 - @mastercyb
 - ## abstract
 	- in this document
