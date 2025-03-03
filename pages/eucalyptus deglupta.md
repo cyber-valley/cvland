@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qmb1AXnjLDowod535ZgSC5x35rp4gzJQHwadsqvBT3DFEJ)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmNQ8jLBNrc1Fm9e7XDPHWwN32ioY82b6i8Gt8znnoX6uS)

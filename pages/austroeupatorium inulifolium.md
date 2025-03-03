@@ -1,5 +1,5 @@
 alias:: fragrant
-tags:: species
+tags:: species, major
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmcvAzhLTwkwVf4kZx6ZpUJinScXvtiwmBaLRSeuQXES99)
 - very talented bush

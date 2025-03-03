@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: sawo, sapodilla
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmRMTs6LwDpmW71tayKZhVqczmL5XSpWQwM5YVh5tRXDtG)

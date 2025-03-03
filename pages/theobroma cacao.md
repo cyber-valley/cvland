@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: cacao tree, chocolate, coklat, kakao
 
 - state:: supply

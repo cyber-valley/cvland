@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: ceylon spinach, waterleaf, cariru, gbure
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmaLL3a3keWYizb9haTeogeV14a9CGjk7fESbU5UPFzkMh)

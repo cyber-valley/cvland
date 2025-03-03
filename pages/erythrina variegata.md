@@ -1,5 +1,5 @@
 alias:: dadap
-tags:: species
+tags:: species, major
 
 - availability:: cv
 - nitrogener:: 150

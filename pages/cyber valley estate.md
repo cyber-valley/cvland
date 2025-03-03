@@ -1,3 +1,3 @@
-alias:: cve, cyber valley
+alias:: cve
 
 -

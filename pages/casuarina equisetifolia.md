@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 
 - nitrogener:: 250
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmYcVAErcg1D2iXsNSj62FZEQJn5bREDzGAcyvoBpuaBeS)

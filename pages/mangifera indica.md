@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: indian mango, mango, mangga
 
 - ![Screenshot 2024-06-03 at 08.07.24.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmbTU1UdHYvbLxEbyYjEmRN6QXNSmvd6ZGj6g8JpXWuXyH){:height 527, :width 676}

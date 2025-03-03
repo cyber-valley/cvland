@@ -1,5 +1,5 @@
 alias:: chayote, sechium edule
-tags:: species
+tags:: species, major
 
 - availability:: cv
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmR24VjmWmFzphF9bXMhKHSqTA9YMSxGkpZzdXCUSedFMb)

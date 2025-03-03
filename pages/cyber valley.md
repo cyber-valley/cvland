@@ -2,7 +2,7 @@ icon:: ⛰
 alias:: cv
 
 - Hi everyone! we are [[rockets]]!
-- we are building the [[autonomous community]]
+- we are building the [[sustainable community]]
 - in the north of Bali mountains
 - on approximately 36.4 hectares
 - ![image.png](../assets/image_1725868123641_0.png)
@@ -42,7 +42,7 @@ alias:: cv
 	- so we have decided to reclaim responsibility for our future to create a happier, longer, and more fulfilling life
 - ## status
 	- we began this project in 2021 by acquiring land in one of the most beautiful and pristine locations in Bali
-	- since then we have consolidated ~39 ha of land at the foot of [Sanghyang volcano](https://maps.app.goo.gl/CdD8vRYHrWkpTGYj6)
+	- since then we have consolidated ~37 ha of land at the foot of [Sanghyang volcano](https://maps.app.goo.gl/CdD8vRYHrWkpTGYj6)
 	- we built the first completely offgrid home in the region and moved here in July 2023.
 	- now we are learning how to live sustainably in order to understand how to scale the project to a bigger community
 	- without harming a cyber valley beautiful environment
@@ -51,7 +51,7 @@ alias:: cv
 	  > Outstanding environment for planet aware people 🖖 to live and prosper
 - ## sharing is caring
 	- everything we learn we publish in [logseq](https://logseq.com/) knowledge graph notation at [cv.land](https://cv.land) and [github](https://github.com/cyber-valley)
-	- we believe this knowledge and experience will help you establish sustainable [[network state]] or [[autonomous startup society]]
+	- we believe this knowledge and experience will help you establish your own [[sustainable community]]
 - ## future
 	- several amazing people and leading bali entrepreneurs have been independently joined the project immediately making it not only one of the biggest Bali developments, but unique on the global scale
 	- the decentralized nature and philosophy behind the project, favorable climate for relocation to Indonesia, coupled with affordable land, and an unbelievable environment, will likely make Cyber Valley the leading development in Bali and the foundation of a global movement in the coming years.

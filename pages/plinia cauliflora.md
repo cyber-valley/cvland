@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: jaboticaba, jabuticaba
 
 - ![undefined](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmUdhaar2ZhyPKe6QWHwXB4p685asKQS3bSuPvQhSAo2Wz){:height 908, :width 676}

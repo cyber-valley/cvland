@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: mamey sapote, marmalade fruit
 
 - ![Screenshot 2024-05-18 at 08.30.16.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmNLmu8DbVBPf2SiTTZC9A7FjuXTCkiXS5GCDx23CdLizY)

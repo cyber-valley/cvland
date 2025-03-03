@@ -1,5 +1,5 @@
 alias:: bracken
-tags:: species
+tags:: species, major
 
 - availability:: everywhere
 - [[agressor]]

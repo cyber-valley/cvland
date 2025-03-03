@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: tree of gold
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmbrtbLK7yPxtXLz52JMRLS3jAFmnPSG4JrMLHBo7qPo7t)

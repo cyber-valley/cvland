@@ -1,5 +1,5 @@
 alias:: giant sequoia, sequoia
-tags:: species
+tags:: species,
 
 - availability:: unknown
 - [[conifer]]
