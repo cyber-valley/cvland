@@ -1,5 +1,5 @@
 alias:: gamal
-tags:: species
+tags:: species, major
 
 - availability:: tokopedia
 - nitrogener:: 200

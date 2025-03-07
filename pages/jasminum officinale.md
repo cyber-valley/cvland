@@ -38,4 +38,16 @@ tags:: species
 - **good neighbors**: good companion plants for jasmine include herbs like lavender, rosemary, and thyme, which benefit from similar growing conditions. jasmine also grows well near pollinator-friendly plants such as sunflowers and marigolds.
 - **bad neighbors**: jasmine should not be planted near plants that require deep watering, such as water-loving vegetables, as its preference for well-drained soil and moderate water may create competition.
   
-  jasminum officinale is a valuable plant in gardens, aromatherapy, and traditional medicine, prized for its flowers and therapeutic benefits. its role in permaculture as a pollinator attractor and vertical grower makes it a versatile plant in diverse environments.
+  jasminum officinale is a valuable plant in gardens, aromatherapy, and traditional medicine, prized for its flowers and therapeutic benefits. its role in permaculture as a [[pollinator]] attractor and vertical grower makes it a versatile plant in diverse environments.
+-
+- # chemical compounds
+	- | chemical compound      | plant part        | amount (%)  | description                                                                                 |
+	  |-------------------------|-------------------|-------------|---------------------------------------------------------------------------------------------|
+	  | [[essential oils]]      | flowers          | 0.2-0.5%    | contain compounds like [[linalool]], [[benzyl acetate]], and [[jasmone]], responsible for the plant's characteristic fragrance and used in [[aromatherapy]] and [[perfumery]]. |
+	  | [[flavonoids]]          | leaves, flowers  | 1-3%        | have [[antioxidant]], [[anti-inflammatory]], and [[antimicrobial]] properties, beneficial in [[traditional medicine]] for treating [[various ailments]]. |
+	  | [[tannins]]             | leaves, stems    | 5-10%       | exhibit [[astringent]] properties, used in [[traditional medicine]] for treating [[diarrhea]] and [[skin conditions]]. |
+	  | [[saponins]]            | leaves, roots    | 2-4%        | have [[antimicrobial]] and [[antifungal]] properties, and are used for [[skin health]] and [[wound healing]]. |
+	  | [[alkaloids]]           | roots, leaves    | trace-0.5%  | studied for their potential [[anti-inflammatory]] and [[pain-relief]] properties.           |
+	  | [[phenolic acids]]      | leaves, flowers  | 0.5-1%      | exhibit strong [[antioxidant]] properties, beneficial for [[skin health]] and [[anti-aging]]. |
+	  | [[ascorbic acid]]       | flowers, leaves  | 0.1-0.5%    | an essential [[antioxidant]], supports [[immune function]] and [[skin health]].             |
+	  | [[dietary fiber]]       | leaves           | 1-2%        | supports [[digestion]] and promotes a healthy gut.                                          |

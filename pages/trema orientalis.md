@@ -1,5 +1,5 @@
 alias:: mengkirai, ganja tree
-tags:: species
+tags:: species, major
 
 - nitrogener:: 100
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qmf8ZzSrWP4tHT7tECRNWeQZEdywEcEK27HpxishxRpb3V){:height 531, :width 408}

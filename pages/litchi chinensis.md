@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: litchi chinensis
 
 - [Lychee.pdf](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmfCM3LqMjARu2uPudnjHENngi3P8J7BWCDRyhqR7pEtG9)

@@ -1,7 +1,7 @@
 - products
-	- [[bootcamp]]
-	- [[daypass]]
 	- [[autonomy tour]]
+	- TODO [[daypass]]
+	- TODO [[bootcamp]]
 - commercial buildings
 	- [[parking]]: 10 cars and 20 bikes
 	- [[organiq]]: market and resto
@@ -28,3 +28,4 @@
 - industrial buildings
 	- [[carpentry]]
 - [[infra analysis]]
+-

@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: dwarf ambarella, kedongdong
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qmb1EQm9qNC3EfPr8XVDTmYsL3pqq2pCiNgQFGYZakDhvH){:height 267, :width 408}

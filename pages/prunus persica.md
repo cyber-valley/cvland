@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: peach
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmTWtFc4JTYV3V1kHKM7MBFXjQNfnNPLuKe9HwTYqxa8F5)

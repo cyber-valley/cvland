@@ -1,4 +1,4 @@
-alias:: mangosteen
+alias:: mangosteen, major
 tags:: species
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmUmbbVvK8tmdAUerzeGjYokUDht4EEDh8DY6zkdAcZKmt)

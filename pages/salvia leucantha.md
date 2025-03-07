@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: mexican sage, mexican bush sage
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmbC3z3oJ481Dri3mR5GYqscD9vYSGTeRZwimMauBNaAha)

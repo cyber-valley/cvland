@@ -1,4 +1,4 @@
-tags:: species, research
+tags:: species, research, major
 alias:: clove, chengkeh,
 
 - [[high margin]] [[oil]]

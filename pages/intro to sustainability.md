@@ -1,0 +1,53 @@
+- high level course structure touching all necessary components of autonomy
+	- [[sustainable energy system]]: how to build and make it work reliably?
+	- [[water system]]: simple solutions for clean water
+	- [[soil, heat and recycling]]: the source of magic
+	- [[biome engineering]]: create efficient and high margin [[magic forest]]
+	- [[longevity and health]]: simple secrets for better life
+	- [[cryptography and web3]]: confident use of modern apps
+	- [[learning and ai]]: knowledge graphs and prompt engineering basics
+	- [[lowtech construction]]: building fast and cheap
+	- [[sensors, dev and control]]: how to automate and lead community
+	- [[token engineering]]: sustainable and efficient models for regulation and growth
+- design for autonomy
+	- understand your resources
+		- capital
+		- geographic location
+		- people
+		- landscape
+		- solar drop
+		- water gain
+		- wind flows
+		- elements in soil
+		- species
+		- unique features
+	- understand your problems
+		- extremely specific
+		- our case
+			- zero infrastructure: chicken and egg problem
+			- gap between local physical force and foreign intellectual force
+			- lack of internal capital
+			- local features
+			  id:: 67036113-1801-49a3-8ef0-5045456021ff
+				- motorcycles without a muffler
+				- aggressive dogs
+				- and poisoned soil (everywhere)
+	- priorities for everyone
+		- capital reserves
+		- energy, water, connection first
+		- shelter
+			- cheap and fast but hard way: basic shelter => move to place
+			- slow, expensive but easy: build capital stuff first => take years
+	- outline of development
+		- define high level goals, example
+			- debug energy, connection and water system
+			- diversify energy with wind
+			- provide staple food
+			- produce 1 m3 of soil in month
+			- heating of the home and water
+		- do not decompose goals into small tasks
+		- do fast and small things based on the most needed today
+		- act consistently: 2-4 hours a day
+		- mindset
+			- first 3 years is cool and hard
+			- years after cool and easy

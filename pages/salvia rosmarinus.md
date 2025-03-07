@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: rosemary
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmShosAvG1ETXzo729TXsLM6tiuPKBMWr6LE9j9xCRhAgQ)

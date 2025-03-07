@@ -1,5 +1,5 @@
 alias:: , lamtoro, river tamarind
-tags:: species
+tags:: species, major
 
 - nitrogener:: 500
 - ![Leucaena](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmRFr6siC54zvG6YQmDxCxx2yjLTkKwmtzSfRWoasFARKx)

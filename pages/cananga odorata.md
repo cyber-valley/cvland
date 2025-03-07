@@ -1,5 +1,5 @@
 alias:: ylang-ylang, sandat klungkung
-tags:: species
+tags:: species, major
 title:: cananga odorata
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmcFTqwzBsbRj8s8EGtzNDYAFGTANUitzePLGvUUidMWGo){:height 369, :width 558}

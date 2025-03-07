@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: dandelion, common dandelion
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmfQpuB3vNRVv44ZPjrVvXxdwPLJiUgMyiWmBm3FSCdB7V)

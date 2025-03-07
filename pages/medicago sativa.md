@@ -1,5 +1,5 @@
 alias:: lucerne, alfalfa
-tags:: species
+tags:: species, major
 
 - availability:: cv
 - nitrogener:: 200

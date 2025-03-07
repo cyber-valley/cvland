@@ -1,5 +1,5 @@
 alias:: napier
-tags:: species
+tags:: species, major
 
 - ![image](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmaVAi9bsUXC4DQC4bPQCL17C1VSfeTWFbxy3PqbrK4TAa)
 - ![image](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmSEgYo831AxL2tAETCbcK4VJm4Q5FwfjnoRM1BKRMxrke)

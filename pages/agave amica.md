@@ -1,4 +1,4 @@
-tags:: species, research
+tags:: species, research, major
 alias:: tuberose, tuberosa, sedap malam, polianthes
 
 - ![image](https://ipfs.io/ipfs/QmeHbtY1FjkSrRupo5jBXqZdMXudb2T5mGxm44UtDvqxQD)
