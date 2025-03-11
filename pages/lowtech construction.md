@@ -1,4 +1,4 @@
-- TODO lecture at [[bootcamp]]
+- TODO lecture at [[bootcamp/v0]]
 - we are obsessed with the idea of fast, cheap and lowtech construction
 - typical development of housing takes 2-3 years
 - it is too slow for a such dynamic world

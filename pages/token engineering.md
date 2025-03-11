@@ -1,6 +1,6 @@
 icon:: 💰
 
-- TODO lecture at [[bootcamp]]
+- TODO lecture at [[bootcamp/v0]]
 - @mastercyb
 - ## abstract
 	- in this document

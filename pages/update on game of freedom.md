@@ -27,4 +27,4 @@
 - which are almost filled with passionate people we met recently
 - accordingly we updated information on the following pages
 	- [[game of freedom]]
-	- [[bootcamp]]
+	- [[bootcamp/v0]]

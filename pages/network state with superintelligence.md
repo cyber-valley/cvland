@@ -36,5 +36,5 @@
 		- personal finetuning
 - [[cyber valley]]
 	- [[citadel genesis]]
-	- [[bootcamp]]
+	- [[bootcamp/v0]]
 	- [[game of freedom]]

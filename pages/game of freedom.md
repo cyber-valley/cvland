@@ -3,7 +3,7 @@ icon:: 🥕
 - due to regulatory issues we rejected idea of game of freedom
 - we change the rules. details [[update on game of freedom]]
 - ## Unlock 2 weeks of transformative living
-- ## Join [[bootcamp]]
+- ## Join [[bootcamp/v0]]
 - ## and win
 	- ## 42 ares (4200 m²) of prime land
 	- ## 1T [[$BOOT]] to build your dream life
@@ -14,8 +14,8 @@ icon:: 🥕
 - # rules of the game
 	- you have a goal: survive until the end of 8th bootcamp
 	- expect chaos
-	- [[pilot]] of [[bootcamp]] starts at 1 of november 2024 in a day before new moon
-	- there are 8 [[bootcamp]] rounds
+	- [[pilot]] of [[bootcamp/v0]] starts at 1 of november 2024 in a day before new moon
+	- there are 8 [[bootcamp/v0]] rounds
 	- those who will survive up to the [[final]] will split the prize
 		- 42 ares (4200 m2) of land in citadel genesis
 			- rights for land are granted by nft with array of dots defining the borders
@@ -26,11 +26,11 @@ icon:: 🥕
 			- with lock for 5 years
 			- and ability to withdraw staking rewards
 -
-- ## get familiar with [[bootcamp/rules]]
+- ## get familiar with [[bootcamp/v0/rules]]
 - # [[apply for bootcamp]] today — it’s free to join!
-- # [[bootcamp/map]]
-- # [[bootcamp/rules]]
-- # [[bootcamp/schedule]]
+- # [[bootcamp/v0/map]]
+- # [[bootcamp/v0/rules]]
+- # [[bootcamp/v0/schedule]]
 - # schedule
 	- draft version: subject to update
 	- | stage      | start date  | end date    | start moon phase | end moon phase | tents |

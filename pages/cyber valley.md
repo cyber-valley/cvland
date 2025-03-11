@@ -9,7 +9,7 @@ alias:: cv
 -
 -
 - ## build [[citadel genesis]] with us
-	- first step: launch of [[bootcamp]] [[pilot]] as eduhealth foundation of the project
+	- first step: launch of [[bootcamp/v0]] [[pilot]] as eduhealth foundation of the project
 	- second step: complete [[game of freedom]] and go to the next level
 	- you can join construction and venture: [[apply for bootcamp]]
 -
@@ -18,7 +18,7 @@ alias:: cv
 	- in the most beautiful places on earth
 	- at extremely low cost which can be less when price of average car
 -
-- ## invitation to [[bootcamp]]
+- ## invitation to [[bootcamp/v0]]
 	- {{video https://www.youtube.com/watch?v=kt_lYA6JCVo}}
 -
 - ## [[apply for bootcamp]] or [[visit us]]
