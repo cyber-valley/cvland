@@ -18,9 +18,6 @@ alias:: cv
 	- in the most beautiful places on earth
 	- at extremely low cost which can be less when price of average car
 -
-- ## invitation to [[bootcamp/v0]]
-	- {{video https://www.youtube.com/watch?v=kt_lYA6JCVo}}
--
 - ## [[apply for bootcamp]] or [[visit us]]
 -
 - ## discover [[cv/districts]]

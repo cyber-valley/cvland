@@ -1,3 +1,1 @@
-tags:: front
-workers:: 4
-users:: 8
+tags:: building, planned
