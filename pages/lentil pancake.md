@@ -1,3 +1,4 @@
+- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreihpanx5va66j5z57he65wn2civquaqw75e6nmerpnu7ls2avromkq)
 - ingredient estimation (2-3 small pancakes or 1 big)
 	- 1/2 cup of lentils
 	- 1 cup water (for soaking)

@@ -1,0 +1,14 @@
+- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreib3htw2oet3zob4qlstswy6cozod3egxvs3kzqtwpizazoxbwb7b4)
+- ingredients
+	- 1 cup almond flour
+	- 2 tablespoons coconut oil (melted)
+	- 2 tablespoons honey
+	- 1/2 teaspoon vanilla extract
+	- 1/4 cup chopped dried apricots (optional: prunes or mango)
+- instructions
+	- preheat a gas oven to medium heat (about gas mark 4 or 180°c).
+	- in a bowl, mix almond flour, coconut oil, honey, and vanilla until combined.
+	- fold in chopped dried apricots (or other dried fruits if using).
+	- form small cookies and place them on a baking sheet.
+	- bake for about 15 minutes or until golden brown.
+	- let them cool before serving.
