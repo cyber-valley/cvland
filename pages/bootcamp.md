@@ -3,9 +3,9 @@ icon:: 🏕
 - space for cool events developed by [[rockets]]
 - we are initiating a project for [[launching bootcamp]]
 - the following information is for customer development purposes
-	- max 21 participants: humans, kids, animals and robots are treated equal
+	- max 15 participants: humans, kids, animals and robots are treated equal
 	- ~5 hectares of space with 4 unique biomes
-	- 5 organized locations for tents
+	- 5 locations for camps
 	- we provide tents and food
 	- public facilities
 		- [[soft]]: space for events
@@ -13,4 +13,6 @@ icon:: 🏕
 		- [[monastery]]: space for kids
 		- [[wc]]: 3 toilets with hot shower
 - looking for mentors who want to organize events in [[cyber valley]]
-- terms are individual depending on the event
+	- 50%/50% revenue split with event organizer
+	- minimal price of event: $200 day from one person
+	- minimum 3 day events

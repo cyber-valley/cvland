@@ -1,5 +1,3 @@
-tags:: front
-workers:: 4
-users:: 42
+tags:: building, planned
 
 - [[terrabyte/garden]]
