@@ -5,6 +5,7 @@ type:: sector
 	- [[zone two]]
 - [[guilds]]
 	- [[syzygium cumini]]
+	  collapsed:: true
 		- [[symphytum officinale]]
 		- [[potentilla indica]]
 		- [[allium tuberosum]]
@@ -15,6 +16,7 @@ type:: sector
 		- [[cynodon dactylon]]
 		- [[rubus wild]]
 	- [[jasminum officinale]] gambir
+	  collapsed:: true
 		- [[melastoma malabathricum]]
 	- [[persea americana]] haas
 	- [[cananga odorata]]
@@ -28,6 +30,7 @@ type:: sector
 		- [[rosemary]]
 		- [[thymus vulgaris]]
 	- [[salvia rosmarinus]]
+	  collapsed:: true
 		- [[piper nigrum]]
 		- [[thymus vulgaris]]
 	- [[magnolia cempaka]]
@@ -35,6 +38,7 @@ type:: sector
 		- TODO check [[verbena hastata]]
 		- [[mentha piperita]]
 	- [[cinamonium verum]]
+	  collapsed:: true
 	- [[inga edulis]]
 		- [[salvia coccinea]]
 		- [[taraxacum officinale]]

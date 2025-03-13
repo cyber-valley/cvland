@@ -1,17 +1,22 @@
 - preparing soap concentrate
 	- first step (one night)
+		- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeidcfkrssbjf3u3g5qvstr6tubdcyeqyych5vrazg7pft6dv5inugm){:height 623, :width 346}
 		- put soap nut to the pot
 		- cover with water
 		- leave for one night
 	- second step* (one hour+)
+		- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeiaz5f26thqebn33fdsttycae7pmus3c6bi22ulbagcots6rzknec4)
 		- add 30 drops of each essential oil
+		- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeiawgds3yvk7zpyqhkbunpvroo5ojgszgu2qyecpgjodyq23x7vzje)
 		- put on the fire, wait until it boils and cook for one hour
 		- remove from heat and leave to cool
 - preparing water for diluting soap concentrate (*same time)
+	- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeiejpuqm6tvxk7ausf45ap6u6cbc24a2yty52lm7ttzvpcjuhge3nq){:height 678, :width 377}
 	- boil water
 	- let the water boil for 1-3 minutes after reaching a rolling boil
 	- let the boiled water cool to room temperature
 - final step
 	- pour a quarter of a bottle of concentrate and dilute with cooled boiled water
+	- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeig2cuuu76uu6fuc3deezhvivkufe3n4medwx2rj4wyvwymasf6w44)
 	- separate the pits from the soap nut shell, grind the shell in a blender and add the resulting mixture to bottles with soap liquid
 	- plant pits

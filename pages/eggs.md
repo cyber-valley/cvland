@@ -20,7 +20,7 @@
 		- crack the eggs into the pan.
 		- cook until the desired consistency is achieved (sunny-side up or over-easy).
 		- remove from pan and serve.
-	- omelette/omelette with cheese/omelette with veggies
+	- [[omelette with cheese]] / omelette with veggies
 	- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreicpt3yethenls6yycxfobruq4cbu2bbcrsnxy6yagxk6qcusdpwde)
 		- whisk eggs with optional sour cream or milk.
 		- heat a greased pan on medium heat.

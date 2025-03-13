@@ -30,6 +30,7 @@ type:: sector
 		- [[lycium barbarum]]
 		- [[colocasia esculenta]]
 	- [[punica granatum]] red
+	  collapsed:: true
 		- [[calliandra calothyrsus]]
 - [[beds]]
 	- [[pteris vittata]]
