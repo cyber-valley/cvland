@@ -32,6 +32,15 @@
 	- environment (natural objects, road, forest)
 	- transportation (basic types)
 	- tools (computers, engineering, gardening, plumbing)
+- #### food
+	- roots & tubers: taro, cassava, sweet potato
+	- bamboo: young bamboo shoots
+	- tropical fruits: avocado, passion fruit (markisa), snake fruit (salak), banana, coconut
+	- ferns & greens: edible ferns, moringa, cassava leaves
+	- permaculture plants: papaya, soursop, cacao, mangosteen, durian
+	- grains & spices: oatmeal with turmeric, buckwheat
+	- proteins: eggs, chicken, duck, tofu, tempeh
+	- drinks: cold brew, coconut water, jamu (turmeric herbal drink)
 - #### abstract concepts
 	- meditation
 	- brain function
