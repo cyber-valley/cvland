@@ -1,3 +1,5 @@
 - [[oatmeal]]
 - [[buckwheat porridge]]
+- [[golden porridge (jamu-inspired)]]
+- [[overnight oatmeal]]
 -

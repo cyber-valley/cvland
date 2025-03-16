@@ -5,7 +5,7 @@
 - #### menu
 - breakfasts in daily basis
 	- [[eggs]] - [[omelette with cheese]]
-	- [[oatmeal]] with dried fruits and ghee
+	- [[golden porridge (jamu-inspired)]]
 	- green salad
 	- avocado
 	- tea
