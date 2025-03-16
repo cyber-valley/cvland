@@ -1,0 +1,48 @@
+#### goal
+	- develop fundamental english vocabulary (200 words) through structured learning and practical application.
+- #### numbers and metrics
+	- digits
+		- 1-10
+		- tens, hundreds, thousands
+		- millions, billions
+	- measurements
+		- weight (kg)
+		- length (cm, m, km)
+		- area (sq.m)
+		- volume
+		- heavy/light, far/near
+- #### time
+	- 24-hour format
+	- utc & time zones
+	- spatial time expressions
+- #### basic grammar
+	- pronouns
+		- i, you, he, she
+		- my, your
+	- parts of speech
+		- basic verbs (walk, sleep)
+		- basic adjectives
+		- basic nouns
+- #### colors
+	- rainbow
+	- black/white
+	- shades
+- #### noun categories
+	- human body
+	- environment (natural objects, road, forest)
+	- transportation (basic types)
+	- tools (computers, engineering, gardening, plumbing)
+- #### abstract concepts
+	- meditation
+	- brain function
+	- thinking & reasoning
+- #### simple sentences
+	- subject + verb + object
+- #### learning materials
+	- notebook
+	- pictures
+	- printed sheets
+- #### quantity concepts
+	- many/few
+	- measuring amounts
+	- basic math operations
