@@ -1,0 +1,25 @@
+#### goal:
+	- ensure booking accuracy by confirming all essential details.
+- #### procedure
+	- request the full names of all guests – collect names for the booking record.
+	- ask for the number of guests – confirm the total number of occupants.
+	- request the check-in date – ask when the guest plans to arrive.
+	- confirm the length of stay – ask how many nights the guest is booking.
+	- calculate and confirm the check-out date – determine the departure date and verify with the guest.
+- #### required details
+	- full names of guests
+	- number of guests
+	- check-in date
+	- number of nights
+	- check-out date
+- #### example interaction
+	- agent: "please provide the full names of all guests."
+	- guest: "john smith and jane smith."
+	- agent: "how many guests will be staying?"
+	- guest: "2 adults."
+	- agent: "please confirm your check-in date."
+	- guest: "april 10."
+	- agent: "how many nights will you stay?"
+	- guest: "5 nights."
+	- agent: "confirming: check-in on april 10, check-out on april 15. is that correct?"
+- ⚠ important: a booking is not considered complete without confirming **all** required details.
