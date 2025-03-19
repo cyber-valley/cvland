@@ -1,24 +1,30 @@
-- 🕐 meal schedule (we prepare food by this time):
+- 🕐 meal schedule
 	- breakfast: 9:00
-	- lunch: 13:00
+	- lunch: 12:00
 	- dinner: 17:00
 - #### menu
 - breakfasts in daily basis
-	- [[eggs]] - [[omelette with cheese]]
-	- [[golden porridge (jamu-inspired)]]
+	- [[omelette with cheese]]
+	- [[oatmeal]]
+	- green salad (edem greens)
+	- avocado sliced
+- lunch (prepared for two days)
+	- soup
 	- green salad
-	- avocado
-	- tea
-	- heated cold brew
-- lunch and dinner (prepared for two days)
-	- meat baked in the oven with boiled vegetables (vegetables that are available)
-	- green salad
-	- tea
-- dessert (in stock on a permanent basis)
-	- [[almond cookies]]
-	- flaxseed cookies
+- dinner
+	- stewed duck
+	- stewed veggies
+- snacks
+	- nuts
+	- fruits
+	- dried fruits
+	- taro chips
+	- [[cookies]]
+	- baked [[bread with cheese]]
 - snacks (in stock on a permanent basis, in the fridge)
 	- sliced cheese
 	- sliced bread
 	- sliced meat
-	- [[bread with cheese]] (baked)
+- drinks
+	- herbal tea
+	- cold brew
