@@ -1,4 +1,4 @@
-- [[eggs]]
+- [[eggs-based recipes]]
 - [[porridge]]
 - [[pancakes]]
 - [[cookies]]
@@ -6,4 +6,3 @@
 - [[vegetables]]
 - [[sides]]
 - [[snacks]]
--

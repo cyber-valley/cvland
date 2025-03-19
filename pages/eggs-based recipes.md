@@ -1,0 +1,54 @@
+#### ingredient estimation
+	- 2 [[eggs]] per adult
+	- 1 egg per child
+- #### instructions
+- [[boiled eggs]] (soft or hard-boiled)
+	- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreiegktkhdojshde2fulux2v6iojn3d5pnqiofy3gc5iunozuxdvl7e)
+		- place eggs in a pot and cover with cold water.
+		- bring the water to a boil.
+		- cook for 7-9 minutes for hard-boiled eggs or 4-6 minutes for soft-boiled eggs.
+		- remove from water and let cool.
+- [[scrambled eggs]]
+	- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreid4xke6bwgcebgrtzovq36x5qemxokuoci5rodvgyj6djhxzc5tnq)
+		- whisk eggs in a bowl until smooth.
+		- heat a non-stick pan with a little butter.
+		- pour the eggs into the pan.
+		- cook on low heat, stirring continuously until the eggs reach a creamy consistency.
+- fried eggs (sunny-side up, over-easy, over-medium, over-hard)
+	- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreiarayk7pcuomy2kg7ezlqinxtuzhlvsegjflzzjuquell6pubvamq)
+		- heat a small amount of oil or butter in a pan.
+		- crack the eggs into the pan.
+		- cook until the desired consistency is achieved (sunny-side up or over-easy).
+		- remove from pan and serve.
+- [[omelette with cheese]], [[omelette with veggies]]
+	- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreidgjcy2hevbzsqpaxuqetfna5hutl2qi7uwtg2lhdtcl77fbekrqu)
+		- whisk eggs with optional sour cream or milk.
+		- heat a greased pan on medium heat.
+		- pour the eggs into the pan and let cook until nearly set.
+		- add fillings inside (e.g., cheese, vegetables).
+		- fold the omelette and cook until fully done.
+- **tornado/twisted eggs**
+	- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreiev2r5znx5imnismxtkl7e2m53njwetobjehbbrgal737ahv4b3nu)
+		- whisk eggs in a bowl until smooth.
+		- heat a non-stick pan with a little oil over medium heat.
+		- pour the eggs into the pan.
+		- after a few seconds, use chopsticks or a spatula to gently twist the center of the eggs, creating a swirling pattern.
+		- continue twisting until the eggs form soft, layered ribbons.
+		- remove from pan and serve immediately.
+- **egg salad**
+	- hard-boil eggs and let them cool.
+	- peel and chop the eggs.
+	- mix with sour cream or plain yogurt.
+	- serve as a salad or spread.
+- **baked eggs**
+	- preheat oven to 180°c (350°f).
+	- crack eggs into a greased ramekin.
+	- add optional sour cream or cheese on top.
+	- bake for 10-12 minutes, or until set.
+- **egg benedict**
+- **shakshuka**
+- #### topping&sides
+	- avocado (slices or mashed as a spread)
+	- fresh vegetables or salad (e.g., tomatoes, cucumbers, radishes, leafy greens)
+	- bread (toast, pita, or rolls)
+	- ham/bacon/sausages (small or sliced)
