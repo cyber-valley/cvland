@@ -1,6 +1,7 @@
-- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreih4av7pd7xxcswwskj6fqgf4u5t6rth7foga7baxvtbqhnma7snkm)
+- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreih4av7pd7xxcswwskj6fqgf4u5t6rth7foga7baxvtbqhnma7snkm){:height 416, :width 408}
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeigzp7udsk7kccjtuaatwtcpeuepkc7ysnvvwiy5chsgbw2zgl5a2u)
-- ingredient estimation
+- boiled buckwheat (single serving, no salt)
+- ingredients
 	- 1/2 cup buckwheat groats (per person)
 	- 1 cup water
 	- optional toppings: butter, herbs, or roasted vegetables
@@ -21,6 +22,6 @@
 	- fluff and serve
 		- fluff the buckwheat with a fork.
 		- serve hot as a light meal or a base for vegetables or proteins.
-- notes
+- notes:
 	- for a nutty flavor, toast the buckwheat groats in a dry skillet for a few minutes before cooking.
 	- garnish with butter, fresh herbs, or roasted vegetables.

@@ -1,3 +1,5 @@
+- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreibp7jlskpbgaaapb57r7pm2gpc46fxbbxkpelb5l2e2wvhmtkyrvm)
+- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreiaakqvgjtiaohtyc5534arihfyqc3zfn5njubw5osaatostdannnm)
 - ingredient estimation
 	- 1/2 cup lentils per person,
 	- 1,5 cups water.

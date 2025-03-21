@@ -1,26 +1,30 @@
-- 🕐 meal schedule (we prepare food by this time):
-	- breakfast: 9am
-	- lunch: 12pm
-	- dinner: 5-6pm
-- ### sample menu with the main principle of daily alternation
-  title:: kitchen/menu
-	- example: monday scrumble, tuesday oatmeal porrige, wednesday omelette, thurdsday oat pancake, friday boiled eggs, etcetra
-- breakfast (9am)
-	- porridge (oatmeal, linen)
-	- pancakes (oat, buckwheat)
-	- eggs (scrambled, boiled)
-- lunch (12pm-13pm)
-	- meat
+- 🕐 meal schedule
+	- breakfast: 9:00
+	- lunch: 12:00
+	- dinner: 17:00
+- #### menu
+- breakfasts in daily basis
+	- [[omelette with cheese]]
+	- [[oatmeal]]
+	- green salad (edem greens)
+	- avocado sliced
+- lunch (prepared for two days)
+	- soup
 	- green salad
-	- sides (cereals or vegetables) - boiled or baked
-- dinner (~18pm)
-	- side dishes (cereals or vegetables or lentils) - boiled or baked
-	- green salad
-- dessert (in stock on a permanent basis)
-	- almond cookie
-	- flaxseed cookies
+- dinner
+	- stewed duck
+	- stewed veggies
+- snacks
+	- nuts
+	- fruits
+	- dried fruits
+	- taro chips
+	- [[cookies]]
+	- baked [[bread with cheese]]
 - snacks (in stock on a permanent basis, in the fridge)
 	- sliced cheese
 	- sliced bread
 	- sliced meat
-	- bread with cheese (baked)
+- drinks
+	- herbal tea
+	- cold brew

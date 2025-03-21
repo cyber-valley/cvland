@@ -1,3 +1,5 @@
+- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreidgnmhdb5r2sdul4rswphn2q2gw7e4eu4tpd7pum63xtu4yvubnym)
+- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreifhuupvbg5f346yoi5m6uojg5skbvs6rk332i747c7zfziev6yll4)
 - ingredient estimation
 	- 1/2 cup green buckwheat groats (per person),
 	- 1/4 cup water (for blending),
