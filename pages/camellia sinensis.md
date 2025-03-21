@@ -1,4 +1,3 @@
-alias:: tea
 tags:: species, research, major
 
 - [[high margin]] [[drink]]
