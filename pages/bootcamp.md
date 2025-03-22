@@ -1,98 +1,23 @@
-icon:: 🏕️
+icon:: 🏕
+tags:: product
 
-- not actual anymore: we are currently restructuring the program
-- 14 day eduhealth program
-- for creators of [[sustainable community]], [[startup societies]] and [[network states]]
-- place: [[citadel genesis]], [[cyber valley]], [[bali]]
-- ![image.png](../assets/image_1725878367697_0.png)
-- starts on the new and full moon
-- ## for whom?
-	- for existing and future landlords
-	- for people who get stuck from cities and civilization
-	- for romantics who demand more freedom and autonomy
-	- for innovators who loves cutting edge at low cost
-- ## 20 hours of cutting edge [[lectures]] on autonomy
-	- [[intro to sustainability]]: complex can be simple
-	- [[sustainable energy system]]: how to build and make it work reliably?
-	- [[water system]]: simple solutions for clean water
-	- [[soil, heat and recycling]]: the source of magic
-	- [[biome engineering]]: create efficient and high margin [[magic forest]]
-	- [[longevity and health]]: simple secrets for better life
-	- [[cryptography and web3]]: confident use of modern apps
-	- [[learning and ai]]: knowledge graphs and prompt engineering basics
-	- [[lowtech construction]]: building fast and cheap
-	- [[sensors, dev and control]]: how to automate and lead community
-	- [[token engineering]]: sustainable and efficient models for regulation and growth
-- ## 30 hours of workouts for skill setting and leadership intuition
-	- all workouts assigned individually
-	- according to the plan of game masters
-- ## mentors
-	- [[@master]]: founder of cyber, bostrom, cyb, cyber academy, cyber fund and cyber valley
-	- [[@stjoy]]: cyber valley founder
-- ## message
-	- one year ago we moved to a remote location to learn how to live sustainably and autonomously
-	- we have not yet fully reached this bliss
-	- but we were able to handle the most heavy parts
-	-
-	- we eager to share what we learn with you
-	- so you can launch your own autonomous community at extremely low price or [[join]] our!
-	-
-	- did you know that you can build your small paradise for the price of a car?
-	-
-	- in addition to educational part and useful skills we will do our best to help you
-		- calm your mind
-		- improve your health
-		- and enjoy [[quality of life]]
-	- we invite you to establish unique collaboration environment together
-- ## environment
-	- cozy tent with meals in natural and autonomous environment
-	- amazing infrastructure for kids
-	- nature everywhere
-- # [[bootcamp/map]]
-- # [[bootcamp/rules]]
-- # [[bootcamp/schedule]]
-- # [[game of freedom]]
-- ## rules
-- ## evening events
-	- new moon party
-	- live music with fire
-	- star observation
-	- hackathon
-	- full moon party
-- ## available facilities
-	- 2+ km of trails on site
-	- [[coworking]]: collaboration space
-	- [[organiq]]: marketplace and meals
-	- [[carpentry]]: place for crafting cool stuff
-	- [[elons]]: chill with sheeps and starlink
-	- [[monastery]]: kids playground
-	- [[permabase kitchen]]: experiment with organic food production
-	- [[edem]]: experimental garden with ~200 species
-	- access to 37 ha of gardens and huge relic forest
-		- ~300 [[plant]] species
-		- ~10 [[animal]] species
-		- ~50 [[bird]] species
-- ## mechanics
-	- 10 day includes lectures and workouts
-		- daily coordinanation based on real demands
-		- chosing tasks according to personal will of participants
-	- 4 days for rest and reflection => no rules apply
-	- relaxing schedule for better reflection and collaboration
-	- long term rent and ownership
-		- our purpose is to persist community
-		- we are interested in long term rent on a year basis and more
-		- let us know if you are interested after visiting us
-		- we are still find out proper model for commuinty building
-- ## faq
-	- what i will need with me?
-		- notebook
-		- [[list of wear]]
-		- will for change
--
-- # [[apply for bootcamp]] or [[visit us]]
--
-- ## memes
-	- heal, learn, realize
-	- try different lifestyle
-	- next level of personal autonomy
--
+- space for cool events developed by [[rockets]]
+- we are initiating a project for [[launching bootcamp]]
+- the following information is for customer development purposes
+	- power place with amazing nature
+	- energy dense tranquility feelings
+	- 2 ocean + 8 volcano sunset view
+	- full milky way night view
+	- max 15 participants: humans, kids, animals and robots are treated equal
+	- ~5 hectares of space with 4 unique biomes
+	- 4 locations for camps
+	- we provide tents and food
+	- public facilities
+		- [[soft]]: space for events
+		- [[organiq]]: local food resto
+		- [[monastery]]: space for kids
+		- [[wc]]: 3 toilets with hot shower
+- looking for mentors who want to organize events in [[citadel genesis]]
+	- 50%/50% revenue split with event organizer
+	- minimal price of event: $200 day from one person
+	- minimum 3 day events

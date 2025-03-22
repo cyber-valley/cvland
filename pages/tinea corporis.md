@@ -1,3 +1,0 @@
-alias:: body ringworm
-
--

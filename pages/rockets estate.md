@@ -1,7 +1,7 @@
 - products
 	- [[autonomy tour]]
 	- TODO [[daypass]]
-	- TODO [[bootcamp]]
+	- TODO [[bootcamp/v0]]
 - commercial buildings
 	- [[parking]]: 10 cars and 20 bikes
 	- [[organiq]]: market and resto
@@ -17,7 +17,7 @@
 	- [[edem]]: experimental high labor [[magic forest]] on 30 ares
 	- [[pasture]]: area for sheeps with specialized vegetation on 60 ares
 	- [[cypher]]: 2 ha of community driven chaotic development
-	- [[kavo]]: 2 ha [[coffea arabica]] plantation with [[avocado]], [[banana]] and [[bamboo]]
+	- [[permabase]]: 2 ha [[coffea arabica]] plantation with [[avocado]], [[banana]] and [[bamboo]]
 	- [[senwood]]: 4 ha with thousands of [[albizia chinensis]] trees
 - [[residential buildings]]
 	- [[carrot house]]

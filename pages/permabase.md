@@ -1,7 +1,21 @@
+tags:: area
 
-- facility for food processing
-- [[permabase kitchen]]
-  tags:: back
-  workers:: 2
-  users:: 0
-- facility for food processing
+- permaculture garden in [[rockets estate]] [[district]]
+- [[buildings]]
+	- [[permabase kitchen]]: facility for food processing
+- primary plant [[species]]
+	- [[coffea arabica]]
+	- [[colocasia esculenta]]
+	- [[persea americana]]
+	- [[musa acuminata]]
+	- [[passiflora edulis]]
+	- [[artocarpus heterophyllus]]
+	- [[citrus sinensis]]
+	- [[bambusa oldhamii]]
+	- [[orchidaceae]]
+- support system
+	- [[erythrina variegata]]
+	- [[melastoma malabathricum]]
+	- [[montanoa hibiscifolia]]
+	- [[ageratina riparia]]
+	- [[austroeupatorium inulifolium]]
