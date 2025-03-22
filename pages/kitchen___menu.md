@@ -4,23 +4,26 @@
 	- dinner: 5-6pm
 - ### sample menu with the main principle of daily alternation
   title:: kitchen/menu
-	- example: monday scrumble, tuesday oatmeal porrige, wednesday omelette, thurdsday oat pancake, friday boiled eggs, etcetra
 - breakfast (9am)
-	- porridge (oatmeal, linen)
-	- pancakes (oat, buckwheat)
-	- eggs (scrambled, boiled)
+	- [[omelet with cheese]]
+	- [[avocado sliced]]
+	- [[salad]]
+	- [[oat porridge with fruits]]
 - lunch (12pm-13pm)
-	- meat
-	- green salad
-	- sides (cereals or vegetables) - boiled or baked
+	- [[soup]]
+	- [[salad]]
 - dinner (~18pm)
-	- side dishes (cereals or vegetables or lentils) - boiled or baked
-	- green salad
-- dessert (in stock on a permanent basis)
-	- almond cookie
-	- flaxseed cookies
+	- [[stewed duck]]
+	- [[stewed veggies]]
 - snacks (in stock on a permanent basis, in the fridge)
 	- sliced cheese
 	- sliced bread
 	- sliced meat
 	- bread with cheese (baked)
+	- [[nuts]]
+	- [[fruits]]
+	- [[chips]]
+	- [[cookies]]
+- drinks
+	- [[herbal tea]]
+	- [[cold brew]]
