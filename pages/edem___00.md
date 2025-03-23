@@ -35,6 +35,7 @@ type:: sector
 		- [[thymus vulgaris]]
 	- [[magnolia cempaka]]
 	- [[malpighia emarginata]]
+	  collapsed:: true
 		- TODO check [[verbena hastata]]
 		- [[mentha piperita]]
 	- [[cinamonium verum]]
