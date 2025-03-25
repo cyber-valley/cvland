@@ -1,4 +1,4 @@
 tags:: species, major
 alias:: nasturtium
 
-- [[salad]]
+- [[salad]]: [[flower]], [[leave]] and [[stem]]
