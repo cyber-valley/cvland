@@ -1,30 +1,29 @@
-- 🕐 meal schedule
-	- breakfast: 9:00
-	- lunch: 12:00
-	- dinner: 17:00
-- #### menu
-- breakfasts in daily basis
-	- [[omelette with cheese]]
-	- [[oatmeal]]
-	- green salad (edem greens)
-	- avocado sliced
-- lunch (prepared for two days)
-	- soup
-	- green salad
-- dinner
-	- stewed duck
-	- stewed veggies
-- snacks
-	- nuts
-	- fruits
-	- dried fruits
-	- taro chips
-	- [[cookies]]
-	- baked [[bread with cheese]]
+- 🕐 meal schedule (we prepare food by this time):
+	- breakfast: 9am
+	- lunch: 12pm
+	- dinner: 5-6pm
+- ### sample menu with the main principle of daily alternation
+  title:: kitchen/menu
+- breakfast (9am)
+	- [[omelet with cheese]]
+	- [[avocado sliced]]
+	- [[salad]]
+	- [[oat porridge with fruits]]
+- lunch (12pm-13pm)
+	- [[soup]]
+	- [[salad]]
+- dinner (~18pm)
+	- [[stewed duck]]
+	- [[stewed veggies]]
 - snacks (in stock on a permanent basis, in the fridge)
 	- sliced cheese
 	- sliced bread
 	- sliced meat
+	- bread with cheese (baked)
+	- [[nuts]]
+	- [[fruits]]
+	- [[chips]]
+	- [[cookies]]
 - drinks
-	- herbal tea
-	- cold brew
+	- [[herbal tea]]
+	- [[cold brew]]
