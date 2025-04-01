@@ -1,4 +1,4 @@
-alias:: muscle
+tags:: muscle
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qmcj7d15i6E5hKhw1fvMjYp5jippWoV587b95NYmWuYpDk)
 - [[flexor carpi radialis]]

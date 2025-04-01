@@ -21,7 +21,7 @@
 	- [[edem]]: experimental high labor [[magic forest]] on 30 ares
 	- [[etherland]]: 2 ha of community driven chaotic development
 	- [[permabase]]: 2 ha [[coffea arabica]] plantation with [[avocado]], [[banana]] and [[bamboo]]
-	- [[senwood]]: 4 ha with thousands of [[albizia chinensis]] trees
+	- [[sinwood]]: 4 ha with thousands of [[albizia chinensis]] trees
 - [[residential buildings]]
 	- [[carrot house]]
 	- [[vitalik]]
