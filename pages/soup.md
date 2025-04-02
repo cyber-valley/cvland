@@ -1,2 +1,23 @@
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeifpwtxfx3h5xqtnobp633df7ugk27kjhvwkms3ggadds5cnhypede)
--
+- **stewed meat with vegetables and spices**
+- a comforting, slow-cooked stew made with tender shredded meat, soft taro, and seasonal vegetables like chayote and carrot. simmered in a fragrant blend of curry, turmeric, white pepper, and garam masala, then finished with fresh dill leaves.
+- **ingredients**
+	- meat (beef or other) – 500 g
+	- chayote – 1 piece
+	- carrot – 2 pieces
+	- taro – 2 roots
+	- dill leaves – to taste
+- **spices**
+	- curry powder – 1 tsp
+	- white pepper – 1/2 tsp
+	- turmeric – 1/2 tsp
+	- garam masala – 1 tsp
+- **cooking steps**
+	- boil the meat for about 1.5 hours until tender. remove the meat and keep the broth.
+	- separately, boil the taro in plain water until soft, then drain.
+	- cut the carrot and chayote into pieces. boil them in the meat broth until soft.
+	- shred the cooked meat into thin strips.
+	- in a large pan, combine the shredded meat, cooked carrot, chayote, and taro.
+	- add curry powder, white pepper, turmeric, garam masala, and dill leaves.
+	- cook everything together on medium heat for 10–15 minutes, until well combined and fragrant.
+- serve warm.
