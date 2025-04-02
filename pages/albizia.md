@@ -3,6 +3,6 @@ scalable:: true
 
 - selected for [[edem]]
 	- {{embed [[albizia julibrissin]]}}
-- native to [[senwood]]
+- native to [[sinwood]]
 	- {{embed [[albizia chinensis]]}}
 -

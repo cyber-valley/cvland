@@ -1,3 +1,6 @@
+alias:: permabase/kitchen
+
+-
 - [[kitchen/rules]]
 - [[kitchen/launch]]
 - [[food delivery&storage]]

@@ -1,24 +1,27 @@
 - products
-	- [[autonomy tour]]
+	- [[food]]
+		- [[herbal tea]]: daily blend of best herbs from [[edem]]
+		- [[eternal greens]]: daily blend of perennial salad from [[edem]]
+		- [[root crunch]]: chips from [[taro]] and [[cassava]]
+	- TODO [[autonomy tour]]
+	- TODO [[bootcamp]]
 	- TODO [[daypass]]
-	- TODO [[bootcamp/v0]]
 - commercial buildings
 	- [[parking]]: 10 cars and 20 bikes
 	- [[organiq]]: market and resto
 	- [[monastery]]: playground for kids
-	- [[elons]] energy, animal, plants and chill
+	- [[elons]]: life support
 	- [[soft]]: scene for 42 persons
 	- [[permabase]]: processing facility of [[plants]], [[animals]] and [[fungi]]
-	- [[gym]]: place for sports
-	- [[changing room]]: showers with lockers
+	- TODO [[gym]]: place for sports
+	- TODO [[changing room]]: showers with lockers
 	- TODO [[terrabyte]]: resto with coworking
 	- TODO [[banya]]: spa and joys
 - areas
 	- [[edem]]: experimental high labor [[magic forest]] on 30 ares
-	- [[pasture]]: area for sheeps with specialized vegetation on 60 ares
-	- [[cypher]]: 2 ha of community driven chaotic development
-	- [[kavo]]: 2 ha [[coffea arabica]] plantation with [[avocado]], [[banana]] and [[bamboo]]
-	- [[senwood]]: 4 ha with thousands of [[albizia chinensis]] trees
+	- [[etherland]]: 2 ha of community driven chaotic development
+	- [[permabase]]: 2 ha [[coffea arabica]] plantation with [[avocado]], [[banana]] and [[bamboo]]
+	- [[sinwood]]: 4 ha with thousands of [[albizia chinensis]] trees
 - [[residential buildings]]
 	- [[carrot house]]
 	- [[vitalik]]

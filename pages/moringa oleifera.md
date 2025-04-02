@@ -29,7 +29,7 @@ alias:: ben oil tree, kelor
 	- [[bark]]: smooth and light-colored [[medicine]]
 		- [[tannins]]
 		- [[saponins]]
-	- [[leave]]: pinnate, oval-shaped, rich in vitamins and elements, amazing for [[salad]]
+	- [[leave]]: amazing for [[salad]]
 		- [[protein]]
 		- [[vitamins A]]
 		- [[vitamin C]]

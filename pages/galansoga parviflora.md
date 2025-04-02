@@ -1,4 +1,4 @@
 tags:: species
 
 - [[annual]] [[native]]
-- [[salad]]
+- [[salad]]: hard to harvest

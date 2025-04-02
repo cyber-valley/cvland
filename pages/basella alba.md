@@ -1,3 +1,3 @@
 tags:: species, major
 
-- [[vine]] for [[salad]]
+- [[salad]]: amazing source

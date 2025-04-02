@@ -12,17 +12,19 @@
 		- batteries
 - system consist of 7 bins
 	- [[compost]]
-		- organics from kitchen
-		- green manure
-		- for aerobic composting
+		- never stored
+		- organics from kitchen processed immediately
+		- green manure can be added
+		- for [[anaerobic composting]]
 		- used in [[soil]] production
-	- [[biochar]]
-		- cellulose
-		- any brown woody material
-	- [[fuel]]
+	- wooden [[fuel]]
+		- local reserve of wooden
 		- incineration in [[stove]]
 		- key product is [[heat]]
 		- [[ash]] is used for phitomining
+		- [[biochar]]
+			- cellulose
+			- any brown woody material
 	- [[bricks]]
 		- processes in grinder
 		- pack to bags

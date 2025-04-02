@@ -66,7 +66,7 @@ alias:: frangipani
 		- **cool and store**: pour the mixture into a clean, airtight container and let it cool completely before use.
 	- **usage**: apply the ointment to the affected area 2-3 times daily for skin infections or inflammation.
 - [[tea]]
-	- **ingredients:**
+	- ingredients:
 		- 1 tablespoon dried plumeria rubra leaves or bark
 		- 2 cups water
 		- honey or lemon (optional, for taste)

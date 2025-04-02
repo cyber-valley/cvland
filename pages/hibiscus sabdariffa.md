@@ -2,7 +2,7 @@ alias:: roselle
 tags:: species
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmeCFx9a4RHz81djR62ytQNAcWkrCSG3CB2DfB8oj2KTPj)
-- [[salad]]
+- [[salad]]: [[leave]] is amazing
 - products
 	- [[leave]]
 - [document](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQVv2k6Zz79NQXKem19cnJUe8AqKVUAP7fsMme6jEZCTh)

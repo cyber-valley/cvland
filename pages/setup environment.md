@@ -6,6 +6,7 @@
 -
 - ## must haves for leaders
 	- github desktop: tool for collaboration
+	- github mobile: collaboration on the go
 	- logseq desktop: universal knowledge management system
 	- telegram: day to day messenger
 	- gmail: needed for basic meeting coordiantion
