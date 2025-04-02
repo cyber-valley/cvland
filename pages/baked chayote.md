@@ -1,0 +1,34 @@
+- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeiciaj7urvylkbdir2f7pnadkyegkhkc4riu65uvhg3vza7gl3gfn4)
+- **baked chayote with spiced meat and cheese**
+- tender spiced meat layered with seasoned chayote and carrot, baked in natural chayote skin and topped with melted cheese.
+- slow-cooked with curry powder and white pepper for rich flavor, finished with fresh dill.
+- served warm, straight from the oven.
+- **ingredients:**
+	- curry powder
+	- white pepper powder
+	- fresh dill leaves
+	- 2 chayotes
+	- 1–2 carrots
+	- 300–400 g meat (beef, chicken, or your choice)
+	- cheese (grated, any kind that melts well)
+	- rosemary (optional)
+- **instructions**
+	- boil the meat
+		- in a pot, combine the meat, rosemary (optional), and curry powder. cover with water and boil gently for about 2 hours, until the meat is tender.
+	- prepare the vegetables
+		- cut the chayotes in half lengthwise. scoop out the flesh carefully, keeping the skin intact to use as a bowl.
+		- chop the chayote flesh into small cubes.
+		- peel and cut the carrots into small pieces.
+		- chop the dill leaves finely.
+- **chop and season the meat**
+	- once the meat is cooked and slightly cooled, chop it into small pieces. season it with a little more curry powder and white pepper.
+- **season the vegetables**
+	- mix the chopped chayote and carrots with white pepper, a pinch of salt, and fresh dill.
+- **assemble**
+	- place the chopped meat at the bottom of each chayote skin "bowl".
+	- add the seasoned vegetables on top.
+	- sprinkle a generous layer of grated cheese over everything.
+- **bake**
+	- place the stuffed chayotes in a preheated oven at 180°c for about 20–25 minutes, or until the cheese is melted and golden.
+- **serve**
+	- serve hot as a hearty and aromatic main dish. perfect with fresh salad on the side.

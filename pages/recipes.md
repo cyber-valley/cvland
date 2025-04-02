@@ -3,6 +3,9 @@
 - [[pancakes]]
 - [[cookies]]
 - [[meat]]
+- [[soup]]
 - [[vegetables]]
 - [[sides]]
 - [[snacks]]
+- [[baked chayote]]
+-
