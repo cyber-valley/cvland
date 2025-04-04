@@ -1,0 +1,32 @@
+- the idea is to create modular, but simple architecture for cubic autonomous building
+- must be able to use for industrial, commercial and housing
+- local specifics: building from [[sengon]] which is not very reliable
+- several types of walls with ability to configure using 1m2 grid
+	- simple polycarbonate
+	- single or double glass window
+	- thermos panel
+	- wooden panel
+- foundation
+	- cold water tank: 4m3
+	- hot water tank: 4m3
+	- anaerobic composter: 4m3
+	- invertor 5 kw
+	- battery 5 kw
+	- air dryer & water generator
+	- computer
+	- gas water heater
+	- electric water heater
+	- electric automatics
+- frame
+	- `4*4*4` meter by outside borders
+	- using square beams
+- roof
+	- starlink
+	- solar panels
+- stove
+	- sk-34 bricks
+	- metal pipes
+	- sk-36.fireproof concrete
+	- fireproof glass inside
+	- metal plates outside
+	- cleaning pond with geomembrane
