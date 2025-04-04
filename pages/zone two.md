@@ -14,7 +14,7 @@ tags:: carrot house
 	- [[syzygium formosanum]]
 	- [[blumea lanceolaria]]
 	- [[rhododendron simsii]]
-- [[permabase]] biome
+- [[kavo]] biome
 	- [[trema]]: 7
 - [[edem]] biome
 	- [[citrus sinensis]]: 3

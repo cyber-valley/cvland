@@ -1,6 +1,6 @@
 tags:: genus
 
-- selected for [[permabase]]
+- selected for [[kavo]]
 	- {{embed [[bambusa oldhamii]]}}
 - selected for [[edem]]
 	- {{embed [[bambusa multiplex]]}}
