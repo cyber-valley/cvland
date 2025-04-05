@@ -1,6 +1,10 @@
 tags:: species
 alias:: malabar plum, java plum, black plum, jamun, jaman, jambul, jambolan
 
+- **products**
+- [[fruit]]
+- [[firewood]]
+- [[shader]]
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeia7ju24nyclvd6ockwyy7n5ntyjifkwmxc4leqjeqwq3zxjw4la4m)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeiandcgnl3fx2zuurrbp2ddejepecucmuvkzml6g6s4m4oviphw6hy)
 - [wiki_syzygium_cumini](https://en.wikipedia.org/wiki/Syzygium_cumini)
@@ -35,7 +39,7 @@ alias:: malabar plum, java plum, black plum, jamun, jaman, jambul, jambolan
 		- pruning can be done [[annually]] to maintain tree shape and promote healthy growth.
 		- flowering typically occurs in [[late spring]] to [[early summer]], with fruit ripening in mid to late summer.
 	- **good neighbors**: good companion plants for syzygium cumini include [[nitrogen-fixing]] plants like [[legumes]], [[ground covers]] that help retain soil moisture, and herbs or flowers that [[attract pollinators]] .
-	- **bad neighbors**: [[java plum]] trees should not be planted near [[crops]] that require full sunlight for optimal growth, as their dense [[canopy]] can create too much [[shade]] . they should also be kept away from plants susceptible to the same [[pests]] and [[diseases]].
+	- **bad neighbors**: [[java plum]] trees should not be planted near [[crops]] that require full sunlight for optimal growth, as their dense [[canopy]] can create too much [[shade]]. they should also be kept away from plants susceptible to the same [[pests]] and [[diseases]].
 - ### chemical compounds
 - | chemical compound | plant part | amount (%) | description |
   | ---- | ---- | ---- |
