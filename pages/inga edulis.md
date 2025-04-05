@@ -43,7 +43,7 @@ alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil, inga edilus
 		- planting: is best done at the beginning of the [[rainy season]] to ensure adequate water for establishment.
 		- pruning: can be done annually to maintain the desired shape and promote healthy growth.
 		- harvesting of the fruit occurs in the [[dry season]] , typically several months after flowering.
-	- **good neighbors**: inga edulis grows well with other [[nitrogen-fixing trees , [[fruit trees]] , and [[shade-tolerant]] crops. it is often used in agroforestry systems with [[cacao]] , [[coffee]] , and various fruit trees like [[banana]] and [[citrus]] .
+	- **good neighbors**: inga edulis grows well with other [[nitrogen-fixing trees]], [[fruit trees]] , and [[shade-tolerant]] crops. it is often used in agroforestry systems with [[cacao]] , [[coffee]] , and various fruit trees like [[banana]] and [[citrus]] .
 	- **bad neighbors**: it should not be planted with crops that require full sunlight for optimal growth, as its dense [[canopy]] can create too much shade.
 - ### chemical compounds
 - | chemical compound | plant part | amount (%)  | description |
