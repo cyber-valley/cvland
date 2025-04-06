@@ -1,9 +1,11 @@
 tags:: species
 alias:: malabar plum, java plum, black plum, jamun, jaman, jambul, jambolan
 
+- availability:: cv
 - **products**
 - [[fruit]]
 - [[firewood]]
+- [[fodder]]
 - [[shader]]
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeia7ju24nyclvd6ockwyy7n5ntyjifkwmxc4leqjeqwq3zxjw4la4m)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeiandcgnl3fx2zuurrbp2ddejepecucmuvkzml6g6s4m4oviphw6hy)

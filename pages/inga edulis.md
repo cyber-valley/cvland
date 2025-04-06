@@ -60,10 +60,6 @@ alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil, inga edilus
   | proteins          | seeds      | 20-25%      | provide a valuable source of nutrition, especially in [[protein]]-rich diets. |
   | fats and oils     | seeds      | 5-10%       | contain [[essential]] fatty acids and oils important for overall health. |
   | nectar            | flowers    | variable (depends on environmental factors) | [[attract pollinators]] and varies based on environmental factors; contains [[sugars]] and [[trace compounds]] . |
-	- harvesting of the fruit occurs in the dry season, typically several months after flowering.
-	- **good neighbors**: inga edulis grows well with other nitrogen-fixing trees, fruit trees, and shade-tolerant crops. it is often used in agroforestry systems with cacao, coffee, and various fruit trees like banana and citrus.
-	- **bad neighbors**: it should not be planted with crops that require full sunlight for optimal growth, as its dense canopy can create too much shade.
-	  ||||||| Stash base
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmR84KRKJ5hawM7dbqqGwvkauwNgh4Wn9y1s9Ghfy6pE38)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmR84KRKJ5hawM7dbqqGwvkauwNgh4Wn9y1s9Ghfy6pE38)
 - | Age of tree (years) | Trees per ha | Pruning (%) | Spacing (m) | DM of leaves (kg/tree) | DM of wood (kg/tree) | DM of leaves (Mg/ha) | DM of wood (Mg/ha) | Total above-ground biomass (Mg/ha) |
