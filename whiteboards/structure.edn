@@ -1070,7 +1070,7 @@
 :nonce 1740978306726
 :italic false}}
 :block/updated-at 1740978314385} 
-{:block/content "construction team"
+{:block/content "architecture team"
 :block/format :markdown
 :block/left 
 {:block/uuid #uuid "67c53835-8948-422d-b492-875ff5c3471d"}
@@ -1200,7 +1200,261 @@
 :parentId "67c29036-6e32-4539-8d53-6dc3d908f04b"
 :collapsedHeight 0
 :nonce 1740980202237}}
-:block/updated-at 1740980208649})
+:block/updated-at 1740980208649} 
+{:block/created-at 1743986479442
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 34
+:scale [1 1]
+:pageId "67c53f70-7d8f-438e-acad-afe582ea75bb"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "035fdd80-1349-11f0-8cf0-9f368d461fa1"
+:noFill false
+:isLocked false
+:point [344 1040]
+:parentId "67c29036-6e32-4539-8d53-6dc3d908f04b"
+:collapsedHeight 0
+:nonce 1740980073342}}
+:block/updated-at 1743986479442} 
+{:block/content "rockets"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "67c53fea-223e-452b-8397-188e3129a03e"}
+:block/parent 
+{:block/uuid #uuid "67c29036-6e32-4539-8d53-6dc3d908f04b"}
+:block/uuid #uuid "67f3225d-9fcc-4671-9f0d-3259fbe48e67"} 
+{:block/created-at 1744003409330
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:rotation 0
+:collapsed false
+:borderRadius 8
+:index 35
+:scale [1 1]
+:pageId "67f3225d-9fcc-4671-9f0d-3259fbe48e67"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [464 41.000021533141556]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e6a2c520-134a-11f0-8cf0-9f368d461fa1"
+:noFill false
+:point [1792 336]
+:parentId "67c29036-6e32-4539-8d53-6dc3d908f04b"
+:collapsedHeight 0
+:nonce 1743987287181}}
+:block/updated-at 1744003409330} 
+{:block/content "General"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "67f3225d-9fcc-4671-9f0d-3259fbe48e67"}
+:block/parent 
+{:block/uuid #uuid "67c29036-6e32-4539-8d53-6dc3d908f04b"}
+:block/uuid #uuid "67f32263-fb6c-4d01-a1c7-376b662ffcd2"} 
+{:block/content "animals"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "67f32263-fb6c-4d01-a1c7-376b662ffcd2"}
+:block/parent 
+{:block/uuid #uuid "67c29036-6e32-4539-8d53-6dc3d908f04b"}
+:block/properties 
+{}
+:block/uuid #uuid "67f3226f-46e3-4df4-9f93-fa057eeff965"} 
+{:block/content "general"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "67f3226f-46e3-4df4-9f93-fa057eeff965"}
+:block/parent 
+{:block/uuid #uuid "67c29036-6e32-4539-8d53-6dc3d908f04b"}
+:block/properties 
+{}
+:block/uuid #uuid "67f32298-d505-4aa4-b0fe-deab71b4d129"} 
+{:block/created-at 1743987362760
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 36
+:scale [1 1]
+:pageId "67f32298-d505-4aa4-b0fe-deab71b4d129"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "06b956d0-134b-11f0-8cf0-9f368d461fa1"
+:noFill false
+:point [1856 432]
+:parentId "67c29036-6e32-4539-8d53-6dc3d908f04b"
+:collapsedHeight 0
+:nonce 1743987340567}}
+:block/updated-at 1743987362760} 
+{:block/content "animals"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "67f32298-d505-4aa4-b0fe-deab71b4d129"}
+:block/parent 
+{:block/uuid #uuid "67c29036-6e32-4539-8d53-6dc3d908f04b"}
+:block/uuid #uuid "67f322a6-f9cd-4d17-8ffa-59ec76f96878"} 
+{:block/created-at 1743987374811
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 37
+:scale [1 1]
+:pageId "67f322a6-f9cd-4d17-8ffa-59ec76f96878"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "14e5ba00-134b-11f0-8cf0-9f368d461fa1"
+:noFill false
+:point [1856 544]
+:parentId "67c29036-6e32-4539-8d53-6dc3d908f04b"
+:collapsedHeight 0
+:nonce 1743987364426}}
+:block/updated-at 1743987374811} 
+{:block/content "shopping"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "67f322a6-f9cd-4d17-8ffa-59ec76f96878"}
+:block/parent 
+{:block/uuid #uuid "67c29036-6e32-4539-8d53-6dc3d908f04b"}
+:block/uuid #uuid "67f322ba-bf8d-4bb2-bb65-7db6cf48571a"} 
+{:block/created-at 1743987389890
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 38
+:scale [1 1]
+:pageId "67f322ba-bf8d-4bb2-bb65-7db6cf48571a"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "222af180-134b-11f0-8cf0-9f368d461fa1"
+:noFill false
+:isLocked false
+:point [1864 664]
+:parentId "67c29036-6e32-4539-8d53-6dc3d908f04b"
+:collapsedHeight 0
+:nonce 1743987386584}}
+:block/updated-at 1743987389890} 
+{:block/content "kitchen"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "67f322ba-bf8d-4bb2-bb65-7db6cf48571a"}
+:block/parent 
+{:block/uuid #uuid "67c29036-6e32-4539-8d53-6dc3d908f04b"}
+:block/uuid #uuid "67f322c7-c3e9-4378-b7c1-58b0e2bb1831"} 
+{:block/created-at 1744003415746
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 39
+:scale [1 1]
+:pageId "67f322c7-c3e9-4378-b7c1-58b0e2bb1831"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2a0fd140-134b-11f0-8cf0-9f368d461fa1"
+:noFill false
+:isLocked false
+:point [1864 784]
+:parentId "67c29036-6e32-4539-8d53-6dc3d908f04b"
+:collapsedHeight 0
+:nonce 1743987399945}}
+:block/updated-at 1744003415746} 
+{:block/content "wood and soil"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "67f322c7-c3e9-4378-b7c1-58b0e2bb1831"}
+:block/parent 
+{:block/uuid #uuid "67c29036-6e32-4539-8d53-6dc3d908f04b"}
+:block/uuid #uuid "67f322d4-f703-4e41-bce0-231427290392"} 
+{:block/created-at 1744003420527
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 40
+:scale [1 1]
+:pageId "67f322d4-f703-4e41-bce0-231427290392"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 40.99993896484375]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "31de1bc0-134b-11f0-8cf0-9f368d461fa1"
+:noFill false
+:isLocked false
+:point [1872 896]
+:parentId "67c29036-6e32-4539-8d53-6dc3d908f04b"
+:collapsedHeight 0
+:nonce 1743987413078}}
+:block/updated-at 1744003420527})
 :pages (
 {:block/uuid #uuid "67c29036-6e32-4539-8d53-6dc3d908f04b"
 :block/properties 
@@ -1531,8 +1785,8 @@
 :distance 4}}
 :nonce 1
 :assets []
-:shapes-index ("ad72bc20-f657-11ef-8780-5fbfe5b3a574" "b53ee3c0-f657-11ef-8780-5fbfe5b3a574" "e2974080-f7d6-11ef-8780-5fbfe5b3a574" "154382f2-f7d7-11ef-8780-5fbfe5b3a574" "18f7ff72-f7d7-11ef-8780-5fbfe5b3a574" "9fdaca40-f7d7-11ef-8780-5fbfe5b3a574" "ab3325e0-f7d7-11ef-8780-5fbfe5b3a574" "b9a6cb42-f7d7-11ef-8780-5fbfe5b3a574" "c2ccb682-f7d7-11ef-8780-5fbfe5b3a574" "ebca2ea0-f7d7-11ef-8780-5fbfe5b3a574" "fa437952-f7d7-11ef-8780-5fbfe5b3a574" "8b79c0a0-f7dd-11ef-8780-5fbfe5b3a574" "cba647c0-f7dd-11ef-8780-5fbfe5b3a574" "e0f9e002-f7dd-11ef-8780-5fbfe5b3a574" "e2f64c42-f7dd-11ef-8780-5fbfe5b3a574" "e46c9892-f7dd-11ef-8780-5fbfe5b3a574" "e6d13c82-f7dd-11ef-8780-5fbfe5b3a574" "e8054fb2-f7dd-11ef-8780-5fbfe5b3a574" "eb054942-f7dd-11ef-8780-5fbfe5b3a574" "ed6cac52-f7dd-11ef-8780-5fbfe5b3a574" "ef6966b2-f7dd-11ef-8780-5fbfe5b3a574" "f306ffd2-f7dd-11ef-8780-5fbfe5b3a574" "f524afb2-f7dd-11ef-8780-5fbfe5b3a574" "c52eb5d0-f7ec-11ef-8780-5fbfe5b3a574" "cfd4b160-f7ec-11ef-8780-5fbfe5b3a574" "e43250e0-f7ec-11ef-8780-5fbfe5b3a574" "ef6b64b2-f7ec-11ef-8780-5fbfe5b3a574" "0a45ef82-f7ed-11ef-8780-5fbfe5b3a574" "0e7b82e2-f7ed-11ef-8780-5fbfe5b3a574" "12b200a2-f7ed-11ef-8780-5fbfe5b3a574" "2fb08010-f7f1-11ef-bbee-db2b030cc8cf" "5393aa20-f7f1-11ef-bbee-db2b030cc8cf" "5d49ee80-f7f1-11ef-bbee-db2b030cc8cf" "7c958f10-f7f1-11ef-bbee-db2b030cc8cf")}}
-:block/updated-at 1740980208649
+:shapes-index ("ad72bc20-f657-11ef-8780-5fbfe5b3a574" "b53ee3c0-f657-11ef-8780-5fbfe5b3a574" "e2974080-f7d6-11ef-8780-5fbfe5b3a574" "154382f2-f7d7-11ef-8780-5fbfe5b3a574" "18f7ff72-f7d7-11ef-8780-5fbfe5b3a574" "9fdaca40-f7d7-11ef-8780-5fbfe5b3a574" "ab3325e0-f7d7-11ef-8780-5fbfe5b3a574" "b9a6cb42-f7d7-11ef-8780-5fbfe5b3a574" "c2ccb682-f7d7-11ef-8780-5fbfe5b3a574" "ebca2ea0-f7d7-11ef-8780-5fbfe5b3a574" "fa437952-f7d7-11ef-8780-5fbfe5b3a574" "8b79c0a0-f7dd-11ef-8780-5fbfe5b3a574" "cba647c0-f7dd-11ef-8780-5fbfe5b3a574" "e0f9e002-f7dd-11ef-8780-5fbfe5b3a574" "e2f64c42-f7dd-11ef-8780-5fbfe5b3a574" "e46c9892-f7dd-11ef-8780-5fbfe5b3a574" "e6d13c82-f7dd-11ef-8780-5fbfe5b3a574" "e8054fb2-f7dd-11ef-8780-5fbfe5b3a574" "eb054942-f7dd-11ef-8780-5fbfe5b3a574" "ed6cac52-f7dd-11ef-8780-5fbfe5b3a574" "ef6966b2-f7dd-11ef-8780-5fbfe5b3a574" "f306ffd2-f7dd-11ef-8780-5fbfe5b3a574" "f524afb2-f7dd-11ef-8780-5fbfe5b3a574" "c52eb5d0-f7ec-11ef-8780-5fbfe5b3a574" "cfd4b160-f7ec-11ef-8780-5fbfe5b3a574" "e43250e0-f7ec-11ef-8780-5fbfe5b3a574" "ef6b64b2-f7ec-11ef-8780-5fbfe5b3a574" "0a45ef82-f7ed-11ef-8780-5fbfe5b3a574" "0e7b82e2-f7ed-11ef-8780-5fbfe5b3a574" "12b200a2-f7ed-11ef-8780-5fbfe5b3a574" "2fb08010-f7f1-11ef-bbee-db2b030cc8cf" "5393aa20-f7f1-11ef-bbee-db2b030cc8cf" "5d49ee80-f7f1-11ef-bbee-db2b030cc8cf" "7c958f10-f7f1-11ef-bbee-db2b030cc8cf" "035fdd80-1349-11f0-8cf0-9f368d461fa1" "e6a2c520-134a-11f0-8cf0-9f368d461fa1" "06b956d0-134b-11f0-8cf0-9f368d461fa1" "14e5ba00-134b-11f0-8cf0-9f368d461fa1" "222af180-134b-11f0-8cf0-9f368d461fa1" "2a0fd140-134b-11f0-8cf0-9f368d461fa1" "31de1bc0-134b-11f0-8cf0-9f368d461fa1")}}
+:block/updated-at 1744003420526
 :block/created-at 1740804150948
 :block/type "whiteboard"
 :block/name "structure"
