@@ -42,3 +42,70 @@ alias:: rosemary
 		- **pruning**: light pruning throughout the year; major shaping in spring after frost danger has passed.
 	- **good neighbors**: [[thyme]], [[sage]], [[lavender]], [[oregano]], [[beans]], [[carrots]], [[cabbage]], and [[fruit trees]].
 	- **bad neighbors**: avoid planting near [[mint]] or [[basil]] (which prefer wetter soil), and keep distance from heavy [[feeders]] like [[tomatoes]].
+- ### chemical compounds
+- | chemical compound       | plant part       | amount (%)        | description                                                                 |
+  |-------------------------|------------------|-------------------|-----------------------------------------------------------------------------|
+  |[[rosmarinic acid]]          | leaves, flowers  | 0.3–1.0%          | strong [[antioxidant]] and [[anti-inflammatory]], supports [[immune]] response and [[skin healing]]. |
+  | carnosic acid           | leaves           | 1.0–2.5%          | powerful [[antioxidant]], protects [[brain cells]], supports [[cognitive health]].      |
+  | [[carnosol]]                | leaves           | 0.2–0.5%          | [[anti-inflammatory]] and [[anticancer]] activity, works with [[carnosic acid]].        |
+  | 1,8-cineole ([[eucalyptol]])| [[essential oil]]    | 20–50%            | [[aromatic]] [[terpene]] with [[antimicrobial]], [[anti-inflammatory]], and [[bronchodilating]] effects. |
+  | camphor                 | essential oil    | 5–20%             | [[stimulant]] and [[analgesic]], used in salves and balms for [[muscle relief]].        |
+  | [[α-pinene]]               | essential oil    | 5–15%             | [[terpene]] with [[anti-inflammatory]], [[respiratory]], and [[antimicrobial]] effects.     |
+  | [[borneol]]                 | essential oil    | 1–5%              | [[cooling]], [[antibacterial]], helps relieve [[nasal congestion]] and [[chest congestion]].           |
+  | [[verbenone]]               | essential oil    | 1–4%              | milder than [[camphor]], promotes [[tissue repair]] and is used in [[skincare]].        |
+  | [[ursolic acid]]            | leaves           | 0.5–1.5%          | [[anti-inflammatory]], [[antimicrobial]], and [[anticancer]], supports [[skin]] and [[joint health]]. |
+  | [[flavonoids]] ([[luteolin]], [[apigenin]]) | leaves  | trace–0.5%         | [[antioxidant]] compounds that help regulate [[inflammation]] and [[oxidative stress]].  |
+- ### traditional medicine use
+- **rosemary tea for [[memory]] and [[digestion]]**
+	- **ingredients**
+		- 1 teaspoon dried rosemary leaves or 1 tablespoon fresh
+		- 1 cup boiling water
+	- **instructions**
+		- place rosemary leaves in a cup.
+		- pour boiling water over the leaves.
+		- cover and steep for 10 minutes.
+		- strain and drink warm.
+	- **uses**
+		- traditionally used to [[improve memory]], [[focus]], and [[digestion]]. also helps [[relieve bloating]] and mild [[headaches]] due to its [[circulatory]] and [[carminative effects]].
+- **[[rosemary oil]] for [[joint]] and [[muscle pain]]**
+	- **ingredients**
+		- 10 drops rosemary [[essential oil]]
+		- 2 tablespoons carrier oil (olive, coconut, or almond oil)
+	- **instructions**
+		- mix rosemary [[essential oil]] with [[carrier oil]].
+		- apply to affected areas and massage gently.
+		- use up to twice a day.
+	- **uses**
+		- used topically to relieve [[muscle tension]], [[arthritis]], and [[joint inflammation]]. [[improve circulation]] and eases [[stiffness]].
+- **rosemary hair rinse for [[scalp health]]**
+	- **ingredients**
+		- 2 tablespoons dried rosemary leaves
+		- 2 cups water
+	- **instructions**
+		- boil the rosemary in water for 15 minutes.
+		- let it cool to room temperature.
+		- strain and use as a final hair rinse after shampooing.
+	- **uses**
+		- [[stimulates hair follicles]], [[strengthens roots]], reduces [[dandruff]], and [[supports hair growth]] . also adds [[hair shine]].
+- **rosemary steam [[inhalation]] for [[colds]]**
+	- **ingredients**
+		- 1 tablespoon dried rosemary or a handful of fresh sprigs
+		- 1 liter boiling water
+	- **instructions**
+		- place rosemary in a bowl and pour boiling water over it.
+		- cover your head with a towel and lean over the bowl.
+		- inhale the steam deeply for 10–15 minutes.
+	- **uses**
+		- helps relieve [[nasal congestion]], [[sinus infections]], and [[respiratory irritation]]. rosemary's 1,8-[[cineole]] and [[camphor]] open [[airways]] and [[fight microbes]].
+- **rosemary compress for [[wounds]] and [[skin irritation]]**
+	- **ingredients**
+		- 1 tablespoon dried rosemary
+		- 1 cup hot water
+		- clean cloth
+	- **instructions**
+		- infuse rosemary in hot water for 10–15 minutes.
+		- soak a clean cloth in the warm infusion.
+		- wring out slightly and place on affected skin.
+		- leave for 15–20 minutes. repeat 2–3 times daily.
+	- **uses**
+		- used to clean minor wounds, soothe skin inflammation, and reduce swelling. rosemary's antimicrobial and astringent compounds help prevent infection.
