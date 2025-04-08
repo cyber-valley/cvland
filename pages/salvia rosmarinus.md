@@ -108,4 +108,4 @@ alias:: rosemary
 		- wring out slightly and place on affected skin.
 		- leave for 15–20 minutes. repeat 2–3 times daily.
 	- **uses**
-		- used to clean minor wounds, soothe skin inflammation, and reduce swelling. rosemary's antimicrobial and astringent compounds help prevent infection.
+		- used to clean minor [[wounds]], soothe [[skin inflammation]], and reduce [[swelling]]. rosemary's [[antimicrobial]] and [[astringent]] compounds help [[prevent infection]].
