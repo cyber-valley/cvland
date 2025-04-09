@@ -7,16 +7,10 @@ alias:: aloe barbadensis, aloe indica royle, aloe perfoliata, aloe vulgaris
 - [[salad]] and [[stew]]
 - [[high margin]]
 - [wiki_aloe_vera](https://en.wikipedia.org/wiki/Aloe_vera)
-- ### review of aloe vera
-	- [[aloe vera]] is a [[succulent]] plant species widely known for its [[medicinal]] and [[cosmetics]] properties. it is native to the arabian [[peninsula]] but is cultivated in many tropical and arid regions around the world. aloe vera is easy to grow and [[highly valued]] in both [[traditional medicine]] and modern [[herbal]] industries.
-	- [[aloe vera]] is a hardy, multipurpose plant ideal for small gardens, [[permaculture]] systems, and [[medicinal]] use. it is easy to maintain and provides valuable [[health benefits]] with minimal inputs.
+	-
 - #### parts of the plant and their uses
 	- **root**: the root system is shallow and fibrous, mainly used for anchoring and water absorption. it is not typically used in traditional medicine or industry.
 	- **stem**: aloe vera does not have a prominent stem; its leaves arise directly from the base. the short stem may be used in [[propagation]] .
-	- **fruit**: aloe vera produces small capsules containing [[seeds]] , but the fruit is not commonly harvested or used.
-	- **leave**: the most valuable part of the plant. the fleshy leaves contain a [[clear gel]] and a [[yellow latex]] . the gel is used for [[skin care]] , [[burns]] , [[digestive aid]] , and [[cosmetics]] . the [[latex]] has laxative properties but can be [[toxic]] in large doses.
-	- **bark**: aloe vera does not produce true bark due to its herbaceous nature.
-	- **flower**: the plant produces [[tubular]] yellow or orange flowers on tall spikes. flowers are occasionally used in [[traditional medicine]] and to [[attract pollinators]] but are not widely used as a product.
 - #### uses of aloe vera
 	- **plants/greens**: the inner gel is sometimes added to drinks and smoothies.
 	- **plants/flowers**: flowers are not widely harvested but may be used in teas or infusions for mild [[medicinal purposes]].
