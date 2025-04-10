@@ -1,3 +1,3 @@
-alias:: rockets,
+alias:: rockets, rfe
 
 -
