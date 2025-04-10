@@ -1,0 +1,13 @@
+- sequoiadendron giganteum
+- abies sibirica
+- acacia senegal
+- alnus rubra
+- acer saccharum
+- commiphora myrrha
+- betula
+- ceratonia siliqua
+- erythroxylum coca
+- paullinia cupana
+- protium copal
+- pterocarpus santalinus
+- pueraria montana

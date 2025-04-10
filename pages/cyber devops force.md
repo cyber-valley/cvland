@@ -1,4 +1,4 @@
-alias:: devop, devops, dev
+alias:: devops, cdf
 
 -
 -
