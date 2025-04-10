@@ -1,0 +1,45 @@
+tags:: species
+alias:: champak, white champaca
+
+- products
+- [[flowers]]
+- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeiapmu3yu6gy6kdonf4xp4q3lg33wrqtsr44mfkbkepqlqzp4bqkhm){:height 241, :width 408}
+- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeihkuav2sxohnpxagvqhidqj4xbns2hyvgzjfsxwgua7r2sbfkq2xu)
+- [magnolia_champaca](https://en.wikipedia.org/wiki/Magnolia_champaca)
+- ### review of the magnolia cempaka
+- magnolia cempaka is a tall, [[evergreen tree]] native to southeast asia, especially indonesia, malaysia, and the philippines. it is [[highly valued]] for its [[fragrant]] white or yellowish [[flowers]] and is commonly planted in [[home gardens]], [[temples]], and [[sacred places]].
+- magnolia cempaka is a highly [[aromatic]] and culturally [[significant tree]] in southeast asian landscapes. it provides [[fragrance]], [[timber]], and [[shade]], making it a multifunctional tree in tropical [[agroecological]] and [[permaculture]] systems.
+- **parts of the plant and their uses:**
+	- **root**: not commonly used in traditional remedies, though root bark may have mild [[medicinal]] properties in some [[folk practices]].
+	- **stem**: provides [[timber]] and [[structural support]]. the trunk is often straight and used in [[construction]] or [[carving]].
+	- **fruit**: produces small, cone-like [[fruits]] containing [[seeds]]. [[not edible]] or commonly used, though seeds are sometimes used for [[propagation]] or [[oil extraction]].
+	- **leave**: large, leathery leaves are occasionally used in traditional [[herbal medicine]] for [[fever]] or [[skin inflammation]], and sometimes in [[wrapping]].
+	- **bark**: bark has some traditional [[medicinal]] use as an [[astringent]] and for [[treating fevers]] or [[infections]].
+	- **flower**: the most valued part. extremely [[fragrant]] and used in [[perfumery]], traditional ceremonies, [[aromatherapy]], and [[herbal baths]].
+- **uses of magnolia cempaka:**
+	- **plants/fruits**: fruits are not consumed or used for food purposes.
+	- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeigya5s63qrx6cnqkrfhvnd54tmqtduhbzof6t3roh6ycplrdzpx4i)
+	- **plants/greens**: not used as edible greens.
+	- **plants/flowers**: highly [[fragrant]] [[flowers]] used in traditional rituals, [[garlands]], [[perfumes]], and [[floral water]]. also infused into [[oils]] or [[teas]] for [[relaxation]].
+	- **plants/timber**: [[wood]] is light to medium-hard, used in [[light construction]], [[furniture]], and local [[carvings]].
+	- **plants/medicine**: [[flowers]] and [[bark]] are used in [[traditional medicine]] for [[calming the nerves]], reducing [[fever]], relieving [[headaches]], and improving [[sleep]].
+	- **plants/fuel**: [[wood]] and [[dry leaves]]  can be used as [[firewood]] or [[kindling]].
+	- **plants/fertilizer**: leaves [[decompose]]  well and contribute [[organic matter]] to [[compost]] or [[mulch]].
+- **data:**
+	- **sun requirements**: prefers [[full sun]] to light [[partial shade]], optimal flowering in bright light.
+	- **water requirements**: moderate to high, thrives in moist, [[well-drained]] soils but does not tolerate prolonged drought.
+	- **soil ph**: prefers slightly acidic to neutral soils (ph 5.5–7.0).
+	- **plant/roles in permaculture guilds**: magnolia cempaka serves as a [[canopy]] or [[windbreak]] tree. it provides dense [[shade]], [[habitat]] for birds, and supports insect [[pollinators]] through its [[fragrant]] [[flowers]]. the fallen leaves enrich the [[soil]], and the tree [[stabilizes slopes]] or [[garden edges]]. ideal in humid [[tropical systems]] with support plants like [[ginger]], [[turmeric]], and [[nitrogen fixers]] at its base.
+	- **height in meter**: typically grows 10–25 meters tall depending on conditions.
+	- **spacing in meter**: 6–10 meters spacing recommended for mature trees in landscapes or agroforestry.
+	- **germination days**: seeds germinate in 30–60 days with consistent moisture and warmth.
+	- **strata**: [[canopy]] to [[emergent]] layer in tropical systems.
+	- **days to maturity**: flowering begins in 5–7 years from seed, faster if propagated from cuttings or grafts.
+	- **plant, harvest, pruning calendar in months**:
+		- **planting**: early [[rainy season]] (november–january) for best establishment.
+		- **pruning**: light shaping after flowering or to control height.
+		- **harvest**: flowers can be picked daily during blooming season (often year-round in warm climates).
+	- **good neighbors**: grows well with [[turmeric]], [[ginger]], [[pigeon pea]], [[lemongrass]], [[banana]], and [[cassava]] in [[multi-strata]] systems.
+	- **bad neighbors**: avoid planting near [[shallow-rooted]] vegetables or [[full sun]] [[herbs]] that may struggle under its shade.
+-
+-
