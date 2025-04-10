@@ -16,7 +16,7 @@ alias:: skin infections
 - [[tinea versicolor]]
 - [[candidiasis]]
 - [[herpes simplex virus (hsv)]]
-- [[chickenpox (varicella)]]
+- [[chickenpox]]
 - [[shingles (herpes zoster)]]
 - [[scabies]]
 - [[molluscum contagiosum]]

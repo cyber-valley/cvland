@@ -1,3 +1,3 @@
-alias:: muscules
+tags:: muscle
 
 -
