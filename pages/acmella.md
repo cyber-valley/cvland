@@ -1,5 +1,4 @@
-tags:: genus, species
-alias:: acmella repens
+tags:: genus
+scalable:: true
 
-- [[carpet]] [[perenial]]
-- [[salad]]: 10g per day max
+- {{embed [[acmella repens]]}}

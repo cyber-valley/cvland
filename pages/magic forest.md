@@ -13,4 +13,4 @@ icon:: 🪷
 	- from [[forest]] and from [[labs]]
 - 3 phase: sustaining ecosystem and maximize species
 - [[toolset]] for magic forest
-- [[plants/wishlist]]
+- [[important species not available in indonesia]]
