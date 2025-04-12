@@ -48,6 +48,6 @@ tags:: class
 	- [[landscape]]: landscape design and aesthetics
 - security
 	- [[windbreak]]
-	- [[woodfire]]
+	- [[firefighter]]
 	- [[soil hold]]
 	-
