@@ -1,15 +1,14 @@
-title:: kitchen/rules
-
-- #### how meals work
+- [[kitchen/rules/id]]
+- ### how meals work
 	- all meals ([[breakfast]], [[lunch]], [[dinner]]) are prepared by our kitchen team
 	- we cook from ingredients we grow, forage, or order regularly
 	- the current structure is described in [[kitchen/menu]]
-- #### cooking your own food
+- ### cooking your own food
 	- individual cooking is possible outside of shared meals
 	- check if the stove and prep space are free
 	- only use ingredients that are part of our shared supplies
 	- if you're unsure whether something is okay to use, ask
-- #### cooking do’s & don’ts
+- ### cooking do’s & don’ts
 - #### ✅ do
 	- cook using shared ingredients
 	- use [[spices]], [[herbs]], and [[fermentation]] to build flavor
@@ -29,7 +28,7 @@ title:: kitchen/rules
 	- > date
 	- close all containers properly
 	- keep shelves tidy and organized for others
-- ## cleanup
+- ### cleanup
 - after cooking or eating:
 	- wash dishes and tools
 	- wipe down surfaces
@@ -40,7 +39,8 @@ title:: kitchen/rules
 	- report leaks immediately
 	- use only our soap nut soap (no external products)
 - #### equipment
+  collapsed:: true
 	- all equipment is shared → treat with care
 	- report any damage or malfunction
-- #### kitchen principle
+- ### kitchen principle
   > if it’s not part of the shared system — we don’t use it.
