@@ -3,7 +3,7 @@ alias:: permabase kitchen
 - [[kitchen/rules]]
 - [[kitchen/launch]]
 - [[kitchen/storage]]
-- [[soap nut soap]]
+- [[kitchen/cleaning]]
 - [[kitchen/menu]]
 - [[kitchen/recipes]]
 -

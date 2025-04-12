@@ -1,13 +1,10 @@
-title:: kitchen/menu
-
-- ## 🕐  Meal schedule (UTC)
-  *we prepare food by this time*
+## 🕐  Meal schedule (UTC)
+*we prepare food by this time*
 	-
 	- Breakfast: 1:00 UTC
 	- Lunch: 12:00 UTC
 	- Dinner: 17:00 UTC
-	  
-	  ---
+- ---
 - ## 🍽️  Sample menu
 - ### Breakfast
 	- [[omelet with cheese]]
@@ -20,8 +17,7 @@ title:: kitchen/menu
 - ### Dinner
 	- [[stewed duck]]
 	- [[stewed veggies]]
-	  
-	  ---
+- ---
 - ### 🥪 Snacks
 - fresh [[fruits]]
 - [[dried fruits]]

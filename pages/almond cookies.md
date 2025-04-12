@@ -20,11 +20,11 @@ tags:: kitchen/menu, almonds, desserts, with honey, with coconut, with dried fru
 - [[coconut oil]] – 2 tablespoons (melted)
 	- source: [[imported]]
 - [[honey]] – 2 tablespoons
-	- source: [[imported]] / [[local]]
+	- source: [[imported]] / [[local farmers]]
 - [[vanilla extract]] – 1/2 teaspoon
 	- source: [[imported]]
 - [[dried fruits]] – 1/4 cup, chopped
-	- source: [[local]] / [[imported]]
+	- source: [[local farmers]] / [[imported]]
 	  
 	  ---
 - ## 🔧 Equipment needed

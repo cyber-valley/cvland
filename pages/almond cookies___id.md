@@ -8,11 +8,11 @@ kue lembut dan manis ringan yang dibuat dari tepung almond, minyak kelapa, dan m
 - [[minyak kelapa]] – 2 sendok makan (leleh)
 	- asal: [[impor]]
 - [[madu]] – 2 sendok makan
-	- asal: [[impor]] / [[lokal]]
+	- asal: [[impor]] / [[petani lokal]]
 - [[ekstrak vanila]] – 1/2 sendok teh
 	- asal: [[impor]]
 - [[buah kering]] – 1/4 cangkir, cincang
-	- asal: [[lokal]] / [[impor]]
+	- asal: [[petani lokal]] / [[impor]]
 	  
 	  ---
 - ## 🔧 Peralatan yang dibutuhkan
