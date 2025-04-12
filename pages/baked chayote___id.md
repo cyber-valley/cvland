@@ -3,21 +3,13 @@
 - ---
 - ## 🍃 Bahan-bahan
 - [[labu siam]] – 2
-	- asal: [[ditanam di lokasi]] / [[petani lokal]]
 - [[wortel]] – 1–2
-	- asal: [[petani lokal]]
 - [[daging]] – 300–400 g
-	- asal: [[petani lokal]], [[impor]]
 - [[keju]] – parut, jenis [[mozarella]], [[cheddar]]
-	- asal: [[impor]]
 - [[bubuk kari]]
-	- asal: [[impor]]
 - [[bubuk lada putih]]
-	- asal: [[impor]]
 - [[daun dill segar]]
-	- asal: [[ditanam di lokasi]]
 - [[daun rosemary]] (opsional)
-	- asal: [[ditanam di lokasi]]
 - ---
 - ### 🔧 Peralatan yang dibutuhkan
 	- panci
@@ -55,6 +47,7 @@
 	- waktu merebus: ~2 jam
 	- waktu memanggang: ~20–25 menit
 	- total: ~3 jam termasuk persiapan dan istirahat
+- ---
 - ### 🧪 Variasi & pengganti
 	- versi tanpa daging menggunakan lentil atau jamur
 	- tambahkan [[bawang putih]] jika tersedia
@@ -62,6 +55,7 @@
 - ---
 - ### 🧭 Cocok disajikan dengan
 	- [[salad]] segar
+- ---
 - ### ♻️ Penggunaan limbah
 	- sisa sayuran: [[kompos]]
 	- sisa daging / kaldu: [[pakan ternak]]

@@ -11,30 +11,20 @@ tags:: kitchen/menu, chayote, mains, with meat, with cheese, with vegetables
 	- [[dinner]]
 	- [[baked]]
 	- [[oven dish]]
-- ## 👩‍🍳 Inspiration/source
-- [[original]]
 - ---
 - ## 🍃 Ingredients
-- collapsed:: true
-  
-  [[chayote]] – 2
+- [[chayote]] – 2 · source: [[grown on site]]
+  collapsed:: true
 	- source: [[grown on site]] / [[local farmers]]
-- [[carrot]] – 1–2
-	- source: [[local farmers]]
-- [[meat]] – 300–400 g
-	- source: [[local farmers]], [[imported]]
-- [[cheese]] – grated [[mozarella]], [[chedder]]
+- [[carrot]] – 1–2 · source: [[local farmers]]
+- [[meat]] – 300–400gr · source: [[local farmers]], [[imported]]
+- [[cheese]] – grated [[mozarella]], [[chedder]] · source: [[imported]]
+- [[curry powder]] · source: [[imported]]
+  collapsed:: true
 	- source: [[imported]]
-- collapsed:: true
-  
-  [[curry powder]]
-	- source: [[imported]]
-- [[white pepper powder]]
-	- source: [[imported]]
-- [[fresh dill leaves]]
-	- source: [[grown on site]]
-- [[rosemary]] (optional)
-	- source: [[grown on site]]
+- [[white pepper powder]] · source: [[imported]]
+- [[fresh dill leaves]] · source: [[grown on site]]
+- [[rosemary]] (optional) · source: [[grown on site]]
 - ---
 - ## 🔧 Equipment needed
 	- pot

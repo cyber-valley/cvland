@@ -10,23 +10,15 @@ tags:: kitchen/menu, almonds, desserts, with honey, with coconut, with dried fru
 - [[snacks]]
 - [[baked]]
 - [[oven dish]]
-- ## 👩‍🍳 Inspiration/source
-- [[original]]
+- ---
+- ## 🍃 Ingredients
+- [[almond flour]] – 1 cup · source: [[imported]]
+- [[coconut oil]] – 2 tablespoons (melted) · source:[[imported]]
+- [[honey]] – 2 tablespoons · source: [[imported]] / [[local farmers]]
+- [[vanilla extract]] – 1/2 teaspoon · source: [[imported]]
+- [[dried fruits]] – 1/4 cup, chopped · source: [[local farmers]] / [[imported]]
   
   ---
-- ## 🍃 Ingredients
-- [[almond flour]] – 1 cup
-	- source: [[imported]]
-- [[coconut oil]] – 2 tablespoons (melted)
-	- source: [[imported]]
-- [[honey]] – 2 tablespoons
-	- source: [[imported]] / [[local farmers]]
-- [[vanilla extract]] – 1/2 teaspoon
-	- source: [[imported]]
-- [[dried fruits]] – 1/4 cup, chopped
-	- source: [[local farmers]] / [[imported]]
-	  
-	  ---
 - ## 🔧 Equipment needed
 	- bowl
 	- spoon
