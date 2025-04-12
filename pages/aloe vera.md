@@ -1,105 +1,86 @@
 tags:: species, major
 alias:: aloe barbadensis, aloe indica royle, aloe perfoliata, aloe vulgaris
 
-- ![image](https://ipfs.io/ipfs/QmZ1abuZCRKnrxDVibUn8h13PouvRYvV1tAmNMmNssfHwm)
+- ![image](https://ipfs.io/ipfs/QmZ1abuZCRKnrxDVibUn8h13PouvRYvV1tAmNMmNssfHwm){:height 409, :width 408}
 - availability:: cv
 - [[plant/miracle]]
 - [[salad]] and [[stew]]
 - [[high margin]]
 - [wiki_aloe_vera](https://en.wikipedia.org/wiki/Aloe_vera)
-	-
-- #### parts of the plant and their uses
-	- **root**: the root system is shallow and fibrous, mainly used for anchoring and water absorption. it is not typically used in traditional medicine or industry.
-	- **stem**: aloe vera does not have a prominent stem; its leaves arise directly from the base. the short stem may be used in [[propagation]] .
-- #### uses of aloe vera
-	- **plants/greens**: the inner gel is sometimes added to drinks and smoothies.
-	- **plants/flowers**: flowers are not widely harvested but may be used in teas or infusions for mild [[medicinal purposes]].
-	- **plants/resins**: the [[latex]] from the [[leaves]] is considered a [[resinous substance]] with potent [[laxative effects]].
-	- **plants/medicine**: aloe vera is widely used for [[treating skin]] conditions, [[burns]], [[wounds]], [[sunburn]], and [[inflammation]]. it also has internal uses for [[digestive health]] and [[immune]] support.
-	- **plants/fertilizer**: leftover leaf material can be [[compost]]ed to enrich the soil, and diluted aloe gel is sometimes used as a [[foliar spray]] to support plant health.
-	- **plants/timber**: not applicable due to soft, succulent structure.
-- #### data
-	- **sun requirements**: prefers [[full sun]] to [[partial shade]]. requires at least 6 hours of direct sunlight per day.
-	- **water requirements**: [[drought-tolerant]], requires minimal watering. allow soil to dry out completely between waterings.
-	- **soil ph**: thrives in slightly acidic to neutral soil, ph 6.0 to 7.0.
-	- **plant/roles in permaculture guilds**: aloe vera serves as a [[groundcover]] and [[medicinal plants]] in [[permaculture]] systems. its dense, low-growing form [[reduce soil erosion]] and [[evaporation]]. the gel can be used in homemade [[foliar sprays]] and [[soil drenches]] to [[boost plant immunity]]. it [[attracts pollinators]] when flowering and can grow around the base of fruit trees as a living [[mulch]], especially in arid climates.
-	- **height in meters**: typically 0.5 to 1 meter tall, including the flower stalk.
-	- **spacing in meters**: space plants 0.4 to 0.6 meters apart for optimal air circulation and growth.
-	- **germination days**: seeds germinate in 15–30 days under warm, moist conditions, though propagation is more commonly done via offshoots.
-	- **strata**: groundcover to low herbaceous layer.
-	- **days to maturity**: plants become harvestable 18–24 months after planting.
-	- **plant, harvest, pruning calendar in months**:
-		- **plant**: best during the [[dry season]] or early wet season (march–may).
-		- **harvest**: year-round, once mature. outer leaves can be cut every 2–3 months.
-		- **prune**: remove dead or damaged leaves throughout the year.
-	- **good neighbors**: good companions include [[fruit trees]], [[agave]], [[lemongrass]], and [[rosemary]] . grows well near plants needing dry roots and sun.
-	- **bad neighbors**: avoid planting near water-loving or fast-growing plants like [[mint]], as aloe vera may be outcompeted or suffer from root rot in too much moisture.
-- ### chemical compounds
-- | chemical compound       | plant part         | amount (%)        | description                                                                 |
-  |-------------------------|--------------------|-------------------|-----------------------------------------------------------------------------|
-  | [[acemannan]] | inner leaf gel     | 5–10%             | [[polysaccharide]], supports [[immune function]] function, [[wound healing]], and [[digestion]].     |
-  | aloin                   | latex (outer leaf) | 10–30%            | [[anthraquinones]] with [[laxative effects]], used in controlled doses.               |
-  | aloe-emodin             | latex              | 2–5%              | [[antimicrobial]] and [[anti-inflammatory]] compound.                               |
-  | [[salicylic acid]]          | inner leaf gel     | <1%               | [[anti-inflammatory]], helps in treating [[acne]] and [[skin irritation]].              |
-  | saponins                | leaf skin          | 3–6%              | [[cleansing]] agents with [[antimicrobial]] and foaming properties.                 |
-  | lignin                  | inner leaf gel     | 1–2%              | enhances [[absorption]] of active compounds into the skin.                      |
-  | [[vitamins]] (a, c, e, b1, b2, b6, b12) | inner leaf gel | trace–moderate | support [[tissue repair]], [[skin health]] , and [[immune system]] .                     |
-  | [[enzymes]] (amylase, catalase, lipase) | inner leaf gel | trace         | assist [[digestion]] and [[reduce inflammation]] .                                   |
-  | amino acids (20 types)  | inner leaf gel     | trace–1%          | essential for [[cellular repair]] and [[cell regeneration]].                                 |
-  | minerals ([[calcium]], [[magnesium]], [[zinc]], [[selenium]]) | inner leaf gel | trace–low  | [[skin care]] , [[bone health]], and [[immune health]].                                      |
-- ### traditional medicine use
-- **aloe vera gel for [[burns]] and [[skin irritation]] **
-	- ingredients
-		- 1 fresh aloe vera leaf
-	- instructions
-		- cut the aloe vera leaf lengthwise.
-		- scoop out the clear inner gel using a spoon.
-		- apply the gel directly to the affected skin area.
-		- let it absorb without rinsing, 2–3 times per day.
-	- uses
-		- used to treat minor [[burns]], [[sunburn]], [[insect bites]], and [[skin irritation]] due to its cooling, [[anti-inflammatory]], and [[moisturizing]] effects.
-- **aloe vera juice for [[digestive health]]**
-	- ingredients
-		- 2 tablespoons of fresh aloe vera gel (inner part only)
-		- 1 cup of water
-		- a few drops of lemon juice or honey (optional)
-	- instructions
-		- blend the aloe gel with water until smooth.
-		- add lemon juice or honey for taste if desired.
-		- drink on an empty stomach in the morning, 2–3 times a week.
-	- uses
-		- supports [[digestion]], helps with [[constipation]], and soothes [[inflammation]] in the gut. should be consumed in moderation due to possible [[laxative effects]].
-- **aloe vera and [[turmeric]] paste for [[acne]] **
-	- ingredients
-		- 2 teaspoons of aloe vera gel
-		- ½ teaspoon of [[turmeric]] powder
-	- instructions
-		- mix aloe gel and turmeric into a smooth paste.
-		- apply to [[acne]]-prone areas.
-		- leave on for 15–20 minutes, then rinse with cool water.
-		- use 2–3 times a week.
-	- uses
-		- reduces [[acne]], [[redness]], and [[inflammation]] thanks to the [[antibacterial]] and [[anti-inflammatory]] properties of both aloe and turmeric.
-- **aloe vera scalp treatment for [[dandruff]]**
-	- ingredients
-		- 2 tablespoons of aloe vera gel
-		- 1 tablespoon of [[coconut oil]] (optional)
-	- instructions
-		- mix aloe gel and coconut oil until combined.
-		- apply to the scalp and massage gently.
-		- leave for 30–60 minutes, then wash with mild shampoo.
-		- repeat 1–2 times weekly.
-	- uses
-		- soothes [[itchy]] scalp, reduces dandruff, and promotes healthy [[hair growth]].
-- **aloe vera mouthwash for [[oral health]]**
-	- ingredients
-		- 1 tablespoon aloe vera juice (food-grade)
-		- ½ cup water
-		- 1 drop [[peppermint]] [[essential oil]] (optional)
-	- instructions
-		- mix all ingredients together.
-		- swish around in the mouth for 30 seconds.
-		- spit out and do not swallow.
-		- use once daily.
-	- uses
-		- reduces [[gum inflammation]], heals mouth [[ulcers]], and freshens [[breath]] due to aloe's [[antimicrobial]] properties.
+- [[plant/type]]: [[succulent]] [[herbaceous]] [[perennial]]
+	- this defines the plant as a fleshy, non-woody, [[evergreen]] species that persists for many seasons, storing water in its thick leaves.
+	- properties
+		- root: fibrous and shallow, adapted for rapid water uptake during brief rainfall events. roots spread close to the surface, allowing the plant to thrive in arid environments.
+			- contains [[trace minerals]] and [[enzymes]] that support basic root metabolism and cellular function.
+		- stem: reduced or almost absent; leaves emerge directly from a very short basal stem (crown). the stem is non-woody and mostly functions as a support base.
+			- composed primarily of [[cellulose]] and small amounts of [[resin]] compounds that may provide [[antimicrobial]] protection.
+		- leaf: thick, [[succulent]], and lanceolate with serrated margins; stores large amounts of [[gel]] within the inner tissue. the outer surface is waxy to prevent water loss.
+			- the inner [[gel]] contains [[acemannan]], [[polysaccharides]], [[salicylic acid]], [[vitamins]] (a, c, e, b1, b2, b6, b12), [[lignin]], [[amino acids]], [[minerals]] ([[zinc]], [[calcium]], [[magnesium]]), and [[enzymes]] ([[amylase]], [[catalase]], [[lipase]]).
+			- the latex layer beneath the skin contains [[aloin]], [[aloe-emodin]], and [[barbaloin]], which are biologically active and known for strong [[laxative effects]].
+		- flower: grows on a tall raceme; tubular, yellow or orange, and pollinated by [[insects]] and [[birds]]. blooms once the plant matures.
+			- contains [[flavonoids]], [[nectar]] (rich in [[sugars]]), and trace amounts of volatile [[essential oils]].
+		- fruit: a small dry capsule that splits open when mature, releasing flat, black [[seeds]].
+			- seeds contain small amounts of [[protein]] and trace oils but are rarely used medicinally or nutritionally.
+		- bark: absent; aloe vera is herbaceous and non-woody.
+		- timber: not applicable; lacks woody tissue.
+	- environment:: arid to semi-arid climates with full sun and sandy, well-drained soil
+		- climate:: warm, dry, with minimal humidity and infrequent rain
+			- sun:: 600–1000
+			- no-sun-days:: 7–10
+			- water:: 250–500
+			- no-water-days:: 30–45
+			- humidity:: 30–50
+			- fog-resistance:: 5–7
+			- max-temp:: 45
+			- optimal-temp:: 25–35
+			- min-temp:: 2–5
+			- wind-damage:: hot-dry, cold-dry, salt-laden
+		- soil:: sandy to rocky, fast-draining soils with low fertility
+			- soil-ph:: 6.0–7.0
+			- soi-type:: sandy, loamy, volcanic
+		- spacing:: 50–80 cm between plants in rows, good air circulation essential
+			- good-neighbors:: [[opuntia]], [[rosmarinus]], [[lavandula]], [[cymbopogon]]
+			- bad-neighbors:: [[mentha]], [[basil]], [[colocasia]]
+			- max-height:: 60 cm
+			- max-spread:: 80 cm
+	- lifecycle
+		- longevity:: 20 years
+		- germination:: 14–30 days; slow and irregular; requires warmth and moisture
+		- seedling:: slow-growing; sensitive to overwatering and cold
+		- mature:: thick leaves form in 12–18 months; flowers appear after 2–3 years
+		- death:: declines from frost, rot, or aging core collapse
+	- [[plant/features]]: [[drought-tolerant]], [[fire-resistant]], [[succulent]], [[medicinal]], [[attract pollinators]] (when flowering)
+	- [[biome/layer]]: [[ground covers]], [[herbaceous]], [[understory]] (dry tropics)
+	- [[products]]: leaf gel, leaf latex, tea, juice, skin salve, cosmetic base, fire starter, mulch, potted ornamental
+	- [[chemical compounds]]
+	  | compound                      | plant part        | % amount        | description                                                            |
+	  |-------------------------------|-------------------|------------------|------------------------------------------------------------------------|
+	  | [[trace minerals]]                | root              | <0.01%           | support nutrient [[absorption]] and [[metabolic]] activity                     |
+	  | trace [[enzymes]]                 | root              | <0.05%           | assist in root cell functions and growth                               |
+	  | [[cellulose]]                     | stem              | 30–40% (dry wt)  | provides structural integrity to leaf base                             |
+	  | resinous exudate              | stem              | ~0.1%            | minor [[antimicrobial]] protection                                         |
+	  | acemannan                     | leaf (inner gel)  | 5–10%            | enhances immunity, aids [[wound healing]], [[anti-inflammatory]]               |
+	  | polysaccharides               | leaf (inner gel)  | 10–15%           | [[moisturizing]], [[gut health]], [[immune modulator]]                             |
+	  | [[vitamins]] a, c, e              | leaf (inner gel)  | 0.01–0.05%       | [[antioxidants]], [[tissue repair]], skin protection                    |
+	  | [[vitamins]] b1, b2, b6, b12      | leaf (inner gel)  | <0.01%           | energy [[metabolism]], [[nervous system]] support                              |
+	  | [[salicylic acid]]                | leaf (inner gel)  | <1%              | [[anti-inflammatory]], [[pain relief]]                                         |
+	  | [[lignin]]                        | leaf (inner gel)  | 1–2%             | aids deep penetration of active compounds                              |
+	  | [[enzymes]] ([[amylase]], [[lipase]], [[catalase]]) | leaf (inner gel) | <0.5%        | aid [[digestion]], reduce [[inflammation]]                                    |
+	  | [[amino acids]] (20 types)        | leaf (inner gel)  | 1–2%             | [[protein synthesis]], [[cellular repair]]                                     |
+	  | [[zinc]], [[calcium]], [[magnesium]]      | leaf (inner gel)  | 0.1–0.2%         | mineral support, enzymatic co-factors                                  |
+	  | [[aloin]]                         | leaf (latex)      | 10–30%           | strong [[laxative]], [[antimicrobial]]                                         |
+	  | [[aloe-emodin]]                   | leaf (latex)      | 2–5%             | [[antibacterial]], [[laxative]], [[anti-inflammatory]]                             |
+	  | [[barbaloin]]                     | leaf (latex)      | ~1–2%            | [[purgative]], [[antimicrobial]]                                               |
+	  | [[flavonoids]]                    | flower            | 0.5–1%           | [[antioxidant]], supports [[vascular health]] and [[immune health]]                       |
+	  | [[essential oils]] (trace)        | flower            | <0.1%            | aromatic, mild [[antimicrobial]]                                           |
+	  | [[nectar]] ([[sugars]])               | flower            | 1–3%             | [[attract pollinators]], [[carbohydrate]] source                             |
+	  | [[proteins]]                       | fruit/seeds       | 2–5%             | [[seed]] nutrition, [[metabolic]] energy storage                               |
+	  | trace oils                    | fruit/seeds       | <0.5%            | [[seed]] preservation, possible [[skincare]] use                               |
+	- operations
+		- [[propagation]]: propagated by division of offsets (pups); [[seeds]] germinate slowly and unreliably
+		- [[maintenance]]: minimal care; remove dead leaves, divide clumps every 3–4 years; protect from frost and overwatering
+		- [[harvest]]:
+			- leaf gel: harvest outer mature leaves every 2–3 months
+			- [[latex]]: extract from leaf base for [[medicinal]] use in small doses
+			- flowers: harvested when blooming for [[tea]] or [[decoration]]
+			- leaves: can be dried, juiced, or infused in [[oil]] or [[alcohol]]

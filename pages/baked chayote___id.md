@@ -1,0 +1,72 @@
+## 🧾 🔥 Labu siam panggang isi daging berbumbu & keju
+- setengah labu siam yang dipanggang perlahan, diisi daging empuk berbumbu kari, wortel manis, dan rempah segar, lalu ditaburi keju leleh keemasan. kaya rasa, aromatik, dan disajikan hangat — satu piring lengkap yang memuaskan.
+- ---
+- ## 🍃 Bahan-bahan
+- [[labu siam]] – 2
+	- asal: [[ditanam di lokasi]] / [[petani lokal]]
+- [[wortel]] – 1–2
+	- asal: [[petani lokal]]
+- [[daging]] – 300–400 g
+	- asal: [[petani lokal]], [[impor]]
+- [[keju]] – parut, jenis [[mozarella]], [[cheddar]]
+	- asal: [[impor]]
+- [[bubuk kari]]
+	- asal: [[impor]]
+- [[bubuk lada putih]]
+	- asal: [[impor]]
+- [[daun dill segar]]
+	- asal: [[ditanam di lokasi]]
+- [[daun rosemary]] (opsional)
+	- asal: [[ditanam di lokasi]]
+- ---
+- ### 🔧 Peralatan yang dibutuhkan
+	- panci
+	- pisau
+	- sendok
+	- oven
+	- loyang panggang
+- ---
+- ## 📝 Langkah-langkah Pembuatan
+- ### 1. Rebus daging
+	- dalam panci, campur daging, rosemary (opsional), dan bubuk kari.
+	- tambahkan air hingga menutupi dan rebus perlahan selama kurang lebih 2 jam, sampai daging empuk.
+- ### 2. Siapkan sayuran
+	- belah labu siam memanjang jadi dua bagian.
+	- keluarkan daging buahnya dengan hati-hati, jaga agar kulit tetap utuh untuk digunakan sebagai wadah.
+	- potong kecil daging labu siam.
+	- kupas dan potong kecil wortel.
+	- cincang halus daun dill.
+- ### 3. Cincang dan bumbui daging
+	- setelah daging matang dan agak dingin, cincang kecil.
+	- bumbui lagi dengan sedikit bubuk kari dan lada putih.
+- ### 4. Bumbui sayuran
+	- campur labu siam cincang dan wortel dengan lada putih, sejumput garam, dan daun dill segar.
+- ### 5. Susun
+	- letakkan daging cincang di dasar "mangkuk" kulit labu siam.
+	- tambahkan campuran sayuran berbumbu di atasnya.
+	- taburi lapisan keju parut di atasnya.
+- ### 6. Panggang
+	- masukkan labu siam isi ke oven yang telah dipanaskan sebelumnya pada 180°c selama sekitar 20–25 menit, hingga keju meleleh dan berwarna keemasan.
+- ### 7. Sajikan
+	- sajikan panas sebagai hidangan utama yang harum dan mengenyangkan.
+	- cocok dipadukan dengan salad segar di samping.
+- ### ⏳ Waktu memasak
+	- waktu persiapan: 30–40 menit
+	- waktu merebus: ~2 jam
+	- waktu memanggang: ~20–25 menit
+	- total: ~3 jam termasuk persiapan dan istirahat
+- ### 🧪 Variasi & pengganti
+	- versi tanpa daging menggunakan lentil atau jamur
+	- tambahkan [[bawang putih]] jika tersedia
+	- ganti keju dengan [[edam]], [[gouda]] atau [[keju kambing]] tergantung sumber
+- ---
+- ### 🧭 Cocok disajikan dengan
+	- [[salad]] segar
+- ### ♻️ Penggunaan limbah
+	- sisa sayuran: [[kompos]]
+	- sisa daging / kaldu: [[pakan ternak]]
+- ---
+- ## 💡 Tips
+	- kulit labu siam tetap utuh dan cukup kuat untuk menampung isian, namun tetap bisa dimakan
+-
+- **Selamat menikmati!** 🍽️ 🌿

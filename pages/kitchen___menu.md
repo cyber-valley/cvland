@@ -1,29 +1,42 @@
-- 🕐 meal schedule (we prepare food by this time):
-	- breakfast: 9am
-	- lunch: 12pm
-	- dinner: 5-6pm
-- ### sample menu with the main principle of daily alternation
-  title:: kitchen/menu
-- breakfast (9am)
+title:: kitchen/menu
+
+- ## 🕐  Meal schedule (UTC)
+  *we prepare food by this time*
+	-
+	- Breakfast: 1:00 UTC
+	- Lunch: 12:00 UTC
+	- Dinner: 17:00 UTC
+	  
+	  ---
+- ## 🍽️  Sample menu
+- ### Breakfast
 	- [[omelet with cheese]]
 	- [[avocado sliced]]
 	- [[salad]]
 	- [[oat porridge with fruits]]
-- lunch (12pm-13pm)
-	- [[soup]]
+- ### Lunch
+	- [[soup with meat]] or [[baked chayote]]
 	- [[salad]]
-- dinner (~18pm)
+- ### Dinner
 	- [[stewed duck]]
 	- [[stewed veggies]]
-- snacks (in stock on a permanent basis, in the fridge)
-	- sliced cheese
-	- sliced bread
-	- sliced meat
-	- bread with cheese (baked)
-	- [[nuts]]
-	- [[fruits]]
-	- [[chips]]
-	- [[cookies]]
-- drinks
-	- [[herbal tea]]
-	- [[cold brew]]
+	  
+	  ---
+- ### 🥪 Snacks
+- fresh [[fruits]]
+- [[dried fruits]]
+- [[nuts]]
+- sliced [[cheese]]
+- sliced bread
+- sliced meat
+- sliced avocado
+- [[baked bread with cheese]]
+- [[taro]]/[[sweet potato]] [[chips]]
+- [[almond cookies]]
+- [[cheese-on-flax bite]]
+- ---
+- ### ☕ Beverages
+- [[herbal tea]]
+- [[cold brew]]
+- [[fruit water]]
+- [[coconut water]]

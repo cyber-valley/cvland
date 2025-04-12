@@ -2,7 +2,7 @@ tags:: area
 
 - permaculture garden in [[rockets estate]] [[district]]
 - [[buildings]]
-	- [[permabase kitchen]]: facility for food processing
+	- [[kitchen]]: facility for food processing
 - primary plant [[species]]
 	- [[coffea arabica]]
 	- [[colocasia esculenta]]

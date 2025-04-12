@@ -1,11 +1,10 @@
-alias:: permabase/kitchen
+alias:: permabase kitchen
 
--
 - [[kitchen/rules]]
 - [[kitchen/launch]]
-- [[food delivery&storage]]
+- [[kitchen/storage]]
 - [[soap nut soap]]
 - [[kitchen/menu]]
-- [[recipes]]
+- [[kitchen/recipes]]
 -
 -
