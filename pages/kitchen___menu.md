@@ -1,24 +1,23 @@
-## 🕐  Meal schedule (UTC)
+## 🕐  meal schedule (UTC)
 *we prepare food by this time*
-	-
-	- Breakfast: 1:00 UTC
-	- Lunch: 12:00 UTC
-	- Dinner: 17:00 UTC
-- ---
-- ## 🍽️  Sample menu
-- ### Breakfast
-	- [[omelet with cheese]]
+- breakfast: 1:00 UTC
+- lunch: 4:00 UTC
+- dinner: 9:00 UTC
+- ## 🍽️  sample menu
+  :LOGBOOK:
+  CLOCK: [2025-04-12 Sat 16:11:10]--[2025-04-12 Sat 16:11:12] =>  00:00:02
+  :END:
+- ### breakfast
+	- [[omelet with cheese]] / [[boiled eggs]]
 	- [[avocado sliced]]
-	- [[salad]]
-	- [[oat porridge with fruits]]
-- ### Lunch
-	- [[soup with meat]] or [[baked chayote]]
-	- [[salad]]
-- ### Dinner
+	- fresh [[salad]]
+	- [[boiled buckwheat]]
+- ### lunch
+	- [[soup with meat]] / [[baked chayote]]
+- ### dinner
 	- [[stewed duck]]
 	- [[stewed veggies]]
-- ---
-- ### 🥪 Snacks
+- ### 🥪 snacks
 - fresh [[fruits]]
 - [[dried fruits]]
 - [[nuts]]
@@ -30,8 +29,7 @@
 - [[taro]]/[[sweet potato]] [[chips]]
 - [[almond cookies]]
 - [[cheese-on-flax bite]]
-- ---
-- ### ☕ Beverages
+- ### ☕ beverages
 - [[herbal tea]]
 - [[cold brew]]
 - [[fruit water]]

@@ -2,81 +2,71 @@ tags:: kitchen/menu, chayote, mains, with meat, with cheese, with vegetables
 
 - [[baked chayote/id]]
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeiciaj7urvylkbdir2f7pnadkyegkhkc4riu65uvhg3vza7gl3gfn4)
-- ## 🧾 🔥 Baked chayote with spiced meat & cheese
+- ## 🧾 🔥 baked chayote with spiced meat & cheese
 - slow-baked chayote halves filled with tender curried meat, sweet carrots, and herbs, topped with golden melted cheese. rich, aromatic, and served warm — a full, satisfying plate in one.
-- ---
-- ## 🍴 Meal/type
+- ## 🍴 meal/type
 	- [[mains]]
 	- [[lunch]]
 	- [[dinner]]
 	- [[baked]]
 	- [[oven dish]]
-- ---
-- ## 🍃 Ingredients
-- [[chayote]] – 2 · source: [[grown on site]]
-  collapsed:: true
-	- source: [[grown on site]] / [[local farmers]]
-- [[carrot]] – 1–2 · source: [[local farmers]]
-- [[meat]] – 300–400gr · source: [[local farmers]], [[imported]]
-- [[cheese]] – grated [[mozarella]], [[chedder]] · source: [[imported]]
-- [[curry powder]] · source: [[imported]]
-  collapsed:: true
-	- source: [[imported]]
-- [[white pepper powder]] · source: [[imported]]
-- [[fresh dill leaves]] · source: [[grown on site]]
-- [[rosemary]] (optional) · source: [[grown on site]]
-- ---
-- ## 🔧 Equipment needed
+- ## 🍃 ingredients
+	- [[chayote]] – 2 · source: [[grown on site]], [[wild-harvested]]
+	  collapsed:: true
+		- source: [[grown on site]] / [[local farmers]]
+	- [[carrot]] – 1–2 · source: [[local farmers]]
+	- [[meat]] – 300–400gr · source: [[local farmers]]
+	- [[cheese]] – grated [[mozarella]], [[chedder]] · source: [[imported]]
+	- [[curry powder]] · source: [[imported]]
+	  collapsed:: true
+		- source: [[imported]]
+	- [[white pepper powder]] · source: [[imported]]
+	- [[fresh dill leaves]] · source: [[grown on site]]
+	- [[rosemary]] (optional) · source: [[grown on site]]
+- ## 🔧 equipment needed
 	- pot
 	- knife
 	- spoon
-	- oven
+	- gas oven
 	- baking tray
-- ---
-- ## 📝 Step-by-step Instructions
-- ### 1. Boil the meat
+- ## 📝 step-by-step Instructions
+- ### 1. boil the meat
 	- in a pot, combine the meat, rosemary (optional), and curry powder.
 	- cover with water and boil gently for about 2 hours, until the meat is tender.
-- ### 2. Prepare the vegetables
+- ### 2. prepare the vegetables
 	- cut the chayotes in half lengthwise.
 	- scoop out the flesh carefully, keeping the skin intact to use as a bowl.
 	- chop the chayote flesh into small cubes.
 	- peel and cut the carrots into small pieces.
 	- chop the dill leaves finely.
-- ### 3. Chop and season the meat
+- ### 3. chop and season the meat
 	- once the meat is cooked and slightly cooled, chop it into small pieces.
 	- season it with a little more curry powder and white pepper.
-- ### 4. Season the vegetables
+- ### 4. season the vegetables
 	- mix the chopped chayote and carrots with white pepper, a pinch of salt, and fresh dill.
-- ### 5. Assemble
+- ### 5. assemble
 	- place the chopped meat at the bottom of each chayote skin "bowl".
 	- add the seasoned vegetables on top.
 	- sprinkle a generous layer of grated cheese over everything.
-- ### 6. Bake
+- ### 6. bake
 	- place the stuffed chayotes in a preheated oven at 180°c for about 20–25 minutes, or until the cheese is melted and golden.
-- ### 7. Serve
+- ### 7. serve
 	- serve hot as a hearty and aromatic main dish.
 	- perfect with fresh salad on the side.
-- ---
-- ## ⏳ Timing
+- ## ⏳ timing
 	- prep time: 30–40 minutes
 	- cook time: ~2 h
 	- bake time: ~20–25 min
 	- total: ~3 hours including prep and rest
-- ---
-- ## 🧪 Variations & substitutions
+- ## 🧪 variations & substitutions
 	- meatless version with lentils or mushrooms
 	- add [[garlic]] if available
 	- substitute [[edam]], [[gouda]] or [[goat cheese]] depending on source
-- ---
-- ## 🧭 Food pairing
+- ## 🧭 food pairing
 	- fresh [[salad]]
-- ---
-- ## ♻️ Waste use
-	- vegetable scraps: [[compost]]
+- ## ♻️ waste use
+	- vegetable scraps: [[animal feed]]
 	- meat scraps/broth: [[animal feed]]
-- ---
-- ## 💡 Tips
+- ## 💡 tips
 	- chayote skins hold shape well, firm but edible
-	-
-- **Enjoy your meal!** 🍽️ 🌿
+- > **enjoy your meal!** 🍽️ 🌿
