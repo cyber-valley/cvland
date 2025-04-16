@@ -1,0 +1,4 @@
+- [[stewed duck]]
+- [[soup with meat]]
+- [[stewed veggies]]
+- [[baked chayote]]

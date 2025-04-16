@@ -1,0 +1,6 @@
+- [[recipes/breakfast]]
+- [[recipes/mains]]
+- [[recipes/snacks]]
+- [[recipes/sides]]
+- [[recipes/cookies]]
+- [[recipes/with cheese]]

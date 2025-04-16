@@ -1,5 +1,4 @@
 tags:: species
-alias:: black plum, damson plum, jambolan plum, java plum, jamun
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmdS5g9oV1SxePvi6gKJHzBVtgQFkdqT5JKYZSUEQ2bYNG)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmVf8zoFxtjA6VDEmCESD8f7Gc1DupyV1JFTs5Yzqe7aE4){:height 646, :width 408}
@@ -116,4 +115,4 @@ alias:: black plum, damson plum, jambolan plum, java plum, jamun
 	- leave the poultice on for 30 minutes to 1 hour, then rinse with cool water.
 	- repeat daily until the [[inflammation]] subsides.
 - **uses**
-	- this poultice is traditionally used to reduce [[inflammation]] , [[swelling]] , and [[pain]] due to its [[anti-inflammatory]] and [[antimicrobial]] properties. it is commonly applied to minor [[wounds]] , [[insect bites]] , and [[joint pain]] .
+	- this poultice is traditionally used to reduce [[inflammation]] , [[swelling]] , and [[pain]] due to its [[anti-inflammatory]] and [[antimicrobial]] properties. it is commonly applied to minor [[wounds]] , [[insect bites]] , and [[joint pain]]

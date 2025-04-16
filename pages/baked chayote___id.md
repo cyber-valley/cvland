@@ -1,0 +1,58 @@
+## 🧾 🔥 labu siam panggang isi daging berbumbu & keju
+- setengah labu siam yang dipanggang perlahan, diisi daging empuk berbumbu kari, wortel manis, dan rempah segar, lalu ditaburi keju leleh keemasan. kaya rasa, aromatik, dan disajikan hangat — satu piring lengkap yang memuaskan.
+- ## 🍃 bahan-bahan
+	- [[labu siam]] – 2
+	- [[wortel]] – 1–2
+	- [[daging]] – 300–400 g
+	- [[keju]] – parut, jenis [[mozarella]], [[cheddar]]
+	- [[bubuk kari]]
+	- [[bubuk lada putih]]
+	- [[daun dill segar]]
+	- [[daun rosemary]] (opsional)
+- ## 🔧 peralatan yang dibutuhkan
+	- panci
+	- pisau
+	- sendok
+	- oven
+	- loyang panggang
+- ## 📝 langkah-langkah Pembuatan
+- ### 1. rebus daging
+	- dalam panci, campur daging, rosemary (opsional), dan bubuk kari.
+	- tambahkan air hingga menutupi dan rebus perlahan selama kurang lebih 2 jam, sampai daging empuk.
+- ### 2. siapkan sayuran
+	- belah labu siam memanjang jadi dua bagian.
+	- keluarkan daging buahnya dengan hati-hati, jaga agar kulit tetap utuh untuk digunakan sebagai wadah.
+	- potong kecil daging labu siam.
+	- kupas dan potong kecil wortel.
+	- cincang halus daun dill.
+- ### 3. cincang dan bumbui daging
+	- setelah daging matang dan agak dingin, cincang kecil.
+	- bumbui lagi dengan sedikit bubuk kari dan lada putih.
+- ### 4. bumbui sayuran
+	- campur labu siam cincang dan wortel dengan lada putih, sejumput garam, dan daun dill segar.
+- ### 5. susun
+	- letakkan daging cincang di dasar "mangkuk" kulit labu siam.
+	- tambahkan campuran sayuran berbumbu di atasnya.
+	- taburi lapisan keju parut di atasnya.
+- ### 6. panggang
+	- masukkan labu siam isi ke oven yang telah dipanaskan sebelumnya pada 180°c selama sekitar 20–25 menit, hingga keju meleleh dan berwarna keemasan.
+- ### 7. sajikan
+	- sajikan panas sebagai hidangan utama yang harum dan mengenyangkan.
+	- cocok dipadukan dengan salad segar di samping.
+- ### ⏳ waktu memasak
+	- waktu persiapan: 30–40 menit
+	- waktu merebus: ~2 jam
+	- waktu memanggang: ~20–25 menit
+	- total: ~3 jam termasuk persiapan dan istirahat
+- ### 🧪 variasi & pengganti
+	- versi tanpa daging menggunakan lentil atau jamur
+	- tambahkan [[bawang putih]] jika tersedia
+	- ganti keju dengan [[edam]], [[gouda]] atau [[keju kambing]] tergantung sumber
+- ### 🧭 cocok disajikan dengan
+	- [[salad]] segar
+- ### ♻️ penggunaan limbah
+	- sisa sayuran: [[pakan ternak]]
+	- sisa daging / kaldu: [[pakan ternak]]
+- ## 💡 tips
+	- kulit labu siam tetap utuh dan cukup kuat untuk menampung isian, namun tetap bisa dimakan
+- > **selamat menikmati!** 🍽️ 🌿
