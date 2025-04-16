@@ -1,5 +1,6 @@
 icon:: 🥕
 
+- TODO not actual anymore, rewrite the process
 - ## steps
 	- ## go to [our github forum](https://github.com/orgs/cyber-valley/discussions/1)
 	- ## submit post with essay

@@ -9,8 +9,8 @@ alias:: cv
 -
 -
 - ## build [[citadel genesis]] with us
-	- first step: launch of [[bootcamp/v0]] [[pilot]] as eduhealth foundation of the project
-	- second step: complete [[game of freedom]] and go to the next level
+	- first step: launch of [[bootcamp]] as eduhealth foundation of the project
+	- second step: launch [[button]] - the ability to globally buy usage rights
 	- you can join construction and venture: [[apply for bootcamp]]
 -
 - ## dive into [[sytech]]: practical philosophy of [[autonomy]]
