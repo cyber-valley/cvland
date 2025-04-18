@@ -1,0 +1,15 @@
+type:: sector
+
+- connected to [[edem/sectors]]
+	- [[edem/06]]
+	- [[edem/15]]
+	- [[edem/08]]
+- [[guilds]]
+	- [[eucalyptus deglupta]]
+	- [[citrus limon]]
+	- [[citrus sinensis]]
+	- [[bergera koenigii]]
+	- [[trema micrantha]]
+	- [[salvia leucantha]]
+	- [[iresine diffusa herbstii]]
+	- [[vitis vinifera]]

@@ -23,3 +23,4 @@ alias:: and more
 	- [[lowtech construction]]: building fast and cheap
 	- [[sensors, dev and control]]: how to automate and lead community
 	- [[token engineering]]: how to program society for good
+	- [[birth and death]]:

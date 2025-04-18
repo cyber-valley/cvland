@@ -1,0 +1,33 @@
+type:: sector
+
+- connected to [[edem/sectors]]
+	- [[edem/07]]
+	- [[edem/14]]
+	- [[edem/16]]
+- [[unidentified]]: 6
+- [[annona muricata]]
+- [[angelonia angustifolia]]
+- [[cucurbita pepo]]
+- [[phyllanthus acidus]]: 4
+- [[inga edulis]] : 4
+- TODO [[litchi chinensis]]
+- TODO [[triphasia trifoila]]
+- TODO [[strobilanthes auriculatus]]
+- TODO [[magnolia cempaka]]
+- [[citrus sinensis]]
+- [[persea americana]]: 3
+- [[citrus sinensis]]
+- [[albizia julibrissin]]
+- TODO [[mussaenda philippica]]
+- TODO [[persea americana]]
+- TODO [[codiaeum variegatum]]
+- [[citrus sinensis]]
+- [[gladiolus murielae]]
+- [[casuarina equisetifolia]]
+- [[camellia japonica]]
+- [[dracaena sanderiana]]
+- TODO [[asplenium nidus]]
+- [[pleroma semidecandrum]]
+- TODO [[alpinia purpurata]]
+- TODO [[jasminum sambac]]
+- TODO [[thuja occidentale]]

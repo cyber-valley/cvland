@@ -1,0 +1,3 @@
+tags:: species, rejected
+
+- [[carpet]]

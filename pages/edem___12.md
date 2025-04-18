@@ -1,0 +1,17 @@
+type:: sector
+
+- connected to [[edem/sectors]]
+	- [[edem/11]]
+	- [[edem/13]]
+- [[morus nigra]]
+- [[caesalpinia pulcherrima]]
+- [[galphimia glauca]]
+- [[cordyline fruticosa]]
+- TODO [[podocarpus macrophyllus]]
+- TODO [[sapindus mukorossi]]
+- [[schleichera oleosa]]
+- TODO [[plinia cauliflora]]
+- [[calliandra tergemina]]
+- TODO [[tabebuia aurea]]
+- TODO [[acalypha hispida]]
+- [[melaleuca viminalis]]
