@@ -34,7 +34,7 @@ alias:: malabar plum, java plum, black plum, jamun, jaman, jambul, jambolan
 			- wind-damage:: salty-coastal, cold-dry
 		- soil:: deep, loamy to clay-loam, well-drained but tolerant to seasonal waterlogging
 			- soil-ph:: 5.5–7.5
-			- soi-type:: loamy, clay-loam, alluvial
+			- soil-type:: loamy, clay-loam, alluvial
 		- spacing:: 8–12 m between mature trees for full crown development
 			- good-neighbors:: [[azadirachta]], [[moringa]], [[curcuma]], [[cajanus]]
 			- bad-neighbors:: [[ficus]], [[eucalyptus]], [[casuarina]]

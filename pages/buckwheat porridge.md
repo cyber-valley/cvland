@@ -1,27 +1,64 @@
-- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreih4av7pd7xxcswwskj6fqgf4u5t6rth7foga7baxvtbqhnma7snkm){:height 416, :width 408}
-- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeigzp7udsk7kccjtuaatwtcpeuepkc7ysnvvwiy5chsgbw2zgl5a2u)
-- boiled buckwheat (single serving, no salt)
-- ingredients
-	- 1/2 cup buckwheat groats (per person)
-	- 1 cup water
-	- optional toppings: butter, herbs, or roasted vegetables
-- instructions
-	- rinse the buckwheat
-		- rinse 1/2 cup of buckwheat groats under cold running water to remove any dust or debris.
-	- boil water
-		- in a middle saucepan, bring 1 cup of water to a boil (or more, dependes of portions)
-	- add buckwheat
-		- add the rinsed buckwheat groats to the boiling water.
-	- simmer the buckwheat
-		- reduce the heat to low and cover the saucepan with a lid.
-		- simmer the buckwheat for about 15-20 minutes, or until all the water is absorbed.
-	- check doneness
-		- the buckwheat should be soft and tender but not mushy.
-	- rest the buckwheat
-		- remove the saucepan from the heat and let it sit, covered, for 5 minutes.
-	- fluff and serve
-		- fluff the buckwheat with a fork.
-		- serve hot as a light meal or a base for vegetables or proteins.
-- notes:
-	- for a nutty flavor, toast the buckwheat groats in a dry skillet for a few minutes before cooking.
-	- garnish with butter, fresh herbs, or roasted vegetables.
+tags:: kitchen/menu, buckwheat, mains, porridge, gluten-free, boiled, plant-based
+
+- <img src="https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreih4av7pd7xxcswwskj6fqgf4u5t6rth7foga7baxvtbqhnma7snkm" style="width:500px; height:auto;" />
+- <img src="https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeigzp7udsk7kccjtuaatwtcpeuepkc7ysnvvwiy5chsgbw2zgl5a2u" style="width:500px; height:auto;" />
+- ### 🧾 🌾 [[boiled buckwheat]] (no salt)
+- soft, light, and naturally nutty buckwheat groats, cooked simply with water — a nourishing base for any meal.
+- ### 🍴 meal/type
+	- [[mains]]
+	- [[breakfast]]
+	- [[lunch]]
+	- [[boiled]]
+	- [[gluten-free]]
+	- [[plant-based]]
+- ## 🍃 ingredients
+	- [[buckwheat groats]] – 1/2 cup (single serving) · source:  [[imported]]
+	- [[water]] – 1 cup (for boiling)
+	- optional toppings: [[ghee]], [[herbs]], [[baked vegetables]]
+- ### 🔧 [[equipment needed]]
+	- saucepan with lid
+	- colander
+	- spoon or fork
+- ## 📝 step-by-step instructions
+	- ### 1. rinse the buckwheat
+		- rinse 1/2 cup of buckwheat groats under cold running water to remove dust and debris
+	- ### 2. boil water
+		- in a medium saucepan, bring 1 cup of water to a boil
+		- adjust water amount depending on portions
+	- ### 3. add buckwheat
+		- add the rinsed buckwheat to the boiling water
+	- ### 4. simmer
+		- reduce heat to low
+		- cover with a lid
+		- simmer for 15–20 minutes until all water is absorbed
+	- ### 5. check doneness
+		- buckwheat should be soft and tender but not mushy
+	- ### 6. rest
+		- remove from heat
+		- let sit covered for 5 minutes
+	- ### 7. fluff and serve
+		- fluff with a fork
+		- serve hot as a light meal or base for vegetables or proteins
+- ### ⏳ timing
+	- prep time: 2–3 minutes
+	- cook time: 15–20 minutes
+	- resting time: 5 minutes
+	- total: ~25 minutes
+- ### 🔥 [[nutrition]] (per 100 g)
+	- calories: ~92 kcal
+	- protein: ~3.4 g
+	- fat: ~0.6 g
+	- carbohydrates: ~19.9 g
+- ### 🧪 variations & substitutions
+	- for nutty flavor: dry-toast the groats in a skillet before boiling
+	- top with [[ghee]], fresh [[herbs]], or [[baked vegetables]]
+	- mix with [[steamed greens]] for a full meal
+	- if used as a [[sides]] for [[lunch]] or [[dinner]], keep the version savory without sweet toppings
+- ### 🧭 food pairing
+	- [[herbal tea]], [[salad]], [[avocado sliced]] or mashed
+- ### ♻️ waste use
+	- rinse water: use for compost or garden watering
+- ### 💡 tips
+	- do not overcook — buckwheat becomes mushy if overhydrated
+	- for firmer texture, reduce water slightly
+- > **enjoy your meal!** 🌾🌿

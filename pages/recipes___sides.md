@@ -1,2 +1,1 @@
-- [[boiled buckwheat]]
-- [[boiled lentils]]
+- [[simple lentil base]]

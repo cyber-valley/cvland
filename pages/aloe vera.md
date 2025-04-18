@@ -37,7 +37,7 @@ alias:: aloe barbadensis, aloe indica royle, aloe perfoliata, aloe vulgaris
 			- wind-damage:: hot-dry, cold-dry, salt-laden
 		- soil:: sandy to rocky, fast-draining soils with low fertility
 			- soil-ph:: 6.0–7.0
-			- soi-type:: sandy, loamy, volcanic
+			- soil-type:: sandy, loamy, volcanic
 		- spacing:: 50–80 cm between plants in rows, good air circulation essential
 			- good-neighbors:: [[opuntia]], [[rosmarinus]], [[lavandula]], [[cymbopogon]]
 			- bad-neighbors:: [[mentha]], [[basil]], [[colocasia]]

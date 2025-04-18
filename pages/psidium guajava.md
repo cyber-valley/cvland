@@ -8,56 +8,83 @@ alias:: guava, jambu batu
 - [info](http://www.plantsofasia.com/index/psidium/0-336)
 - [wiki](https://en.wikipedia.org/wiki/Psidium_guajava)
 - [tokopedia](https://www.tokopedia.com/maiyahflorist/bibit-tanaman-buah-jambu-kerikil-psidium-guajava?extParam=ivf%3Dfalse%26src%3Dsearch)
-- ### review of the psidium guajava
-- [[psidium guajava]], commonly known as [[guava]], is a small tropical tree or shrub native to central america and widely cultivated in tropical and subtropical regions around the world. it is valued for its [[sweet]], [[nutritious]] fruit, medicinal properties, and versatility in [[agroforestry systems]].
-- [[psidium guajava]] is a [[resilient]], [[fast-growing]] tree that provides [[abundant]] food, [[medicine]], and biomass. it plays multiple roles in sustainable farming and agroecological systems and is a great choice for home gardens, food forests, and [[permaculture]] designs.
-- **parts of the plant and their uses:**
-	- **root**: roots are not commonly used but may be included in some [[traditional medicine]] preparations for treating [[digestive]] and [[inflammatory]] conditions.
-	- **stem**: woody stems are occasionally used for small tools or [[fuelwood]]. also useful as structural support in [[agroforestry]] or living fences.
-	- **fruit**: the main economic product. [[fruits]] are rich in [[vitamin c]], [[fiber]], and [[antioxidants]]. eaten fresh, juiced, or processed into [[jams]], [[jellies]], [[candies]], and [[beverages]].
-	- **leave**: used extensively in [[traditional medicine]] for treating [[diarrhea]], [[wounds]], [[cough]], and [[inflammation]]. often used as [[herbal tea]] or [[poultice]].
-	- **bark**: used in [[decoctions]] and [[tinctures]] for its [[astringent]] and [[antimicrobial]] properties, especially in [[digestive]] treatments.
-	- **flower**: small white flowers are not widely used, but may be infused for mild [[calming]] [[teas]] or used in traditional remedies.
-- **uses of psidium guajava:**
-	- **plants/fruits**: highly nutritious [[fruit]] consumed fresh or processed.
-	- **plants/greens**: leaves are used in [[teas]] and [[poultices]] but not consumed as vegetables.
-	- **plants/flowers**: flowers may be used in [[infusions]] and traditional remedies for [[calming]] effects.
-	- **plants/resins**: does not produce commercial resin.
-	- **plants/timber**: wood is dense and [[termite-resistant]], used locally for posts, tools, and [[firewood]].
-	- **plants/medicine**: leaves, bark, and fruit are used in [[traditional medicine]] for [[digestive issues]], [[diabetes]], [[inflammation]], [[skin]] problems, and [[infections]].
-	- **plants/fuel**: [[wood]] is a good source of [[firewood]] and [[charcoal]] in rural areas.
-	- **plants/textile**: not used for fiber or textiles.
-	- **plants/fertilizer**: pruned leaves and twigs decompose quickly and add organic matter to soil. fallen fruit can be used as [[compost]].
-- **data:**
-	- **sun requirements**: [[full sun]] preferred for fruit production, tolerates light [[shade]].
-	- **water requirements**: moderate water needs. [[drought-tolerant]] once established, but regular watering improves fruit [[yield]].
-	- **soil ph**: grows best in slightly acidic to neutral soils (ph 5.5 to 7.0).
-	- **plant/roles in permaculture guilds**: guava is excellent in tropical and subtropical [[permaculture]] systems. it provides [[fruit]], [[biomass]], and [[windbreaks]]. its dense [[canopy]] offers partial [[shade]] for [[herbs]] or young trees. its roots improve [[soil structure]], and it benefits from companion planting with [[nitrogen-fixers]] like [[pigeon pea]], [[ground covers]] like [[sweet potato]], and [[dynamic accumulators]] like [[comfrey]].
-	- **height in meters**: typically 3–8 meters tall, can reach up to 10 meters.
-	- **spacing in meters**: 3–6 meters between trees, depending on variety and management.
-	- **germination days**: seeds germinate in 14–30 days. propagation is also done by cuttings or grafting for better fruit quality.
-	- **strata**: low to [[mid canopy]] tree in [[agroforestry]]. fits well in the [[sub-canopy]] layer.
-	- **days to maturity**: [[seedlings]] bear fruit in 2–4 years. grafted trees may fruit in 1–2 years.
-	- **plant, harvest, pruning calendar in months**:
-		- **planting**: best at the beginning of [[rainy season]] (march–may).
-		- **pruning**: prune lightly after harvest to control shape and encourage branching.
-		- **harvest**: fruit ripens 4–6 months after flowering; main harvest varies by climate but often occurs in dry season (august–november).
-	- **good neighbors**: grows well with [[bananas]], [[cassava]], [[pigeon pea]], [[lemongrass]], [[comfrey]], and [[sweet potato]]. benefits from [[nitrogen-fixers]] and [[mulch]]-producing plants.
-	- **bad neighbors**: avoid planting too close to large [[canopy tree]] that block sunlight, or crops that are very sensitive to root competition.
-- | chemical compound       | plant part            | amount (%)        | description                                                                 |
-  |-------------------------|------------------------|-------------------|-----------------------------------------------------------------------------|
-  | [[vitamin c]] (ascorbic acid) | fruit               | 0.2–0.7% (200–700 mg/100g) | powerful [[antioxidant]], boosts [[immunity]], promotes [[skin health]].                |
-  | flavonoids (quercetin, kaempferol) | leaves, fruit     | 1–5%              | [[antioxidant]], [[anti-inflammatory]], supports [[vascular health]] and [[immune system]]. |
-  | [[tannins]]                 | leaves, bark          | 10–20%            | [[astringent]], [[antimicrobial]], used for [[diarrhea]] and [[wound healing]].             |
-  | lycopene                | fruit (red varieties) | 0.01–0.05%        | [[antioxidant]], protects against [[oxidative stress]], supports [[heart health]].      |
-  | carotenoids             | fruit                 | 0.05–0.1%         | precursors to [[vitamin a]], important for [[vision]] and [[skin health]].              |
-  | [[essential oils]]          | leaves                | 0.3–0.5%          | [[antimicrobial]] and [[anti-inflammatory]], used in [[herbal infusions]] and [[skin care]] . |
-  | saponins                | leaves, bark          | 0.5–2%            | [[immune-modulating]] and [[antimicrobial]] properties.                             |
-  | fiber (dietary)         | fruit skin and pulp   | 5–7%              | promotes [[digestion]] and [[blood sugar regulation]] .                               |
-  | alkaloids               | leaves, bark          | trace–1%          | potential [[antidiabetic]] and [[antimicrobial]] activity.                          |
-  | polyphenols             | leaves, fruit         | 1–3%              | [[reduces inflammation]] and support [[antioxidant]] defenses.                       |
-  | pectin                  | fruit                 | 1–2%              | soluble [[fiber]], helps with [[digestion]] and used in jelly/ [[jams]] production.       |
-- ### traditional medicine use
+- [[plant/type]]: tropical [[evergreen]] [[shrub]] or small tree
+- properties
+	- root: moderately deep [[taproot]] with lateral roots, adaptable to poor soils
+	- stem: woody, branched, with smooth, flaky bark revealing greenish underlayer
+	- leaf: opposite, oblong to elliptic (5–15 cm), leathery, aromatic when crushed
+		- leaf-length:: 5–15 cm
+	- flower: white, [[fragrant]], 4–5 petals with numerous stamens, solitary or clustered
+	- fruit: round to pear-shaped berry, 5–12 cm, green to yellow skin, white to pink flesh with small hard [[seeds]]
+	- bark: thin, exfoliating in patches, light brown to green, [[medicinal purposes]]
+	- timber: moderately hard, light brown, used for [[tools]], [[firewood]], and [[carving]]
+	- environment:: thrives in warm, humid climates with [[full sun]] and well-drained soil, drought-tolerant and highly adaptable
+		- climate:: tropical to subtropical, tolerates dry and humid zones, fruits well with light seasonal variation
+			- sun:: 700–1000 W/m²
+			- no-sun-days:: 10–15 days
+			- water:: 1000–2000 mm/year
+			- no-water-days:: 30–60 days
+			- humidity:: 50–90 %
+			- fog-resistance:: 10–15 days
+			- max-temp:: 42 °C
+			- optimal-temp:: 22–32 °C
+			- min-temp:: 4 °C
+			- wind-damage:: cold-dry, salty-coastal
+		- soil:: light to medium loamy soil with good drainage, tolerates acidic to neutral pH and moderate salinity
+			- soil-ph:: 5.0–7.5
+			- soil-type:: [[loamy]],[[sandy loam], [[volcanic]]
+		- spacing:: 4–6 m between trees depending on variety and management system
+			- good-neighbors:: [[moringa]], [[cassava]], [[citrus]], [[curcuma]]
+			- bad-neighbors:: [[eucalyptus]], [[ficus]], [[casuarina]]
+			- max-height:: 800 cm
+			- max-spread:: 600 cm
+	- lifecycle
+		- longevity:: 30–40 years
+		- germination:: seeds germinate in 14–30 days, [[scarification]] improves speed and success
+		- seedling:: fast initial growth, transplant at 20–30 cm height, prefers [[filtered light]]
+		- mature:: flowers and fruits in 2–4 years; multiple fruiting cycles per year in tropical zones
+		- death:: gradual decline due to [[fungal]] disease, water [[stress]], or old [[age]]
+	- [[plant/features]]: [[edible fruit]], [[fast-growing]], [[attract pollinators]], [[medicinal]], [[wind-tolerant]]
+	- [[biome/layer]]: [[sub-canopy]], [[canopy]] (in food forests), [[shrub-layer]] (in [[pruning systems]])
+	- [[products]]: fresh [[fruit]], [[fruit juice]], [[fruit vinegar]], [[leaf tea]], [[leaf extract]], [[bark decoction]], [[timber]], [[dye]], [[firewood]]
+	- [[chemical compounds]]  
+	  | compound              | plant part     | % amount         | description                                                             |
+	  |-----------------------|----------------|------------------|-------------------------------------------------------------------------|
+	  | [[vitamin c]] ([[ascorbic acid]]) | fruit       | ~200–300 mg/100g | [[antioxidant]], [[boost immunity]]                                          |
+	  | [[dietary fiber]]         | fruit          | ~5–7%            | aids [[digestion]], slows [[sugar absorption]]                                  |
+	  | [[pectin]]                | fruit          | ~1.2–2%          | soluble [[fiber]] used in [[gut health]] and [[fruit processing]]                   |
+	  | [[quercetin]]             | leaf           | ~0.5–1%          | [[antioxidant]], [[anti-inflammatory]], [[blood sugar regulation]]                   |
+	  | [[tannins]]               | leaf, bark     | ~5–10%           | [[astringent]], [[antibacterial]], [[antifungal]]                                   |
+	  | [[flavonoids]]            | leaf, fruit    | ~0.3–1%          | [[antioxidant]], supports [[capillary health]]                                  |
+	  | [[carotenoids]]           | fruit          | ~0.1–0.3%        | [[antioxidant]] [[pigments]], [[provitamin]] a activity                             |
+	  | essential oils        | leaf           | trace <0.1%      | aromatic, antimicrobial                                                 |
+	  | alkaloids             | bark, root     | ~0.1–0.3%        | traditional use in antimicrobial and anti-diarrheal applications        |
+	  | triterpenoids         | bark, leaf     | trace–0.5%       | mild anti-inflammatory and liver-supporting actions                     |
+	  | lignin, cellulose     | timber         | ~40–60%          | structural wood components used for tools and biofuel                   |
+	- operations
+		- [[propagation]]: most commonly grown from seed; improved cultivars propagated by grafting, air-layering, or cuttings
+		- [[maintenance]]: prune annually after fruiting to control height, shape, and encourage flowering; mulch and compost around root zone
+		- [[harvest]]:
+			- fruit: hand-harvested when yellow or light green and aromatic, fruiting occurs 2–3 times per year in tropical zones
+			- leaves: collected for [[tea]] or [[extract]], young, mature green leaves preferred
+			- bark: harvested from mature trees for decoction in [[traditional medicine]]
+			- timber: used from old or pruned trees, applied in basic [[carpentry]] and [[firewood]]
+- ### **traditional medicine uses of [[psidium guajava]]**
+- **leaves**:
+	- infused or decocted to treat [[diarrhea]], [[dysentery]], and [[stomach pains]]
+	- used as a [[gargle]] for [[sore throats]], [[mouth ulcers]], and [[gum infections]]
+	- applied topically as a [[wound cleanser]] or [[anti-inflammatory]] poultice
+	- brewed into tea for [[fever]], [[cough]], and [[flu]] symptoms
+	- powdered leaves used in traditional [[diabetes]] control
+- **bark**:
+	- decoction used as an [[antibacterial]] wash for [[skin infections]] and [[wounds]]
+	- traditionally used for [[menstrual regulation]], [[bleeding]], and [[fever]]
+- **fruit**:
+	- eaten raw or in preparations to boost [[immunity]] and [[digestive health]]
+	- used in folk remedies to treat [[constipation]], [[high blood pressure]], and [[scurvy]]
+- **roots**:
+	- root extracts are occasionally used for [[intestinal worms]] and chronic [[diarrhea]]
+- ### traditional medicine recipes
 - **guava leaf tea for [[diarrhea]] and [[digestion]]**
 	- **ingredients**
 		- 5–7 fresh guava leaves (or 1 tablespoon dried)

@@ -5,56 +5,67 @@ alias:: plum
 - [[fruit]]
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmeZ1RYaxEy4TS7KnVXDfPTz7ikpoahRyVBWGFTGghBnkr)
 - [prunus_domestica](https://en.wikipedia.org/wiki/Prunus_domestica)
-- ### review of the prunus domestica
-- [[prunus domestica]], commonly known as the european plum, is a deciduous [[fruit]] tree cultivated in temperate climates worldwide. it is valued for its [[sweet]] and tart [[fruit]], which can be eaten fresh or dried into [[prunes]]. the tree also plays a useful role in temperate [[agroforestry]] and home orchards.
-- [[prunus domestica]] is a valuable [[fruit]] tree in temperate climates, offering [[sweet]] fruits, useful [[wood]], and support for [[biodiversity]]. it works well in mixed [[orchards]] and [[food forests]] when integrated with supporting species that [[improve soil]], [[repel pest]]s, and [[attract pollinators]].
-- **parts of the plant and their uses:**
-	- **root**: the roots stabilize the tree and support [[nutrient uptake]]. in some traditions, root bark has been used for [[herbal extracts]], though it’s not common.
-	- **stem**: the woody stem provides [[structural support]] and [[yields]] hard, dense [[wood]] that can be used for [[tools]], [[carving]], or small [[crafts]].
-	- **fruit**: the main [[edible]] part. plums are consumed [[fresh]], [[dried]] (as prunes), or processed into [[jams]], [[jellies]], [[sauces]], [[wine]], and [[baked]] goods. rich in [[vitamins a]] and [[vitamin c]], [[fiber]], and [[antioxidants]].
-	- **leave**: leaves are not commonly used for [[food]], but are sometimes applied externally in [[folk medicine]] for [[skin irritations]].
-	- **bark**: bark from young stems may be used in [[decoctions]] for treating [[inflammation]] and [[digestive issues]].
-	- **flower**: small white or pale pink flowers are used decoratively and occasionally in [[herbal tea]] for [[calming effects]].
-- **uses of prunus domestica:**
-	- **plants/fruits**: the plum [[fruit]] is a major product in [[fresh]], [[dried]], and processed forms.
-	- **plants/greens**: not used as greens.
-	- **plants/flowers**: sometimes used in [[teas]] or as edible [[garnish]], though not common.
-	- **plants/timber**: [[wood]] is hard and fine-grained, used in [[carving]], [[tools]] handles, and small [[furniture]] pieces.
-	- **plants/medicine**: plums and prunes are traditionally used to [[relieve constipation]], support [[liver health]], and provide [[antioxidants]]. bark and leaves are used in [[folk medicine]] for [[minor ailments]].
-	- **plants/fuel**: [[wood]] from prunings and dead limbs is suitable for [[firewood]].
-	- **plants/textile**: not used for fiber or textile purposes.
-	- **plants/fertilizer**: fallen leaves and pruned branches can be used as [[compost]]. fruit waste can enrich [[compost]] or be fed to [[livestock]].
-- **data:**
-	- **sun requirements**: [[full sun]] (6–8 hours daily) is essential for healthy fruit production.
-	- **water requirements**: moderate; requires [[consistent moisture]], especially during fruit formation. avoid waterlogging.
-	- **soil ph**: prefers slightly acidic to neutral soil (ph 6.0–7.0).
-	- **plant/roles in permaculture guilds**: prunus domestica fits well into temperate forest gardens as a [[mid-strata]] [[fruit tree]]. it provides seasonal [[shade]], supports [[pollinators]] when flowering, and adds leaf litter. companion planting with [[nitrogen fixers]] (like [[clover]] or [[goumi]]), [[dynamic accumulators]] (like [[comfrey]]), and [[pest-repelling]] [[herbs]] (like [[chives]], [[garlic]], or [[mint]]) is beneficial. it’s sensitive to [[fungal]] diseases, so airflow and [[fungal companions]] (like [[chamomile]]) are helpful.
-	- **height in meter**: typically 3–7 meters depending on cultivar and pruning.
-	- **spacing in meter**: 4–6 meters between trees is ideal for air circulation and access.
-	- **germination days**: seeds take 60–90 days to germinate after cold stratification; grafting or cuttings are more commonly used.
-	- **strata**: [[mid-strata]] [[fruit tree]].
-	- **days to maturity**: grafted trees begin fruiting in 3–5 years; seedlings take longer (5–8 years).
-	- collapsed:: true
-	  
-	  **plant, harvest, pruning calendar in months**:
-		- **planting**: late winter or early spring (february–april) or fall in mild climates.
-		- **pruning**: winter (dormant season) and light summer thinning.
-		- **harvest**: depending on variety, typically july to september.
-	- **good neighbors**: grows well with [[clover]], [[garlic]], [[comfrey]], [[borage]], and [[nitrogen-fixing]] [[shrubs]]. benefits from [[pollinator]]-attracting [[herbs]] and good airflow.
-	- **bad neighbors**: avoid planting near [[black walnut]] ([[allelopathic]]), or plants prone to [[fungal]] issues in dense [[shade]] or poor airflow. also avoid overwatering species nearby due to root rot sensitivity.
-- ### chemical compounds
-- | chemical compound       | plant part         | amount (%)        | description                                                                 |
-  |-------------------------|--------------------|-------------------|-----------------------------------------------------------------------------|
-  | sorbitol                | fruit (fresh, prune) | 5–15%           | natural sugar [[alcohol]] with mild [[laxative effects]]. helps regulate [[digestion]].  |
-  | [[vitamin c]] (ascorbic acid) | fruit            | 0.02–0.05%       | [[antioxidant]], supports [[immunity]] and [[skin health]].                             |
-  | anthocyanins (cyanidin-3-glucoside) | fruit skin        | 0.01–0.1%         | [[pigments]] with strong [[antioxidant]] activity, give purple color to fruit.      |
-  | chlorogenic acid        | fruit, leaf         | 0.1–0.3%         | [[antioxidant]] and [[anti-inflammatory]], may regulate [[blood sugar]].                |
-  | neochlorogenic acid     | fruit               | 0.05–0.2%        | similar to [[chlorogenic acid]], adds [[antioxidant]] and [[antimicrobial]] properties. |
-  | dietary [[fiber]] (pectin)  | fruit flesh and skin| 1–3%              | soluble fiber, supports digestive health, lowers cholesterol.               |
-  |[[tannins]]                  | bark, leaves        | 3–10%             | [[astringent]], [[antimicrobial]], used traditionally for [[diarrhea]] and [[skin issues]]. |
-  | [[phenolic compounds]]     | fruit, leaf         | 0.2–1.5%          | general [[antioxidants]] that help prevent [[oxidative stress]].                    |
-  | [[vitamin a]] (carotenoids) | fruit               | trace–0.05%       | important for [[eye health]], [[immune function]].                                  |
-  | coumarins               | bark, leaf          | trace–0.5%        | [[bioactive compounds]], may contribute to mild [[anticoagulant]] effect.           |
+- [[plant/type]]: deciduous [[fruit tree]] of the [[rosaceae]] family
+- properties
+	- root: moderately deep root system, fibrous and branching. benefits from well-aerated soils
+	- stem: straight trunk with rough grey-brown bark. branches spread outward
+	- leaf: alternate, ovate to oblong, 4–10 cm long, serrated edge, deep green
+		- leaf-length:: 4–10 cm
+	- flower: white, five-petaled, borne in clusters in early spring before leaves appear
+	- fruit: [[drupe]] ([[plum]]), oval or round (3–8 cm), skin varies from yellow to purple, flesh [[sweet]] or [[tart]]  with a hard [[seed]]
+	- bark: rough, grey-brown, occasionally used in [[traditional medicine]]
+	- timber: dense, moderately hard, fine-textured, used in [[crafts]] and [[tool handles]]
+	- environment:: prefers temperate climates with cold winters and warm summers, fertile, [[well-drained]] soils
+		- climate:: temperate with chill periods for flowering and fruiting. tolerates some drought once established
+			- sun:: 600–900 W/m²
+			- no-sun-days:: 10–20 days
+			- water:: 800–1200 mm/year
+			- no-water-days:: 30–45 days
+			- humidity:: 40–70 %
+			- fog-resistance:: 7–10 days
+			- max-temp:: 38 °C
+			- optimal-temp:: 18–26 °C
+			- min-temp:: –20 °C
+			- wind-damage:: strong-dry, cold-snap, hail
+		- soil:: well-drained [[loamy]] soil with moderate [[fertility]]. sensitive to waterlogging
+			- soil-ph:: 6.0–7.5
+			- soil-type:: [[loamy]], [[sandy-loam]], [[silty-loam]]
+		- spacing:: 4–6 m between trees depending on variety and pruning method
+			- good-neighbors:: [[allium]], [[comfrey]], [[trifolium]], [[lavandula]]
+			- bad-neighbors:: [[juglans]], [[eucalyptus]]
+			- max-height:: 600 cm
+			- max-spread:: 500 cm
+	- lifecycle
+		- longevity:: 30–50 years
+		- germination:: seeds germinate in 30–60 days after [[stratification]] (cold treatment). usually grafted for production
+		- seedling:: slow in first year, prefers filtered sun and moist, well-aerated soil
+		- mature:: begins flowering and fruiting 3–5 years after planting (grafted), with annual harvests
+		- death:: productivity declines after 25–35 years; root diseases and borer insects can accelerate death
+	- [[plant/features]]: [[deciduous]], [[edible fruit]], [[attract pollinators]], cold-hardy, spring-flowering
+	- [[biome/layer]]: [[canopy]], [[sub-canopy]]
+	- [[products]]: fresh [[plum]], dried [[plum]] ([[prunes]]), [[juice]], [[jam]], [[vinegar]], [[seed oil]], [[leaf infusion]], [[bark decoction]], [[timber]]
+	- [[chemical compounds]]  
+	  | compound               | plant part     | % amount         | description                                                              |
+	  |------------------------|----------------|------------------|---------------------------------------------------------------------------|
+	  | [[dietary fiber]] | fruit (fresh)  | ~2–4%            | promotes [[digestion]] and [[gut motility]]                                       |
+	  | [[sorbitol]]         | fruit          | ~5–10%           | sugar [[alcohol]] with mild [[laxative]] effect                                   |
+	  | [[vitamin c]]              | fruit          | ~5–10 mg/100g    | [[antioxidant]], supports [[immune health]]                                     |
+	  | [[anthocyanins]]           | fruit skin     | ~0.1–0.5%        | pigments with [[antioxidant]] and [[anti-inflammatory]] properties                |
+	  | [[chlorogenic acid]]       | fruit          | ~0.1–0.2%        | [[antioxidant]], supports [[metabolic]] function                                  |
+	  | [[cyanogenic glycosides]]  | seed, bark     | ~0.05–0.1%       | potential [[toxicity]], traditional use in controlled dosages                 |
+	  | [[tannins]]                | leaf, bark     | ~3–7%            | [[astringent]], [[antimicrobial]], used in [[folk medicine]]                          |
+	  | [[flavonoids]]             | leaf, fruit    | ~0.5–1%          | [[antioxidant]], supports [[capillary strength]] and [[anti-inflammatory]] actions    |
+	  | [[essential oils]]         | flower         | trace <0.1%      | aromatic compounds with [[calming]] and [[pollinator]]-attracting effects         |
+	  | [[lignin]], [[cellulose]]      | timber         | ~50–70%          | structural [[polymers]] in [[woody]] tissue used in [[crafts]] and [[tools]]               |
+	- operations
+		- [[propagation]]: typically grafted onto rootstock for uniformity and early fruiting. seedlings require stratification
+		- [[maintenance]]: annual winter pruning to shape and encourage fruiting wood. [[mulch]] and composting recommended. control [[fungal]] leaf spots
+		- [[harvest]]:
+			- fruit: harvested when firm-ripe and aromatic, ripening varies with cultivar
+			- leaves: used in traditional [[teas]] for constipation and [[blood sugar regulation]]
+			- bark: sometimes decocted for [[digestive]] and [[respiratory]] treatments
+			- timber: obtained from pruned or old trees, used in small [[woodwork]] and [[tools]]
+-
 - ### traditional medicine recipes
   
   **prune decoction for [[constipation]] and [[digestion]]**

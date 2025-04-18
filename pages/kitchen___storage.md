@@ -1,4 +1,4 @@
-#### how we store and manage food
+### how we store and manage food
 - > this page describes how we store food in refrigerators and freezers, how we label and organize items, and how we manage stock through regular inventory checks.
 - #### cold storage: use and maintenance
 - #### temperature
@@ -30,7 +30,7 @@
 	- clean fridges and freezers regularly
 	- wipe up spills and residues immediately
 - ---
-- #### inventory: how we keep track
+- ### inventory: how we keep track
 - routine
 	- quick inventory checks happen weekly
 	- full inventory happens at the end of each month

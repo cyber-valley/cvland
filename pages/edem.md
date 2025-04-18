@@ -81,7 +81,7 @@ tags:: rocket estate
 		- [[allium]]
 		- [[breynia]]
 	- fragrance and polination
-		- [[magnolia cempaka]] : [[aroma]], [[oil]], [[medicine]]
+		- [[magnolia champaca]] : [[aroma]], [[oil]], [[medicine]]
 		- [[cananga odorata]]: [[aroma]], [[oil]], [[medicine]]
 		- [[plumeria rubra]] : [[aroma]], [[oil]], [[medicine]]
 		- [[osmanthus fragrans]] : [[drink]] [[aroma]], [[oil]], [[medicine]]

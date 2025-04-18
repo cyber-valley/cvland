@@ -1,0 +1,68 @@
+tags:: kitchen/menu, lentils, mains, boiled, sides, plant-based, gluten-free
+
+- <img src="https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreibp7jlskpbgaaapb57r7pm2gpc46fxbbxkpelb5l2e2wvhmtkyrvm" style="width:500px; height:auto;" />
+- <img src="https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreiaakqvgjtiaohtyc5534arihfyqc3zfn5njubw5osaatostdannnm" style="width:500px; height:auto;" />
+- ### 🧾 boiled lentils  
+  simple, tender lentils cooked without salt — a versatile base for salads, sides, or hearty meals.
+- ### 🍴 meal/type
+	- [[mains]]
+	- [[sides]]
+	- [[boiled]]
+	- [[plant-based]]
+	- [[gluten-free]]
+- ## 🍃 ingredients
+	- lentils – 1/2 cup per person · source: [[imported]]
+	- water – 1.5 cups
+	- optional spices: [[cumin]], [[turmeric]], [[chili powder]]
+- ### 🔧 [[equipment needed]]
+	- bowl
+	- colander
+	- saucepan
+	- spoon
+- ## 📝 step-by-step instructions
+	- ### 1. rinse the lentils
+		- place lentils in a colander
+		- rinse under cold running water
+	- ### 2. soak the lentils
+		- place rinsed lentils in a bowl
+		- cover with fresh water
+		- soak for at least 10 minutes
+	- ### 3. cook the lentils
+		- drain soaked lentils
+		- transfer to a saucepan
+		- add 1.5 cups fresh water
+		- bring to a boil over medium heat
+	- ### 4. simmer
+		- reduce heat to low and simmer uncovered
+		- cook 15–20 minutes for red or yellow lentils
+		- cook 30–35 minutes for green or brown lentils
+		- optionally add [[cumin]], [[turmeric]], or [[chili powder]] during simmering
+	- ### 5. drain and serve
+		- drain excess water
+		- serve warm as a side dish, in salads, or as a base for other recipes
+- ### ⏳ timing
+	- soak time: ~10 minutes
+	- cook time: 15–35 minutes
+	- total: ~30–45 minutes
+- ### 🔥 [[nutrition]] (per 100 g)
+	- calories: ~116 kcal
+	- protein: ~9 g
+	- fat: ~0.4 g
+	- carbohydrates: ~20 g
+- ### 🧪 variations & substitutions
+	- season with [[herbs]] after cooking for fresh flavor
+	- mash cooked lentils into spreads or patties
+	- for sides during lunch or dinner, keep versions savory without sweet toppings
+	- optionally sprinkle cooked lentils with grated [[cheese]] before serving
+- ### 🧭 food pairing
+	- herb paste
+	- [[stewed veggies]]
+	- [[cheese-on-flax bite]]
+	- [[flatbread]]
+	- [[salad]]
+- ### ♻️ waste use
+	- soaking and rinse water: compost watering
+- ### 💡 tips
+	- do not overcook to avoid mushy texture (unless making a purée)
+	- adding spices during cooking helps infuse deeper flavor
+- >**enjoy your meal!** 🍲🌿

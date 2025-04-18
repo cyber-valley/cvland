@@ -4,57 +4,69 @@ tags:: species
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmRLSv5fpGhZyme5Y5wrogcBWrzn7BufAQwVhPsLSYQb6G){:height 406, :width 408}
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZQGumkYR4syavZjLcS7UVAvA8wtbg6ZGZs6P1T6tbYx2)
 - [jasminum_officinale](https://en.wikipedia.org/wiki/Jasminum_officinale)
-- products
-	- [[flower]]
-- ### review of the jasminum officinale
-	- **jasminum officinale**, commonly known as common jasmine or poet's jasmine, is a highly [[fragrant]], [[evergreen]] vine or shrub, valued for its aromatic [[flowers]] and various traditional uses.
-	- [[jasminum officinale]] is a valuable plant in gardens, [[aromatherapy]], and [[traditional medicine]], prized for its flowers and [[therapeutic]] benefits. its role in [[permaculture]] as a [[pollinator]] attractor and vertical grower makes it a versatile plant in [[diverse environments]] .
-- **parts of the plant and their uses**
-- **products**
-	- **root**: the roots of jasminum officinale are primarily structural and do not have significant traditional uses.
-	- **stem**: the stem is not typically harvested for specific products but supports the plant’s climbing growth habit, often used in [[trellises]] or [[ornamental]] gardening.
-	- **fruit**: the fruit of jasmine is a small, black berry, though it is not commonly used in products or for consumption.
-	- **leaf**: jasmine leaves have traditional [[medicinal]] uses, particularly in [[poultices]] for [[relieving pain]] and [[inflammation]]. they can also be used as [[fodder]] in some regions.
-	- **bark**: the bark is not widely used in [[traditional medicine]] or as a product, though it may have [[astringent]] properties.
-	- **flower**: the most valuable part of the plant, jasmine [[flowers]] are used for their [[essential oils]], which are widely employed in [[perfumery]], [[cosmetics]], and [[traditional medicine]]. they are also used in [[teas]] and [[aromatherapy]] for [[relaxation]] and [[mood enhancement]].
-- **uses**
-	- **plants/fruits**: not used.
-	- **plants/greens**: jasmine leaves are sometimes used in traditional medicine, particularly for [[poultices]] to [[reduce inflammation]] .
-	- **plants/timber**: the plant is not known for its timber production.
-	- **plants/flowers**: jasmine flowers are the primary product, used in [[perfumes]], [[oils]], and [[traditional medicine]] for their [[fragrance]] and [[therapeutic properties]].
-	- **plants/medicine**: jasmine is used for its calming and [[anti-inflammatory properties]]. it is traditionally used to treat [[skin conditions]], [[digestive issues]] , and to promote [[relaxation]] and alleviate [[stress]] .
-	- **plants/fuel**: the wood or dried stems can be used as [[firewood]], though it is not a primary fuel source.
-	- **plants/textile**: not used.
-	- **plants/fertilizer**: decomposed jasmine leaves and plant matter can be used as [[mulch]] or [[compost]], enriching the soil.
-- **data**
-	- **sun requirements**: jasminum officinale thrives in [[full sun]] to partial shade, though it prefers bright sunlight for optimal flowering.
-	- **water requirements**: it requires moderate watering, with well-drained soil. the plant should not be waterlogged and prefers slightly dry conditions between waterings.
-	- **soil ph**: jasmine grows best in slightly acidic to neutral soils, with a ph range of 6.0 to 7.5.
-	- **plant/roles in permaculture guilds**: in permaculture, jasminum officinale can be used as a [[trellis]] plant to create vertical layers in a garden. its flowers attract beneficial [[insects]], including [[pollinators]], while its dense growth can provide cover for wildlife. jasmine can also be planted near fruiting plants that benefit from increased pollinator activity.
-	- **height in meters**: jasmine can grow up to 4-6 meters in height, depending on its support structure and growing conditions.
-	- **spacing in meters**: plants should be spaced about 1.5 to 2 meters apart to allow for adequate airflow and growth.
-	- **germination days**: jasmine seeds typically take 10-15 days to germinate, though propagation is more commonly done through cuttings.
-	- **strata**: jasminum officinale is considered a mid-level to overstory climber, often growing vertically through other plants.
-	- **days to maturity**: it takes about 1-2 years for the plant to start flowering under ideal conditions, though full maturity can take several years.
-- **plant, harvest, pruning calendar in months**
-	- jasmine is best planted in early spring or fall.
-	- pruning should be done after flowering to maintain shape and promote future blooms.
-	- flowers can be harvested during their blooming season, which typically occurs from late spring through summer.
-- **good neighbors**: good companion plants for jasmine include [[herbs]] like [[lavender]], [[rosemary]], and [[thyme]], which benefit from similar growing conditions. jasmine also grows well near [[pollinator]]-friendly plants such as [[sunflowers]] and [[marigolds]].
-- **bad neighbors**: jasmine should not be planted near plants that require deep watering, such as water-loving [[vegetables]], as its preference for well-drained soil and moderate water may create competition.
-- ### chemical compounds
-	- | chemical compound      | plant part        | amount (%)  | description                                                                                 |
-	  |-------------------------|-------------------|-------------|---------------------------------------------------------------------------------------------|
-	  | [[essential oils]]      | flowers          | 0.2-0.5%    | contain compounds like [[linalool]], [[benzyl acetate]], and [[jasmone]], responsible for the plant's characteristic fragrance and used in [[aromatherapy]] and [[perfumery]]. |
-	  | [[flavonoids]]          | leaves, flowers  | 1-3%        | have [[antioxidant]], [[anti-inflammatory]], and [[antimicrobial]] properties, beneficial in [[traditional medicine]] for treating [[various ailments]]. |
-	  | [[tannins]]             | leaves, stems    | 5-10%       | exhibit [[astringent]] properties, used in [[traditional medicine]] for treating [[diarrhea]] and [[skin conditions]]. |
-	  | [[saponins]]            | leaves, roots    | 2-4%        | have [[antimicrobial]] and [[antifungal]] properties, and are used for [[skin health]] and [[wound healing]]. |
-	  | [[alkaloids]]           | roots, leaves    | trace-0.5%  | studied for their potential [[anti-inflammatory]] and [[pain-relief]] properties.           |
-	  | [[phenolic acids]]      | leaves, flowers  | 0.5-1%      | exhibit strong [[antioxidant]] properties, beneficial for [[skin health]] and [[anti-aging]]. |
-	  | [[ascorbic acid]]       | flowers, leaves  | 0.1-0.5%    | an essential [[antioxidant]], supports [[immune function]] and [[skin health]].             |
-	  | [[dietary fiber]]       | leaves           | 1-2%        | supports [[digestion]] and promotes a healthy gut.                                          |
+- [[plant/type]]: perennial woody deciduous or semi-evergreen climbing shrub
+- properties
+	- root: fibrous, shallow spreading root system adapted for trellising and slope stabilization
+	- stem: slender, flexible, green when young and turning woody with age
+	- leaf: pinnate with 5–9 leaflets, dark green, ovate to lanceolate in shape
+		- leaf-length:: 3–7 cm leaflets
+	- flower: star-shaped, white with 5–7 petals, intensely fragrant, blooming in clusters
+	- fruit: small black berry, rare in cultivated varieties, usually 2-lobed
+	- bark: thin, green to light brown, soft on young stems, flaky on mature ones
+	- timber: not applicable; stems are too slender for structural use
+	- environment:: grows best in warm temperate to subtropical climates with full sun, fertile soil, and regular moisture
+		- climate:: mild and humid with seasonal rainfall and warm summers; tolerates light frost
+			- sun:: 600–800 W/m²
+			- no-sun-days:: 7–10 days
+			- water:: 900–1500 mm/year
+			- no-water-days:: 10–15 days
+			- humidity:: 50–80 %
+			- fog-resistance:: 5–7 days
+			- max-temp:: 38 °C
+			- optimal-temp:: 20–30 °C
+			- min-temp:: –5 °C
+			- wind-damage:: cold-dry, salty-coastal
+		- soil:: moderately rich, well-drained loamy soils with consistent moisture and light mulch
+			- soil-ph:: 6.0–7.5
+			- soil-type:: [[loamy]], [[humus-rich]], [[sandy loam]]
+		- spacing:: 1.5–3 m apart when planted for cover or hedge, allow vertical support
+			- good-neighbors:: [[rosmarinus]], [[lavandula]], [[ocimum]], [[piper]]
+			- bad-neighbors:: [[eucalyptus]], [[ficus]], [[casuarina]]
+			- max-height:: 600 cm
+			- max-spread:: 300 cm
+	- lifecycle
+		- longevity:: 20–30 years
+		- germination:: seeds germinate in 15–30 days, low viability, best propagated vegetatively
+		- seedling:: slow early growth; prefers shade and moist conditions for first 2 months
+		- mature:: starts flowering in 2–3 years, peak bloom in warm months, with multiple flushes
+		- death:: gradual decline in bloom and vigor over decades; overgrowth and root rot are common issues
+	- [[plant/features]]: [[fragrant]] flowers, [[climbing]], " [[attract pollinators]], [[ornamental]], [[medicinal]]
+	- [[biome/layer]]: [[climber]], [[sub-canopy]], [[vertical-layer]]
+	- [[products]]: fresh [[flowers]], [[essential oil]], [[flower extract]], [[floral water]], [[perfume]] ingredient, [[tea]], [[herbal remedy]]
+	-
+	- [[chemical compounds]]  
+	  | compound           | plant part       | % amount         | description                                                               |
+	  |--------------------|------------------|------------------|----------------------------------------------------------------------------|
+	  | [[linalool]] | flower           | ~15–30%          | floral [[terpene]] [[alcohol]], [[soothing]], used in [[aromatherapy]]                     |
+	  | [[benzyl acetate]]     | flower           | ~20–30%          | sweet [[jasmine]] scent, major contributor to [[essential oil]]                    |
+	  | [[indole]]             | flower           | ~2–3%            | deep, musky floral tone, [[attract pollinators]] |
+	  | [[jasmone]]            | flower           | ~1–2%            | gives jasmine its unique character, used in [[perfume]] blending               |
+	  | [[eugenol]]            | flower, leaf     | ~0.5–1%          | warm, [[spicy]] note, mild [[analgesic]] and [[antiseptic]]                           |
+	  | [[methyl anthranilate|]] flower           | ~0.5–1.5%        | fruity-floral compound, [[calming]] and [[aromatic]]                              |
+	  | [[saponins]]           | leaf             | ~0.3–0.7%        | cleansing, [[anti-inflammatory]] activity                                     |
+	  | [[flavonoids]]         | leaf, flower     | ~0.5–1%          | [[antioxidant]], [[anti-inflammatory]], UV-protective                             |
+	  | [[tannins]]            | bark, leaf       | ~3–7%            | [[astringent]], [[antimicrobial]], supports [[traditional medicine]] uses            |
+	  | [[chlorophyll]]        | leaf             | present (n/a)    | [[photosynthetic pigment]], supports green [[biomass]] role in composting         |
+	- operations
+		- [[propagation]]: mostly by semi-hardwood cuttings or layering; seeds used rarely due to low viability
+		- [[maintenance]]: prune after flowering to control shape and improve airflow; mulch base; avoid overwatering
+		- [[harvest]]:
+			- fresh flowers: harvested at dawn when fragrance is highest; used for extraction and fresh sale
+			- essential oil: solvent-extracted from fresh flowers (concreta or absolute), high-value, labor-intensive
+			- floral water: distilled or infused floral water used in cosmetics and rituals
+			- leaves: occasionally used in teas or as poultices for inflammation or stress relief
 - ### traditional medicine use
-- these traditional recipes show how [[jasminum officinale]] is used for [[mental clarity]], [[skin care]], [[stress relief]], and [[minor physical ailments]].
+	- these traditional recipes show how [[jasminum officinale]] is used for [[mental clarity]], [[skin care]], [[stress relief]], and [[minor physical ailments]].
 - **[[jasmine]] flower [[tea]] for [[anxiety]] and [[relaxation]]**
 	- **ingredients**
 		- 1 tablespoon dried [[jasminum officinale]] flowers
