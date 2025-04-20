@@ -1,6 +1,6 @@
 tags:: kitchen/menu
 
-- ## 🥥✨ ginger [[kombucha]] with coconut sugar
+- ## 🥥✨ ginger [[ginger kombucha]] with coconut sugar
 - a delicious kombucha recipe using coconut sugar, adding pleasant caramel notes with a hint of ginger spice.
 - ## 🍃 ingredients (per 1 liter)
 - black or green [[tea]]: 5–7 g (2–3 tsp)
@@ -36,3 +36,5 @@ tags:: kitchen/menu
 	- maintain cleanliness to prevent contamination.
 	- adjust ginger and coconut sugar amounts to taste preferences.
 - > **enjoy your brewing!** 🍹✨
+-
+-

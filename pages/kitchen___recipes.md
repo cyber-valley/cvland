@@ -4,3 +4,5 @@
 - [[recipes/sides]]
 - [[recipes/cookies]]
 - [[recipes/with cheese]]
+- [[beverages]]
+-

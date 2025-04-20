@@ -61,7 +61,7 @@ tags:: kitchen/menu, mains, meat, stews, with vegetables, with spices
 - ### 🧪 variations & substitutions
 	- swap [[taro]] with [[sweet potato]]
 - ### 🧭 food pairing
-- [[salad]], [[steamed veggies]], [[taro chips]], [[herbal tea]]
+- [[salad]], [[steamed veggies]], [[taro / sweet potato chips]], [[herbal tea]]
 - ### ♻️ waste use
 	- vegetable peels: [[animal feed]]
 	- meat broth: can be saved for soups or sauces

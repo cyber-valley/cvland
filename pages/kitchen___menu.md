@@ -26,10 +26,10 @@
 	- [[bread]] sliced
 	- [[meat]] sliced
 	- [[baked bread with cheese]]
-	- [[taro chips]]/[[sweet potato chips]]
+	- [[taro / sweet potato chips]]
 	- [[almond cookies]]
 	- [[cheese-on-flax bite]]
-- ### ☕ beverages
+- ### ☕ [[beverages]]
 	- [[herbal tea]]
 	- [[cold brew]]
 	- [[fruit water]]

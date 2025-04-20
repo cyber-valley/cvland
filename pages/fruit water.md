@@ -1,0 +1,52 @@
+tags:: kitchen/menu, drinks, infused water, plant-based, simple, refreshing
+
+- ### 🧾 🍉💧 fruit water
+  light, naturally flavored water infused with fresh fruits, herbs, and spices — a refreshing and hydrating drink without added sugar.
+- ### 🍴 meal/type
+	- [[beverages]]
+	- [[infused water]]
+	- [[plant-based]]
+- ## 🍃 ingredients
+	- clean bottled water – 1 liter · source: [[imported]]
+	- fresh fruits (e.g., watermelon, pineapple, mango, lime) – 1/2–1 cup, chopped · source: [[grown on site]] / [[local farmers]]
+	- fresh [[herbs]] (optional, e.g., [[mint]], [[basil]]) – a few sprigs · source: [[grown on site]]
+	- [[spices]] (optional, e.g., [[cinnamon]] stick, [[ginger]] slice) – 1–2 pieces · source: [[imported]]
+- ### 🔧 [[equipment needed]]
+	- pitcher or glass jar
+	- spoon
+	- knife and cutting board
+- ## 📝 step-by-step instructions
+	- ### 1. prepare ingredients
+		- wash and chop fruits into small pieces
+		- rinse herbs if using
+	- ### 2. assemble
+		- place fruits, herbs, and optional spices into a clean pitcher
+		- pour in bottled water
+	- ### 3. infuse
+		- let sit at room temperature for 1–2 hours or refrigerate for 3–4 hours for a stronger flavor
+	- ### 4. serve
+		- pour into glasses, optionally adding ice if desired
+		- refill the pitcher once or twice as the flavor weakens
+- ### ⏳ timing
+	- prep time: 5–10 minutes
+	- infusion time: 1–4 hours depending on flavor strength
+	- total: ~1–4 hours
+- ### 🔥 [[nutrition]] (per 100 g)
+	- calories: ~2–5 kcal (depends on fruit used)
+	- protein: ~0 g
+	- fat: ~0 g
+	- carbohydrates: ~0.5–1 g
+- ### 🧪 variations & substitutions
+	- mix different fruits (e.g., pineapple + mint, watermelon + lime, mango + basil)
+	- add cucumber slices for extra freshness
+	- use only herbs and spices for a lighter flavor
+- ### 🧭 food pairing
+	- [[salad]]
+	- [[steamed vegetables]]
+	- breakfast [[pancakes]]
+- ### ♻️ waste use
+	- leftover fruits: [[compost]] or blend into smoothies
+- ### 💡 tips
+	- use ripe, flavorful fruits for better infusion
+	- do not leave infused water out for more than 8 hours without refrigeration
+- > **enjoy your refreshment!** 🍉💧

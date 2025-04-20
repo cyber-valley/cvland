@@ -68,7 +68,7 @@ tags:: kitchen/menu, lentils, mains, gluten-free, pan-cooked, salt-free, plant-b
 		- vegetables may be pre-cooked separately or together with the cheese
 	- make muffins in [[silicone molds]] — mix [[cheese]] into the batter, or sprinkle on top before baking, or leave it out entirely
 - ### 🧭 food pairing
-	- [[herb paste]], [[steamed greens]], [[cheese]], [[salad]], [[blanched vegetables]]
+	- [[herb paste]], [[steamed veggies]], [[cheese]], [[salad]], [[blanched vegetables]]
 - ### ♻️ waste use
 	- soaking water: use for compost watering
 	- rinse water: garden reuse

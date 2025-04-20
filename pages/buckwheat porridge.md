@@ -52,7 +52,7 @@ tags:: kitchen/menu, buckwheat, mains, porridge, gluten-free, boiled, plant-base
 - ### 🧪 variations & substitutions
 	- for nutty flavor: dry-toast the groats in a skillet before boiling
 	- top with [[ghee]], fresh [[herbs]], or [[baked vegetables]]
-	- mix with [[steamed greens]] for a full meal
+	- mix with [[steamed veggies]] for a full meal
 	- if used as a [[sides]] for [[lunch]] or [[dinner]], keep the version savory without sweet toppings
 - ### 🧭 food pairing
 	- [[herbal tea]], [[salad]], [[avocado sliced]] or mashed

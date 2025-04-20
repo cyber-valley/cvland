@@ -1,0 +1,62 @@
+tags:: kitchen/menu, vegetables, mains, sides, stewed, plant-based
+
+- ### 🧾 🥕🍠 stewed veggies
+  soft and flavorful vegetables slowly cooked with spices — nourishing, comforting, and perfect as a hearty side or a simple main.
+- ### 🍴 meal/type
+	- [[mains]]
+	- [[dinner]]
+	- [[sides]]
+	- [[stewed]]
+	- [[plant-based]]
+- ## 🍃 ingredients
+	- [[carrots]] – 2 · source: [[local farmers]]
+	- [[sweet potato]] – 1 medium · source: [[grown on site]] / [[local farmers]]
+	- [[chayote]] – 1 · source: [[grown on site]]
+	- [[taro]] – 2 small roots · source: [[wild-harvested]] /  [[grown on site]]
+	- [[coconut oil]] or [[ghee]] – 1 tbsp · source: [[imported]]
+	- [[spices]] (e.g., [[cumin]], [[turmeric]], [[white pepper]]) – to taste · source: [[imported]]
+	- clean bottled water – as needed for stewing
+- ### 🔧 [[equipment needed]]
+	- pot with lid
+	- knife
+	- spoon
+- ## 📝 step-by-step instructions
+	- ### 1. prepare vegetables
+		- peel and cut carrots, sweet potato, chayote, and taro into medium-sized chunks
+	- ### 2. start the stew
+		- heat coconut oil or ghee in a pot over medium heat
+		- add spices and stir briefly until fragrant
+	- ### 3. stew
+		- add chopped vegetables into the pot
+		- add a small amount of bottled water (just enough to avoid burning)
+		- cover with a lid and cook gently over low to medium heat
+		- stew for 25–35 minutes until vegetables are tender
+	- ### 4. serve
+		- serve warm as a standalone dish or side
+- ### ⏳ timing
+	- prep time: 10–15 minutes
+	- cooking time: 25–35 minutes
+	- total: ~40–50 minutes
+- ### 🔥 [[nutrition]] (per 100 g)
+	- calories: ~80–100 kcal
+	- protein: ~1–2 g
+	- fat: ~2–4 g
+	- carbohydrates: ~15–20 g
+- ### 🧪 variations & substitutions
+	- stew all vegetables together for a hearty mixed vegetable dish
+	- stew only sweet potato for a naturally sweet and soft side
+	- stew carrots and chayote together for a light and fresh flavor
+	- stew taro separately for a creamy and dense texture
+	- add greens (like [[spinach]] or [[moringa]] leaves) in the last 5 minutes of cooking
+	- add [[coconut milk]] at the end for a creamy version
+- ### 🧭 food pairing
+	- [[lentil pancakes]]
+	- [[flatbread]]
+	- [[stewed duck]]
+- ### ♻️ waste use
+	- vegetable peelings: [[compost]] / [[animal feed]]
+	- leftover stew water: garden watering after cooling
+- ### 💡 tips
+	- cut vegetables into similar sizes for even cooking
+	- adjust water amount depending on how saucy you want the stew
+- > **enjoy your meal!** 🥕🍠🌿
