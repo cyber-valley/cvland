@@ -33,7 +33,7 @@ tags:: species, major
 		- wind-damage:: [[wind/storm]], [[wind/hurricane]]
 	- soil:: prefers deep, fertile, neutral to alkaline soils with good drainage.
 		- soil-ph:: 6.0–8.5
-		- soi-type:: [[soil/loam]], [[soil/sandy]], [[soil/clay-loam]]
+		- soil-type:: [[soil/loam]], [[soil/sandy]], [[soil/clay-loam]]
 	- spacing:: optimal planting density is 2–4 meters between individual plants.
 		- good-neighbors:: [[cenchrus purpureus]], [[gliricidia sepium]]
 		- bad-neighbors:: [[eucalyptus]], [[casuarina]]
@@ -45,7 +45,7 @@ tags:: species, major
 		- seedling:: quick initial growth; seedlings reach 1 meter within 3–4 months, vulnerable to browsing animals.
 		- mature:: rapid maturity in 2–3 years; extensive foliage, prolific flowering, and seed production.
 		- death:: gradual decline after 15–20 years, susceptible to pests or fungal diseases; often rejuvenated through coppicing.
-	- [[plant/features]]: [[nitrogen-fixing]], [[fodder-crop]], [[fast-growing], [[soil-improvement], [[firewood]]
+	- [[plant/features]]: [[nitrogen-fixing]], [[fodder-crop]], [[fast-growing]], [[soil-improvement]], [[firewood]]
 	- [[biome/layer]]: [[canopy]], [[sub-canopy]], [[shrub-layer]]
 	- [[products]]: [[animal-feed]], [[firewood]], [[[timber]], [[biomass-energy]], [[mulch]], [[green-manure]]
 	- [[chemical compounds]]:

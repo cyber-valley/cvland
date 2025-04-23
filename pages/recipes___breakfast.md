@@ -1,3 +1,3 @@
 - [[porridge]]
-- [[eggs-based recipes]]
+- [[egg based recipes]]
 - [[pancakes]]

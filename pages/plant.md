@@ -18,7 +18,7 @@ alias:: the plant
 			- wind-damage:: array of non tolerated [[wind/type]]
 		- soil: information dense one line text summary of optimal soil
 			- soil-ph:: number
-			- soi-type:: array of [[soil/type]]
+			- soil-type:: array of [[soil/type]]
 		- spacing: information dense one line text summary of optimal spacing
 			- good-neighbors:: array of [[species]] or [[genus]]
 			- bad-neighbors:: array of [[species]] or [[genus]]

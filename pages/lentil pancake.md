@@ -1,30 +1,78 @@
-- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreihpanx5va66j5z57he65wn2civquaqw75e6nmerpnu7ls2avromkq)
-- ingredient estimation (2-3 small pancakes or 1 big)
-	- 1/2 cup of lentils
-	- 1 cup water (for soaking)
-	- 1/4 cup water (for blending)
-	- oil for frying
-- instructions
-	- rinse the lentils
-		- place the lentils in a colander and rinse under cold running water.
-	- soak the lentils
-		- place the rinsed lentils in a bowl and cover with 1 cup of water.
-		- let them soak for at least 10 minutes (or up to 4-6 hours for a softer texture).
-	- blend the batter
-		- drain the soaked lentils and rinse them again.
-		- in a blender, combine the lentils with 1/4 cup of water.
-		- blend until smooth, forming a batter.
-	- prepare the pan
-		- heat a non-stick skillet over medium heat.
-		- lightly grease the pan with ghee or avocado oil.
-	- make the pancakes
-		- pour a small ladleful of batter into the skillet and spread it gently into a thin circle.
-		- cook for 2-3 minutes until the edges lift and the bottom is golden brown.
-		- flip the pancake and cook for another 1-2 minutes.
-	- repeat
-		- repeat the process with the remaining batter, greasing the pan as needed.
-	- serve
-		- serve the lentil pancakes warm with dips, chutneys, or as a wrap for vegetables and proteins.
-- notes
-	- soaking for a minimum of 10 minutes ensures the lentils are easier to cook or blend.
-	- for added flavor, mix herbs or spices (e.g., cumin, turmeric, or chili powder) into the batter.
+tags:: kitchen/menu, lentils, mains, gluten-free, pan-cooked, salt-free, plant-based
+
+- <img src="https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreihpanx5va66j5z57he65wn2civquaqw75e6nmerpnu7ls2avromkq" style="width:500px; height:auto;" />
+- ### 🧾 🫓 lentil pancakes
+- simple savory pancakes made from soaked and blended lentils — flexible, protein-rich, and perfect for wraps or pairing with dips. no flour, no fermentation, just legumes and heat.
+- ### 🍴 meal/type
+	- [[mains]]
+	- [[lunch]]
+	- [[dinner]]
+	- [[pan-cooked]]
+	- [[gluten-free]]
+	- [[salt-free]]
+	- [[plant-based]]
+- ## 🍃 ingredients
+- [[lentils]] – 1/2 cup (makes ~2–3 small or 1 large pancake) · source: [[imported]]
+- [[water]] – 1 cup (for soaking), plus 1/4 cup (for blending)
+- [[ghee]] or [[avocado oil]] – for frying · source: [[imported]]
+- ### 🔧 [[equipment needed]]
+	- bowl
+	- colander
+	- blender
+	- frying pan
+	- ladle or spoon
+	- spatula
+- ## 📝 step-by-step instructions
+	- ### 1. rinse the lentils
+		- place lentils in a colander
+		- rinse under cold running water
+	- ### 2. soak the lentils
+		- place rinsed lentils in bowl
+		- cover with 1 cup of water
+		- soak for at least 10 minutes (or up to 4–6 hours)
+	- ### 3. blend the batter
+		- drain and rinse lentils again
+		- blend with 1/4 cup water until smooth batter forms
+	- ### 4. prepare the pan
+		- heat non-stick pan over medium heat
+		- lightly grease with ghee or oil
+	- ### 5. make the pancakes
+		- pour a small ladle of batter into pan
+		- spread gently into a thin circle
+		- cook 2–3 minutes until bottom is golden and edges lift
+		- flip and cook another 1–2 minutes
+	- ### 6. repeat
+		- cook remaining batter, re-oiling pan as needed
+	- ### 7. serve
+		- serve warm, use as a wrap for veggies, [[cheese]] or proteins
+- ## ⏳ timing
+	- soaking time: 10 minutes to 6 hours
+	- prep time: 5 minutes
+	- cook time: 10–15 minutes
+	- total: ~20 minutes active + soaking
+- ### 🔥 [[nutrition]] for plain lentil pancake (per 100 g)
+	- calories: ~130 kcal
+	- protein: ~9 g
+	- fat: ~0.6 g
+	- carbohydrates: ~22 g
+- ### 🔥 [[nutrition]] for lentil pancake with cheese (per 100 g)
+	- calories: ~170–190 kcal
+	- protein: ~13–15 g
+	- fat: ~6–8 g
+	- carbohydrates: ~20 g
+- ### 🧪 variations & substitutions
+	- add [[cumin]], [[turmeric]], or [[chili powder]] to the batter for flavor
+	- mix in chopped [[herbs]] or [[greens]] before frying
+	- bake on a flat [[baking mat]] at 180–200°c until firm and golden
+		- optionally sprinkle with grated [[cheese]] and [[blanched vegetables]], cheese is added last
+		- vegetables may be pre-cooked separately or together with the cheese
+	- make muffins in [[silicone molds]] — mix [[cheese]] into the batter, or sprinkle on top before baking, or leave it out entirely
+- ### 🧭 food pairing
+	- [[herb paste]], [[steamed veggies]], [[cheese]], [[salad]], [[blanched vegetables]]
+- ### ♻️ waste use
+	- soaking water: use for compost watering
+	- rinse water: garden reuse
+- ### 💡 tips
+	- 10-minute soak works, but longer gives smoother texture
+	- pan must be hot before pouring the first pancake
+- > **enjoy your meal!** 🫓🌿

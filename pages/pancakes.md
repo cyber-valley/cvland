@@ -1,3 +1,3 @@
 - [[green buckwheat pancake]]
 - [[lentil pancake]]
-- [[oat pancake]]
+- [[banana cassava pancake]]

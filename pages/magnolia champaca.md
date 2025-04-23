@@ -1,5 +1,5 @@
 tags:: species
-alias:: champak, white champaca
+alias:: champak, white champaca, champaca, magnolia cempaka
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeiapmu3yu6gy6kdonf4xp4q3lg33wrqtsr44mfkbkepqlqzp4bqkhm)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeihkuav2sxohnpxagvqhidqj4xbns2hyvgzjfsxwgua7r2sbfkq2xu)
@@ -33,7 +33,7 @@ alias:: champak, white champaca
 		- wind-damage:: strong-dry, salty-coastal, monsoon-gust
 	- soil:: prefers fertile, humus-rich loamy soils with good drainage and neutral to slightly acidic pH
 		- soil-ph:: 6.0–7.2
-		- soi-type:: [[loamy]], [[volcanic]], [[humus-rich]]
+		- soil-type:: [[loamy]], [[volcanic]], [[humus-rich]]
 	- spacing:: plant 6–10 m apart to accommodate [[canopy]] spread and root development
 		- good-neighbors:: [[curcuma]], [[zingiber]], [[clitoria]], [[piper]], [[etlingera]]
 		- bad-neighbors:: [[eucalyptus]], [[casuarina]], [[ficus]]

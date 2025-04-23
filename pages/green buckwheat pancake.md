@@ -1,31 +1,76 @@
-- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreidgnmhdb5r2sdul4rswphn2q2gw7e4eu4tpd7pum63xtu4yvubnym)
-- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreifhuupvbg5f346yoi5m6uojg5skbvs6rk332i747c7zfziev6yll4)
-- ingredient estimation
-	- 1/2 cup green buckwheat groats (per person),
-	- 1/4 cup water (for blending),
-	- 1/4 teaspoon psyllium husk (if the batter turned out to be liquid),
-	- ghee or avocado oil for frying.
-- instructions
-	- PRE-PREPAIRING STEP (overnight)
-	- rinse and soak the buckwheat
-		- rinse the green buckwheat groats under cold running water.
-		- place them in a bowl and cover with water.
-		- soak for at least 4-6 hours or overnight for a softer texture.
-	- drain and blend
-		- drain the soaked buckwheat and transfer it to a blender or food processor.
-		- add 1/4 cup water and blend until smooth to form a thick batter.
-		- if desired, add baking powder for fluffiness.
-	- prepare the pan
-		- heat a non-stick skillet or frying pan over medium heat.
-		- lightly grease the pan with oil.
-	- make the pancakes
-		- pour a small ladleful of batter into the skillet and spread it gently into a circle.
-		- cook for 2-3 minutes until bubbles form on the surface and the edges lift.
-		- flip the pancake and cook for another 1-2 minutes until golden brown.
-	- repeat
-		- repeat with the remaining batter, greasing the pan as needed.
-	- serve:
-		- serve the green buckwheat pancakes warm with optional toppings: yogurt, fresh fruits, honey, or savory options like avocado or vegetables.
-- notes:
-	- for a savory version, add herbs or spices like parsley, cumin, or garlic powder to the batter.
-	- buckwheat pancakes can also be prepared in the oven (200°C, 20 minutes).
+tags:: kitchen/menu, buckwheat, breakfast, gluten-free, pan-cooked, fermented, plant-based
+
+- <img src="https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreidgnmhdb5r2sdul4rswphn2q2gw7e4eu4tpd7pum63xtu4yvubnym" style="width:300px; height:auto;" />
+- <img src="https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafkreifhuupvbg5f346yoi5m6uojg5skbvs6rk332i747c7zfziev6yll4" style="width:300px; height:auto;" />
+- ### 🧾 🥞 green buckwheat pancakes
+- soft and hearty pancakes made from soaked green buckwheat groats — naturally gluten-free and easy to make with just a few ingredients. can be savory or sweet depending on toppings.
+- ### 🍴 meal/type
+	- [[breakfast]]
+	- [[pan-cooked]]
+	- [[gluten-free]]
+	- [[fermented]]
+	- [[plant-based]]
+- ## 🍃 ingredients
+	- [[green buckwheat groats]] – 1/2 cup per person · source: [[imported]]
+	- [[water]] – 1/4 cup (for blending)
+	- [[psyllium husk]] – 1/4 tsp (optional, if batter is too runny) · source: [[imported]]
+	- [[ghee]] / [[avocado oil]] / [[animal fat]] / [[coconut oil]] – for frying · source: [[imported]] / [[local farmers]]
+- ### 🔧 [[equipment needed]]
+	- bowl
+	- blender or food processor
+	- frying pan or non-stick skillet
+	- ladle or spoon
+	- spatula
+- ## 📝 step-by-step Instructions
+	- ### 1. soak the buckwheat (overnight)
+		- rinse green buckwheat groats under cold water
+		- place in a bowl and cover with water
+		- soak for 4–6 hours or overnight
+	- ### 2. blend the batter
+		- drain soaked buckwheat
+		- add 1/4 cup water and blend until smooth
+		- optionally add [[psyllium husk]] if the batter is too thin
+	- ### 3. prepare the pan
+		- heat pan over medium heat
+		- grease lightly with oil or ghee
+	- ### 4. cook the pancakes
+		- pour a small ladle of batter and spread gently
+		- cook for 2–3 minutes until bubbles form and edges lift
+		- flip and cook 1–2 minutes until golden
+	- ### 5. repeat
+		- continue with remaining batter
+		- re-grease pan as needed
+	- ### 6. serve
+		- serve warm with sweet toppings (yogurt, fruit, honey)
+		- or with savory options (avocado, vegetables, greens)
+- ### ⏳ timing
+	- soak time: 4–8 hours (overnight)
+	- prep time: 5–10 minutes
+	- cook time: 10–15 minutes
+	- total: ~25 minutes active + soaking
+- ### 🔥 [[nutrition]] (per 100 g)
+	- calories: ~95 kcal
+	- protein: ~4 g
+	- fat: ~1.5 g
+	- carbohydrates: ~18 g
+- ### 🧪 variations & substitutions
+	- for savory version: add [[parsley]], [[cumin]], or [[garlic powder]] to batter
+	- for oven-baked version: bake at 200°c for 20 minutes
+		- batter can be poured into [[silicone muffin molds]] and baked as soft buckwheat “muffins”
+	- add finely chopped [[dried fruits]] into the batter before baking
+	- top with [[fermented vegetables]], [[herb paste]], or [[nut butter]]
+- ### 🧭 food pairing
+	- [[yogurt]]
+	- [[sour cream]]
+	- [[fresh fruits]]
+	- [[avocado sliced]] or mashed
+	- [[herbal tea]]
+	- [[cold brew]]
+	- [[salad]]
+- ### ♻️ waste use
+	- rinse water: [[compost]]
+	- leftover batter: can be stored for 1 day in fridge
+- ### 💡 tips
+	- batter thickens as it rests — stir before each use
+	- pancakes hold well and reheat nicely in a dry pan
+- > **enjoy your treat!** 🥞🌿

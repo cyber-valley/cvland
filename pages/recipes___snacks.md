@@ -1,1 +1,3 @@
-- [[snacks]]
+- [[baked cheese sandwich]]
+- [[taro / sweet potato chips]]
+- [[cheese-on-flax bite]]

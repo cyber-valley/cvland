@@ -33,7 +33,7 @@ title:: cananga odorata
 		- wind-damage:: strong-dry, cold-dry, salty-coastal
 		- soil:: rich loamy soil with good drainage, high in organic matter, not compacted
 			- soil-ph:: 5.5–6.8
-			- soi-type:: [[loamy]], [[volcanic]], [[humus-rich]]
+			- soil-type:: [[loamy]], [[volcanic]], [[humus-rich]]
 		- spacing:: trees should be spaced 5–7 m apart for full [[canopy]] development
 			- good-neighbors:: [[curcuma]], [[zingiber]], [[ocimum]], [[etlingera]]
 			- bad-neighbors:: [[eucalyptus]], [[ficus]]
