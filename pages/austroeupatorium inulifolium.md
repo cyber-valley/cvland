@@ -1,4 +1,4 @@
-alias:: fragrant
+alias:: fragrant, austroeupatorium
 tags:: species, major
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmcvAzhLTwkwVf4kZx6ZpUJinScXvtiwmBaLRSeuQXES99)

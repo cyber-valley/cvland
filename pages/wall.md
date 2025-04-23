@@ -1,0 +1,24 @@
+alias:: walls
+
+- vertical or semi vertical slopes used for primary supporting species
+- walls are good for planting well adopted and fast growing species
+- roles: [[pioneer]], [[polinator]], [[nitrogener]]
+- species used for walls in [[edem]]
+	- [[austroeupatorium]]
+	- [[ageratina]]
+	- [[debregeasia]]
+	- [[imperata]]
+	- [[cymbopogon]]
+	- [[stachytarpheta]]
+	- [[senna septemtrionalis]]
+	- [[lantana]]
+	- [[trema]]
+	- [[symphytum]]
+	- [[salvia coccinea]]
+	- [[melastoma malabathricum]]
+	- [[inga edulis]]
+	- [[diplazium esculentum]]
+	- [[magnolia]]
+	- [[calliandra calothyrsus]]
+	- [[leucaena leucocephala]]
+	- [[homolanthus giganteus]]

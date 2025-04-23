@@ -1,4 +1,4 @@
-alias:: , lamtoro, river tamarind
+alias:: lamtoro
 tags:: species, major
 
 - nitrogener:: 500

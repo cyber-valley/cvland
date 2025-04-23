@@ -1,4 +1,4 @@
-alias:: mistflower
+alias:: mistflower, ageratina
 tags:: species
 
 - ![image](https://ipfs.io/ipfs/QmeNoF8yhzUqxyPZsoRQQKNFfcDaydKUZfpgxFgV3Rg7G6)

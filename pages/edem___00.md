@@ -61,7 +61,7 @@ type:: sector
 	- [[eupatorium capillifolium]]
 	- TODO [[allium tuberosum]]
 	- TODO [[tagetes lucida]]
-- [[walls]]
+- [[wall]]
 	- [[debregeasia longifolia]]
 	- [[imperata cylindrica]]
 	- [[ageratina riparia]]

@@ -3,7 +3,7 @@ type:: sector
 - connected to [[edem/sectors]]
 	- [[edem/01]]
 	- [[edem/03]]
-- [[walls]]
+- [[wall]]
 	- [[debregeasia longifolia]]
 	- [[senna septemtrionalis]]
 - [[guilds]]

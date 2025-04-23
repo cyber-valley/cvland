@@ -4,7 +4,7 @@ tags:: carrot house
 	- [[boehmeria nevea]]
 	- [[sicyos edulis]]
 	- [[tabernaemontana pandacaqui]]
-	- [[homolanthus fastuosus]]
+	- [[homolanthus giganteus]]
 	- [[cayaponia racemosa]]
 	- [[cinnamonum osmophloeum]]
 	- [[symplocos stellaris]]

@@ -14,7 +14,7 @@
 	- [[erythrina variegata]]
 	- [[trema micrantha]]
 	- [[trema orientalis]]
-	- [[homolanthus fastuosus]]
+	- [[homolanthus giganteus]]
 	- [[calliandra calothyrsus]]
 	- [[leucaena leucocephala]]
 	- [[boehmeria nevea]]

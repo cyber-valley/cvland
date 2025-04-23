@@ -41,5 +41,5 @@ type:: sector
 	- [[melissa officinalis]]
 	- [[salvia officinalis]]
 	- [[salvia leucantha]]
-- [[walls]]
+- [[wall]]
 	- [[cymbopogon citratus]]

@@ -16,6 +16,7 @@ icon:: 🧬
 	- [[birds research]]
 	- [[plants research]]
 	- TODO [[fungi research]]
+	- TODO water research
 - ## surrounded by the following districts
 	- [[batuka]]: relict forest
 	- [[bridge]]: commercial street

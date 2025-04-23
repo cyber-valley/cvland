@@ -3,8 +3,9 @@ scalable:: true
 
 - selected for [[edem]]
 	- {{embed [[magnolia cempaka]]}}
-- research
 	- [[magnolia alba]]
+	- [[magnolia lilifera]]
+- research
 	- [[magnolia grandiflora]]
 	- [[magnolia soulangeana]]
 	- [[magnolia figo]]

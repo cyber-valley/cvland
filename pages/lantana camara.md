@@ -1,4 +1,4 @@
-alias:: krasi
+alias:: krasi, lantana
 tags:: species, major
 
 - ![Lantana Camara Flower Seeds,Rare Perennial Herb Gorgeous Bonsai Suitable  Tree 25 Seeds Eco Pack. : Amazon.in: Garden & Outdoors](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmXXFLtXv6Mqavb9YfUFKupsekCRC4XQmVV59EqvoB4khr)
