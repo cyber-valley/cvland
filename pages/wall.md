@@ -1,15 +1,32 @@
 alias:: walls
 
-- vertical or semi vertical slopes used for primary supporting species
-- walls are good for planting well adopted and fast growing species
-- roles: [[pioneer]], [[polinator]], [[nitrogener]]
+- [[biome/layer]] for productivity
+- vertical or semi vertical slopes used for supporting species
+- the idea is to put everything needed for supporting [[beds]] on the wall
+- goals
+	- utilize vertical or semi-vertical slopes and wall structures to host support species
+	- maximize flat surface area of beds for high-value or productive species
+	- integrate species that fulfill key regenerative functions:
+		- [[nitrogener]]
+		- [[accumulator]]
+		- [[attractor]]
+		- [[phreatophyte]]
+		- [[phytominer]]
+- selection criteria for wall species
+	- fast-growing
+	- aggressive rooting for erosion control
+	- tolerate shallow soil or rock wall crevices
+	- easy to propagate: [[cuttings]] or [[seeds]]
+	- multi-role functionality
+	- tolerates pruning or coppicing
 - species used for walls in [[edem]]
 	- [[austroeupatorium]]
+	- [[eupatorium]]
 	- [[ageratina]]
 	- [[debregeasia]]
-	- [[imperata]]
 	- [[cymbopogon]]
 	- [[stachytarpheta]]
+	- [[kalanchoe pinnata]]
 	- [[senna septemtrionalis]]
 	- [[lantana]]
 	- [[trema]]
@@ -22,3 +39,12 @@ alias:: walls
 	- [[calliandra calothyrsus]]
 	- [[leucaena leucocephala]]
 	- [[homolanthus giganteus]]
+	- [[imperata]]
+	- [[tithonia diversifolia]]
+	- [[dahlia imperialis]]
+- key advantages
+	- reduced competition for resources in productive [[beds]]
+	- vertical surfaces become highly functional ecological zones
+	- species offer secondary outputs: medicine, fodder, mulch, flowers
+	- enable structured pruning cycles for biomass or compost input
+-
