@@ -8,7 +8,7 @@
   | fine wood ash | abu kayu halus | 2.4 | ~1.9 | ~1200 | secondary pozzolanic action |
   | clean water | air bersih | ~6.0 | ~6.0 | 1000 | activation of reaction |
 - instructions for preparation and use
-	- mix dry components (volcanic ash, milled basalt, kaolin clay, fine wood ash) thoroughly
+	- mix dry components thoroughly: volcanic ash, milled basalt, kaolin clay, fine wood ash
 	- separately prepare the slaked lime paste (kapur sirih) if not yet ready
 	- combine dry mix with slaked lime paste
 	- gradually add clean water, adjusting until achieving thick sour cream consistency

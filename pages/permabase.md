@@ -1,4 +1,4 @@
-tags:: area
+tags:: district
 
 - permaculture garden in [[rockets estate]] [[district]]
 - [[buildings]]
