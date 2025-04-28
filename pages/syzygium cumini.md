@@ -204,4 +204,3 @@ tags:: species
 	- repeat daily until the [[inflammation]] subsides.
 - **uses**
 	- this poultice is traditionally used to reduce [[inflammation]] , [[swelling]] , and [[pain]] due to its [[anti-inflammatory]] and [[antimicrobial]] properties. it is commonly applied to minor [[wounds]] , [[insect bites]] , and [[joint pain]]
-	  >>>>>>> 4eed2d04a0ea4e9669f3003723e7b9cfadab2090

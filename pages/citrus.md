@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, major
 scalable:: true
 
 - native

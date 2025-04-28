@@ -5,7 +5,7 @@ alias:: senduduk
 - ![Screenshot 2024-06-02 at 05.46.06.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmetWnqKbHoCmLk9UFe1nodwnTA8yU6ANNUsMfXzLbQLLy)
 - ![Melastoma malabathricum subsp. malabathricum | Plants of the World Online |  Kew Science](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQppJLuhezTkwnmtrbvW4prBmhignMGb6xRYrj6wUbZa7)
 - ![Melastoma malabathricum L. | Plants of the World Online | Kew Science](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmTKbbj14SCvTVE4g8iPGS17mMrUqos34kKWNruJTHYPzc)
-- [[plant/roles]]
+- [[plant/features]]
 	- [[aluminum]] [[hyperaccumulator]]
 	- [[food]]
 		- fruits

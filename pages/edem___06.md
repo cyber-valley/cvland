@@ -1,5 +1,4 @@
 type:: sector
-
 - connected to [[edem/sectors]]
 	- [[edem/05]]
 	- [[edem/07]]

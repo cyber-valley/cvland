@@ -47,4 +47,3 @@ alias:: walls
 	- vertical surfaces become highly functional ecological zones
 	- species offer secondary outputs: medicine, fodder, mulch, flowers
 	- enable structured pruning cycles for biomass or compost input
--

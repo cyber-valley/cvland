@@ -38,7 +38,7 @@ type:: sector
 	  collapsed:: true
 		- TODO check [[verbena hastata]]
 		- [[mentha piperita]]
-	- [[cinamonium verum]]
+	- [[cinnamomum verum]]
 	  collapsed:: true
 	- [[inga edulis]]
 		- [[salvia coccinea]]

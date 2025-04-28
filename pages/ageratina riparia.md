@@ -13,7 +13,7 @@ tags:: species
 - In the Philippines, crushed leaves are used for "kulebra", bolis and tumorous inflammtory conditions.
 - In Java and Sri Lanka, it is used for its strong antifungal properties.
 - in Northeast India, it is used as traditional medicine by boiling the whole plant and drinking the juice, indigenous people believe it can prevent disease caused by germs.
-- [[plant/roles]]
+- [[plant/features]]
 	- [[attractor]]
 	- [[repeller]]
 	- [[health]]

@@ -9,7 +9,7 @@ type:: sector
 - [[guilds]]
 	- [[morus nigra]]
 	- [[bergera koenigii]]
-	- [[cinamonium verum]]
+	- [[cinnamomum verum]]
 	- [[citrus hystrix]]
 	- [[nopalea cochenillifera]]
 	- [[diospyros nigra]]

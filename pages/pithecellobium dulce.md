@@ -1,6 +1,5 @@
 tags:: species, research
 alias:: madras thorn, manila tamarind, asam belanda
-
 - nitrogener:: 70
 - ![Screenshot 2024-05-20 at 07.46.03.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmPdVNRs2SrbUatXDSQ75Ab7Jn5dsSwU7e74Mw4CdpJzQN)
 - height: 10-15m

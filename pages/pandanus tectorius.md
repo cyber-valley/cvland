@@ -1,5 +1,5 @@
 tags:: species, research
-alias:: pandan, pandanus palm
+alias:: screwpine
 
 - ![Screenshot 2024-05-24 at 09.07.48.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmVcgHn3sNKFmFdXRQCjMQ8u2sKYtzhYubDjL6nTxsQyNT)
 - ![Screenshot 2024-05-24 at 09.07.59.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmeDiXk2h9BjeiHQ7aZPiB3eYYEkrohRnpGQPhjLEjFwkH)

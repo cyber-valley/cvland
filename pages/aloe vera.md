@@ -13,7 +13,7 @@ alias:: aloe barbadensis, aloe indica royle, aloe perfoliata, aloe vulgaris
 		- root: fibrous and shallow, adapted for rapid water uptake during brief rainfall events. roots spread close to the surface, allowing the plant to thrive in arid environments.
 			- contains [[trace minerals]] and [[enzymes]] that support basic root metabolism and cellular function.
 		- stem: reduced or almost absent; leaves emerge directly from a very short basal stem (crown). the stem is non-woody and mostly functions as a support base.
-			- composed primarily of [[cellulose]] and small amounts of [[resin]] compounds that may provide [[antimicrobial]] protection.
+			- composed primarily of [[cellulose]] and small amounts of [[resin compounds that may provide [[antimicrobial]] protection.
 		- leaf: thick, [[succulent]], and lanceolate with serrated margins; stores large amounts of [[gel]] within the inner tissue. the outer surface is waxy to prevent water loss.
 			- the inner [[gel]] contains [[acemannan]], [[polysaccharides]], [[salicylic acid]], [[vitamins]] (a, c, e, b1, b2, b6, b12), [[lignin]], [[amino acids]], [[minerals]] ([[zinc]], [[calcium]], [[magnesium]]), and [[enzymes]] ([[amylase]], [[catalase]], [[lipase]]).
 			- the latex layer beneath the skin contains [[aloin]], [[aloe-emodin]], and [[barbaloin]], which are biologically active and known for strong [[laxative effects]].

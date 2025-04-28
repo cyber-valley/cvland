@@ -6,7 +6,7 @@ tags:: carrot house
 	- [[tabernaemontana pandacaqui]]
 	- [[homolanthus giganteus]]
 	- [[cayaponia racemosa]]
-	- [[cinnamonum osmophloeum]]
+	- [[cinnamomum iners]]
 	- [[symplocos stellaris]]
 	- [[smilax bracteata]]
 	- [[ardisia sieboldii]]

@@ -29,7 +29,7 @@ alias:: frangipani
 	- [[water requirements]]: [[moderate]]
 	- [[soil structure]]:: prefers [[well-drained]] soil
 	- **[[soil ph]]**: [[slightly acidic]] to [[neutral]] (6.0 - 7.5)
-	- [[plant/roles]] in [[permaculture guilds]]:
+	- [[plant/features]] in [[permaculture guilds]]:
 	- often used as a [[decorative]] or [[shade]] plant
 	- spacing in meters: approximately 3-4 meters apart.
 	- germination days: typically 21-30 days.

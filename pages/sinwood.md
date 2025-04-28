@@ -1,12 +1,12 @@
 alias:: senwood
-tags:: area
+tags:: district
 
 - district in [[rockets estate]]
 - existing
 	- [[canopy]]
 		- [[sengon]]
 		- [[trema]]
-- planed
+- planed by [[biome/layer]]
 	- [[canopy]]
 		- [[jackfruit]]
 		- [[chempaka]]

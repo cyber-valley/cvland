@@ -7,7 +7,7 @@
 	- [[bush]] <2m
 	- [[herb]] <70cm
 	- [[carpet]] <10cm
-	- [[floor]]
+	- [[trail]]
 	- [[wall]]
 	- [[vine]]
 - [[aqua]]

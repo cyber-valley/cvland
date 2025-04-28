@@ -9,7 +9,7 @@ type:: sector
 	- [[garcinia mangostana]]
 	- [[garcinia mangostana]]
 	- [[prunus persica]]
-	- [[cinamonium verum]]
+	- [[cinnamomum verum]]
 	- [[melaleuca viminalis]]
 	- [[phyllanthus casticum]]
 	- [[mangifera indica]]
