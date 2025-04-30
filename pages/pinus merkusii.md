@@ -1,5 +1,7 @@
 alias:: sumatran pine
-tags:: species
+tags:: species, major
+
+- wood-density:: 450
 - [[conifer]]
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmaRm8Cpjp8ReBGA4X8ugxwKUeo4jyCcuofqAz5jCazW4G)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmdknGZ4DYEDFb1PG2h3dddBBrmefFznmq2k6PkHMmycsw)

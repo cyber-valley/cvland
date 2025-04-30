@@ -1,5 +1,5 @@
 tags:: species
-alias:: angsana, philippines mahogany, sana kembang
+alias:: angsana, sana kembang
 
 - ![Screenshot 2024-05-17 at 05.51.40.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmcaugHmAVPwBHFJp9sG3k8xtN9aCtwELTZULX1PeYqRNh)
 - height: 30-40m

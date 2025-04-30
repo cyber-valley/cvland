@@ -13,7 +13,7 @@ type:: sector
 - TODO [[litchi chinensis]]
 - TODO [[triphasia trifoila]]
 - TODO [[strobilanthes auriculatus]]
-- TODO [[magnolia cempaka]]
+- TODO [[magnolia champaca]]
 - [[citrus sinensis]]
 - [[persea americana]]: 3
 - [[citrus sinensis]]

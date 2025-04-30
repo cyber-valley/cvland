@@ -1,5 +1,5 @@
 alias:: gude, pigeon pea
-tags:: species, major
+tags:: species, research, major
 
 - nitrogener:: 100
 - state:: supply

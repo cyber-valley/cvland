@@ -1,6 +1,7 @@
 tags:: species, major
-alias:: cendana, east indian sandalwood, sandal, sandalwood
+alias:: cendana, sandal, sandalwood
 
+- wood-density:: 900
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmTvWmfaiadRKJapuwBSnd1W1epZ2WuFzcFscJLCW1KYX5)
 - [plantsofasia](http://www.plantsofasia.com/index/santalum/0-862)
 - height: 4-9 m

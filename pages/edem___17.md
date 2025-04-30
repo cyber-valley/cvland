@@ -31,7 +31,7 @@ type:: sector
 - TODO [[pirus]] coklat
 - [[solanum torvum]]
 - TODO [[ficus carica]]
-- TODO [[magnolia cempaka]]
+- TODO [[magnolia champaca]]
 - TODO [[rubus fruticosus]]: 5
 - [[debregeasia longifolia]]: 8
 - [[melastoma malabathricum]]: 2

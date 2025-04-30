@@ -8,4 +8,5 @@ scalable:: true
 - research
 	- [[melaleuca leucadendra]]
 	- [[melaleuca alternifolia]]
+	- [[melaleuca linariifolia]]
 	- [[melaleuca cajuputi]]

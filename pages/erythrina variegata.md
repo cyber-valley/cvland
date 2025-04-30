@@ -1,7 +1,8 @@
 alias:: dadap
 tags:: species, major
 
-- availability:: cv
 - nitrogener:: 150
+- wood-density:: 220
+-
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmfUNzDqjU1M5MmmV2VYd5P7A3AumxBJ164LGM6CXdrRp8)
 -

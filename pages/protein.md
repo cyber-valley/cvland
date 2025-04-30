@@ -41,3 +41,23 @@
 - **[[monoclonal antibodies]]**: laboratory-made proteins used in treating diseases like cancer.
 - **[[hormones]]**: protein-based signaling molecules (e.g., growth hormone).
 - **[[transport proteins]]**: facilitate the movement of molecules (e.g., sodium-potassium pump).
+- plant based protein in raw form
+	- [[ulmus parviflora]]
+	- [[morinda citrifolia]]
+	- [[celtis sinensis]]
+	- [[morus alba]]
+	- [[honey locust]]
+	- [[broussonetia papyrifera]]
+	- [[pterocarpus indicus]]
+	- [[ficus racemosa]]
+	- [[artocarpus]]
+	- [[ipomoea batatas]]
+	- [[gynura]]
+- plant based protein in raw form
+	- [[breynia androgyna]]
+	- [[urtica dioica]]
+	- [[cnidoscolus aconitifolius]]
+	- [[inocarpus fagifer]]
+	- [[diplazium esculentum]]
+	- [[bamvoo]]
+	- [[manihot esculenta]]

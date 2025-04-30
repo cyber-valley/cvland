@@ -1,6 +1,7 @@
-tags:: species
-alias:: indian oak, teak tree, teak
+tags:: species, genus, research
+alias:: teak, tectona
 
+- wood-density:: 700
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmRsFAuyBYN6NQYEgbSx69PXY26XNMb7dNjVYQtKaMVgLS)
 - [wiki](https://en.wikipedia.org/wiki/Teak)
 - [plantsofasia](http://www.plantsofasia.com/index/tectona/0-681)

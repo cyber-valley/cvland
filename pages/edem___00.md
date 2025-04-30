@@ -33,7 +33,7 @@ type:: sector
 	  collapsed:: true
 		- [[piper nigrum]]
 		- [[thymus vulgaris]]
-	- [[magnolia cempaka]]
+	- [[magnolia champaca]]
 	- [[malpighia emarginata]]
 	  collapsed:: true
 		- TODO check [[verbena hastata]]

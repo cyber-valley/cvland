@@ -1,7 +1,8 @@
 tags:: species
 alias:: senduduk
 
-- ![Screenshot 2024-06-02 at 05.46.45.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmYid5D55k3w9eKGWyTks4sd4Tz7SuvRWmiVqabaReGmtd)
+- wood-density:: 400
+- ![Screenshot 2024-06-02 at 05.46.45.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmYid5D55k3w9eKGWyTks4sd4Tz7SuvRWmiVqabaReGmtd){:height 819, :width 628}
 - ![Screenshot 2024-06-02 at 05.46.06.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmetWnqKbHoCmLk9UFe1nodwnTA8yU6ANNUsMfXzLbQLLy)
 - ![Melastoma malabathricum subsp. malabathricum | Plants of the World Online |  Kew Science](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQppJLuhezTkwnmtrbvW4prBmhignMGb6xRYrj6wUbZa7)
 - ![Melastoma malabathricum L. | Plants of the World Online | Kew Science](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmTKbbj14SCvTVE4g8iPGS17mMrUqos34kKWNruJTHYPzc)

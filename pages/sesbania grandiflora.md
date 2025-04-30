@@ -1,7 +1,8 @@
-tags:: species, research
-alias:: agathi, turi
+tags:: species, genus, research, major
+alias:: turi, sesbania
 
 - nitrogener:: 120
+- wood-density:: 300
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmSHTsC2e46M8LXgqbxECUed38NR96HHFMH6gfwCgQwGxB)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmdSxcXEBcWqjXsVfdtiGeexVsJL46pMUt5ZhEFC1uHNuy)
 - [plantsofasia](http://www.plantsofasia.com/index/sesbania_grandiflora/0-644)

@@ -1,5 +1,5 @@
-tags:: species
-alias:: champak, white champaca, champaca, magnolia cempaka
+tags:: species, major
+alias:: cempaka, chempaka, champaka, champak, champaсa, white champaca
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeiapmu3yu6gy6kdonf4xp4q3lg33wrqtsr44mfkbkepqlqzp4bqkhm)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeihkuav2sxohnpxagvqhidqj4xbns2hyvgzjfsxwgua7r2sbfkq2xu)
@@ -80,3 +80,18 @@ alias:: champak, white champaca, champaca, magnolia cempaka
 			- [[essential oil]]: steam-distilled from fresh petals, yield is low (~0.1–0.3%) but highly [[aromatic]]
 			- [[floral water]]: [[byproduct]] of [[distillation]] used in [[cosmetics]] and rituals
 			- [[wood]]: harvested selectively after natural fall or pruning. used in artisanal [[woodcraft]], [[incense]], and [[carving]]
+- tags:: species, major
+- wood
+- ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmW9v9T8Usp1mPqqFGMt6AUU1dWHw22tApWPrBAc8rK7cN)
+- ![Screenshot 2024-05-27 at 07.04.08.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmPd2jAHjMBRQrV9BeuZTVPaZ83YWBySq7H39t6Ru9QDXe)
+- ![Screenshot 2024-05-27 at 07.03.51.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qmc2FpzaWTvhK18wVJJQkv4Ych9vSt1txmPBFP1K1XUa5K)
+- products
+	- [[flower]]
+	  tags:: species
+	  alias:: champaсa, champak, white champaca, magnolia champaca
+- height: 50 m
+- [wiki](https://en.wikipedia.org/wiki/Magnolia_champaca)
+- [info](http://www.plantsofasia.com/index/magnolia_champaca/0-516)
+- [tokopedia](https://www.tokopedia.com/rocketfieldplantary/tanaman-bunga-cempaka-putih-white-magnolia-flowers-magnolia-champaca?extParam=ivf%3Dfalse%26src%3Dsearch)
+-
+-

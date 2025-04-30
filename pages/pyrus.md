@@ -1,6 +1,6 @@
-tags:: genus
+tags:: genus, major
 alias:: pir, pear
-scalable:: true
 
+- wood-density:: 700
 - ![image.png](../assets/image_1713844772528_0.png){:height 904, :width 908}
 - [[pyrus communis]]

@@ -19,7 +19,7 @@ type:: sector
 	- [[aleurites moluccanus]]
 	- [[bergera koenigii]]
 	- [[prunus persica]]
-	- [[magnolia cempaka]]
+	- [[magnolia champaca]]
 	- [[cinnamomum verum]]
 	- [[macadamia tetraphylla]]
 	- [[bunchosia armeniaca]]

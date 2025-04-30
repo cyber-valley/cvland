@@ -1,11 +1,17 @@
 alias:: rockets, rfe
 tags:: legal entity
 
-- [[asgard]]: private area for family memebers
+- [[asgard]]: private area for family members [[@suryani]], [[@au]], [[@putri]] [[@lia]]
 	- [[carrot house]]
 	- [[satoshi]]
 	- TODO [[yudkowsky]]
-- [[belt]]: shelter belt around estate
+- [[belt]]: shelter belt around estate [[@mega]]
+	- [[laba]]: [[@kadek]]
+		- construction 1: [[@putu]], [[@darsana]], [[@doplang]], [[@opa]]
+		- construction 2: [[@dipa]], [[@dado]], [[@suardita]], [[@lupus]]
+		- construction 3: [[@koripa]], [[@darma]], [[@surya]], [[@pande]]
+	- [[kitchen]]: [[@juli]], [[@sri]], [[@nanik]]
+	- [[terrabyte]]: [[@gina]]
 	- [[organiq]]
 	- [[parking]]
 		- [[pussy car]]
@@ -13,25 +19,23 @@ tags:: legal entity
 		- TODO [[xmax]]
 		- TODO [[ebike]]
 	- [[agung]]
-	- [[laba]]
-	- [[terrabyte]]
-	- [[kitchen]]
-- [[permabase]]: warehouse for seedlings
+	- [[lolok temple]]
+- [[permabase]]: warehouse for seedlings [[@echa]], [[@meli]], [[@restiani]]
 	- [[edem]]: incubator for plant
 	- TODO [[sapphire]]
 	- TODO [[citrin]]
 	- TODO [[emerald]]
-- [[etherland]]: space for animals
+- [[etherland]]: space for animals [[@rina]], [[@dwi]], [[@new]], [[@new]]
 	- [[soft]]
 	- [[etna]]
-	- [[elon]]
+	- [[elon]]: [[@made]], [[@sastra]]
 	- [[vitalik]]
 	- [[pasture]]
 	- [[baikal]]
 	- TODO [[chrysolite]]
 	- TODO [[gavin]]
 	- TODO [[andara]]
-- [[sinwood]]: productive magic forest
+- [[sinwood]]: productive magic forest [[@alesya]] [[@wati]] [[@dewi]] [[@ayuputu]] [[@sonya]] [[@new]]
 	- [[banya]]
 	- [[monastery]]
 	- [[fuji]]
@@ -40,4 +44,4 @@ tags:: legal entity
 	- [[titicaca]]
 	- [[toba]]
 	- [[olympus]]
-	- [[lolok temple]]
+-

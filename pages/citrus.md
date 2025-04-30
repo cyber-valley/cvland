@@ -1,4 +1,4 @@
-tags:: genus, major
+tags:: genus
 scalable:: true
 
 - native
@@ -11,3 +11,5 @@ scalable:: true
 	- {{embed [[citrus japonica]]}}
 - research
 	- {{embed [[citrus aurantium]]}}
+	- {{embed [[grapefruit]]}}
+	-

@@ -1,6 +1,7 @@
-tags:: genus, species, major
-alias:: durian, durio zibethinus
+tags:: species, major
+alias:: durian, durio
 
+- wood-density:: 500
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQnG2tK15KPE8ytVRJwgkQ7ETbEPiSDU4hmut7ZyULGcv)
 - varieties
 	- musang king

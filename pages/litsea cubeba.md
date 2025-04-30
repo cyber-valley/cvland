@@ -1,6 +1,7 @@
 alias:: may chang, kilemo
-tags:: species
+tags:: species, major
 
+- wood-density:: 450
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmXuSSCeAr1KLRfeC3RcxPZrFxMeKVZMF2uCuCnH52oAUT)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmTnhZosPnr5idtxHuvBe6WfdxcrrQ6gPdc5ajExmoYJs3)
 - [wiki](https://en.wikipedia.org/wiki/Litsea_cubeba)
