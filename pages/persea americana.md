@@ -1,4 +1,4 @@
-tags:: species, major
+tags:: species, major, collectable
 alias:: avocado, alpukat
 
 - ![Screenshot 2024-05-23 at 09.25.18.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmPBzCPrsA6BnSSKcXxHRHxXPWgRUicFuJzEy89APzSkM7)

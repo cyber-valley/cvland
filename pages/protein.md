@@ -50,10 +50,10 @@
 	- [[broussonetia papyrifera]]
 	- [[pterocarpus indicus]]
 	- [[ficus racemosa]]
-	- [[artocarpus]]
 	- [[ipomoea batatas]]
 	- [[gynura]]
 - plant based protein in raw form
+	- [[artocarpus]]
 	- [[breynia androgyna]]
 	- [[urtica dioica]]
 	- [[cnidoscolus aconitifolius]]

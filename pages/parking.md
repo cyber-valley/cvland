@@ -1,4 +1,6 @@
 tags:: building
 
 - TODO signs on the road to [[cyber valley]] and [[citadel genesis]]
-- TODO instruction on how to get here
+- TODO publish instructions on how to get here
+- TODO pour gravel
+- TODO build repair box

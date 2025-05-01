@@ -1,5 +1,4 @@
-tags:: genus
-scalable:: true
+tags:: genus, major, collectable
 
 - selected for [[edem]]
 	- {{embed [[mentha piperita]]}}
