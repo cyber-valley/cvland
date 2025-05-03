@@ -1,0 +1,38 @@
+- production facility for autonomous estate
+- modular wood + metal workshop
+	- space: 60–70 m²
+	- functions
+		- core wood cutting: 8 m2
+		- welding + grinding + small-scale shaping: 8 m2
+		- equipment: table saw, lathe, angle grinder, welder, vice, portable bench
+- polymerization & chemical treatment
+	- pace: 25–30 m², insulated, fire-isolated
+	- functions: wood resin polymerization, stove-based treatment, drying
+	- equipment:
+		- repurposed kiln (double as char maker)
+		- vacuum or pressure chamber if needed
+- plastic + glass zone (integrated with tool repair)
+	- •	space: 30–35 m²
+	- •	functions: plastic shredding, molding, glass cutting, soldering
+	- •	equipment:
+	- •	precious plastic shredder
+	- •	compression mold or injection press
+	- •	basic soldering & tool maintenance bench
+	- •	glass cutter table (dual-use bench)
+	- •	note: non-flammable insulation for safe plastic work
+- tool storage and chargin stations (central depot)
+	- 2 electric saw and 8 charging station
+	- •	functions: dry storage of wood, pipes, sheets, tools
+	- •	structure:
+	- •	double-layer vertical storage racks
+	- •	tight-fit compartments and labeled crates
+- materials storage
+- •	climate-controlled cabinet for sensitive materials (epoxy, paints)
+- •	space: 35–40 m² covered, plus some semi-sheltered pallets
+- open-air yard
+	- functions:
+	- space: 50–100 m² outdoor (unroofed or tarp-roofed)
+	- space for workers and debarcation zone
+	- rain-shedding roof with no walls or only windbreaks
+	- •	stone or concrete floor
+	- •	air drying wood
