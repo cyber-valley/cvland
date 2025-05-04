@@ -6,20 +6,23 @@
 	- single or double glass window
 	- thermos panel
 	- wooden panel
-- foundation
+- [[foundation of buildings]]
 	- cold water tank: 4m3
 	- hot water tank: 4m3
-	- anaerobic composter: 4m3
+	- anaerobic composter: 4m3 - produce natural gas
 	- invertor 5 kw
-	- battery 5 kw
+	- battery 5 kw - 24-48 v | how to make efective electrical storage ?
 	- air dryer & water generator
 	- computer
 	- gas water heater
 	- electric water heater
 	- electric automatics
 - frame
-	- `4*4*4` meter by outside borders
+	- `6*6*6` or `4*4*4` `meter by outside borders
 	- using square beams
+		- singon
+		- trema
+		-
 - roof
 	- starlink
 	- solar panels
