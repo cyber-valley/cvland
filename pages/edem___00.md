@@ -5,7 +5,6 @@ type:: sector
 	- [[zone two]]
 - [[guilds]]
 	- [[syzygium cumini]]
-	  collapsed:: true
 		- [[symphytum officinale]]
 		- [[potentilla indica]]
 		- [[allium tuberosum]]
@@ -14,7 +13,6 @@ type:: sector
 		- [[ocimum basilicum]]
 		- [[cyperus mindorensis]]
 		- [[cynodon dactylon]]
-		- [[rubus wild]]
 	- [[jasminum officinale]] gambir
 	  collapsed:: true
 		- [[melastoma malabathricum]]
@@ -65,5 +63,4 @@ type:: sector
 	- [[debregeasia longifolia]]
 	- [[imperata cylindrica]]
 	- [[ageratina riparia]]
-	- [[rubus wild]]
 - TODO build stone trail

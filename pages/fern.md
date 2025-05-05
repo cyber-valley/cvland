@@ -1,4 +1,6 @@
-## [[species]] presented in [[edem]]
+tags:: collectable
+
+- ## [[species]] presented in [[edem]]
 - {{query (and [[fern]] (and) (page-tags [[species]] ))}}
   query-sort-by:: page
   query-table:: true
