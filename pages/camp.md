@@ -1,0 +1,2 @@
+- flat space for setting up the [[tents]]
+-
