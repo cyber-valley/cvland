@@ -9,6 +9,7 @@
 - [[foundation of buildings]]
 	- cold water tank: 4m3
 	- hot water tank: 4m3
+<<<<<<< Updated upstream
 	- anaerobic composter: 4m3 - produce natural gas
 	- invertor 5 kw
 	- battery 5 kw - 24-48 v | how to make efective electrical storage ?
@@ -17,6 +18,26 @@
 	- gas water heater
 	- electric water heater
 	- electric automatics
+||||||| Stash base
+	- anaerobic composter: 4m3
+	- invertor 5 kw
+	- battery 5 kw
+	- air dryer & water generator
+	- computer
+	- gas water heater
+	- electric water heater
+	- electric automatics
+=======
+	- anaerobic composter: 4 m3
+	- gas storage: 1 m3
+	- equipment: 3 m3
+		- invertor 5 kw
+		- battery 5 kw
+		- heat pump
+		- air dryer & water generator
+		- computer: raspberry or mac mini
+		- electric automatics
+>>>>>>> Stashed changes
 - frame
 	- `6*6*6` or `4*4*4` `meter by outside borders
 	- using square beams
