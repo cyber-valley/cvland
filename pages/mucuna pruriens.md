@@ -1,6 +1,8 @@
 tags:: species
 
-- state:: supply
+- [[high margin]] 
+  
+  state:: supply
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmUcWqzPwQku5cfJMPBKtXAx23hT355roVSYbcwTXtdCmT)
 - block [[prolactin]]
 - increase in [[dopamine]]

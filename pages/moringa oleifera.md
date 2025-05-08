@@ -82,7 +82,6 @@ alias:: ben oil tree, kelor
 	- [wiki](https://en.wikipedia.org/wiki/Moringa_oleifera)
 	- [tokopedia](https://www.tokopedia.com/bataviaherbalshop/biji-kelor-kupas-moringa-seeds-kernel-kelor-premium-herbs-time?extParam=ivf%3Dfalse&src=topads)
 	- [plantsofasia](http://www.plantsofasia.com/index/moringa_oleifera/0-913)
-- [[high margin]]
 - ## chemical compounds
 	- | **compound**            | **part of plant**      | **amount (approx.)**                   | **properties/usefulness**                                                   |
 	  |--------------------------|-------------------------|-----------------------------------------|------------------------------------------------------------------------------|

@@ -1,4 +1,4 @@
-tags:: species, research
+tags:: species, research, unavailable
 alias:: sacha inchi
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZcL2EwLJE27yvp4gjQyAuSpPKfjgP5CpmCfKGBmsrLPH)

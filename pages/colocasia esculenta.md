@@ -5,7 +5,7 @@ tags:: species
 - products
 	- [[root]]
 - [[plant/features]]
-	- [[food]]
+	- [[staple]] [[food]]
 	- [[attractor]]
 	- [[potassium]] [[accumulator]]
 - [[plant/edible]], [[root vegetable]], [[high starch]]

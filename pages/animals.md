@@ -27,7 +27,7 @@ tags:: class
 	- [[raven]]
 	- [[grey parrot]]
 	- [[dogs]]
-	- [[rabbits]]
+	- [[rabbit]]
 	- [[snail]]
 	- [[firefly]]
 	- [[glowworm]]

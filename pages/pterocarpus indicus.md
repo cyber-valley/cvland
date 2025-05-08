@@ -1,6 +1,8 @@
 tags:: species
 alias:: angsana, sana kembang
 
+- wood-density:: 900
+- conservation:: endangered
 - ![Screenshot 2024-05-17 at 05.51.40.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmcaugHmAVPwBHFJp9sG3k8xtN9aCtwELTZULX1PeYqRNh)
 - height: 30-40m
 - [info](http://www.plantsofasia.com/index/pterocarpus/0-151)

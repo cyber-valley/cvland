@@ -1,6 +1,7 @@
 alias:: amboina, damar, kauri, agathis
 tags:: species, genus, major
 
+- [[high margin]]
 - [[conifer]] with [[resin]]
 - wood-density:: 500
 - ![image](https://ipfs.io/ipfs/QmPkab6xb3rFSUgzBYKfgRYeotbm6FY91UAGWyFMyxQ9Sk)

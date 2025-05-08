@@ -5,7 +5,7 @@ alias:: aloe barbadensis, aloe indica royle, aloe perfoliata, aloe vulgaris
 - availability:: cv
 - [[plant/miracle]]
 - [[salad]] and [[stew]]
-- [[high margin]]
+- [[staple]]
 - [wiki_aloe_vera](https://en.wikipedia.org/wiki/Aloe_vera)
 - [[plant/type]]: [[succulent]] [[herbaceous]] [[perennial]]
 	- this defines the plant as a fleshy, non-woody, [[evergreen]] species that persists for many seasons, storing water in its thick leaves.

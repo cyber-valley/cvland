@@ -1,6 +1,7 @@
 alias:: merbau, intsia
 tags:: species, genus, major
 
+- [[high margin]]
 - [tokopedia](https://www.tokopedia.com/yoomitae/benih-pohon-merbau-intsia-bijuga-zguuab-1246ha?extParam=ivf%3Dfalse%26src%3Dsearch)
 - wood-density:: 900
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZtKh76Dk1VbZeUWDpSqxSWMkWeWQPcvc1KYgZkaAQaqr)

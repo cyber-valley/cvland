@@ -1,4 +1,4 @@
-- textile produced from [[boehmeria nevea]]
+- textile produced from [[boehmeria nivea]]
 - clean processing possible
 - enzymes for processing: [[pectinase]], [[cellulase]], [[protease]]
 - 10m2 of land outputs ~1 kg of fiber

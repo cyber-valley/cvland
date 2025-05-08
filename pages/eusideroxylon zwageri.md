@@ -2,6 +2,7 @@ alias:: ulin, eusideroxylon
 tags:: species, genus, major, research
 
 - wood-density:: 1050
+- [[high margin]]
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmY5vd7kFWqXRjPQrgq5EPAyFj97yHpJPrtY4d9s86ybkV)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmYe2CdM9PvCT5sXjmksT7hozJAYA2hR3UV7eb4HXwmZMm)
 - [tokopedia](https://www.tokopedia.com/agropurworejo/100-150cm-bibit-tanaman-kayu-ulin-iron-wood-kayu-besi-langka?extParam=ivf%3Dfalse%26src%3Dsearch)

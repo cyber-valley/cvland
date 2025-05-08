@@ -1,5 +1,6 @@
 tags:: species, major
 
+- [[staple]]
 - ![What Does a Coffee Plant Look Like? - Square Coffee Co.](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQYWS8DM2s9meBH8YAGSSXMYayKcLxdh1N6FfyNLc4YZE)
 - products
 	- [[fruit]]

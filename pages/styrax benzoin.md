@@ -1,6 +1,7 @@
 tags:: species, major
 alias:: kemenyan, benzoin
 
+- [[high margin]]
 - wood-density:: 500
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmUtibaACzpV679BrAhdnHj8VvsXbWLW56DdXphqD8WC57)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmSXcrenLo51BrbMCoGNoZgeY96s5APJq3JA1p4YXFWR2E)

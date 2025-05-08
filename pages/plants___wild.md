@@ -17,7 +17,7 @@
 	- [[homolanthus giganteus]]
 	- [[calliandra calothyrsus]]
 	- [[leucaena leucocephala]]
-	- [[boehmeria nevea]]
+	- [[boehmeria nivea]]
 - protect for [[fodder]]
 	- [[cenchrus purpureus]]
 - supress or control

@@ -1,6 +1,7 @@
 tags:: species, major, collectable
 alias:: avocado, alpukat
 
+- [[staple]]
 - ![Screenshot 2024-05-23 at 09.25.18.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmPBzCPrsA6BnSSKcXxHRHxXPWgRUicFuJzEy89APzSkM7)
 - wood-density:: 500
 -

@@ -1,4 +1,4 @@
-tags:: species, fungi, research
+tags:: species, fungi, research, unavailable
 alias:: truffle
 scalable:: true
 

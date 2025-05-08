@@ -1,6 +1,7 @@
 tags:: species, research, major
 alias:: kruing
 
+- [[high margin]]
 - wood-density:: 800
 - availability:: eka karya
 - ![image](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmcZE6E8ZH88BjKYeMX2dyQ2gY3f9pmK9vyfmSsAZjL7Ev)

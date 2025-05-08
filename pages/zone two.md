@@ -1,7 +1,7 @@
 tags:: carrot house
 
 - [[batuka]] biome
-	- [[boehmeria nevea]]
+	- [[boehmeria nivea]]
 	- [[sicyos edulis]]
 	- [[tabernaemontana pandacaqui]]
 	- [[homolanthus giganteus]]

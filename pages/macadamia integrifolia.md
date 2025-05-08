@@ -1,3 +1,3 @@
 tags:: species
 
-- [[high margin]]
+- [[staple]]

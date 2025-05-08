@@ -1,6 +1,7 @@
 tags:: species, major
 alias:: cempaka, chempaka, champaka, champak, champaсa, white champaca
 
+-
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeiapmu3yu6gy6kdonf4xp4q3lg33wrqtsr44mfkbkepqlqzp4bqkhm)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeihkuav2sxohnpxagvqhidqj4xbns2hyvgzjfsxwgua7r2sbfkq2xu)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeigya5s63qrx6cnqkrfhvnd54tmqtduhbzof6t3roh6ycplrdzpx4i)
@@ -70,7 +71,7 @@ alias:: cempaka, chempaka, champaka, champak, champaсa, white champaca
 	  | [[fatty oils]]            | fruit/seeds    | ~5–8%            | storage [[lipids]] in [[seeds]], may have [[emollient]] properties                    |
 	  | [[resin acids]]           | fruit/seeds    | trace <0.5%      | [[antimicrobial]], [[protective]], found in [[seed coat]]                             |
 	  | [[lignans]]              | fruit/seeds    | trace <0.2%      | [[antioxidant]], possible [[hormones]]-modulating activity                         |
-	  | aromatic [[resins]]      | timber         | trace <0.5%      | light scent in fresh [[wood]], used in [[incense]]                                |
+	  | aromatic [[resin]] | timber         | trace <0.5%      | light scent in fresh [[wood]], used in [[incense]]                                |
 	  | sesquiterpenes       | timber         | trace <0.2%      | contribute to [[wood aroma]], mild [[bioactivity]] when fresh                     |
 	- operations
 		- [[propagation]]: propagated via seeds (fresh, pre-treated), air-layering, or semi-hardwood cuttings; seedling method is slow but reliable
