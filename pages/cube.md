@@ -25,7 +25,6 @@
 		- heat pump
 		- air dryer & water generator
 		- computer: raspberry or mac mini
-		- electric automatics
 - frame
 	- `6*6*6` or `4*4*4` `meter by outside borders
 	- using square beams
