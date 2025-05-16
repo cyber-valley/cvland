@@ -9,5 +9,6 @@ alias::
 - [[skin irritation]]
 - [[skin care]]
 - [[anti-aging skin]]
+- [[skin hydration]]
 -
 -

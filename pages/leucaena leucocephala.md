@@ -1,5 +1,6 @@
 alias:: lamtoro
 tags:: species, major
+
 - nitrogener:: 500
 - ![Leucaena](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmRFr6siC54zvG6YQmDxCxx2yjLTkKwmtzSfRWoasFARKx)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmUxrbBQ6dvTeCR49YDjAHNhwdDLc1V3Mc6wxhVcYLz6su)
@@ -48,16 +49,16 @@ tags:: species, major
 	- [[biome/layer]]: [[canopy]], [[sub-canopy]], [[shrub-layer]]
 	- [[products]]: [[animal-feed]], [[firewood]], [[[timber]], [[biomass-energy]], [[mulch]], [[green-manure]]
 	- [[chemical compounds]]:
-		- | Compound              | Roots  | Leaves | Flowers | Fruits (Pods & Seeds) | Bark   | Timber | Notes / Uses                                                                             |
-		  |-----------------------|--------|--------|---------|-----------------------|--------|--------|------------------------------------------------------------------------------------------|
-		  | **[[mimosine]]**          | Medium | High   | Low     | High                  | Low    | None   | toxic amino acid; restricts livestock feeding; antimicrobial; herbicidal properties      |
-		  | **[[tannins]]**           | Medium | Medium | Medium  | Medium                | High   | Low    | astringent; antimicrobial; leather tanning; traditional medicine                         |
-		  | **[[alkaloids]]**         | Low    | Low    | Trace   | Medium                | Medium | None   | potential toxicity at higher amounts; limited traditional medicinal uses                 |
-		  | *[[flavonoids]]**        | Trace  | Medium | High    | Low                   | Low    | None   | antioxidant, anti-inflammatory properties; beneficial medicinally                        |
-		  | **[[protein]]**           | Low    | High   | Low     | Medium                | None   | None   | nutrient-rich fodder after detoxification; high-value livestock feed                     |
-		  | **fiber (Cellulose)** | Medium | Low    | None    | High                  | High   | High   | structural fiber for biomass energy, paper pulp, mulch production                        |
-		  | **[[lignin]]**            | Medium | Low    | None    | Medium                | High   | High   | structural polymer; enhances fuelwood and timber durability; biomass resource            |
-		  | **[[hemicellulose]]**     | Medium | Low    | None    | Medium                | High   | High   | structural; utilized in bioenergy production, paper and construction material industries |
+		- | compound              | roots  | leaves | flowers | fruits (pods & seeds) | bark   | timber | notes / uses                                                                             |
+		  |-----------------------|--------|--------|---------|-----------------------|--------|--------|--------------------------------------------------------------------------------|
+		  | [[mimosine]]          | medium | high   | low     | high                  | low    | none   | toxic amino acid; restricts livestock feeding; antimicrobial; herbicidal properties      |
+		  | [[tannins]]           | medium | medium | medium  | medium                | high   | low    | astringent; antimicrobial; leather tanning; traditional medicine                         |
+		  | [[alkaloids]]         | low    | low    | trace   | medium                | medium | none   | potential toxicity at higher amounts; limited traditional medicinal uses                 |
+		  | [[flavonoids]]        | trace  | medium | high    | low                   | low    | none   | antioxidant, anti-inflammatory properties; beneficial medicinally                        |
+		  | [[protein]]           | low    | high   | low     | medium                | none   | none   | nutrient-rich fodder after detoxification; high-value livestock feed                     |
+		  | [[fiber]] | medium | low    | none    | high                  | high   | high   | structural fiber for biomass energy, paper pulp, mulch production                        |
+		  | [[lignin]]           | medium | low    | none    | medium                | high   | high   | structural polymer; enhances fuelwood and timber durability; biomass resource            |
+		  | [[hemicellulose]]     | medium | low    | none    | medium                | high   | high   | structural; utilized in bioenergy production, paper and construction material industries |
 - operations
 - [[propagation]]: regular pruning or coppicing promotes vigorous regrowth; minimal fertilization required due to nitrogen-fixing capacity. Periodic pest monitoring recommended.
 - [[maintenance]] regular pruning or coppicing promotes vigorous regrowth; minimal fertilization required due to nitrogen-fixing capacity. Periodic pest monitoring recommended.

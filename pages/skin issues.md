@@ -14,7 +14,7 @@ alias:: skin ailments, skin diseases, skin conditions
 - [[warts]]
 - [[skin tags]]
 - [[sunburn]]
-- [[skin cancer (e.g., melanoma, basal cell carcinoma)]]
+- [[skin cancer]]
 - [[seborrheic dermatitis (dandruff)]]
 - [[cellulitis]]
 - [[hyperpigmentation]]

@@ -50,7 +50,7 @@ alias:: guava, jambu batu
 	- [[chemical compounds]]  
 	  | compound              | plant part     | % amount         | description                                                             |
 	  |-----------------------|----------------|------------------|-------------------------------------------------------------------------|
-	  | [[vitamin c]] ([[ascorbic acid]]) | fruit       | ~200–300 mg/100g | [[antioxidant]], [[boost immunity]]                                          |
+	  | [[ascorbic acid]]| fruit       | ~200–300 mg/100g | [[antioxidant]], [[boost immunity]]                                          |
 	  | [[dietary fiber]]         | fruit          | ~5–7%            | aids [[digestion]], slows [[sugar absorption]]                                  |
 	  | [[pectin]]                | fruit          | ~1.2–2%          | soluble [[fiber]] used in [[gut health]] and [[fruit processing]]                   |
 	  | [[quercetin]]             | leaf           | ~0.5–1%          | [[antioxidant]], [[anti-inflammatory]], [[blood sugar regulation]]                   |

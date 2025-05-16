@@ -1,4 +1,6 @@
-- **alias**: oleic acid
+alias:: 
+tags::  omega-9
+
 - ![Oleic_Acid.pdf](../assets/Oleic_Acid_1719303309556_0.pdf)
 - [[oleic acid]] is a monounsaturated omega-9 fatty acid found in various plant oils (e.g., olive oil, avocado oil) and animal fats. it is widely recognized for its health benefits, particularly in promoting cardiovascular health, reducing inflammation, and supporting skin health.
 - ### chemical properties

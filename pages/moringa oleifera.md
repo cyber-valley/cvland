@@ -87,10 +87,10 @@ alias:: ben oil tree, kelor
 	- | **compound**            | **part of plant**      | **amount (approx.)**                   | **properties/usefulness**                                                   |
 	  |--------------------------|-------------------------|-----------------------------------------|------------------------------------------------------------------------------|
 	  | [[vitamin a]]           | leaves, pods           | 6,780 IU per 100g (fresh leaves)       | antioxidant, supports vision and skin health                                |
-	  | [[vitamin b1 (thiamine)]] | leaves                | 0.06 mg per 100g (fresh leaves)        | energy metabolism, nerve function                                           |
-	  | [[vitamin b2 (riboflavin)]] | leaves              | 0.05 mg per 100g (fresh leaves)        | energy production, antioxidant activity                                     |
-	  | [[vitamin b3 (niacin)]] | leaves, seeds          | 0.8 mg per 100g (fresh leaves)         | supports digestion, skin health, and nervous system                         |
-	  | [[vitamin b6 (pyridoxine)]] | leaves, seeds       | 1.2 mg per 100g (fresh leaves)         | amino acid metabolism, red blood cell production                            |
+	  | [[thiamine]] | leaves                | 0.06 mg per 100g (fresh leaves)        | energy metabolism, nerve function                                           |
+	  | [[riboflavin]] | leaves              | 0.05 mg per 100g (fresh leaves)        | energy production, antioxidant activity                                     |
+	  | [[niacin]] | leaves, seeds          | 0.8 mg per 100g (fresh leaves)         | supports digestion, skin health, and nervous system                         |
+	  | [[pyridoxine]] | leaves, seeds       | 1.2 mg per 100g (fresh leaves)         | amino acid metabolism, red blood cell production                            |
 	  | [[vitamin c]]           | leaves, pods           | 220 mg per 100g (fresh leaves)         | immune-boosting, antioxidant                                                |
 	  | [[vitamin e]]           | leaves, seeds          | 16 mg per 100g (seeds)                 | protects cell membranes, supports skin health                               |
 	  | [[calcium]]             | leaves                 | 185 mg per 100g (fresh leaves)         | bone and teeth health, muscle function                                      |
