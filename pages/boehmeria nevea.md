@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 
 - amazing [[fiber]] for [[textile]]: [[ramsie]]
 -

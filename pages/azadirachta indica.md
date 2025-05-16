@@ -1,7 +1,8 @@
 tags:: species, major
 alias:: neem, mimba
 
-- ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qma8Et35R8iZQyy6cnqc9czJRhTgbzFEaYw6GgUzCNdQ5U)
+- wood-density:: 600
+- ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qma8Et35R8iZQyy6cnqc9czJRhTgbzFEaYw6GgUzCNdQ5U){:height 407, :width 628}
 - product
 	- [[fruit]]
 	- [[leave]]

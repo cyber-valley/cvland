@@ -6,7 +6,7 @@ type:: sector
 	- [[edem/02]]
 - [[guilds]]
 	- [[cananga odorata]]
-	- [[magnolia cempaka]] yellow
+	- [[magnolia champaca]] yellow
 	- [[calliandra surinamensis]]
 	- [[araucaria heterophylla]]
 	- [[bougainvillea glabra]]

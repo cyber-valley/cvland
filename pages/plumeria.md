@@ -1,6 +1,5 @@
-tags:: genus
+tags:: genus, major, collectable
 alias:: frangipani, kemboja
-scalable:: true
 
 - [[plumeria alba]]
 - [[plumeria rubra]]

@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, major, collectable
 
 - selected for [[edem]]
 	- [[syzygium cumini]]

@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, collectable
 
 - selected for [[edem]]
 	- {{embed [[pouteria sapota]]}}

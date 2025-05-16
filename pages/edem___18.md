@@ -3,7 +3,7 @@ type:: sector
 - connected to [[edem/sectors]]
 	- [[edem/17]]
 	- [[edem/19]]
-- [[magnolia cempaka]] [[guild]]
+- [[magnolia champaca]] [[guild]]
 - [[persea americana]]
 - [[ficus carica]] [[guild]]
 - [[torenia foureri]]

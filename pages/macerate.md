@@ -21,7 +21,7 @@
 	  | [[rumex acetosa]] | infuse dried sorrel leaves in oil for 2-4 weeks. | [[soothing skin]], [[anti-inflammatory]] applications. | [[anthraquinones]], [[tannins]] |
 	  | [[hibiscus sabdariffa]] | infuse dried hibiscus flowers in oil for 4-6 weeks. | [[skin moisturizer]], [[anti-aging properties]]. | [[ahas]], [[anthocyanins]] |
 	  | [[allium sativum]] (garlic) | infuse fresh garlic cloves in oil; to reduce botulism risk, keep refrigerated and use within one week. | [[antimicrobial oil]], [[supports hair growth]]. | [[allicin]], [[sulfur compounds]] |
-	  | [[magnolia cempaka]] | infuse dried magnolia flowers in oil for several weeks. | [[perfumery]], calming [[massage oil]]. | [[linalool]], [[magnolol]] |
+	  | [[magnolia champaca]] | infuse dried magnolia flowers in oil for several weeks. | [[perfumery]], calming [[massage oil]]. | [[linalool]], [[magnolol]] |
 	  | [[cananga odorata]] (ylang-ylang) | infuse ylang-ylang flowers in oil for 2-4 weeks. | [[perfumery]], aphrodisiac [[massage oil]]. | [[linalool]], [[germacrene]] |
 	  | [[plumeria rubra]] | infuse dried frangipani flowers in oil for 4-6 weeks. | [[perfumery]], [[skin moisturizer]]. | [[iridoids]] |
 	  | [[osmanthus fragrans]] | infuse dried osmanthus flowers in oil for several weeks. | [[perfumery]], [[skin care applications]]. | [[ionones]], [[flavonoids]] |

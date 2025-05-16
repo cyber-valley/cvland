@@ -1,3 +1,5 @@
+tags:: collectable
+
 - nitrogen-fixing plants
 - are species capable of converting atmospheric nitrogen (n₂) into forms usable by plants
 - primarily ammonium (nh₄⁺), through a symbiotic relationship with nitrogen-fixing microorganisms

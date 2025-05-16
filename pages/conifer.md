@@ -1,4 +1,6 @@
-## [[genus]] presented in [[edem]]
+tags:: collectable
+
+- ## [[genus]] presented in [[edem]]
 - {{query (and [[conifer]] (and) (page-tags [[genus]]))}}
   query-table:: true
   query-properties:: [:page]

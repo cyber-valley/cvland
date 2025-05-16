@@ -1,6 +1,7 @@
-tags:: species
-alias:: red balau, meranti belangiran
+tags:: species, major
+alias:: balau, belangiran
 
+- wood-density:: 875
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmXqNeHAQDF8gySG55svhAdQUDYYdE3R4npAhWxCp6Zh2S)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmaYfH1xzvJ2jKhdtPhGS57rGYUhEQzKqEYLcKCQajq6Fb)
 - [tokopedia](https://www.tokopedia.com/cstore5/best-seller-benih-meranti-belangiran-shorea-balangeran-dijamin-kilo-belangiran?extParam=ivf%3Dfalse%26src%3Dsearch)

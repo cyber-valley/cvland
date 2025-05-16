@@ -1,6 +1,7 @@
+tags:: genus, major
 alias:: apple, apel
-tags:: genus
-scalable:: true
+
+- wood-density:: 750
 - selected for [[edem]]
 	- {{embed [[malus domestica]]}}
 	- {{embed [[malus sylvestris]]}}

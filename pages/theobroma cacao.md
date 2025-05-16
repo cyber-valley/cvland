@@ -1,8 +1,8 @@
 tags:: species, major
 alias:: cacao tree, chocolate, coklat, kakao
 
-- state:: supply
-- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmXij4UgeYZMTcrNiTWN42KJnTAvusrKuCSkmPaGZAZiMF)
+- wood-density:: 450
+- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmXij4UgeYZMTcrNiTWN42KJnTAvusrKuCSkmPaGZAZiMF){:height 411, :width 628}
 - [[high margin]]
 - product
 	- [[fruit]]

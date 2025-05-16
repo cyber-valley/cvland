@@ -2,10 +2,11 @@ tags:: genus
 scalable:: true
 
 - selected for [[edem]]
-	- {{embed [[magnolia cempaka]]}}
+	- [[magnolia champaca]]
 	- [[magnolia alba]]
 	- [[magnolia lilifera]]
 - research
+	- [[magnolia sumatrana]]
 	- [[magnolia grandiflora]]
 	- [[magnolia soulangeana]]
 	- [[magnolia figo]]

@@ -1,4 +1,4 @@
-tags:: genus, major
+tags:: genus, major, collectable
 scalable:: true
 
 - selected
@@ -8,4 +8,5 @@ scalable:: true
 - research
 	- [[melaleuca leucadendra]]
 	- [[melaleuca alternifolia]]
+	- [[melaleuca linariifolia]]
 	- [[melaleuca cajuputi]]
