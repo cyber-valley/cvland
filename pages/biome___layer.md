@@ -1,14 +1,15 @@
 - [[sky]]
 - [[surface]]
-	- [[titan]] >50m
-	- [[pillar]] <50m
-	- [[canopy]] <20m
-	- [[arbor]] <5m
-	- [[bush]] <2m
+	- [[tree]]
+		- [[titan]] >50m
+		- [[giant]] <50m
+		- [[canopy]] <20m
+		- [[dwarf]] <5m
+		- [[shrub]] <2m
 	- [[herb]] <70cm
 	- [[carpet]] <10cm
-	- [[trail]]
-	- [[wall]]
+	- [[trail]] <1cm
+	- [[wall]] for vertical spaces
 	- [[vine]]
 - [[aqua]]
 	- [[shore]]
