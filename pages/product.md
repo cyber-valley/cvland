@@ -1,3 +1,5 @@
+tags:: term
+
 - list of products
 - {{query (property :tags "product")}}
   query-table:: true
