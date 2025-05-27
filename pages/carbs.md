@@ -1,4 +1,20 @@
-- **alias**: carbohydrates, carbs
+tags:: segment
+alias:: carbohidrate, carbohydrates, carb
+
+- the most important species for [[food]] carbs
+	- [[cassava]]
+	- [[taro]]
+	- [[batat]]
+	- [[banana]]
+	- [[jackfruit]]
+	- [[breadfruit]]
+	- [[gude]]
+	- [[sugar palm]]
+	- [[yam]]
+	- [[canna]]
+	- [[breadnut]]
+	- [[plantain]]
+	- [[sago palm]]
 - ![Carbohydrates.pdf](../assets/Carbohydrates_1719303309556_0.pdf)
 - [[carbohydrates]], commonly known as carbs, are organic molecules consisting of carbon, hydrogen, and oxygen. they are one of the primary macronutrients and serve as the body's main source of energy.
 - ### chemical properties

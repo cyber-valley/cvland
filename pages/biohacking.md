@@ -1,0 +1,3 @@
+tags:: segment
+
+- [[plants/wishlist]]

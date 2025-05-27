@@ -1,0 +1,2 @@
+- [[hermetia illucens]]
+- [[acheta domesticus]]
