@@ -1,4 +1,4 @@
-tags:: segment
+tags:: market
 alias:: protein
 
 - plant based protein in raw form

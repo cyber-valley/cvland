@@ -4,7 +4,7 @@ alias:: aloe
 - ![image](https://ipfs.io/ipfs/QmZ1abuZCRKnrxDVibUn8h13PouvRYvV1tAmNMmNssfHwm){:height 409, :width 408}
 - availability:: cv
 - [[plant/miracle]]
-- [[salad]] and [[stew]]
+- [[salads]] and [[stew]]
 - [[staple]]
 - [wiki_aloe_vera](https://en.wikipedia.org/wiki/Aloe_vera)
 - [[plant/type]]: [[succulent]] [[herbaceous]] [[perennial]]

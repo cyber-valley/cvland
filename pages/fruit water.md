@@ -41,7 +41,7 @@ tags:: kitchen/menu, drinks, infused water, plant-based, simple, refreshing
 	- add cucumber slices for extra freshness
 	- use only herbs and spices for a lighter flavor
 - ### 🧭 food pairing
-	- [[salad]]
+	- [[salads]]
 	- [[steamed vegetables]]
 	- breakfast [[pancakes]]
 - ### ♻️ waste use

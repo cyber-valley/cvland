@@ -47,7 +47,7 @@ tags:: kitchen/menu, mains, meat, stews, with vegetables, with spices
 		- add curry powder, white pepper, turmeric, garam masala, and dill
 		- cook on medium heat for 10–15 minutes until fragrant and fully combined
 	- ### 6. serve
-		- serve warm as a standalone dish or with a side of [[salad]] / [[avocado sliced]]
+		- serve warm as a standalone dish or with a side of [[salads]] / [[avocado sliced]]
 - ### ⏳ timing
 	- prep time: 15 minutes
 	- boil time: ~1.5 hours for meat, 20–30 minutes for vegetables
@@ -61,7 +61,7 @@ tags:: kitchen/menu, mains, meat, stews, with vegetables, with spices
 - ### 🧪 variations & substitutions
 	- swap [[taro]] with [[sweet potato]]
 - ### 🧭 food pairing
-- [[salad]], [[steamed veggies]], [[taro / sweet potato chips]], [[herbal tea]]
+- [[salads]], [[steamed veggies]], [[taro / sweet potato chips]], [[herbal tea]]
 - ### ♻️ waste use
 	- vegetable peels: [[animal feed]]
 	- meat broth: can be saved for soups or sauces

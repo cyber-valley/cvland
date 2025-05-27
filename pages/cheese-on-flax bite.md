@@ -35,7 +35,7 @@ tags:: kitchen/menu, cheese, flax, snacks, baked, low-carb, gluten-free
 		- bake for 12–15 minutes until golden and crisp
 		- let cool slightly before removing from the mat
 		- ### 5. serve
-		- serve as a [[snacks]] or alongside [[salad]]
+		- serve as a [[snacks]] or alongside [[salads]]
 - ### ⏳ timing
 	- prep time: 10 minutes
 	- baking time: 12–15 minutes
@@ -52,7 +52,7 @@ tags:: kitchen/menu, cheese, flax, snacks, baked, low-carb, gluten-free
 	- make a simple version with just flax seeds and water (no cheese) for a fully plant-based cracker
 - ### 🧭 food pairing
 	- fresh vegetable sticks
-	- [[salad]]
+	- [[salads]]
 - ### ♻️ waste use
 	- flaxseed hulls (if any): [[chicken feed]]
 - ### 💡 tips

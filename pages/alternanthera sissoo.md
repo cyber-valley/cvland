@@ -1,3 +1,3 @@
 tags:: species
 
-- [[salad]]
+- [[salads]]

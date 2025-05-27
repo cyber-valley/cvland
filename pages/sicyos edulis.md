@@ -4,7 +4,7 @@ tags:: species, major, super
 - availability:: cv
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmR24VjmWmFzphF9bXMhKHSqTA9YMSxGkpZzdXCUSedFMb)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmPK71vF87G9tCrmnvwV84akMDC2jmVSpCUokCBXTps2uu)
-- [[salad]] [[lunch]]
+- [[salads]] [[lunch]]
 - [[plants/food]] : [[staple]]
 	- •	perennial climbing [[vine]], vigorous cucurbit species, commonly known as “caihua” or “chayote”; grows up to 5 meters, with slender stems, tendrils, deeply lobed leaves, small greenish-white flowers, and fleshy, hollow fruits.
 	- •	roots: fibrous, shallow-rooting system.

@@ -66,7 +66,7 @@ tags:: kitchen/menu, buckwheat, breakfast, gluten-free, pan-cooked, fermented, p
 	- [[avocado sliced]] or mashed
 	- [[herbal tea]]
 	- [[cold brew]]
-	- [[salad]]
+	- [[salads]]
 - ### ♻️ waste use
 	- rinse water: [[compost]]
 	- leftover batter: can be stored for 1 day in fridge

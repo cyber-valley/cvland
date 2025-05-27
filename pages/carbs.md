@@ -1,4 +1,4 @@
-tags:: segment
+tags:: market
 alias:: carbohidrate, carbohydrates, carb
 
 - the most important species for [[food]] carbs

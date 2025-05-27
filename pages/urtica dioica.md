@@ -1,4 +1,4 @@
 tags:: species
 alias:: jelatang
 
-- [[salad]]
+- [[salads]]

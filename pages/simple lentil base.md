@@ -59,7 +59,7 @@ tags:: kitchen/menu, lentils, mains, boiled, sides, plant-based, gluten-free
 	- [[stewed veggies]]
 	- [[cheese-on-flax bite]]
 	- [[flatbread]]
-	- [[salad]]
+	- [[salads]]
 - ### ♻️ waste use
 	- soaking and rinse water: compost watering
 - ### 💡 tips

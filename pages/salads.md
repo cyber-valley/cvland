@@ -1,8 +1,8 @@
 tags:: market
-alias:: salads
+alias:: segment
 
 - opportunities for better salads
-- {{query (and [[salad]] (not (property :tags "research")))}}
+- {{query (and [[salads]] (not (property :tags "research")))}}
   query-table:: true
   query-properties:: [:page :block]
   query-sort-by:: page

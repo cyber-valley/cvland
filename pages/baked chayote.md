@@ -62,7 +62,7 @@ tags:: kitchen/menu, chayote, mains, with meat, with cheese, with vegetables
 	- add [[garlic]] if available
 	- substitute [[edam]], [[gouda]] or [[goat cheese]] depending on source
 - ### 🧭 food pairing
-	- fresh [[salad]]
+	- fresh [[salads]]
 - ### ♻️ waste use
 	- vegetable scraps: [[animal feed]]
 	- meat scraps/broth: [[animal feed]]

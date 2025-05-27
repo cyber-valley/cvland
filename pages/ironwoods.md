@@ -1,4 +1,4 @@
-tags:: segment, rockets
+tags:: market, rockets
 
 - ## durability and restoration species comparison
   

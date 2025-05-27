@@ -24,7 +24,7 @@ tags:: class
 	- [[meat]]: can produce meaty structure
 	- [[starch]]: thickening, stabilizing and binding food
 	- [[egg]]: can produce breakfast
-	- [[salad]]: can be eaten raw
+	- [[salads]]: can be eaten raw
 	- [[stew]]: can be eaten cooked
 	- [[flour]]: may be ground for cooking needs
 	- [[fruit]]: fleshy and sweet products including berries

@@ -11,7 +11,7 @@
 - #### ✅ do
 	- cook using shared ingredients
 	- use [[spices]], [[herbs]], and [[fermentation]] to build flavor
-	- use [[olive oil]] (for [[salad]]) and [[ghee]] or [[avocado oil]] (for pan cooking) — in moderation
+	- use [[olive oil]] (for [[salads]]) and [[ghee]] or [[avocado oil]] (for pan cooking) — in moderation
 	- use measuring tools for precision
 - #### ⛔ don’t use
 	- [[salt]]

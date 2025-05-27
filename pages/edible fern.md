@@ -45,7 +45,7 @@ tags:: kitchen/menu, fern, vegetables, sides, steamed, stir-fried, plant-based, 
 	- fat: ~0.4 g
 	- carbohydrates: ~6 g
 - ### 🧪 variations & substitutions
-	- mix steamed fern shoots with blanched greens for a wild green [[salad]]
+	- mix steamed fern shoots with blanched greens for a wild green [[salads]]
 	- add a squeeze of [[lemon juice]] after cooking for brightness
 	- stir-fry with [[garlic]] or [[ginger]] for a more aromatic dish
 - ### 🧭 food pairing

@@ -6,4 +6,4 @@ alias:: chives, kucai
 - [[staple]]
 - products
 	- [[leave]]
-- [[salad]]
+- [[salads]]

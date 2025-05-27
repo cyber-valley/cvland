@@ -9,4 +9,4 @@ alias:: ambarella, kedongdong
 - [tokopedia](https://www.tokopedia.com/setosa/terlaris-terlaris-bibit-tanaman-buah-kedongdong-spondias-dulcis?extParam=ivf%3Dfalse%26src%3Dsearch)
 - products
 	- [[fruit]]
-- [[salad]]: [[leave]] and [[fruit]]
+- [[salads]]: [[leave]] and [[fruit]]

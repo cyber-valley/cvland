@@ -35,7 +35,7 @@ tags:: kitchen/menu, eggs, breakfast, with oil, salt-free, milk-free
 	- top with [[cheese]] if desired
 	- sprinkle [[black pepper]] for extra flavor
 - ## 🧭 food pairing
-	- [[greens]], [[salad]], [[avocado sliced]] , [[tea]], [[cold brew]]
+	- [[greens]], [[salads]], [[avocado sliced]] , [[tea]], [[cold brew]]
 - ## ♻️ waste use
 	- eggshells: [[compost]] or [[calcium powder]]
 - ## 💡 Tips

@@ -9,7 +9,7 @@
 - ### breakfast
 	- [[omelet with cheese]] / [[hard boiled eggs]]
 	- [[avocado sliced]] or mashed
-	- fresh [[salad]]
+	- fresh [[salads]]
 	- [[buckwheat porridge]]
 - ### lunch
 	- [[soup with meat]] / [[baked chayote]]
@@ -33,6 +33,6 @@
 	- [[cold brew]]
 	- [[fruit water]]
 	- [[coconut water]]
-- [[salad]] with [[edible flowers]]
+- [[salads]] with [[edible flowers]]
 - [[spices]]
 -

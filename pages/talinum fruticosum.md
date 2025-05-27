@@ -7,5 +7,5 @@ alias:: ceylon spinach, waterleaf, cariru, gbure
 - [wiki](https://en.wikipedia.org/wiki/Talinum_fruticosum)
 - products
 	- [[leave]]
-- [[salad]]: [[leave]] and [[stem]]
+- [[salads]]: [[leave]] and [[stem]]
 - [how to distinguish](https://nwwildflowers.com/compare/?t=Talinum+paniculatum,+Talinum+fruticosum)

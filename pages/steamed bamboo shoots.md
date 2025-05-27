@@ -42,11 +42,11 @@ tags:: kitchen/menu, sides, steam, bamboo
 	- carbohydrates: ~5 g
 - ### 🧪 variations & substitutions
 	- season with [[sesame oil]] and [[sesame seeds]] for an asian-style flavor
-	- mix steamed bamboo shoots with fresh greens for a [[salad]]
+	- mix steamed bamboo shoots with fresh greens for a [[salads]]
 	- stir-fry lightly with [[ghee]] or [[coconut oil]] for a warm side dish
 - ### 🧭 food pairing
 	- [[steamed veggies]]
-	- [[salad]]
+	- [[salads]]
 	- [[stewed duck]]
 - ### ♻️ waste use
 	- bamboo peel: [[compost]] (only the tender parts)

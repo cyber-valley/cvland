@@ -33,7 +33,7 @@ icon:: 🪷
 		- [[berries]]: [[rubus]], [[morus]]
 		- [[flowers]]: [[anthurium]], [[heliconia]], [[orchidaceae]]
 		- [[shrooms]]: [[oyster]], [[shiitake]], [[ganoderma]] and [[lions mane]]
-		- [[salad]]: [[clitoria]], [[gotu kola]], [[nasturtium]], [[pandan]], [[citrus]]
+		- [[salads]]: [[clitoria]], [[gotu kola]], [[nasturtium]], [[pandan]], [[citrus]]
 		- [[insects]]: [[crickets]], [[bees]] and [[black soldier fly]]
 		- [[aquatics]]: [[azolla]], [[eleocharis dulcis]]
 		- other: [[vanilla]], [[moringa]], [[selenicereus]]

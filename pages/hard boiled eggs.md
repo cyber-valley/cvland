@@ -41,7 +41,7 @@ tags:: kitchen/menu, eggs, boiled eggs, breakfast, boiled, salt-free, no oil
 	- older eggs peel more easily
 - ### 🧭 food pairing
 	- [[fresh greens]]
-	- fresh [[salad]]
+	- fresh [[salads]]
 	- [[flatbread]]
 	- [[beverages]]
 - ### ♻️ waste use

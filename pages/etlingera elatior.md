@@ -5,5 +5,5 @@ tags:: species, major
 - found in [[sinwood]] near [[ruby]]
 - [[high margin]] [[rhizome]] and [[flower]]
 -
-- [[salad]]
+- [[salads]]
 - supply:: next-month
