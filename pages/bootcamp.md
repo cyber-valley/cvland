@@ -2,7 +2,7 @@ icon:: 🏕
 tags:: product
 
 - space for cool events developed by [[rockets]]
-- we are initiating a project for [[launching bootcamp]]
+- we are initiating a project for [[bootcamp launch]]
 - the following information is for customer development purposes
 	- power place with amazing nature
 	- energy dense tranquility feelings
