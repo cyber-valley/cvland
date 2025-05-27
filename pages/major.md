@@ -1,4 +1,9 @@
-- {{query (page-tags [[major]])}}
-  query-properties:: [:page :tags :alias]
+- {{query (and (page-tags [[major]]) (not (page-tags [[research]])))}}
   query-sort-by:: page
   query-sort-desc:: false
+  query-properties:: [:page :alias :project :segment :market :supply]
+-
+- {{query (and (page-tags [[major]]) (page-tags [[research]]))}}
+  query-sort-by:: page
+  query-sort-desc:: false
+  query-properties:: [:page :alias :project :market :supply]
