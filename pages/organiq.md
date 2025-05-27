@@ -2,12 +2,30 @@ alias:: organic market
 tags:: building
 
 - market of nutrient dense food grown on healthy soil
-- vectors
+- products
 	- [[food]]
+		- [[honey]]
+		- [[batat]]
+		- [[taro]]
+		- [[cassava]]
+		- [[curcuma]]
+		- [[ginger]]
+		- [[garlic]]
+		- [[chayote]]
+		- [[ananas]]
+		- [[coconut]]
+		- [[banana]]
+		- [[papaya]]
+		- [[naga]]
+		- [[mango]]
+		- [[apple]]
+		- [[salak]]
+		- [[avocado]]
+		- [[markiza]]
+		- [[mandarin]]
+	- [[herbs]]
 	- [[perfume]]
 	- [[cosmetics]]
-	- [[herbs]]
 	- [[floristics]]
 	- [[culinary]]
 	- [[genetics]]
--
