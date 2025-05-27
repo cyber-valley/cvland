@@ -13,7 +13,7 @@ alias:: walls
 		- [[phreatophyte]]
 		- [[phytominer]]
 - selection criteria for wall species
-	- fast-growing
+	- fast-growing biomass producers
 	- aggressive rooting for erosion control
 	- tolerate shallow soil or rock wall crevices
 	- easy to propagate: [[cuttings]] or [[seeds]]
@@ -44,6 +44,6 @@ alias:: walls
 	- [[dahlia imperialis]]
 - key advantages
 	- reduced competition for resources in productive [[beds]]
-	- vertical surfaces become highly functional ecological zones
+	- vertical surfaces become extremely functional ecological zones
 	- species offer secondary outputs: medicine, fodder, mulch, flowers
 	- enable structured pruning cycles for biomass or compost input

@@ -1,6 +1,2 @@
-- the most important species for [[food]] oil
-	- [[persea americana]]
-	- [[olea europaea]]
-	- [[cocos nucifera]]
-	- [[moringa oleifera]]
-	- [[macadamia tetraphylla]]
+## [[edible oils]]
+- ## [[technical oils]]

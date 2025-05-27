@@ -3,14 +3,61 @@ icon:: 🪷
 - tags:: cyber valley, permaculture
 - scalable, sustainable, multipurpose ecosystem regeneration
 - idea that combining thoughtful set of species in one ecosystem is very efficient form of sustainability
-- 1 phase: bootstrap ecosystem [[14 species]]
+- 1 phase: bootstrap ecosystem
+	- basic [[magic forest]] ecosystem canvas with focus on survival reserve
 	- regenerate lifecycles
 	- building soil
 	- develops in several years
-- 2 phase: increase biodiversity [[42 species]]
+	- [[pioneer]]
+		- [[nitrogener]]: [[trema]], [[lamtoro]], [[kaliandra]], [[sengon]]
+		- [[attractor]]: [[lantana]], [[senna]], [[melastoma]]
+		- [[biomass]] : [[napier]], [[imperata]], [[fragrant]], [[ageratina]]
+	- [[survival]]
+		- one species from each category: [[oil]], [[carbs]] and [[proteins]]
+		- [[banana]], [[papaya]] and [[bamboo]]
+- 2 phase: increase biodiversity
+	- [[ecosystem]]
+		- [[nitrogener]]: [[casuarina]], [[inga]], [[alfalfa]], [[trifolium]]
+		- [[accumulator]]: [[comfrey]], [[eupatorium]]
+		- [[attractor]]: [[ylang-ylang]] [[chempaka]] [[plumeria]]
+		- [[phreatophyte]]: [[arenga]], [[nopal]], [[kalanchoe]] , [[aloe vera]], [[agave]]
+		- [[guard]]: [[neem]] and [[sapindus]], [[melaleuca]]
 	- [[aquatics development]]
 	- more plant, animal and fungi species
 	- from [[forest]] and from [[labs]]
-- 3 phase: sustaining ecosystem and maximize species
+	- [[high margin]] and [[fast return]]
+		- [[carpet]]: [[oregano]] and [[thymus]]
+		- [[herbs]]: [[lemongrass]], [[citronella]], [[vetiver]]
+		- [[herbs]]: [[rosemary]], [[lavandula]], [[mentha]], [[patchouli]]
+		- [[rhizome]]: [[ginger]], [[curcuma]], [[galangal]], [[temu rapet]], [[kantan]]
+		- [[berries]]: [[rubus]], [[morus]]
+		- [[flowers]]: [[anthurium]], [[heliconia]], [[orchidaceae]]
+		- [[shrooms]]: [[oyster]], [[shiitake]], [[ganoderma]] and [[lions mane]]
+		- [[salad]]: [[clitoria]], [[gotu kola]], [[nasturtium]], [[pandan]], [[citrus]]
+		- [[insects]]: [[crickets]], [[bees]] and [[black soldier fly]]
+		- [[aquatics]]: [[azolla]], [[eleocharis dulcis]]
+		- other: [[vanilla]], [[moringa]], [[selenicereus]]
+	- [[fodder]]: [[trichanthera]], [[dadap]], [[gamal]], [[sesbania]]
+	- main
+		- [[oil]]: [[avocado]], [[macadamia]], [[moringa]], [[coconut]], [[olea]], [[elaeis]]
+		- [[carbs]]: [[cassava]], [[taro]], [[batat]], [[jackfruit]] and [[breadfruit]]
+		- [[proteins]]: [[talinum]], [[katuk]], [[basella]], [[cajanus]], [[cnidoscolus]][[diplazium]]
+	- extra
+		- [[drinks]]: [[coffea]], [[tea]], [[theobroma]]
+		- [[aroma]]: [[sandal]], [[agarwood]], [[cinnamon]]
+		- [[fruits]] : [[malus]], [[prunus]], [[pirus]], [[citrus]], [[durio]], [[mango]]
+		- [[resins]]: [[agathis]], [[styrax]], [[pinus]]
+	- [[animals]]
+		- [[worms]]: [[fodder]] for [[chickens]] and [[soil]] aeration
+		- [[trigona]]: universal [[pollination]] and easy [[honey]]
+		- [[gallus australorp]]: [[meat]], [[eggs]], [[wool]] and [[manure]]
+		- [[ovis aries]]: [[meat]], [[milk]], [[wool]] and [[manure]]
+	- apex:
+		- [[homo sapiens]]: efficient [[regulator]] and [[predator]]
+		- [[hardwoods]]: [[dalbergia]], [[diospyros]], [[shorea]]
+- 3 phase: sustaining ecosystem and expand biodiversity
 - [[toolset]] for magic forest
-- [[important species not available in indonesia]]
+- relevant links
+	- [[genesis/forest]]
+	- [[edem]]
+	- [[species]]

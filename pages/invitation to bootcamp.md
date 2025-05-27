@@ -36,7 +36,7 @@
 		- they give you medicine, heat, timber, textiles and advanced sensations
 		- everything you need to live a full life
 - scene 6: @master
-	- modeling shows that just 14 species on 500-1000 square meters of land
+	- modeling shows that just several species on 500-1000 square meters of land
 	- can grow everything you want
 	- and will supply energy and water you need
 	- this 100% autonomy allows you to focus your attention inward

@@ -20,6 +20,6 @@
 - [[coriandrum sativum]]
 - [[melissa officinalis]]
 - [[sonchus oleraceus]]
-- [[ulmus parviflora]]
+- [[ulmus parvifolia]]
 - [[cenchrus setaceus]]
 - [[broussonetia papyrifera]]

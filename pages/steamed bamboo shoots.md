@@ -1,4 +1,4 @@
-tags:: kitchen/menu, bamboo shoots, vegetables, sides, steamed, plant-based
+tags:: kitchen/menu, sides, steam, bamboo
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeidkex5qzkyils24uggelozmtmjykgo5nf7lw6ygo32k73ipbd3sru)
 - ### 🧾 🎋 steamed bamboo shoots

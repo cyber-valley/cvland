@@ -35,7 +35,7 @@ tags:: kitchen/menu, cheese, flax, snacks, baked, low-carb, gluten-free
 		- bake for 12–15 minutes until golden and crisp
 		- let cool slightly before removing from the mat
 		- ### 5. serve
-		- serve as a [[snacks]] or alongside [[salads]]
+		- serve as a [[snacks]] or alongside [[salad]]
 - ### ⏳ timing
 	- prep time: 10 minutes
 	- baking time: 12–15 minutes

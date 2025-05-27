@@ -1,5 +1,4 @@
 ## 🕐  meal schedule (UTC)
-*we prepare food by this time*
 	- breakfast: 1:00 UTC
 	- lunch: 4:00 UTC
 	- dinner: 9:00 UTC
@@ -34,3 +33,6 @@
 	- [[cold brew]]
 	- [[fruit water]]
 	- [[coconut water]]
+- [[salad]] with [[edible flowers]]
+- [[spices]]
+-
