@@ -1,5 +1,5 @@
 tags:: species
-alias:: campanilla, lucky nut, oleander kuning
+alias:: campanilla
 
 - ![Screenshot 2024-05-12 at 14.58.04.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmUfXukiKefAim71UecVnifHugFuZ9WYXDgx4pLhe1ttsw)
 - [wiki](https://en.wikipedia.org/wiki/Cascabela_thevetia)

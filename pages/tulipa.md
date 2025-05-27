@@ -1,5 +1,5 @@
 alias:: tulip
-tags:: genus, research
+tags:: genus, research, collectable
 
 - [[high margin]] [[flower]]
 - [[tulipa gesneriana]]

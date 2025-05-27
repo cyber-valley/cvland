@@ -1,4 +1,4 @@
 tags:: species, research, unavailable
 alias:: ashwagandha
 
-- [[high margin]]
+- [[high margin]] [[biohacking]]

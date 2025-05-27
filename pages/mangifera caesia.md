@@ -1,5 +1,5 @@
 tags:: species
-alias: wani, binjai, malaysian mango, white mango
+alias:: wani
 
 -
 - ![Screenshot 2024-06-03 at 05.09.50.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQ5j6uFtvDcHTB2Kx8W9xMS3DS2CMQcnKmCMH5HzDjMWj)

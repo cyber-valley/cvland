@@ -1,5 +1,5 @@
 tags:: species
-alias:: candelabra bush, candletree, ketepeng cina
+alias:: candelabra, ketepeng cina
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQYWJRczNtyTLuzCc3Xac6wQMB5AjH63tbPExnipBcfa5)
 - height: 3-4 m

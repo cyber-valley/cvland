@@ -1,5 +1,5 @@
 alias:: willow
-tags:: species
+tags:: species, major
 
 - ![](https://jade-gentle-pony-196.mypinata.cloud/ipfs/bafybeic7vt6obmnp2irkmngdcbok65d73jgt6u5u35i6yieaws7vzl5duq)
 - **plant description structure**

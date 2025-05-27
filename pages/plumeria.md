@@ -1,4 +1,4 @@
-tags:: genus, major, collectable
+tags:: genus, collectable, super
 alias:: frangipani, kemboja
 
 - [[plumeria alba]]

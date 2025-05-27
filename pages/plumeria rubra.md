@@ -1,5 +1,4 @@
-tags:: species, major
-alias:: frangipani
+tags:: species
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmUQpXCGd4zxeDRxJQHZw5PEAB2b86sDCEYSGMJSQUwvAC)
 - ![Screenshot 2024-05-10 at 04.53.50.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmTwebcPF2k8ZV74cCZsNzNUqw5hjAZ5fFvP5mBYfowVCq)

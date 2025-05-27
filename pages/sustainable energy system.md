@@ -52,4 +52,10 @@ icon:: ⚡️
 				- medium altitude kites
 			- water and soil heat batteries
 			- sterling engine
-			-
+- basalt road as heat collector, basalt cistern and surrounding soil as heat storage
+	- 1 m2 of basalt road can charge 1 m3 of water in cistern over a 90-day dry season
+	- double the road area, you halve the charging time
+	- heat loss from the un-insulated cistern to surrounding soil is < 3 % per month at 2 m burial depth
+	- that lost heat simply diffuses into the soil store and is not wasted
+	- overall system cost is dominated by tubing and electrics pumps
+	- all other materials are site stone, soil and manual labour

@@ -1,7 +1,9 @@
 alias:: kecombrang, kantan
-tags:: species, research
+tags:: species, major
+
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmUY7UwzUfwPpL4iU48fjhvfigcTpdmzYCyn7MyQbUVoch)
+- found in [[sinwood]] near [[ruby]]
+- [[high margin]] [[rhizome]] and [[flower]]
 -
--
-- [tokopedia](https://www.tokopedia.com/maiyahflorist/bibit-tanaman-kecombrang-honje-etlingera-elatior-kantan-kincung?extParam=whid%3D11786941)
-- [[salads]]
+- [[salad]]
+- supply:: next-month

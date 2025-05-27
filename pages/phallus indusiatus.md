@@ -1,5 +1,5 @@
 tags:: species, fungi
-alias:: basket stinkhorn, bamboo mushrooms, bamboo pith, long net stinkhorn, crinoline stinkhorn, bridal veil, veiled lady
+alias:: dick shroom
 
 - [phallus_indusiatus](https://en.wikipedia.org/wiki/Phallus_indusiatus)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeih2wuvekn2elh36xjhscxjb2zmulknz3ripn6gejnxfsirhpdtxeu)

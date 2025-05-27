@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: pucuk merah, kelat oil
 
 - work well for [[landscape]] markup of [[natural paths]] due to color and ease of propogation

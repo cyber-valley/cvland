@@ -1,3 +1,4 @@
-tags:: species
+tags:: species, fungi
+alias:: cordyceps
 
-- [[high margin]]
+- [[high margin]] [[biohacking]]

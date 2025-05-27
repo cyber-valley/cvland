@@ -1,7 +1,10 @@
-tags:: species, genus, research
-alias:: teak, tectona
+tags:: species, major, genus, research, super
+alias:: teak, jati
+wood-density:: 700
+wood-durability:: very-high
+wood-availability:: high
+supply:: next-month
 
-- wood-density:: 700
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmRsFAuyBYN6NQYEgbSx69PXY26XNMb7dNjVYQtKaMVgLS)
 - [wiki](https://en.wikipedia.org/wiki/Teak)
 - [plantsofasia](http://www.plantsofasia.com/index/tectona/0-681)

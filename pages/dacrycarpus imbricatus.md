@@ -1,4 +1,4 @@
-tags:: species, genus
+tags:: species, genus, major
 alias:: jamuju
 
 - [[conifer]]

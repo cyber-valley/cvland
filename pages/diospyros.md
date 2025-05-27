@@ -1,5 +1,6 @@
-tags:: genus
+tags:: genus, collectable
 scalable:: true
+
 - selected for [[edem]]
 	- {{embed [[diospyros kaki]]}}
 	- {{embed [[diospyros nigra]]}}

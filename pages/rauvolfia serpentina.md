@@ -1,5 +1,5 @@
 tags:: species
-alias:: indian snakeroot, devil pepper, serpentine wood
+alias:: indian snakeroot
 
 - ![Screenshot 2024-05-17 at 04.00.39.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmeYqXyDmSWBZMNqz1NAvukeitEU57nkNFPTFYXiECpmfN)
 - height: up to 1.5 m

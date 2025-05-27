@@ -1,4 +1,4 @@
-tags:: species, major
+tags:: species, major, research
 alias:: kemenyan, benzoin
 
 - [[high margin]]

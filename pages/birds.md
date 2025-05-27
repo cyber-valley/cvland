@@ -52,4 +52,6 @@ alias:: bird, birds research
 	- [[hirundo tahitica]]: 4
 	- [[culicicapa ceylonensis]]: 2
 	- [[zosterops japonicus]]: 1
+- handy
+	- [[pycnotus aurigaster]]: [[ptich]]
 -

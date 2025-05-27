@@ -1,8 +1,12 @@
 tags:: species, research, major
 alias:: kruing
+wood-density:: 800
+wood-durability:: very high
+wood-availability:: high
+market:: hardwoods
+supply:: next-month
 
 - [[high margin]]
-- wood-density:: 800
 - availability:: eka karya
 - ![image](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmcZE6E8ZH88BjKYeMX2dyQ2gY3f9pmK9vyfmSsAZjL7Ev)
 - ![image](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmeJkqy7rte651TLQADsJy7sSd2MVkNPzJiP9CegJuVsmQ)

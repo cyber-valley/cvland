@@ -1,5 +1,5 @@
 tags:: species
-alias:: milk thistle, blessed milkthistle, marian thistle, mary thistle, saint mary's thistle, mediterranean milk thistle, variegated thistle, scotch thistle
+alias:: milk thistle, расторопша пятнистая
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmVyrEhtK18fr7Bx32VwWoZZ8JWdc5TdC4JSPytrTtPQL9)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZ74D4QxPLYHqcj3FvQWk4sJGxjkV6XYhj2LxuEt4mHza)
@@ -11,3 +11,4 @@ alias:: milk thistle, blessed milkthistle, marian thistle, mary thistle, saint
 - in vitro силимарин блокирует пролиферацию купферовских клеток и снижает выделение трансформирующего фактора роста β.
 - при пероральном приеме у крыс силимарин дозозависимо снижает накопление коллагена
 - кроме того, недавние исследования in vitro показали, что силимарин может обладать противовоспалительными свойствами за счет подавления синтеза провоспалительного лейкотриена В4 в купферовских клетках.
+- [[biohacking]]

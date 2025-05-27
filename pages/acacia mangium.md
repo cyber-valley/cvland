@@ -1,6 +1,9 @@
-tags:: species, research
+tags:: species, major, research
+alias:: akasia
+wood-availability:: high
+wood-durability:: moderate
+wood-density:: 700
 
-- availability:: tokopedia
 - nitrogener:: 300
 - ![image](https://ipfs.io/ipfs/QmbJF3NNyhFbVsKv8PnA8iqvbaVhiuSNK7KG97MHTY4vCX)
 -

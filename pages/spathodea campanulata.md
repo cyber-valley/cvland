@@ -1,7 +1,8 @@
 tags:: species
-alias:: african tulip tree, fire bell, flame of the forest, fouain tree
+alias:: firebell
 
-- availability:: hanara
+- supply:: next-month
+  availability:: hanara
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmY35FA3VXbtHVmcdzZ8FL4UYJTw6EwDmTGdQnfAur44Fk)
 - height: 7-25 m
 - [plantsofasia](http://www.plantsofasia.com/index/spathodea_campanulata/0-405)

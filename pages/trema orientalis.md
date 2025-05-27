@@ -1,8 +1,10 @@
-alias:: mengkirai, ganja tree
 tags:: species, major
+alias:: mengkirai
+wood-availability:: site
+wood-density:: 400
+wood-durability:: low
 
 - nitrogener:: 100
-- wood-density:: 400
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qmf8ZzSrWP4tHT7tECRNWeQZEdywEcEK27HpxishxRpb3V){:height 531, :width 408}
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmaRWMQcMoSWUTLiT7pC5S2E8ywb1kd1CnJZXB2QR4SyEy)
 - [wiki](https://en.wikipedia.org/wiki/Trema_orientale)

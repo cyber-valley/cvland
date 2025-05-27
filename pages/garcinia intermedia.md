@@ -1,4 +1,5 @@
 tags:: species, research
+alias:: jorco
 
 - [[high margin]] [[fruit]]
 - best fruit according to a weird fruits

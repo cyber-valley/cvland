@@ -1,4 +1,4 @@
 tags:: species
-alias:: bunga lawang
+alias:: bunga lawang, star anice
 
 - [[high margin]]

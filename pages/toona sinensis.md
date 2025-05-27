@@ -1,8 +1,5 @@
 tags:: species
-alias:: surian china
+alias:: surian china, suren merah
 
-- ![image.png](../assets/image_1715489157762_0.png)
-- [wiki](https://en.wikipedia.org/wiki/Toona)
-- [tokopedia](https://www.tokopedia.com/benih-kehutanan/benih-surian?extParam=whid%3D13804317%26src%3Dshop)
-- [tokopedia](https://www.tokopedia.com/idasans06/idoal-bibit-tanaman-suren-surian-siap-tanam-1kg-muat-3bibit?extParam=ivf%3Dfalse%26src%3Dsearch&refined=true)
-- [tokopedia](https://www.tokopedia.com/encepherbal/bibit-pohon-suren-atau-surian-siap-tanam?extParam=ivf%3Dfalse%26src%3Dsearch&refined=true)
+- [tokopedia](https://www.tokopedia.com/rusticindonesia/biji-suren-merah?extParam=ivf%3Dfalse%26keyword%3Dsuren+merah+bibit%26search_id%3D20250509123214B98EBC002CD63E3AAVSA%26src%3Dsearch&t_id=1746771586534&t_st=8&t_pp=search_result&t_efo=search_pure_goods_card&t_ef=goods_search&t_sm=&t_spt=search_result)
+- supply:: next-year

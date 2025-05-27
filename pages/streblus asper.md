@@ -1,5 +1,5 @@
 tags:: species
-alias:: siamese rough bush, khoi, serut, toothbrush tree, peleh
+alias:: khoi, serut, toothbrush tree, peleh
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZ8QYi4doThaioRZzrJM6JxV5UqiS2iwTb58oQizTPg1f)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmYd7CniYgepap7cUQN2ah8micN1BowfmFpZzpLfj8H6BN)

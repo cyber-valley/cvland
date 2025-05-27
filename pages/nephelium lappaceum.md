@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: rambutan
 
 - ![Screenshot 2024-05-24 at 14.50.24.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQF9GKLRYsJwNA4sUUYspL9yuPGv3xYEmuNig2JNNtRQ6)

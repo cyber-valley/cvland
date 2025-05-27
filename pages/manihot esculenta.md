@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major, super
 alias:: cassava, tapioca, singkong
 
 - [[staple]]

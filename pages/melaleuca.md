@@ -1,4 +1,4 @@
-tags:: genus, major, collectable
+tags:: genus, major, collectable, super
 scalable:: true
 
 - selected

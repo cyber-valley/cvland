@@ -1,4 +1,5 @@
 tags:: species, major
-alias:: tree marigold, mexican tournesol, mexican sunflower, japanese sunflower, nitobe chrysanthemum
+alias:: nitobe
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmbuEk64NuzRv9pFnsVvgGFzCYmTr3mQehKNxZuZ1NHyAB)
+- supply:: bridge

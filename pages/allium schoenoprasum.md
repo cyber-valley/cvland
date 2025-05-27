@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: chives, kucai
 
 - ![image](https://ipfs.io/ipfs/Qmb4MDUGb3hS42XeS5TxUy2ChH3HYw1SgJW1yeu3KShS4Q)

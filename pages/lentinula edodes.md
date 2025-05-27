@@ -1,5 +1,4 @@
 tags:: species, fungi, research
-alias:: shiitake, shitake
-scalable:: true
+alias:: shiitake
 
 - [[high margin]] [[food]]

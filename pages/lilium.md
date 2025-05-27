@@ -1,5 +1,5 @@
 alias:: lily
-tags:: genus
+tags:: genus, collectable
 scalable:: true
 
 - selected for [[edem]]

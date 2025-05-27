@@ -1,5 +1,5 @@
 tags:: species
-alias:: pink poui, rosy trumpet tree
+alias:: pink poui, rosy trumpet
 
 - availability:: hanara
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmXqdauX3TU4BxiwfU6s3LwoLidSGMrgGc36yrsK1gJ4W8)

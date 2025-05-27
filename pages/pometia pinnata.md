@@ -1,5 +1,9 @@
-tags:: species
+tags:: species, major
 alias:: matoa
+wood-density:: 800
+wood-durability:: high
+market:: hardwoods
+supply:: next-month
 
 - ![Screenshot 2024-05-18 at 13.06.59.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmUpX3pV9Cz3sXWbUFmPLyUh1DYzRfuqCFVVwPLm8c4s76)
 - height: 12-20 m

@@ -1,5 +1,5 @@
-alias:: srikaya, anona
 tags:: genus, collectable, major
+alias:: srikaya, anona
 
 - selected for [[edem]]
 	- {{embed [[annona muricata]]}}

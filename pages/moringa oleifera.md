@@ -1,7 +1,9 @@
 tags:: species, plant, major
 alias:: ben oil tree, kelor
+supply:: next-month
+market:: edible oils
+wood-density::
 
-- state:: supply
 - ![Screenshot 2024-05-26 at 08.19.22.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQfBx32Rc1A1HfLdaYkvV2PmE1ufavJSU8RHvB4745PFU)
 - ![Screenshot 2024-05-26 at 08.19.08.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZ5mjEtwd2LtyoxCikHpH3tg8UwPWUQAhDoJTUNBWT7X4){:height 517, :width 676}
 - ![Screenshot 2024-05-26 at 08.18.57.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZeDVca7UDGM96TSADABGy2u9LZ6BXCi763Jfma57MYkU)
@@ -9,8 +11,8 @@ alias:: ben oil tree, kelor
 - [[plant/miracle]], [[high margin]]
 - [[products]]
 	- [[oil]]: extracted from seeds, used in [[cooking]], [[cosmetics]], and [[biodiesel]]
-	- [[carb]]: young pods and seeds are [[carbohydrate-rich]]
-	- [[protein]]: [[leaves]], [[seeds]], and [[pods]] are [[protein-rich]], making it a staple food
+	- [[carbs]]: young pods and seeds are rich in [[carbohydrates]]
+	- [[proteins]]: [[leaves]], [[seeds]], and [[pods]] are [[protein-rich], making it a staple food
 	- [[medicine]]: [[bark]] used for [[anti-inflammatory]] and [[antioxidant]] properties
 	- [[cosmetics]]: [[oil]] used in [[skin care]] and [[hair care]] products
 	- [[fuel]]: wood can be used as [[firewood]]
@@ -20,7 +22,7 @@ alias:: ben oil tree, kelor
 	- [[pioneer]]: can bootstrap biomes in arid and degraded soils
 	- [[accumulator]]: mines minerals from deep soil: [[iron]], [[calcium]], and [[potassium]]
 	- [[phytominer]]: able to clean soil of  [[arsenic]]
-- [[biome/layer]]: [[canopy]], [[pillar]]
+- [[biome/layer]]: [[canopy]], [[giant]]
 - [[plant/type]]: [[tree]]
 	- [[root]]: taproot system that penetrates deep into the soil
 		- [[alkaloids]]
@@ -30,7 +32,7 @@ alias:: ben oil tree, kelor
 		- [[tannins]]
 		- [[saponins]]
 	- [[leave]]: amazing for [[salad]]
-		- [[protein]]
+		- [[proteins]]
 		- [[vitamins A]]
 		- [[vitamin C]]
 		- [[vitamin E]]

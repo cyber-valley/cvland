@@ -1,18 +1,9 @@
-alias:: majegau
-alias:: majegau
 tags:: species
 alias:: majegau
-tags:: species
-alias:: majegau
-tags:: species
-alias:: majegau
-tags:: species
-alias:: majegau
-tags:: species
-alias:: majegau
-tags:: species
-alias:: majegau
-tags:: species
+wood-density:: 700
+wood-durability:: moderate
+wood-availability:: high
+supply:: next-month
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmVc8YBX43YfrRUsaSUvULp53rMoULor1xiwweTSxJ9SNb)
 -

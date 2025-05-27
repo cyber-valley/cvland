@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 
 - [[health]] and [[medicine]]
 - relatives known as stonebreaker

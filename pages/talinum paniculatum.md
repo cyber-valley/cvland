@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: fameflower, jewels-of-opar
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmY78iNwt1QHjrTNxNimphV6v59CcoRL6b8D2MTs9pkSQY)

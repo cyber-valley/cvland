@@ -1,5 +1,5 @@
 alias:: banana
-tags:: species
+tags:: species, major, super
 
 - {{video https://www.youtube.com/watch?v=kkC5kO-f-go}}
 - ![Green Banana Tree, For Garden](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmU1JRwxF81mPMH9drhMrERvei7XdSiSpH3BStPLpu9d8B)

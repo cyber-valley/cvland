@@ -1,3 +1,3 @@
 tags:: species
 
-- enhances memory, attention, and cognitive processing
+- [[high margin]] [[biohacking]] enhances memory, attention, and cognitive processing

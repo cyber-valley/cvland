@@ -19,7 +19,7 @@ tags:: species, research, unavailable
 	- [[fast initial growth]]: young trees grow quickly under the right conditions
 - [[biome/layer]]:
 	- [[canopy]],
-	- [[emergent]]
+	- [[titan]]
 - [[plant/type]]: [[tree]]
 	- [[root]]:
 		- shallow but wide-spreading root system, lacks a taproot

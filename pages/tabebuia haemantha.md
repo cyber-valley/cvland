@@ -1,5 +1,5 @@
 tags:: species
-alias:: blood-red trumpet tree, roble cimarron
+alias:: roble cimarron
 
 - availability:: hanara
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmePNc2z8BHedz3vy57tBjy27FDxYGqcCFH6nLaXydXagX)

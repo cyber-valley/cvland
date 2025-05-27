@@ -1,5 +1,5 @@
-tags:: species, major
-alias:: aloe barbadensis, aloe indica royle, aloe perfoliata, aloe vulgaris
+tags:: species, major, super
+alias:: aloe
 
 - ![image](https://ipfs.io/ipfs/QmZ1abuZCRKnrxDVibUn8h13PouvRYvV1tAmNMmNssfHwm){:height 409, :width 408}
 - availability:: cv
@@ -20,7 +20,7 @@ alias:: aloe barbadensis, aloe indica royle, aloe perfoliata, aloe vulgaris
 		- flower: grows on a tall raceme; tubular, yellow or orange, and pollinated by [[insects]] and [[birds]]. blooms once the plant matures.
 			- contains [[flavonoids]], [[nectar]] (rich in [[sugars]]), and trace amounts of volatile [[essential oils]].
 		- fruit: a small dry capsule that splits open when mature, releasing flat, black [[seeds]].
-			- seeds contain small amounts of [[protein]] and trace oils but are rarely used medicinally or nutritionally.
+			- seeds contain small amounts of [[proteins]] and trace oils but are rarely used medicinally or nutritionally.
 		- bark: absent; aloe vera is herbaceous and non-woody.
 		- timber: not applicable; lacks woody tissue.
 	- environment:: arid to semi-arid climates with full sun and sandy, well-drained soil

@@ -1,5 +1,5 @@
-tags:: species
-alias:: emblic, myrobalan, malaka, amla
+tags:: species, major
+alias:: amla
 
 - ![Screenshot 2024-05-23 at 08.54.12.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmeGJsoGacapBfSTxRymfyHU7P92BZGbfhVGt4YcbnXJbY)
 - ![Screenshot 2024-05-23 at 08.54.55.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmddVBpg9p92wBL2MCYhSB9foojyc8PdpDcoQuKVDTkuqg)

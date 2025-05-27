@@ -1,3 +1,3 @@
-tags:: species
+tags:: species, research
 
 - [[medicine]], [[oil]]

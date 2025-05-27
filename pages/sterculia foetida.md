@@ -1,5 +1,5 @@
 tags:: species
-alias:: java olive tree, wild almond tree, kepuh, indian almond
+alias:: kepuh, indian almond
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmcCpogmSZ7Rs5oBEjMhr1rHr2mfKcaedm8voKv6ffGvJ2)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmVwvgZ5Y6Qgpa1SrQWVJqrF2iopAJ16rwobTpcFeRRNZQ)

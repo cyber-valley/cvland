@@ -1,5 +1,5 @@
 tags:: genus
-alias:: mengkirai, ganja tree
+alias::
 scalable:: true
 
 - selected for [[edem]]

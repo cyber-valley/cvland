@@ -1,5 +1,5 @@
 alias:: may chang, kilemo
-tags:: species, major
+tags:: species, major, research
 
 - wood-density:: 450
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmXuSSCeAr1KLRfeC3RcxPZrFxMeKVZMF2uCuCnH52oAUT)

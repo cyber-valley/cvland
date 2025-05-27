@@ -1,4 +1,4 @@
-tags:: species, major, collectable
+tags:: species, major, collectable, super
 alias:: avocado, alpukat
 
 - [[staple]]

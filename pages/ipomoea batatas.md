@@ -1,4 +1,4 @@
-tags:: species, major
+tags:: species, major, super
 alias:: batat
 
 - [[staple]]
@@ -6,3 +6,4 @@ alias:: batat
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmSYjzBhW5iy6WcNPkMMrALbabnAbV8Kutft9XHA5hWbsm)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmXGyzMohxxs3gnLBEy9uQysdACCoLR8EHA42WHPYWwVpG)
 -
+- [[salad]]

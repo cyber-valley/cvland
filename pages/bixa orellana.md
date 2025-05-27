@@ -1,5 +1,5 @@
 tags:: species
-alias:: achiote, annato, kesumba
+alias:: achiote, annatto, kesumba
 
 - [[high margin]]
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmVQc1FS6G8nbiPfoQNSZkqMG6nWQvwV8QLuoTPPCGaK34)

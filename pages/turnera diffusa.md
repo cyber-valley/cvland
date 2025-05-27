@@ -1,7 +1,7 @@
 alias:: damiana
 tags:: species, research, psycho
 
-- state:: supply
+- supply:: next-month
 - compounds
 	- [[arbutin]]
 	- [[hydroquinone]]

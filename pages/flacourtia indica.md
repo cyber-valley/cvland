@@ -1,4 +1,4 @@
-alias:: ramontchi, governors plum
+alias:: ramontchi
 tags:: species, major
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmPSEdqy48LG5grUq1zw3nnosoenY7WiQhKYKfSSmRvRRu)

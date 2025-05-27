@@ -1,4 +1,4 @@
-tags:: species, major
+tags:: species, major, research
 alias:: ochroma, balsa
 
 - wood-density:: 150

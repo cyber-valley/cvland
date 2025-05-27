@@ -1,1 +1,2 @@
-tags:: species
+tags:: species, major
+alias:: lilypily
