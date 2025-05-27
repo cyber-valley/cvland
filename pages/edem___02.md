@@ -27,7 +27,7 @@ type:: sector
 	  collapsed:: true
 		- [[symphytum officinale]]
 	- [[inga edulis]]
-		- [[lycium barbarum]]
+		- DONE [[lycium barbarum]]
 		- [[colocasia esculenta]]
 	- [[punica granatum]] red
 	  collapsed:: true

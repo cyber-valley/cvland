@@ -7,6 +7,6 @@ type:: sector
 - [[guilds]]
 	- [[cananga odorata]]
 	- [[magnolia champaca]] yellow
-	- [[calliandra surinamensis]]
+	- [[calliandra calothyrsus]]
 	- [[araucaria heterophylla]]
 	- [[bougainvillea glabra]]

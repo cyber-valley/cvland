@@ -2,8 +2,8 @@ type:: sector
 
 - connected to [[edem/sectors]]
 	- [[edem/31]]
-- [[juglans regia]]
-- [[juglans regia]]
+- DONE [[juglans regia]]
+- DONE [[juglans regia]]
 - [[neoregelia carolinae]]
 - [[litchi chinensis]]
 - [[malus domestica]]

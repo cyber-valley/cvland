@@ -8,7 +8,7 @@ type:: sector
 	  collapsed:: true
 		- [[symphytum officinale]]
 	- [[citrus japonica]]
-	- [[phaleria macrocarpa]]
+	- DONE [[phaleria macrocarpa]]
 	- [[citrus japonica]]
 	- [[punica granatum]] black
 	- [[diospyros kaki]]

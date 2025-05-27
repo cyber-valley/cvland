@@ -10,7 +10,7 @@ type:: sector
 - [[schizolobium parahyba]]
 - [[syzygium myrtifolium]]
 - [[ixora coccinea]]
-- [[crescentia cujete]]
+- DONE [[crescentia cujete]]
   :LOGBOOK:
   CLOCK: [2024-11-06 Wed 11:07:29]--[2024-11-06 Wed 11:07:30] =>  00:00:01
   :END:

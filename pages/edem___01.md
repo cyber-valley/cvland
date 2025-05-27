@@ -24,7 +24,6 @@ type:: sector
 		- [[begonia]]
 		- [[tropaeolum majus]]
 	- [[nephelium lappaceum]]
-	  collapsed:: true
 		- [[rosemary]]
 	- [[cananga odorata]]
 	- [[syzygium samarangense]]
@@ -32,7 +31,6 @@ type:: sector
 		- [[melissa officinalis]]
 	- [[cinnamomum verum]]
 	- [[flacourtia indica]]
-	  collapsed:: true
 		- [[ocimum africanum]]
 - [[beds]]
 	- [[fragaria ananassa]]
