@@ -1,12 +1,18 @@
-- ![Aspergillus_flavus.pdf](../assets/Aspergillus_flavus_1719126709610_0.pdf)
-- aspergillus flavus is a species of fungus found in the environment, particularly in soil and decaying vegetation. it is known for producing aflatoxins, which are potent carcinogens and can contaminate crops, posing significant health risks to humans and animals.
-	- **diseases caused by aspergillus flavus:**
-		- 1. **aspergillosis:** a group of diseases caused by aspergillus species, particularly affecting the respiratory system.
-			- **[[allergic bronchopulmonary aspergillosis]] (abpa):** an [[allergic reaction in the lungs]], common in people with [[asthma]] or [[cystic fibrosis]].
-			- **[[aspergilloma]] (fungus ball):** a growth of fungal mass in a pre-existing lung cavity, often in individuals with a history of tuberculosis or other lung diseases.
-			- **[[invasive aspergillosis]]:** a serious infection that occurs when aspergillus invades and damages tissues, primarily affecting immunocompromised individuals, leading to severe lung infections and potentially spreading to other organs.
-		- 2. **aflatoxicosis:** caused by ingestion of aflatoxins produced by aspergillus flavus, leading to [[liver damage]], [[liver cancer]], and immune suppression. aflatoxin exposure is a significant risk in regions where crops like [[peanut]]s, [[maize]], and [[cottonseed]] are improperly stored.
-	- **habitats and transmission:**
-		- **environment:** commonly found in soil, decaying vegetation, compost, and air. it thrives in warm, humid environments and can contaminate crops during growth, harvest, or storage.
-		- **transmission:** occurs through inhalation of airborne spores or ingestion of contaminated food products. direct human-to-human transmission is rare.
-- preventing infections and exposure to aspergillus flavus involves good agricultural practices, proper food storage, and maintaining indoor air quality. in healthcare settings, preventing exposure to immunocompromised patients is crucial. treatment of aspergillosis depends on the type and severity of the infection and may include antifungal medications such as voriconazole or amphotericin b. addressing aflatoxin contamination involves regulatory measures, proper food handling, and monitoring food products to reduce the risk of aflatoxicosis.
+tags:: fungi
+
+- aspergillus flavus is a pathogenic fungus belonging to the genus [[aspergillus]], known primarily for contaminating agricultural crops such as grains, nuts (especially peanuts), and spices. it produces toxic metabolites called [[aflatoxins]], potent carcinogens harmful to humans and animals
+- ## diseases caused by aspergillus flavus
+  id:: 68109a76-7875-4bb9-8bcb-92f060b4681f
+	- [[aspergillosis]]: respiratory infections, particularly invasive in immunocompromised individuals
+	- [[allergic bronchopulmonary aspergillosis]] (abpa): allergic reactions, asthma-like symptoms, inflammation of the lungs
+	- food poisoning and hepatotoxicity due to aflatoxin ingestion, increasing risk of liver cancer
+- ## habitats and transmission
+	- environmental presence: soil, decaying vegetation, stored grains, nuts, spices
+	- transmission: inhalation of airborne spores; ingestion of contaminated food products containing aflatoxins
+- ## prevention and treatment
+	- preventing fungal contamination through proper crop storage, moisture control, and good hygiene practices
+	- antifungal medications (voriconazole, amphotericin b) used for treatment of invasive aspergillosis
+	- prevention strategies include controlling humidity, temperature, and use of antifungal preservatives during food storage
+- ## research highlights
+	- [aspergillus flavus and aflatoxin contamination](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8305057/)
+	- [treatment and prevention of aspergillus flavus infections](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10610920/)

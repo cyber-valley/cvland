@@ -1,0 +1,22 @@
+- omega-3 fatty acids are polyunsaturated fatty acids essential for human health, characterized by their first double bond at the third carbon from the methyl end. they play crucial roles in maintaining [[cardiovascular health]], [[reducing inflammation]] [[supporting neurological function]], and improving overall metabolic well-being. humans must obtain certain omega-3s through diet, as the body cannot synthesize them naturally.
+- ## chemical properties
+	- **main types**:
+		- [[alpha-linolenic acid (ala)]]: plant-derived, essential
+		- [[eicosapentaenoic acid (epa)]]: marine-derived, anti-inflammatory
+		- [[docosahexaenoic acid (dha)]]: marine-derived, essential for brain function
+	- solubility: insoluble in water; soluble in organic solvents and fats
+	- structure: polyunsaturated chains with multiple cis double bonds
+- ## usefulness in medicine
+	- omega-3 fatty acids significantly reduce [[inflammation]], contributing to improved [[cardiovascular health]] by lowering triglycerides, regulating cholesterol, and reducing blood pressure.
+	- [[dha]] is vital for neurological development, supporting cognitive function, vision, and protecting against age-related cognitive decline and [[neurodegenerative disorders]].
+	- omega-3s also support mental health, reducing symptoms associated with depression, anxiety, and mood disorders.
+- ## [[antimicrobial]] and therapeutic activity
+	- omega-3 fatty acids exert indirect antimicrobial effects through anti-inflammatory mechanisms, immune modulation, and inhibition of microbial biofilm formation.
+	- bacteria:
+		- [[staphylococcus aureus]]
+		- [[streptococcus pneumoniae]]
+		- [[escherichia coli]]
+	- fungi:
+		- [[candida albicans]]
+	- viruses:
+		- [[influenza virus]]
