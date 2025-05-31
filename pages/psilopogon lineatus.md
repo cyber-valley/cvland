@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: lineated barbet
 
 - voice:: https://ebird.org/species/linbar1

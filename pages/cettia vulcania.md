@@ -1,5 +1,5 @@
-tags:: birds
-alias:: horornis vulcanius, sunda bush-warbler, javan bush-warbler
+tags:: species, birds
+alias:: bush-warbler
 
 - voice:: https://avibase.bsc-eoc.org/species.jsp?avibaseid=8C91ADCBD3FA353B
 - ![image](https://ipfs.io/ipfs/QmZrafbw47Qrm27PSdfvj6fEQZZHb38Py66a45tFQnT2oK)

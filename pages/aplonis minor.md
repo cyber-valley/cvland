@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: short-tailed starling
 
 - voice:: https://ebird.org/species/shtsta1

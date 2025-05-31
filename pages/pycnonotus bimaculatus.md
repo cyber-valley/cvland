@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: orange-spotted bulbul
 
 - voice:: https://ebird.org/species/orsbul3

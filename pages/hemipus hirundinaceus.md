@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: black-winged flycatcher-shrike
 
 - voice:: https://ebird.org/species/bwfshr2

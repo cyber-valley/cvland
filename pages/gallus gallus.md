@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: red junglefowl
 
 - voice:: https://ebird.org/species/redjun

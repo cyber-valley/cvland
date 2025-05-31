@@ -1,5 +1,5 @@
 tags:: species
-alias:: hong kong rose, silk rose, kasjiebranah
+alias:: silk rose, kasjiebranah
 
 - ![Screenshot 2024-05-17 at 03.34.09.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmRsNbMRXCo3NXvNHPrCjzHun7kneSXATD3Vf52439gg3v)
 - height: 12 m

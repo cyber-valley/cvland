@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: small minivet
 
 - voice:: https://ebird.org/species/smamin1

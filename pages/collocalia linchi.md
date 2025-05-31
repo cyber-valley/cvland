@@ -1,3 +1,4 @@
+tags:: species, birds
 alias:: cave swiftlet, linchi swiftlet
 
 - voice:: https://ebird.org/species/cavswi2

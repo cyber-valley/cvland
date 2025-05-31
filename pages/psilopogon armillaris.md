@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: flame-fronted barbet
 
 - voice:: https://ebird.org/species/flfbar1

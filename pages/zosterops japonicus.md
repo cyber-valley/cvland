@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: warbling white-eye
 
 - voice:: https://ebird.org/species/warwhe1

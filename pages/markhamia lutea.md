@@ -1,5 +1,5 @@
 tags:: species
-alias:: gold markhamia, yellow bell bean tree
+alias:: gold markhamia
 
 - availability:: hanara
 - ![Screenshot 2024-06-02 at 08.03.11.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmbNsxAZZg6SPnT6y8yBquiKFoMmVBhMhDo5AhKDswUYE3)

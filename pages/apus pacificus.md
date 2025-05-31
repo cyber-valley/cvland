@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: pacific swift
 
 - voice:: https://ebird.org/species/fotswi

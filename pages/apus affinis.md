@@ -1,3 +1,4 @@
+tags:: species, birds, major
 alias:: little swift
 
 - voice:: https://ebird.org/species/litswi1

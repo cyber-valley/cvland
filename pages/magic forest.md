@@ -48,7 +48,7 @@ icon:: 🪷
 		- [[fruits]] : [[malus]], [[prunus]], [[pirus]], [[citrus]], [[durio]], [[mango]]
 		- [[resins]]: [[agathis]], [[styrax]], [[pinus]]
 	- [[animals]]
-		- [[worms]]: [[fodder]] for [[chickens]] and [[soil]] aeration
+		- [[worms]]: [[fodder]] for [[gallus gallus domesticus]] and [[soil]] aeration
 		- [[trigona]]: universal [[pollination]] and easy [[honey]]
 		- [[gallus australorp]]: [[meat]], [[eggs]], [[wool]] and [[manure]]
 		- [[ovis aries]]: [[meat]], [[milk]], [[wool]] and [[manure]]

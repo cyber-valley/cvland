@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: crescent-chested babbler
 
 - voice:: https://ebird.org/species/crcbab1
