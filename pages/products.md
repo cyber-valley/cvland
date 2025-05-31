@@ -1,4 +1,4 @@
-tags:: class
+tags:: term
 
 - every life form serve a purpose
 - classifier of products produced by [[plants]], [[animals]] and [[fungi]]

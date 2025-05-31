@@ -1,5 +1,5 @@
 tags:: species
-alias:: copperpod, yellow flame tree, soga
+alias:: copperpod, soga
 
 - availability:: hanara
 - ![Screenshot 2024-05-24 at 07.38.01.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmU5zmmDGPQLuyPic3gS5uVxzAVCwSkh9z88C6hrJ6bGxz)

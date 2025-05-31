@@ -1,3 +1,5 @@
+tags:: class
+
 - how to describe [[the plant]]?
 - [[genus]]: all living brands selected for [[citadel genesis]]
 - districts
