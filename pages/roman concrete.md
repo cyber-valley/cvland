@@ -1,9 +1,9 @@
 - recipe for extreme longevity concrete with high thermal resistance
 - | component | bahasa name | weight (kg) | volume (liters) | density (kg/m³) | function |
   |:---|:---|:---|:---|:---|:---|
-  | slaked lime paste | kapur sirih | 9.6 | ~6 | ~1600 | primary binder |
+  | s [[lime paste]] | kapur sirih | 9.6 | ~6 | ~1600 | primary binder |
   | volcanic ash | abu vulkanik | 14.4 | ~9.6 | ~1500 | pozzolanic reaction |
-  | milled basalt powder | bubuk basal halus | 7.2 | ~4.8 | ~1500 | microfiller, structure |
+  | [[basalt powder]] | bubuk basal halus | 7.2 | ~4.8 | ~1500 | microfiller, structure |
   | kaolin clay | lempung kaolin | 4.8 | ~3.2 | ~1500 | thermal stability |
   | fine wood ash | abu kayu halus | 2.4 | ~1.9 | ~1200 | secondary pozzolanic action |
   | clean water | air bersih | ~6.0 | ~6.0 | 1000 | activation of reaction |

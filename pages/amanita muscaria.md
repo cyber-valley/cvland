@@ -1,4 +1,4 @@
-tags:: species, fungi, psycho, research, shroom, genus
+tags:: species, fungi, psycho, research, genus
 alias:: amanita
 
 - compounds

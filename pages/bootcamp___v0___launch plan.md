@@ -19,7 +19,7 @@
 		- make them cozy: [[@joy]] and [[@love]]
 	- [[organiq]] construction [[@joe]]
 	- launch processes in resto and market by [[@joy]] + [[@love]]
-	- [[permabase]]: kitchen [[@joy]] + [[@love]]
+	- [[perma]]: kitchen [[@joy]] + [[@love]]
 	- [[edem]] and [[pasture]]: [[love]]
 	- [[@robonomics]] + [[joe]]: water system, energy system, network
 	- [[recycling]]

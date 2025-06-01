@@ -1,4 +1,4 @@
-tags:: species, major, super
+tags:: species, genus major, super
 alias:: inga, snowfruit, inga edilus
 
 - availability:: cv
@@ -50,7 +50,7 @@ alias:: inga, snowfruit, inga edilus
 		- mature:: begins fruiting in 3–5 years, continues annually with high productivity under good care
 		- death:: declines with water stress or [[fungal]] root issues, usually managed as part of successional systems
 	- [[plant/features]]: [[nitrogen-fixers]], [[edible fruit]], [[shade]] tree, [[pollinator]]-friendly, [[soil improver]]
-	- [[biome/layer]]: [[canopy]], [[sub-canopy]], [[successional]]
+	- [[layer]]: [[canopy]], [[sub-canopy]], [[successional]]
 	- [[products]]: fresh [[fruit pulp]], [[seed flour]], [[shade mulch]], [[firewood]], [[green-manure]], [[fodder]], [[pollinator nectar]]
 	- [[chemical compounds]]  
 	  | compound             | plant part     | % amount         | description                                                              |

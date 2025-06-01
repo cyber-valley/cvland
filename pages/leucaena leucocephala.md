@@ -47,7 +47,7 @@ tags:: species, major
 		- mature:: rapid maturity in 2–3 years; extensive foliage, prolific flowering, and seed production.
 		- death:: gradual decline after 15–20 years, susceptible to pests or fungal diseases; often rejuvenated through coppicing.
 	- [[plant/features]]: [[nitrogen-fixing]], [[fodder]], [[fast-growing]], [[soil-improvement]], [[firewood]]
-	- [[biome/layer]]: [[canopy]], [[sub-canopy]], [[shrub-layer]]
+	- [[layer]]: [[canopy]], [[dwarf]], [[shrub]]
 	- [[products]]: [[animal-feed]], [[firewood]], [[[timber]], [[biomass-energy]], [[mulch]], [[green-manure]]
 	- [[chemical compounds]]:
 		- | Compound              | Roots  | Leaves | Flowers | Fruits (Pods & Seeds) | Bark   | Timber | Notes / Uses                                                                             |

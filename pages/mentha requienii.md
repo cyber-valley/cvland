@@ -1,3 +1,3 @@
 tags:: species
 
-- [[carpet]] with [[oil]]
+- [[cover]] with [[oil]]

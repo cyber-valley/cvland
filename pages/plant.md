@@ -31,7 +31,7 @@ alias:: the plant
 		- mature:: text description
 		- death:: text description
 	- [[plant/features]]: array of plant features
-	- [[biome/layer]]: array of applicable layers
+	- [[layer]]: array of applicable layers
 	- [[products]]: array of posible products
 	- [[chemical compounds]]: description of compounds that are in each part of the plant (root, leaves, flowers, fruits, bark, timber)
 	- operations: how to manage the plant

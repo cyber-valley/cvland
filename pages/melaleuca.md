@@ -5,8 +5,9 @@ scalable:: true
 	- {{embed [[melaleuca viminalis]]}}
 	- {{embed [[melaleuca quinquenervia]]}}
 	- {{embed [[melaleuca bracteata]]}}
-- research
-	- [[melaleuca leucadendra]]
 	- [[melaleuca alternifolia]]
 	- [[melaleuca linariifolia]]
+	- [[melaleuca citrinus]]
+- research
+	- [[melaleuca leucadendra]]
 	- [[melaleuca cajuputi]]

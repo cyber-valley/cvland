@@ -10,4 +10,4 @@ alias:: lemon balm
 	- [[repeller]]
 	- [[health]]
 	- [[food]]
-	- [[carpet]]
+	- [[cover]]

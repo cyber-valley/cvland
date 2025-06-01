@@ -1,3 +1,5 @@
+alias:: lawn grass
+
 - high trafic more sun
 	- [[cynodon dactylon]]
 	- [[eleusine indica]]

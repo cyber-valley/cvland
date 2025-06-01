@@ -21,7 +21,7 @@ tags:: legal entity
 		- TODO [[ebike]]
 	- [[agung]]
 	- [[lolok temple]]
-- [[permabase]]: warehouse for seedlings [[@echa]], [[@meli]], [[@restiani]]
+- [[perma]]: warehouse for seedlings [[@echa]], [[@meli]], [[@restiani]]
 	- [[edem]]: incubator for plant
 	- TODO [[sapphire]]
 	- TODO [[citrin]]

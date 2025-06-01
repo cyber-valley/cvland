@@ -14,7 +14,7 @@ alias:: rosemary
 	- **root**: the roots are not commonly used in products, but they support the plant in dry, rocky soils and contribute to [[erosion control]] in [[permaculture]] designs.
 	- **stem**: woody stems are sometimes used as [[aromatic skewers]] for grilling or dried for [[fuel]] or [[kindling]]. mature stems can be used in [[crafting]] or [[tools]] handles.
 	- **fruit**: [[rosemary]] produces small nutlet-like [[seeds]], but the fruits are not used commercially.
-	- **leave**: the most [[valuable]] part of the plant. [[rosemary]] [[leaves]] are used fresh or dried for cooking, [[herbal]] [[teas]], [[essential oils]], and [[traditional medicine]]. they contain powerful [[aromatic]] compounds with [[antimicrobial]] and [[anti-inflammatory]] effects.
+	- **leave**: the most [[valuable]] part of the plant. [[rosemary]] [[leaves]] are used fresh or dried for cooking, [[herb]] [[teas]], [[essential oils]], and [[traditional medicine]]. they contain powerful [[aromatic]] compounds with [[antimicrobial]] and [[anti-inflammatory]] effects.
 	- **bark**: the bark is not used specifically, but the woody portions of the stem carry similar [[aromatic]] and [[medicinal]] properties as the rest of the plant.
 	- **flower**: small pale blue to purple flowers are [[edible]] and can be used fresh in [[salads]], as [[garnish]], or [[teas]]. they also [[attract pollinators]].
 - **uses of salvia rosmarinus:**

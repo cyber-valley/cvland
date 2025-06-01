@@ -18,3 +18,4 @@ tags:: segment
 - consider
 	- [[clover]]
 	- [[alfalfa]]
+	- [[arachis pintoi]]

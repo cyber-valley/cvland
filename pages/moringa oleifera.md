@@ -22,7 +22,7 @@ wood-density::
 	- [[pioneer]]: can bootstrap biomes in arid and degraded soils
 	- [[accumulator]]: mines minerals from deep soil: [[iron]], [[calcium]], and [[potassium]]
 	- [[phytominer]]: able to clean soil of  [[arsenic]]
-- [[biome/layer]]: [[canopy]], [[giant]]
+- [[layer]]: [[canopy]], [[giant]]
 - [[plant/type]]: [[tree]]
 	- [[root]]: taproot system that penetrates deep into the soil
 		- [[alkaloids]]

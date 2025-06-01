@@ -43,7 +43,7 @@ tags:: species, major
 	- **mature**: distinctive weeping form established; resilience increases; extensive root network developed
 	- **death**: gradual dieback often due to disease, drought, or physical damage
 - **[[plant/features]]**: weeping branches, ornamental foliage, erosion control, shade provision, fast growth
-- **[[biome/layer]]**: riparian, temperate forest, wetland margins
+- **[[layer]]**: riparian, temperate forest, wetland margins
 - **[[products]]**: ornamental woodcraft, erosion control products, biomass fuel, medicinal extracts
 - **[[chemical compounds]]**:
 	- | plant part | chemical compounds |

@@ -2,6 +2,7 @@
 	- huge [[sinwood]] biome
 	- pure [[jurasic]] zone
 	- irrational [[coconut]] biome in [[edem]]
-	- high margin [[rhizome]] biome in [[sinwood]]
-	- [[wildness pioneers]] in [[etherland]]
-	- [[taman warisan]] biome in [[permabase]] and [[asgard]]
+	- TODO high margin [[rhizome]] biome in [[sinwood]]
+	- TODO [[wildness pioneers]] in [[etherland]]
+	- [[taman warisan]] biome in [[perma]] and [[asgard]]
+	- [[mantanoa]] biome

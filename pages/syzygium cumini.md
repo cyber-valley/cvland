@@ -47,7 +47,7 @@ alias:: jamblang
 		- mature:: starts fruiting in 6–8 years (seed-grown), or 3–4 years (grafted). full [[yield]] from year 10
 		- death:: gradually declines with hollowing trunk and canopy thinning in late age
 	- [[plant/features]]: [[evergreen]], [[drought-tolerant]], [[wind-resistant]], [[medicinal]], [[attract pollinators]], [[shader]]
-	- [[biome/layer]]: [[canopy]], [[sub-canopy]]
+	- [[layer]]: [[canopy]], [[sub-canopy]]
 	- [[products]]: [[fruit]], dried [[seed powder]], [[bark decoction]] , [[leaf infusion]], [[timber]], [[vinegar]], [[jam]], [[syrup]], [[dye]]
 	- [[chemical compounds]]
 		- [[chemical compounds]]

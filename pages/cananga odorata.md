@@ -46,7 +46,7 @@ title:: cananga odorata
 			- mature:: starts flowering in 2–3 years. produces flowers nearly year-round in optimal conditions
 			- death:: declines gradually; root stress, poor pruning, or pest infestation may accelerate death in later stages
 		- [[plant/features]]: [[fragrant]] [[flowers]], [[attract pollinators]], [[aromatic]], [[essential oil]], [[fast-growing]]
-		- [[biome/layer]]: [[canopy]], [[sub-canopy]]
+		- [[layer]]: [[canopy]], [[sub-canopy]]
 		- [[products]]: fresh [[flowers]], [[essential oil]], [[flower water]], [[aromatherapy]] [[extract]], [[ornamental]] tree
 		- [[chemical compounds]]
 		  | compound           | plant part       | % amount         | description                                                                 |

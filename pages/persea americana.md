@@ -2,6 +2,7 @@ tags:: species, major, collectable, super
 alias:: avocado, alpukat
 
 - [[staple]]
+- fermented [[leave]] for [[biohacking]]: [[sterols]]
 - ![Screenshot 2024-05-23 at 09.25.18.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmPBzCPrsA6BnSSKcXxHRHxXPWgRUicFuJzEy89APzSkM7)
 - wood-density:: 500
 -

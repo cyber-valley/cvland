@@ -1,16 +1,23 @@
+alias:: layers
+
 - [[sky]]
 - [[surface]]
-	- [[tree]]
+	- [[tree]] size
 		- [[titan]] >50m
 		- [[giant]] <50m
 		- [[canopy]] <20m
 		- [[dwarf]] <5m
 		- [[shrub]] <2m
 	- [[herb]] <70cm
-	- [[carpet]] <10cm
-	- [[trail]] <1cm
+	- [[cover]] <10cm
+	- [[lawn]] <1cm
+	- [[tree]] space
+		- [[vine]]
+		- [[moss]]
+		- [[bromelia]]
+	- [[path]]
+	- [[bed]]
 	- [[wall]] for vertical spaces
-	- [[vine]]
 - [[aqua]]
 	- [[shore]]
 	- [[floats]]

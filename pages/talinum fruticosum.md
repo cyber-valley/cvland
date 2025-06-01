@@ -47,7 +47,7 @@ alias:: ceylon spinach, waterleaf, cariru, gbure
 	- mature: matures within 60–80 days, continuously producing edible leaves, flowers, and seeds regularly
 	- death: plant typically declines and dies after 3–4 years or earlier if exposed to prolonged cold or drought
 - [[plant/features]]: edible leaves, drought-tolerant, fast-growing, high nutritional value, succulent
-	- [[biome/layer]]: herbaceous layer, shrub layer, [[understory]]
+	- [[layer]]: herbaceous layer, shrub layer, [[understory]]
 	- [[products]]: [[salad]], [[medicinal]] extracts, [[ornamental]] flowers, [[seeds]]
 - ## chemical compounds
 	- | compound   | plant part | amount (approx.)                | notes                                             |

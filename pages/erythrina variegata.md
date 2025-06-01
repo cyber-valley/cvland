@@ -9,3 +9,4 @@ tags:: species, major
 	- sustainable, available and cheap
 	- [[rockwool]] is more expensive, less durable and efficient
 -
+- [[biohacking]]

@@ -1,6 +1,6 @@
-tags:: biome
+tags:: biome, block
 
-- [[block]] in [[permabase]] with reproduction of life from jurassic period
+- [[block]] in [[perma]] with reproduction of life from jurassic period
 - collection of
 	- [[conifer]]: 12 species
 	- [[fern]]: [[diplazium esculentum]], [[cyathea]] and 15  decorative ferns
@@ -9,7 +9,7 @@ tags:: biome
 	- gnetophytes: [[gnetum]]
 	- [[horsetail]]
 	- [[moss]] and [[liverworts]]
-	- [[club moss]]: [[selaginella doederleinii]], [[lycopodium]]
+	- [[club moss]]: [[selaginella plana]], [[lycopodium]]
 	- [[algae]]: [[chlorella]]
 	- [[biolum]] [[fungi]]
 		- [[mycena chlorophos]]

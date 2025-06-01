@@ -1,2 +1,4 @@
+tags:: block
+
 - [[cestrum elegans]]
 -

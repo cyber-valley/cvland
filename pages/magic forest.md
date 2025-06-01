@@ -26,7 +26,7 @@ icon:: 🪷
 	- more plant, animal and fungi species
 	- from [[forest]] and from [[labs]]
 	- [[high margin]] and [[fast return]]
-		- [[carpet]]: [[oregano]] and [[thymus]]
+		- [[cover]]: [[oregano]] and [[thymus]]
 		- [[herbs]]: [[lemongrass]], [[citronella]], [[vetiver]]
 		- [[herbs]]: [[rosemary]], [[lavandula]], [[mentha]], [[patchouli]]
 		- [[rhizome]]: [[ginger]], [[curcuma]], [[galangal]], [[temu rapet]], [[kantan]]

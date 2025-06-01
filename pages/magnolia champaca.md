@@ -5,6 +5,7 @@ alias:: cempaka, champaсa, white champaca
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeiapmu3yu6gy6kdonf4xp4q3lg33wrqtsr44mfkbkepqlqzp4bqkhm)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeihkuav2sxohnpxagvqhidqj4xbns2hyvgzjfsxwgua7r2sbfkq2xu)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeigya5s63qrx6cnqkrfhvnd54tmqtduhbzof6t3roh6ycplrdzpx4i)
+- [[biohacking]]
 - product
 	- [[flower]]
 - [magnolia_champaca](https://en.wikipedia.org/wiki/Magnolia_champaca)
@@ -47,7 +48,7 @@ alias:: cempaka, champaсa, white champaca
 		- mature:: begins flowering at 5–7 years, stable annual flowering under good conditions
 		- death:: naturally declines over decades. sensitive to root compaction and fungal root diseases in old age
 	- [[plant/features]]: [[fragrant]] flowers, [[attract pollinators]], [[shade]]-giving, [[ornamental]]
-	- [[biome/layer]]: [[canopy]], [[titan]] (humid tropics)
+	- [[layer]]: [[canopy]], [[titan]] (humid tropics)
 	- [[products]]: fresh [[flowers]], [[essential oil]], [[aromatic]] [[wood]], [[floral water]], [[ornamental]] tree, [[incense]], [[perfume]] ingredient
 	- [[chemical compounds]]
 	  | compound             | plant part     | % amount         | description                                                              |

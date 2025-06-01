@@ -50,7 +50,7 @@ alias:: aloe
 		- mature:: thick leaves form in 12–18 months; flowers appear after 2–3 years
 		- death:: declines from frost, rot, or aging core collapse
 	- [[plant/features]]: [[drought-tolerant]], [[fire-resistant]], [[succulent]], [[medicinal]], [[attract pollinators]] (when flowering)
-	- [[biome/layer]]: [[ground covers]], [[herbaceous]], [[understory]] (dry tropics)
+	- [[layer]]: [[ground covers]], [[herbaceous]], [[understory]] (dry tropics)
 	- [[products]]: leaf gel, leaf latex, tea, juice, skin salve, cosmetic base, fire starter, mulch, potted ornamental
 	- [[chemical compounds]]
 	  | compound                      | plant part        | % amount        | description                                                            |

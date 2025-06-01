@@ -4,9 +4,7 @@
 - restore natural balance
 - and create sustainable, self-sufficient environments
 - this is an area we are specifically focused
-- in the following months we are going to post tons of useful information on the topic
 - methods
-  collapsed:: true
 	- [[magic forest]]: bootstrapping amazing ecosystem using affordable low tech methods
 	- genetics: modifying organisms to enhance ecological functions
 	- restoration: reintroducing native species and rebuilding habitats to restore damaged ecosystems like forests and wetlands
@@ -16,13 +14,13 @@
 	- aquaponics: growing plants in space-efficient  environments, integrated with sustainable fish farming
 	- carbon sequestration: enhancing ecosystems’ ability to store carbon through reforestation, soil management, and biochar use
 	- green infrastructure: incorporating natural elements into urban design to manage stormwater, improve air quality, and reduce heat
-	- regeneration: farming methods like no-till and cover cropping that restore soil health and increase biodiversity
+	- regeneration: farming methods like [[no-till]] and cover cropping that restore soil health and increase biodiversity
 	- biomimicry: designing sustainable solutions inspired by nature, like energy-efficient buildings and water filtration systems
 - essentials
-	- [[maps]], [[shapes]], [[patterns]] and [[beds]]
-	- [[zones]] and [[biome/layer]]
+	- [[maps]], [[zones]], [[shapes]] and  [[patterns]]
+	- and [[layers]]
 	- [[guild]] and  [[plant/features]]
-	- [[stratification]]
-	- [[lifecicle]] and [[propogation]]
+	- [[stratification]] and [[lifecicle]]
+	- methods: [[propagation]], [[pruning]], [[harvesting]] and [[support]]
 	- [[biomes]] and [[climate]]
 	- [[plant/type]] and its [[products]]

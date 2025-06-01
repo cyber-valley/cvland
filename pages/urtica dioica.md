@@ -1,4 +1,4 @@
 tags:: species
 alias:: jelatang
 
-- [[salads]]
+- [[salads]] and [[biohacking]]

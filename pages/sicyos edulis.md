@@ -46,7 +46,7 @@ tags:: species, major, super
 		- •	mature:: vigorous vine growth; prolific fruiting within 3–4 months after planting; continuous harvesting prolongs productivity.
 		- •	death:: plants decline after 3–5 years; sensitive to prolonged drought, frost, or severe pest infestations.
 	- •	[[plant/features]]:: [[edible-fruit]], [[fast-growing]], [[high-yield]], [[climbing-vine]], [[nutritious]]
-	- •	[[biome/layer]]:: [[vine-layer]], [[understory]]
+	- •	[[layer]]:: [[vine-layer]], [[understory]]
 	- •	[[products]]:: [[food], [[pickle]], [[vegetable]], [[medicinal]]
 		- menu:: [[baked chayote]]
 	- Legend:

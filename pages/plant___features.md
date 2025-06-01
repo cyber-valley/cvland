@@ -14,7 +14,7 @@
 	- [[trellis]] support [[climbers]] allowing them to ascend
 	- [[climber]] able to climb and connect
 	- [[armature]] can slow down soil movement
-	- [[carpet]] plants that spread out across the ground
+	- [[cover]] plants that spread out across the ground
 - [[worker]] do the most important work for [[biome]] fertility
 	- [[nitrogener]] supply [[guild]] the most essential [[mineral]]
 	- [[accumulator]] have powerful [[roots]] and mine [[minerals]]
@@ -33,3 +33,8 @@
 	- short-lived: 2-10 years
 	- medium-lived: 10-100 years
 	- long-lived: 100+ years
+- [[photosynthesis]]
+- other features
+	- [[rhizome]]
+	- [[stolon]]
+	- [[tuber]]

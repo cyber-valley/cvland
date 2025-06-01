@@ -17,7 +17,7 @@ tags:: species, research, unavailable
 	- [[fire-resistant]]: thick bark and tannins provide high resistance to wildfires
 	- [[longevity]]: can live for more than 3,000 years
 	- [[fast initial growth]]: young trees grow quickly under the right conditions
-- [[biome/layer]]:
+- [[layer]]:
 	- [[canopy]],
 	- [[titan]]
 - [[plant/type]]: [[tree]]

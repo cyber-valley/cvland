@@ -5,7 +5,7 @@ tags:: segment
 	- [[fungi]]
 	- [[rhizome]]
 	- trees on [[canopy]] and [[pilar]] layers
-	- [[carpet]]
+	- [[cover]]
 	- [[animals]]
 - {{query (and "high margin" (not (property :tags "unavailable")) (not (page-tags [[unavailable]])))}}
   query-sort-by:: page
