@@ -12,7 +12,7 @@
   | [[rubber latex]] | getah karet alami       | 2–5% of liquid | included in water | ~920–980         | improves flexibility, crack resistance |
 	- instructions
 		- mix dry components thoroughly: volcanic ash, basalt powder, kaolin clay, wood ash
-		- separately prepare slaked lime paste (kapur sirih)
+		- separately prepare lime paste
 		- combine dry mix with lime paste
 		- gradually add clean water while mixing
 		- optionally replace 2–5% of water with getah karet
@@ -21,7 +21,6 @@
 		- pour in 10–15 cm lifts; compact using tamping or vibration
 		- cover surface with wet cloth or mist for at least 10–14 days
 	- summary
+		- outstanding compaction is critical
 		- final density after compaction: ~1900–2100 kg/m³
-		- avoid egg white or protein additives in road concrete
-		- optional: add 2–5% getah karet (natural latex) to improve elasticity and crack resistance
-		- expected durability: 500+ years in tropical open-air conditions
+		- expected durability: 1000+ years in tropical open-air conditions
