@@ -1,4 +1,6 @@
+- [[pruning]]
 - [[cuttings]]
 - [[grafting]]
 - [[seeds]]
 - [[airlayering]]
+-
