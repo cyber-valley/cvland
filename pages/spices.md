@@ -1,3 +1,5 @@
+alias:: spice
+
 - [[rosemary]]
 - [[lavandula]]
 - [[chili]]
@@ -26,7 +28,7 @@
 - [[citronella]]
 - [[clove]]
 - [[nutmeg]]
-- [[histrix]]
+- [[hystrix]]
 - [[zest]]
 - TODO
 	- [[vetiver]]

@@ -1,7 +1,8 @@
-alias:: persimmon
+alias:: persimmon, kesemek
 tags:: species, major
 
 - wood-density:: 650
+- [[dioecious]]
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmbUoZqinF2wMPg4RkDPhyEVfcYis3Jk1u1GiC7NwaCahi)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmVXF2RUvdjpbFW9MLAmFfhCEQcSvCWc1pA5orHr9Feyy1)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmW1k2xzTEGa7BemwgbQjGNsMduQmdhzWjinPQzFihD46D)

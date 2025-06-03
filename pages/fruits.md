@@ -1,7 +1,17 @@
 alias:: fruit
 
 - [[staple]]
-	-
+	- [[ananas]]
+	- [[coconut]]
+	- [[banana]]
+	- [[papaya]]
+	- [[naga]]
+	- [[mango]]
+	- [[apple]]
+	- [[salak]]
+	- [[avocado]]
+	- [[markiza]]
+	- [[mandarin]]
 - [[citrus]]:
 	- [[lime]]
 	- [[limon]]
@@ -90,7 +100,7 @@ alias:: fruit
 	- [[monstera]]
 	- [[pendejera]]
 	- [[miraculin]]
--
+	- [[limeberry]]
 -
 - TODO [[pulasan]]
 - TODO [[abiu]]
@@ -108,7 +118,8 @@ alias:: fruit
 - TODO [[silverberry]]
 - TODO [[achacha]]
 - TODO [[kepel]]
-- TODO [[limeberry]]
+- TODO [[melinjo]]
+-
 - TODO [[raspberry]]
 - TODO [[santol]]
 - TODO [[bisbul]]
@@ -150,7 +161,7 @@ alias:: fruit
 - TODO [[jorco]]
 - TODO [[mundar]]
 - TODO [[gambodge]]
-- TODO [[melinjo]]
+-
 - TODO [[seaberry]]
 - TODO [[walnut]]
 - TODO [[dates]]

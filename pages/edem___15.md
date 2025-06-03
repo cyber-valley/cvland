@@ -11,7 +11,7 @@ type:: sector
 - [[phyllanthus acidus]]: 4
 - [[inga edulis]] : 4
 - TODO [[litchi chinensis]]
-- TODO [[triphasia trifolia]]
+- [[triphasia trifolia]]
 - TODO [[strobilanthes auriculatus]]
 - TODO [[magnolia champaca]]
 - [[citrus sinensis]]

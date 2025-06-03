@@ -47,7 +47,7 @@ tags:: species, major, super
 		- •	death:: plants decline after 3–5 years; sensitive to prolonged drought, frost, or severe pest infestations.
 	- •	[[plant/features]]:: [[edible-fruit]], [[fast-growing]], [[high-yield]], [[climbing-vine]], [[nutritious]]
 	- •	[[layer]]:: [[vine-layer]], [[understory]]
-	- •	[[products]]:: [[food], [[pickle]], [[vegetable]], [[medicinal]]
+	- •	[[products]]:: [[food]], [[pickle]], [[vegetable]], [[medicinal]]
 		- menu:: [[baked chayote]]
 	- Legend:
 		- •	High: abundant presence
