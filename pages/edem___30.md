@@ -5,7 +5,7 @@ type:: sector
 	- [[edem/31]]
 - [[unidentified]]: 4
 - [[cocos nucifera]]: 9
-- [[prunus amygdalus]]: 8
+- [[prunus dulcis]]: 8
 - [[garcinia mangostana]]: 7
 - [[plumeria]]: 4
 - [[mentha]]: 4

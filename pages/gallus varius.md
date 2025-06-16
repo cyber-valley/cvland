@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds, major
 alias:: green junglefowl
 
 - voice:: https://ebird.org/species/grejun1

@@ -1,5 +1,4 @@
-tags:: genus, family, collectable
+tags:: genus, family, collectable, major
 alias:: orchid
-scalable:: true
 
--
+- [[high margin]]

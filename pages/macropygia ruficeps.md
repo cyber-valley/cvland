@@ -1,4 +1,5 @@
-alias:: little cuckoo-dove, rufous-headed ground dove
+tags:: species, birds
+alias:: little cuckoo-dove
 
 - voice:: https://ebird.org/species/licdov1
 - ![image](https://ipfs.io/ipfs/QmTGcvCfSi7YqrcYt3cMmLKDDszVUEwkJ4qFAyeK1BnktD)

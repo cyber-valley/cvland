@@ -1,11 +1,11 @@
-tags:: species, major
-alias:: aloe barbadensis, aloe indica royle, aloe perfoliata, aloe vulgaris
+tags:: species, major, super
+alias:: aloe
 
 - ![image](https://ipfs.io/ipfs/QmZ1abuZCRKnrxDVibUn8h13PouvRYvV1tAmNMmNssfHwm){:height 409, :width 408}
 - availability:: cv
 - [[plant/miracle]]
-- [[salad]] and [[stew]]
-- [[high margin]]
+- [[salads]] and [[stew]]
+- [[staple]]
 - [wiki_aloe_vera](https://en.wikipedia.org/wiki/Aloe_vera)
 - [[plant/type]]: [[succulent]] [[herbaceous]] [[perennial]]
 	- this defines the plant as a fleshy, non-woody, [[evergreen]] species that persists for many seasons, storing water in its thick leaves.
@@ -20,7 +20,7 @@ alias:: aloe barbadensis, aloe indica royle, aloe perfoliata, aloe vulgaris
 		- flower: grows on a tall raceme; tubular, yellow or orange, and pollinated by [[insects]] and [[birds]]. blooms once the plant matures.
 			- contains [[flavonoids]], [[nectar]] (rich in [[sugars]]), and trace amounts of volatile [[essential oils]].
 		- fruit: a small dry capsule that splits open when mature, releasing flat, black [[seeds]].
-			- seeds contain small amounts of [[protein]] and trace oils but are rarely used medicinally or nutritionally.
+			- seeds contain small amounts of [[proteins]] and trace oils but are rarely used medicinally or nutritionally.
 		- bark: absent; aloe vera is herbaceous and non-woody.
 		- timber: not applicable; lacks woody tissue.
 	- environment:: arid to semi-arid climates with full sun and sandy, well-drained soil
@@ -50,7 +50,7 @@ alias:: aloe barbadensis, aloe indica royle, aloe perfoliata, aloe vulgaris
 		- mature:: thick leaves form in 12–18 months; flowers appear after 2–3 years
 		- death:: declines from frost, rot, or aging core collapse
 	- [[plant/features]]: [[drought-tolerant]], [[fire-resistant]], [[succulent]], [[medicinal]], [[attract pollinators]] (when flowering)
-	- [[biome/layer]]: [[ground covers]], [[herbaceous]], [[understory]] (dry tropics)
+	- [[layer]]: [[ground covers]], [[herbaceous]], [[understory]] (dry tropics)
 	- [[products]]: leaf gel, leaf latex, tea, juice, skin salve, cosmetic base, fire starter, mulch, potted ornamental
 	- [[chemical compounds]]
 	  | compound                      | plant part        | % amount        | description                                                            |

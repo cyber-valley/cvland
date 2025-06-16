@@ -6,5 +6,5 @@ alias:: wintergreen
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmRM8Wmv3ybZ6KZJhHVDbHPhNtNnYmCrm6R554ytdaMFz1)
 - [[food]]
 - [[oil]]
-- [[carpet]]
+- [[cover]]
 -

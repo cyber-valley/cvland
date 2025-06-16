@@ -43,7 +43,7 @@ tags:: kitchen/menu, eggs, breakfast, with cheese
 	- optionally add [[black pepper]]
 - ### 🧭 food pairing
 	- fresh [[greens]]
-	- fresh [[salad]]
+	- fresh [[salads]]
 	- [[avocado sliced]]
 	- herbal [[tea]]
 	- cold brew

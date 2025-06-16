@@ -1,2 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: pohutukawa
+
+- [[millennial]]

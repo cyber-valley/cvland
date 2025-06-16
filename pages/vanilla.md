@@ -1,4 +1,4 @@
 tags:: genus, research, major
-scalable:: true
+supply:: next-month
 
 - {{embed [[vanilla planifolia]]}}

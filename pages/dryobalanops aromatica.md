@@ -1,6 +1,7 @@
 alias:: kapur, barus
 tags:: species, major, research
 
+- [[high margin]] [[resin]]
 - wood-density:: 750
 - up to 75 m
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmTQCKSxQtCZSGSsRxR36G2wHh3eyPkVud3d4D28uGLoRA)

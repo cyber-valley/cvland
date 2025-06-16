@@ -8,7 +8,7 @@
 	- [[bamboo]]
 	- [[suculent]]
 	- [[tree]]
-	- [[bush]]
+	- [[shrub]]
 	- [[herb]]
 	- [[creeper]]
 	- [[vine]]

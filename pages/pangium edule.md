@@ -1,6 +1,7 @@
 tags:: species
-alias:: pangium
+alias:: pangium, keluak, kepayang
 
+-
 - ![Screenshot 2024-05-24 at 09.04.31.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZN6mQ4S4WYDKMXUFxXbjEyZWgjChwp9Xuyc1dEDEMDeL)
 - ![Screenshot 2024-05-24 at 09.05.29.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmNcoL2hoaoCBeokQGsAX1bxmAyYVrTVgjhJtuaBAa2CDC)
 - height: up to 18 m

@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: plaintive cuckoo
 
 - voice:: https://ebird.org/species/placuc1

@@ -1,4 +1,5 @@
 tags:: species
+alias:: feijoa
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmX6iqVDonH6p9znB6p9bWU1S1aNCEMHGFH4heE4zE5Sfc)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmSRgxjb5DkvF5fVgWbvtBydFMq1Q84mXDZRzbTuRAaKYr)

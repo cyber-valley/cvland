@@ -1,16 +1,15 @@
-tags:: species, class
+tags:: term
 icon:: 🌈
 
 - [[plants]]: hundreds of species in [[citadel genesis]] and [[batuka]]
 - [[animals]]: dozens of species in [[citadel genesis]] and [[batuka]]
 - [[fungi]]: dozens of species in [[batuka]]
 -
+- system of tagging
+	- abundance: yes, limited, trial, none, gone
+	- supply: yes, later, wishlist, no
+	- margin: high, mid, low, none
+	- autonomy: staple, support, export, none
+-
 - ## [[species/all]]
-- {{query (and (page-tags [[species]]) (not (page-tags [[research]])))}}
-  query-sort-by:: page
-  query-sort-desc:: false
-  query-properties:: [:page :alias]
-- {{query (and (page-tags [[species]]) (page-tags [[research]]))}}
-  query-sort-by:: page
-  query-sort-desc:: false
-  query-properties:: [:page :alias]
+- ## [[species/research]]

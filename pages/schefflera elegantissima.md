@@ -1,5 +1,5 @@
 tags:: species
-alias:: false aralia, finger aralia, threadleaf
+alias:: false aralia, threadleaf
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmWhK1mVrYjzQ5vehtM3kG1uFXiysa3d1P68kK7hiAJqT2)
 - height: 8-15m

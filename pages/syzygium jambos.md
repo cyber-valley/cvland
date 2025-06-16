@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: malabar plum, plum rose, jambu mawar
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmcMyq8MvEzMKcx4Hcrf84yhBjNothDJzznMiPyAC1caXG)

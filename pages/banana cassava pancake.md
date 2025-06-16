@@ -49,7 +49,7 @@ tags:: kitchen/menu, banana, cassava, breakfast, pancakes, grain-free, gluten-fr
 	- bake on a [[baking mat]] at 180–200°c for a less oily version
 	- top with [[cheese]] and [[blanched vegetables]] before baking
 - ### 🧭 food pairing
-- [[herbal tea]], [[fresh fruits]], [[cold brew]], fresh [[salad]]
+- [[herbal tea]], [[fresh fruits]], [[cold brew]], fresh [[salads]]
 - ### ♻️ waste use
 	- cassava peel and banana peel: [[compost]] / [[animal feed]]
 - ### 💡 tips

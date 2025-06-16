@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds, major
 alias:: black drongo
 
 - voice:: https://ebird.org/species/bladro1

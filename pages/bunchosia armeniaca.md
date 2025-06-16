@@ -1,5 +1,5 @@
 tags:: species
-alias:: amazon butternut, kacang amazon
+alias:: butternut, kacang amazon
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmbjL4zdufhoHeXo1JXTkmsSjJeYzWocdMK4YbUifSEqtK)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQfmSAcVXeqSBz9xxYpffLS1B572NfcTZhFFMkAT61dYL)

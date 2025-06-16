@@ -1,15 +1,4 @@
-tags:: species
-tags:: species
-alias:: norfolk pine
-tags:: species
-alias:: norfolk pine
-tags:: species
-alias:: norfolk pine
-tags:: species
-alias:: norfolk pine
-tags:: species
-alias:: norfolk pine
-tags:: species
+tags:: species, major
 alias:: norfolk pine
 
 - [[conifer]]

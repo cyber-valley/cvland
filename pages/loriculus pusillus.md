@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: yellow-throated hanging-parrot, lesser green leafbird
 
 - voice:: https://ebird.org/species/ythpar1

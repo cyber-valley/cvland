@@ -1,5 +1,5 @@
 tags:: species
-alias:: tabebuia roseo-alba, lapacho blanco
+alias:: lapacho blanco
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmXwaJVUZUYB3MKaWhcxvqjZC1U8XQtaYEjeE74eM2CyP2)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmXTvx5GBBz12pLvuySmLvQprXPkw7SGRcwKaKvy7vFy61)

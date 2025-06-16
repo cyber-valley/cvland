@@ -1,6 +1,6 @@
 tags:: genus
 
-- selected for [[edem]], [[pasture]] and [[permabase]]
+- selected for [[edem]], [[pasture]] and [[perma]]
 	- {{embed [[brassica juncea]]}}
 - research
 	- {{embed [[brassica oleracea]]}}

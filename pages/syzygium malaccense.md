@@ -1,5 +1,5 @@
-tags:: species
-alias:: malacca apple, malay rose apple, jambu bol
+tags:: species, major
+alias:: malay apple, jambu bol
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmUxbs9Yrj1J9NjBmomJpYx3c9LtFKcTu6jfQ9rVpzSyft)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmU3uXY5c1g8JzPjGZkzbgdQfyfzJQiqD5MiAdq5FUn5ta)

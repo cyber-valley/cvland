@@ -1,4 +1,4 @@
-tags:: species, research
+tags:: species, major, research
 
 - nitrogener:: 100
 - ![image](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmV3tKTy3v9ec57WpFRgiyWrSF9isnYjmY79EixcaxZvRy)

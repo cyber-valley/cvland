@@ -1,7 +1,9 @@
 tags:: species, major
 alias:: tamarind, asam
+wood-density:: 800
+market:: hardwoods
+supply:: next-month
 
-- wood-density:: 800
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmRb7gVVREdKYUS6JeuyPwCSxypx7G2PWoTRhTAs2Uj3UH)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmYfCzhLymzquQpknjmboeVj83qCpYNWSLB9d8PKP1fbtD)
 - [wiki](https://en.wikipedia.org/wiki/Tamarind)

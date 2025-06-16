@@ -1,5 +1,5 @@
 tags:: species
-alias:: chinese chestnut, thai chestnut, seven sisters fruit
+alias:: seven sisters
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmVgHoVBsH7zVFyYZEiE2AWhEWhKzWG2iZRsTyY7bJ4FB9)
 - [plantsofasia](http://www.plantsofasia.com/index/sterculia_monosperma/0-463)

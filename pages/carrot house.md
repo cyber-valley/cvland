@@ -1,4 +1,4 @@
-tags:: living
+tags:: living, block
 workers:: 1
 users:: 4
 

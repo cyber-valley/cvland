@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: white-headed munia
 
 - voice:: https://ebird.org/species/whhmun1

@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: kelat, spicate eugenia
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmXy1SDFV9AKrtns2bV6NzUQkm6R6xH1XqncNQxHJaCW5W)

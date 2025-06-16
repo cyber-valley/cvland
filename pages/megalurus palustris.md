@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: striated grassbird, striate prinia
 
 - voice:: https://ebird.org/species/strgra1

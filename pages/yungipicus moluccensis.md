@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: sunda pygmy woodpecker
 
 - voice:: https://ebird.org/species/bncwoo2

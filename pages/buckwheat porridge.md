@@ -55,7 +55,7 @@ tags:: kitchen/menu, buckwheat, mains, porridge, gluten-free, boiled, plant-base
 	- mix with [[steamed veggies]] for a full meal
 	- if used as a [[sides]] for [[lunch]] or [[dinner]], keep the version savory without sweet toppings
 - ### 🧭 food pairing
-	- [[herbal tea]], [[salad]], [[avocado sliced]] or mashed
+	- [[herbal tea]], [[salads]], [[avocado sliced]] or mashed
 - ### ♻️ waste use
 	- rinse water: use for compost or garden watering
 - ### 💡 tips

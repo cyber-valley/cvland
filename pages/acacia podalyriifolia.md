@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 
 - nitrogener:: 100
 - ![image](https://gateway.ipfs.cybernode.ai/ipfs/QmSQAeA5LB4Fcq6re92BjWtjptZ2GusPMwK6fC9kEV3P4x)

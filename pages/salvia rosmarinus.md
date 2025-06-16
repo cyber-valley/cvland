@@ -1,19 +1,20 @@
-tags:: species, major
+tags:: species, major, super
 alias:: rosemary
 
-- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmShosAvG1ETXzo729TXsLM6tiuPKBMWr6LE9j9xCRhAgQ)
+- [[staple]] for [[biohacking]]
+- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmShosAvG1ETXzo729TXsLM6tiuPKBMWr6LE9j9xCRhAgQ){:height 483, :width 634}
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZFd6jkjrWtF81j3bAuWkmzfdkBkbWdP9Cu3rXB5RMq2Y)
 - difference with [[lavandula]]
 	- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQaUedL3JErd2VfpbxU1NDhiysNMryRCnY1ndzXrt5Ax8)
 -
 - ### review of the salvia rosmarinus
 - [[salvia rosmarinus]], formerly known as [[rosmarinus officinalis]] and commonly called [[rosemary]], is a [[perennial]], [[woody herb]] native to the mediterranean region. it is widely cultivated for [[culinary]], [[medicinal,]] and [[ornamental]] purposes, and it plays a valuable role in regenerative and [[permaculture]] systems due to its [[drought resistance]] and [[insect-repelling]] properties.
-- [[salvia rosmarinus]] is a hardy, multipurpose plant that supports [[food systems]], [[herbal medicine]], [[insect control]], and [[biodiversity]]. ideal for [[dry climates]] and [[edge plantings]] in [[herb spirals]] or [[orchards]] understories, [[rosemary]] is one of the most useful [[herbs]] in [[sustainable]] design.
+- [[salvia rosmarinus]] is a hardy, multipurpose plant that supports [[food systems]], [[herbal medicine]], [[insect control]], and [[biodiversity]]. ideal for [[dry climates]] and [[edge plantings]] in [[herb spirals]] or [[orchards]] understories, [[rosemary]] is one of the most useful [[herbs]] in sustainable design.
 - **parts of the plant and their uses:**
 	- **root**: the roots are not commonly used in products, but they support the plant in dry, rocky soils and contribute to [[erosion control]] in [[permaculture]] designs.
 	- **stem**: woody stems are sometimes used as [[aromatic skewers]] for grilling or dried for [[fuel]] or [[kindling]]. mature stems can be used in [[crafting]] or [[tools]] handles.
 	- **fruit**: [[rosemary]] produces small nutlet-like [[seeds]], but the fruits are not used commercially.
-	- **leave**: the most [[valuable]] part of the plant. [[rosemary]] [[leaves]] are used fresh or dried for cooking, [[herbal]] [[teas]], [[essential oils]], and [[traditional medicine]]. they contain powerful [[aromatic]] compounds with [[antimicrobial]] and [[anti-inflammatory]] effects.
+	- **leave**: the most [[valuable]] part of the plant. [[rosemary]] [[leaves]] are used fresh or dried for cooking, [[herb]] [[teas]], [[essential oils]], and [[traditional medicine]]. they contain powerful [[aromatic]] compounds with [[antimicrobial]] and [[anti-inflammatory]] effects.
 	- **bark**: the bark is not used specifically, but the woody portions of the stem carry similar [[aromatic]] and [[medicinal]] properties as the rest of the plant.
 	- **flower**: small pale blue to purple flowers are [[edible]] and can be used fresh in [[salads]], as [[garnish]], or [[teas]]. they also [[attract pollinators]].
 - **uses of salvia rosmarinus:**
@@ -24,11 +25,10 @@ alias:: rosemary
 	- **plants/timber**: [[woody]] stems used for [[skewers]], [[crafts]], or as natural [[fire starter]].
 	- **plants/medicine**: used for [[memory enhancement]], [[digestion]], [[joint pain]], [[respiratory issues]], and as an [[antimicrobial]] agent. both [[oil]] and [[tea]] have traditional [[therapeutic]] applications.
 	- **plants/fuel**: dried stems and branches can be used as [[kindling]].
-	- **plants/textile**: not used for fiber or textiles.
 	- **plants/fertilizer**: trimmings and spent plant matter can be [[compost]]ed or used as [[aromatic]] [[mulch]] to [[deter pests]].
 - **data:**
 	- **sun requirements**: [[full sun]], thrives with 6–8 hours of direct [[sunlight]] daily.
-	- **water requirements**: low once established, [[drought-tolerant.]] prefers dry to moderately moist [[soil]].
+	- **water requirements**: low once established, [[drought-tolerant]] prefers dry to moderately moist [[soil]].
 	- **soil ph**: prefers slightly alkaline to neutral soils (ph 6.5 to 7.5).
 	- **plant/roles in [[permaculture]] guilds**: [[rosemary]] is an excellent companion plant. it [[repels]] many pests, including [[cabbage]] [[moths]] and [[mosquitoes]], and [[attracts bees]] and other [[pollinators]] when flowering. it can be planted as a [[border]] around gardens, [[herb]] spirals, or [[orchards]]. it also stabilizes dry, sloped soils and helps [[reduce erosion]]. pairs well with plants that prefer dry, sunny conditions and benefits from minimal competition.
 	- **height in meter**: typically 0.5 to 1.5 meters, occasionally up to 2 meters.

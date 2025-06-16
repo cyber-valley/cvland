@@ -1,5 +1,5 @@
 tags:: species
-alias::  buah kersen segar
+alias::  kersen
 
 - ![Screenshot 2024-05-26 at 07.50.59.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmWqr14yCNGNjPYdsVmAiijztW3jvFCZyGBm5sYtCZ7Xx7)
 - ![Screenshot 2024-05-26 at 07.50.43.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmdrtxXFatJLmucscMZq44kGsxde4oKx9qwLqdiQW6u7ry)

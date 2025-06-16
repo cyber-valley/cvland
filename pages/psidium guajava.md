@@ -1,4 +1,4 @@
-tags:: species, major
+tags:: species, major, super
 alias:: guava, jambu batu
 
 - ![Screenshot 2024-05-17 at 05.54.42.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZsJZdhQpxh8yt24xL8W6xgp67BL1AYR3BcNQ2z8ErEmo)
@@ -46,7 +46,7 @@ alias:: guava, jambu batu
 		- mature:: flowers and fruits in 2–4 years; multiple fruiting cycles per year in tropical zones
 		- death:: gradual decline due to [[fungal]] disease, water [[stress]], or old [[age]]
 	- [[plant/features]]: [[edible fruit]], [[fast-growing]], [[attract pollinators]], [[medicinal]], [[wind-tolerant]]
-	- [[biome/layer]]: [[sub-canopy]], [[canopy]] (in food forests), [[shrub-layer]] (in [[pruning systems]])
+	- [[layer]]: [[sub-canopy]], [[canopy]] (in food forests), [[shrub-layer]] (in [[pruning systems]])
 	- [[products]]: fresh [[fruit]], [[fruit juice]], [[fruit vinegar]], [[leaf tea]], [[leaf extract]], [[bark decoction]], [[timber]], [[dye]], [[firewood]]
 	- [[chemical compounds]]  
 	  | compound              | plant part     | % amount         | description                                                             |

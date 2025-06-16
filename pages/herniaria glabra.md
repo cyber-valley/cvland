@@ -1,4 +1,4 @@
 tags:: species
 
-- [[carpet]] with [[medicine]]
+- [[cover]] with [[medicine]]
 -

@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds, major
 alias:: asian glossy starling
 
 - voice:: https://ebird.org/species/asgsta1

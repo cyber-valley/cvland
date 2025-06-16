@@ -1,5 +1,7 @@
-tags:: species
+tags:: species, major, super
 alias:: sengon
+wood-density:: 350
+wood-durability:: low
+wood-availability:: site
 
-- nitrogener:: 80
-- wood-density:: 350
+- nitrogener:: 120

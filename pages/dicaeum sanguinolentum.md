@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds, major
 alias:: blood-breasted flowerpecker
 
 - voice:: https://ebird.org/species/blbflo1

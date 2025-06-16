@@ -1,5 +1,5 @@
 icon:: 🚧
 
-- {{query (property :tags [[projects]])}}
+- {{query (property :tags [[project]])}}
   query-table:: true
   query-properties:: [:page :tags]

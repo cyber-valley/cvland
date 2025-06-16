@@ -11,7 +11,7 @@ tags:: species, major
 	- roots: deep taproot system, lateral fibrous roots; nodules contain [[nitrogen-fixing]] [[rhizobia bacteria]].
 		- compounds: [[mimosine]], [[tannins]], [[alkaloids]]
 	- leaves: bipinnate with numerous leaflets, feathery texture, rich green color.
-		- compounds: [[mimosine]], [[protein]], [[tannins]], [[flavonoids]]
+		- compounds: [[mimosine]], [[proteins]], [[tannins]], [[flavonoids]]
 	- flowers: globular, creamy-white heads, fragrant, attract pollinators.
 		- compounds: [[flavonoids]], [[tannins]]
 	- fruits (pods): flattened, linear pods; initially green, turn brown when mature, numerous flat, brown glossy seeds.
@@ -46,10 +46,20 @@ tags:: species, major
 		- seedling:: quick initial growth; seedlings reach 1 meter within 3–4 months, vulnerable to browsing animals.
 		- mature:: rapid maturity in 2–3 years; extensive foliage, prolific flowering, and seed production.
 		- death:: gradual decline after 15–20 years, susceptible to pests or fungal diseases; often rejuvenated through coppicing.
-	- [[plant/features]]: [[nitrogen-fixing]], [[fodder-crop]], [[fast-growing]], [[soil-improvement]], [[firewood]]
-	- [[biome/layer]]: [[canopy]], [[sub-canopy]], [[shrub-layer]]
+	- [[plant/features]]: [[nitrogen-fixing]], [[fodder]], [[fast-growing]], [[soil-improvement]], [[firewood]]
+	- [[layer]]: [[canopy]], [[dwarf]], [[shrub]]
 	- [[products]]: [[animal-feed]], [[firewood]], [[[timber]], [[biomass-energy]], [[mulch]], [[green-manure]]
 	- [[chemical compounds]]:
+		- | Compound              | Roots  | Leaves | Flowers | Fruits (Pods & Seeds) | Bark   | Timber | Notes / Uses                                                                             |
+		  |-----------------------|--------|--------|---------|-----------------------|--------|--------|------------------------------------------------------------------------------------------|
+		  | **[[mimosine]]**          | Medium | High   | Low     | High                  | Low    | None   | toxic amino acid; restricts livestock feeding; antimicrobial; herbicidal properties      |
+		  | **[[tannins]]**           | Medium | Medium | Medium  | Medium                | High   | Low    | astringent; antimicrobial; leather tanning; traditional medicine                         |
+		  | **[[alkaloids]]**         | Low    | Low    | Trace   | Medium                | Medium | None   | potential toxicity at higher amounts; limited traditional medicinal uses                 |
+		  | *[[flavonoids]]**        | Trace  | Medium | High    | Low                   | Low    | None   | antioxidant, anti-inflammatory properties; beneficial medicinally                        |
+		  | **[[proteins]]**           | Low    | High   | Low     | Medium                | None   | None   | nutrient-rich fodder after detoxification; high-value livestock feed                     |
+		  | **fiber (Cellulose)** | Medium | Low    | None    | High                  | High   | High   | structural fiber for biomass energy, paper pulp, mulch production                        |
+		  | **[[lignin]]**            | Medium | Low    | None    | Medium                | High   | High   | structural polymer; enhances fuelwood and timber durability; biomass resource            |
+		  | **[[hemicellulose]]**     | Medium | Low    | None    | Medium                | High   | High   | structural; utilized in bioenergy production, paper and construction material industries |
 		- | compound              | roots  | leaves | flowers | fruits (pods & seeds) | bark   | timber | notes / uses                                                                             |
 		  |-----------------------|--------|--------|---------|-----------------------|--------|--------|--------------------------------------------------------------------------------|
 		  | [[mimosine]]          | medium | high   | low     | high                  | low    | none   | toxic amino acid; restricts livestock feeding; antimicrobial; herbicidal properties      |

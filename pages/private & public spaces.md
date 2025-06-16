@@ -5,7 +5,7 @@
 - [[vitalik]]
 - [[soft]]
 - [[elons]]
-- [[permabase]]
+- [[perma]]
 - [[terrabyte]]
 - [[organiq]]
 - [[etherlandia]]

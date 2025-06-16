@@ -1,4 +1,4 @@
-tags:: genus, collectable, major
+tags:: genus, collectable
 
 - selected for [[edem]]
 	- {{embed [[psidium guajava]]}}

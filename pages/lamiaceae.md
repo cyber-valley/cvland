@@ -6,4 +6,5 @@ alias:: mints
 - [[salvia]]
 - [[thyme]]
 - [[lavandula]]
+- [[tectona]]
 - and more ...

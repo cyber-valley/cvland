@@ -2,7 +2,7 @@ alias:: roselle
 tags:: species
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmeCFx9a4RHz81djR62ytQNAcWkrCSG3CB2DfB8oj2KTPj)
-- [[salad]]: [[leave]] is amazing
+- [[salads]]: [[leave]] is amazing
 - products
 	- [[leave]]
 - [document](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQVv2k6Zz79NQXKem19cnJUe8AqKVUAP7fsMme6jEZCTh)
@@ -18,3 +18,4 @@ tags:: species
   
   **cultivation**
 - roselle thrives in warm, humid climates typical of tropical and subtropical regions. It requires well-drained soil and full sun for optimal growth. The plant is relatively easy to grow in suitable climates and can be harvested about six months after planting.
+- [[biohacking]]

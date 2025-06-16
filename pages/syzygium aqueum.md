@@ -1,5 +1,5 @@
-tags:: species, major
-alias:: water apple, water cherry, watery rose apple, jambu air
+tags:: species
+alias:: water apple
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmdfzFigpXyhurgyFHvtZKyAYXypH8XSXKWuayKpYLeNq2){:height 338, :width 558}
 	-

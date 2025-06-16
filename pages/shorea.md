@@ -1,6 +1,6 @@
 tags:: genus, research
 alias:: meranti
-scalable:: true
+availability:: high
 
 - up to 100 meter height
 - https://www.tokopedia.com/saungbibitbt/bibit-pohon-meranti-shorea-sp?extParam=ivf%3Dfalse%26src%3Dsearch&refined=true
@@ -9,7 +9,7 @@ scalable:: true
 - [[shorea leprosula]]
 - [[shorea laevis]]
 - [[shorea curtisii]]
--
+- [[shorea guiso]]
 - [[shorea terlaris]]
 - [[shorea robusta]]
 -

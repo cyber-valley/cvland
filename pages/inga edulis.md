@@ -1,5 +1,5 @@
-tags:: species, major
-alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil, inga edilus
+tags:: species, genus major, super
+alias:: inga, snowfruit, inga edilus
 
 - availability:: cv
 - nitrogener:: 250
@@ -50,12 +50,12 @@ alias:: snowfruit, ice-cream bean, joaquiniquil, cuaniquil, inga edilus
 		- mature:: begins fruiting in 3–5 years, continues annually with high productivity under good care
 		- death:: declines with water stress or [[fungal]] root issues, usually managed as part of successional systems
 	- [[plant/features]]: [[nitrogen-fixers]], [[edible fruit]], [[shade]] tree, [[pollinator]]-friendly, [[soil improver]]
-	- [[biome/layer]]: [[canopy]], [[sub-canopy]], [[successional]]
+	- [[layer]]: [[canopy]], [[sub-canopy]], [[successional]]
 	- [[products]]: fresh [[fruit pulp]], [[seed flour]], [[shade mulch]], [[firewood]], [[green-manure]], [[fodder]], [[pollinator nectar]]
 	- [[chemical compounds]]  
 	  | compound             | plant part     | % amount         | description                                                              |
 	  |----------------------|----------------|------------------|--------------------------------------------------------------------------|
-	  | [[protein]]              | seed           | ~18–22%          | nutritional source, high in [[amino acids]], usable as [[feed]] or [[flour]]         |
+	  | [[proteins]]              | seed           | ~18–22%          | nutritional source, high in [[amino acids]], usable as [[feed]] or [[flour]]         |
 	  | [[carbohydrates]]        | [[fruit pulp]]     | ~12–18%          | sweet edible portion, mostly [[sugars]] and [[fiber]]                            |
 	  | [[flavonoids]]           | leaf, bark     | ~0.2–0.5%        | [[antioxidant]], supports [[plant defense]] and [[medicinal]] applications           |
 	  | [[saponins]]             | leaf, seed     | ~0.3–0.7%        | foam-forming compounds with [[antimicrobial]] activity                       |

@@ -1,11 +1,14 @@
-tags:: species, major
+tags:: species, major, super
 alias:: ceylon spinach, waterleaf, cariru, gbure
 
+- [[staple]]
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmaLL3a3keWYizb9haTeogeV14a9CGjk7fESbU5UPFzkMh)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmSNGFxVY3pmHKRhQZYRBtMzRjX1KtexWsR4TZjryvvS8o)
 - [wiki](https://en.wikipedia.org/wiki/Talinum_fruticosum)
 - products
 	- [[leave]]
+- [[salads]]: [[leave]] and [[stem]]
+- [how to distinguish](https://nwwildflowers.com/compare/?t=Talinum+paniculatum,+Talinum+fruticosum)
 - [[salad]]: [[leave]] and [[stem]]
 - [[plants/food]] : talinum fruticosum is a perennial, succulent, herbaceous shrub characterized by erect, smooth, fleshy stems, glossy green elliptic to spatulate leaves, small star-shaped pink flowers in loose cymes, and small round capsules containing shiny black seeds.
 - ## properties:
@@ -44,7 +47,7 @@ alias:: ceylon spinach, waterleaf, cariru, gbure
 	- mature: matures within 60–80 days, continuously producing edible leaves, flowers, and seeds regularly
 	- death: plant typically declines and dies after 3–4 years or earlier if exposed to prolonged cold or drought
 - [[plant/features]]: edible leaves, drought-tolerant, fast-growing, high nutritional value, succulent
-	- [[biome/layer]]: herbaceous layer, shrub layer, [[understory]]
+	- [[layer]]: herbaceous layer, shrub layer, [[understory]]
 	- [[products]]: [[salad]], [[medicinal]] extracts, [[ornamental]] flowers, [[seeds]]
 - ## chemical compounds
 	- | compound   | plant part | amount (approx.)                | notes                                             |
@@ -70,5 +73,3 @@ alias:: ceylon spinach, waterleaf, cariru, gbure
 		- **propagation**: propagated easily by seed or stem cuttings, stem cuttings root readily in moist soil or water within 7–10 days
 		- **maintenance**: minimal maintenance; regular watering during dry periods, occasional fertilization with organic compost improves leaf yield
 		- **harvest**: leaves harvested regularly once plants mature, ideally picking younger leaves for culinary uses and medicinal extracts, flowers harvested occasionally for ornamental purposes or extracts
--
--

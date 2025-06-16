@@ -1,10 +1,10 @@
-tags:: species
+tags:: species, major
 alias:: fameflower, jewels-of-opar
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmY78iNwt1QHjrTNxNimphV6v59CcoRL6b8D2MTs9pkSQY)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmXvCqv7LfM7Dtazh8YhL9agQWYV72bB34vx9erk6m81dy)
 - [wiki](https://en.wikipedia.org/wiki/Talinum_paniculatum)
-- [[salad]]: [[leave]] and [[stem]]
+- [[salads]]: [[leave]] and [[stem]]
 - products
 	- [[leave]]
 - [[plants/food]] : talinum paniculatum is a perennial, erect succulent herbaceous plant with smooth, fleshy branching stems, glossy succulent elliptic leaves, small pink star-shaped flowers in loose panicles, and round capsules containing tiny black seeds.
@@ -50,7 +50,7 @@ alias:: fameflower, jewels-of-opar
 		- mature: plants mature and produce flowers within 60–90 days, continually yielding edible leaves and seeds throughout growing season
 		- death: gradually declines after 3–4 years or earlier under unfavorable conditions such as frost or prolonged drought
 	- [[plant/features]]: salad, ornamental flowers, succulent, drought tolerant, fast-growing, medicinal
-	- [[biome/layer]]: herbaceous layer, understory, shrub layer
+	- [[layer]]: herbaceous layer, understory, shrub layer
 	- [[products]]: salad, ornamental flowers, medicinal extracts, seeds
 	- ## chemical compounds
 		- | compound name                           | plant part | class              | reported activity                                  |

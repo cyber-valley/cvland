@@ -1,6 +1,7 @@
-tags:: species
+tags:: species, major
 alias:: china rose, hawaiian hibiscus
 
+- supply:: next-month
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQtjNEhWwZ2QfqfjSpSA6xd3P9GnqyLxTXRZLQEy2c5we)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmStAijaHaerZdScEDNykE5mEDsgnKqTGVdjU3PkN1W8cw)
 - [info](http://www.plantsofasia.com/index/hibiscus_rosa_sinensis/0-647)

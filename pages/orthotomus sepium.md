@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds, major
 alias:: olive-backed tailorbird
 
 - voice:: https://ebird.org/species/olbtai1

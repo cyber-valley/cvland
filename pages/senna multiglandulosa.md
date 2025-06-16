@@ -1,5 +1,4 @@
 tags:: species
-alias:: glandular senna, downy senna, buttercup bush
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZEvhWBu7WKKfaWa7kUt2ZFteyGEScGCvjE4z4vqkx2mD)
 - height: up to 4m

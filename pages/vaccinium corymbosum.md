@@ -1,5 +1,5 @@
 alias:: blueberry
-tags:: species
+tags:: species, unavailable
 
 - [[high margin]] [[berry]]
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmeY5uzzdZ7wVHxjWCyyHqwSfHE7st96oK2gK9Mnbu3SdN){:height 333, :width 408}

@@ -1,4 +1,4 @@
 tags:: genus
 
 - selected for [[edem]]
-	- {{embed [[triphasia trifoila]]}}
+	- {{embed [[triphasia trifolia]]}}

@@ -10,8 +10,8 @@ type:: sector
 - [[juniperus virginiana]]
 - [[juniperus virginiana]]
 - [[prunus domestica]]
-- TODO [[syzygium samarangence]]
-- TODO [[syzygium samarangence]] jamaica
+- TODO [[syzygium samarangense]]
+- TODO [[syzygium samarangense]] jamaica
 - TODO [[eugenia uniflora]]
 - TODO [[pyrus communis]]
 - [[ficus carica]]
@@ -19,7 +19,7 @@ type:: sector
 - TODO [[mangifera indica]] miazaki
 - [[persea americana]] markus
 - [[calliandra angustifolia]]
-- TODO [[prunus amygdalus]]
+- TODO [[prunus dulcis]]
 - [[melaleuca viminalis]]
 - [[persea americana]] miki
 - [[mangifera indica]] irwin

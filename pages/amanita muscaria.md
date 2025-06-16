@@ -1,5 +1,5 @@
-tags:: species, fungi, psycho, research
-alias:: sacred muchrom
+tags:: species, fungi, psycho, research, genus
+alias:: amanita
 
 - compounds
 	- [[muscimol]]

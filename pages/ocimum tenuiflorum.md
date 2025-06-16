@@ -5,4 +5,5 @@ tags:: species
 - sacred plant for hindus
 - food
 - medicinal
+- [[biohacking]]
 - {{video https://www.youtube.com/watch?v=qA2ZT4w2qUI}}

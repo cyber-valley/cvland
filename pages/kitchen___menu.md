@@ -1,5 +1,4 @@
 ## 🕐  meal schedule (UTC)
-*we prepare food by this time*
 	- breakfast: 1:00 UTC
 	- lunch: 4:00 UTC
 	- dinner: 9:00 UTC
@@ -10,7 +9,7 @@
 - ### breakfast
 	- [[omelet with cheese]] / [[hard boiled eggs]]
 	- [[avocado sliced]] or mashed
-	- fresh [[salad]]
+	- fresh [[salads]]
 	- [[buckwheat porridge]]
 - ### lunch
 	- [[soup with meat]] / [[baked chayote]]
@@ -34,3 +33,6 @@
 	- [[cold brew]]
 	- [[fruit water]]
 	- [[coconut water]]
+- [[salads]] with [[edible flowers]]
+- [[spices]]
+-

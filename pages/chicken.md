@@ -6,4 +6,4 @@
 - features
 	- [[soil aeration]]
 	- [[manure spread]]
-- analysis of [[chickens]] breed
+- analysis of [[gallus gallus domesticus]] breed

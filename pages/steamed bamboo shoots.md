@@ -1,4 +1,4 @@
-tags:: kitchen/menu, bamboo shoots, vegetables, sides, steamed, plant-based
+tags:: kitchen/menu, sides, steam, bamboo
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeidkex5qzkyils24uggelozmtmjykgo5nf7lw6ygo32k73ipbd3sru)
 - ### 🧾 🎋 steamed bamboo shoots
@@ -42,11 +42,11 @@ tags:: kitchen/menu, bamboo shoots, vegetables, sides, steamed, plant-based
 	- carbohydrates: ~5 g
 - ### 🧪 variations & substitutions
 	- season with [[sesame oil]] and [[sesame seeds]] for an asian-style flavor
-	- mix steamed bamboo shoots with fresh greens for a [[salad]]
+	- mix steamed bamboo shoots with fresh greens for a [[salads]]
 	- stir-fry lightly with [[ghee]] or [[coconut oil]] for a warm side dish
 - ### 🧭 food pairing
 	- [[steamed veggies]]
-	- [[salad]]
+	- [[salads]]
 	- [[stewed duck]]
 - ### ♻️ waste use
 	- bamboo peel: [[compost]] (only the tender parts)

@@ -1,4 +1,4 @@
 tags:: species, major
 alias:: gandola
 
-- [[salad]]: amazing source
+- [[salads]]: amazing source

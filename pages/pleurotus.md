@@ -1,5 +1,5 @@
-tags:: genus, fungi, research
+tags:: genus
 alias:: oyster
-scalable:: true
 
+- [[pleurotus djamor]]
 -

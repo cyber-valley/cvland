@@ -1,5 +1,8 @@
 tags:: genus
-scalable:: true
+alias:: naga, pitaya, dragon fruit
 
 - selected for [[edem]]
 	- {{embed [[selenicereus undatus]]}}
+	- [[selenicereus costaricensis]]
+	- [[selenicereus monacanthus]]
+	- [[selenicereus megalanthus]]

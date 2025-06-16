@@ -8,8 +8,12 @@ scalable:: true
 	- {{embed [[ficus carica]]}}
 	- {{embed [[ficus elastica]]}}
 	- {{embed [[ficus microcarpa]]}}
-- backlog
+	- [[ficus tinctoria]]
+	- [[ficus congesta]]
+	- [[ficus]]
 	- [[ficus benghalensis]]
+	- [[ficus racemosa]]
+- backlog
 	- [[ficus religiosa]]
 	- [[ficus pumila]]
 - research
@@ -19,7 +23,6 @@ scalable:: true
 	- [[ficus septica]]
 	- [[ficus variegata]]
 	- [[ficus hispida]]
-	- [[ficus racemosa]]
 	- [[ficus drupacea]]
 	- [[ficus virens]]
 	- [[ficus auriculata]]

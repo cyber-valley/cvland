@@ -1,5 +1,5 @@
 alias:: krasi, lantana
-tags:: species, major
+tags:: species, major, genus
 
 - ![Lantana Camara Flower Seeds,Rare Perennial Herb Gorgeous Bonsai Suitable  Tree 25 Seeds Eco Pack. : Amazon.in: Garden & Outdoors](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmXXFLtXv6Mqavb9YfUFKupsekCRC4XQmVV59EqvoB4khr)
 - ![ecology and use of lantana india](../assets/ecology_and_use_of_lantana_india_1698063055711_0.pdf)

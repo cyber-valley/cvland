@@ -1,5 +1,5 @@
 tags:: species
-alias:: cuban pink trumpet tree, white cedar
+alias:: white cedar
 
 - availability:: hanara
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmeePHWnUcFmQ9CpLddViCMwSUoDY4KVGTicbEiXioRz3S)

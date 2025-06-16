@@ -1,5 +1,5 @@
 tags:: species
-alias:: burahol, kepel, kepel apple, kepel fruit, keppel fruit
+alias:: burahol, kepel
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qmf3XMogRSWuFBRWR6yqw2xjTfpbueKWkmPTMhf4jDkNQ8)
 - [plantsofasia](http://www.plantsofasia.com/index/stelechocarpus_burahol/0-1043)

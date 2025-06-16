@@ -1,5 +1,5 @@
 tags:: species
-alias:: brazilian firetree, brazilian fern tree
+alias:: brazilian firetree
 
 - nitrogener:: 10
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQW943DxtuqbXwgo7Dtrsd7wCvPGR32wxnW5bFMm97tJs)

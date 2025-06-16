@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, major
 
 - [[conifer]]
 - selected for [[edem]]

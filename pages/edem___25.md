@@ -5,7 +5,7 @@ type:: sector
 	- [[edem/26]]
 - [[durio zibethinus]] super tembaga
 - [[dysoxylum densiflorum]]
-- TODO [[elaeocarpus angustifolius]]
+- [[elaeocarpus angustifolius]]
 - [[citrus sinensis]]
 - TODO [[chrysophyllum cainito]]
 - [[litchi chinensis]]

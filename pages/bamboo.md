@@ -1,1 +1,6 @@
-- [[phyllostachys edulis]]
+tags:: super
+
+- [[phyllostachys]]
+- [[gigantochloa]]
+- [[bambusa]]
+-

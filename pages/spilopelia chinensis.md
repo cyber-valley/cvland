@@ -1,3 +1,4 @@
+tags:: species, birds
 alias:: spotted dove
 
 - voice:: https://ebird.org/species/spodov

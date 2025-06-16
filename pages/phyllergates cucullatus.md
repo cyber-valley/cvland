@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: mountain tailorbird
 
 - voice:: https://ebird.org/species/moutai2

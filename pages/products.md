@@ -1,4 +1,4 @@
-tags:: class
+tags:: term
 
 - every life form serve a purpose
 - classifier of products produced by [[plants]], [[animals]] and [[fungi]]
@@ -9,16 +9,16 @@ tags:: class
 	- [[diversity]]: if the sole purpose of life form is to support genetic diversity
 - staple [[food]] and [[fodder]]
 	- [[oil]]: the most energy dense product
-	- [[carb]]: carbs dense product
-	- [[protein]]: protein rich product
+	- [[carbs]]: carbs dense product
+	- [[proteins]]: protein rich product
 - wellness
-	- [[health]]: can be eaten for preventing illness and supporting essential body functions
+	- [[health]]: can be eaten for preventing illness and improving essential body functions
 	- [[cosmetics]]: can be applied externally for skin, hair and body care
 	- [[medicine]]: deals with treatment in case of trauma or acute conditions
 	- [[psycho]]: have psychoactive effects
 	- [[flower]]: beautiful flowers for [[floristics]]
 	- [[aroma]]: for olfactory pleasure and for [[essential oil]] extraction
-	- [[indoor]]: plants typical used indoor for aesthetics and air purification
+	- [[indoor]]: plants for aesthetics and air purification
 - [[food]] by types
 	- [[drink]]: can produce [[juice]], [[tea]], [[sap]] or [[milk]]
 	- [[meat]]: can produce meaty structure
@@ -28,7 +28,7 @@ tags:: class
 	- [[stew]]: can be eaten cooked
 	- [[flour]]: may be ground for cooking needs
 	- [[fruit]]: fleshy and sweet products including berries
-	- [[veg]]: fleshy and sour products
+	- [[vegetable]]: fleshy and sour products
 	- [[grains]]: small nutrient dense food
 	- [[nuts]]: bigger nutrient dense food
 	- [[spice]]: produce unque taste
@@ -42,7 +42,7 @@ tags:: class
 	- [[resin]]: natural adhesive and protective material for industrial apps
 	- [[pulp]]: raw material for paper, packaging, and bio-composites
 	- [[textile]]: plant or animal-derived fibers for wearing, fabric, and industrial textiles
-	- [[chemical]]: pharmaceuticals, solvents, and industrial processes
+	- [[chemical]]: solvents, and industrial processes
 	- [[metal]]: extracted through phytomining by metal-accumulating plants
 	- [[dye]]: natural source for sustainable colorants
 	- [[landscape]]: landscape design and aesthetics

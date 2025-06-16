@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, unavailable
 alias:: pistachio
 
 - ![Screenshot 2024-05-21 at 05.19.49.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmYm4iu8sG3KMy9gojNER41eDGPMsWYpH1DCoBtwH4zXPa)

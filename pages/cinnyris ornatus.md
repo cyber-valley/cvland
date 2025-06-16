@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds, major
 alias:: ornate sunbird
 
 - voice:: https://ebird.org/species/olbsun4

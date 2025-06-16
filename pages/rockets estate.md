@@ -12,7 +12,7 @@
 	- [[monastery]]: playground for kids
 	- [[elons]]: life support
 	- [[soft]]: scene for 42 persons
-	- [[permabase]]: processing facility of [[plants]], [[animals]] and [[fungi]]
+	- [[perma]]: processing facility of [[plants]], [[animals]] and [[fungi]]
 	- TODO [[gym]]: place for sports
 	- TODO [[changing room]]: showers with lockers
 	- TODO [[terrabyte]]: resto with coworking
@@ -20,7 +20,7 @@
 - areas
 	- [[edem]]: experimental high labor [[magic forest]] on 30 ares
 	- [[etherland]]: 2 ha of community driven chaotic development
-	- [[permabase]]: 2 ha [[coffea arabica]] plantation with [[avocado]], [[banana]] and [[bamboo]]
+	- [[perma]]: 2 ha [[coffea arabica]] plantation with [[avocado]], [[banana]] and [[bamboo]]
 	- [[sinwood]]: 4 ha with thousands of [[albizia chinensis]] trees
 - [[residential buildings]]
 	- [[carrot house]]

@@ -1,8 +1,8 @@
-tags:: genus
+tags:: genus, collectable
 scalable:: true
 
 - {{embed [[prunus domestica]]}}
-- {{embed [[prunus amygdalus]]}}
+- {{embed [[prunus dulcis]]}}
 - {{embed [[prunus persica]]}}
 - {{embed [[prunus armeniaca]]}}
 - {{embed [[prunus avium]]}}

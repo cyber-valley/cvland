@@ -1,5 +1,5 @@
 tags:: species
-alias:: ceodes umbellifera, birdlime tree, bird catcher tree
+alias:: birdlime tree
 
 - ![Screenshot 2024-05-21 at 05.52.33.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qmc5CYEetK8XFwTnGXNXKnAcM6UEueoGPDinFR7VBqE22S)
 - ![Screenshot 2024-05-21 at 05.52.40.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmWhqrp3MJwzzypSaphXiZmfaCMMWRbXuYTheR7dXe5qkT)

@@ -1,5 +1,5 @@
 tags:: species
-alias:: pulasan, kapulasan
+alias:: pulasan
 
 - ![Screenshot 2024-05-25 at 14.46.50.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmSPZQQPkRd3D14v6HkAiChqtmLd6nPQgp8QxjjWkBR71M)
 - ![Screenshot 2024-05-25 at 14.47.03.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmQxsw4ZsH4GcvWJZcnWQxha4qh4tbmxqtm6dUHXoJb1fG)

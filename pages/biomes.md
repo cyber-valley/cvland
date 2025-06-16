@@ -1,0 +1,8 @@
+- list of biomes in [[rocket family estate]]
+	- huge [[sinwood]] biome
+	- pure [[jurasic]] zone
+	- irrational [[coconut]] biome in [[edem]]
+	- TODO high margin [[rhizome]] biome in [[sinwood]]
+	- TODO [[wildness pioneers]] in [[etherland]]
+	- [[taman warisan]] biome in [[perma]] and [[asgard]]
+	- [[mantanoa]] biome

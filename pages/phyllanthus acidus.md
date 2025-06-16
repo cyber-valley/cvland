@@ -1,5 +1,5 @@
-tags:: species
-alias:: gooseberry tree, ceremai
+tags:: species, major
+alias:: ceremai
 
 - ![Screenshot 2024-05-23 at 07.45.51.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmaN1diCsvyFsGks42Y6i1tx9SXoz5oiEQ7Mf8HgabmyH1)
 - ![Screenshot 2024-05-23 at 07.46.35.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmYNPXE3uNEpFRoVycKngKzzETJYeAg2crJRFSKxHgvEWb)

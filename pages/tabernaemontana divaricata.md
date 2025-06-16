@@ -1,5 +1,6 @@
 tags:: species
-alias:: crape jasmine, ceylon jasmine
+alias:: mondokaki
+supply:: tokopedia
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmdRLLR4GqRnhVY2T2p4rMmQT3ErZYi2XLLX7YgsPKq9zJ)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmfMtTHei5DG3g5mbTzdrGsM1u83AQY5FwhnEB3WGwpDTe)

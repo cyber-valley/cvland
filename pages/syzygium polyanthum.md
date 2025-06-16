@@ -1,4 +1,5 @@
-tags:: species
+tags:: species, major
+
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmVqpBEGnjXQHg2XCnaRS6LVpVRabRx4S8kRsnmnKx6EXF)
 - height: up to 25m
 - [plantsofasia](http://www.plantsofasia.com/index/syzygium_polyanthum/0-737)

@@ -2,4 +2,4 @@ alias:: coneflower
 tags:: species
 
 - enhances immune function
-- [[high margin]]
+- [[high margin]] [[biohacking]]

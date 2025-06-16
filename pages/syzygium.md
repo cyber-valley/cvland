@@ -1,4 +1,4 @@
-tags:: genus, major, collectable
+tags:: genus, collectable
 
 - selected for [[edem]]
 	- [[syzygium cumini]]
@@ -10,3 +10,5 @@ tags:: genus, major, collectable
 	- [[syzygium oleosum]]
 	- [[syzygium malaccense]]
 	- [[syzygium polyanthum]]
+- native to [[batuka]]
+	- [[syzygium zeylanicum]]

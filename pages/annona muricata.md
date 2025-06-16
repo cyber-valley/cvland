@@ -1,5 +1,5 @@
 alias:: soursup, soursop, sersak
-tags:: species
+tags:: species, major
 
 - availability:: cv
 - ![image](https://ipfs.io/ipfs/QmRWZ93SQGBHYGL82E9r2HFFu4nDcUmr6tSEBXPnxd9w1G)

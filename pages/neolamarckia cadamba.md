@@ -1,7 +1,9 @@
 tags:: species, major
-alias:: jabon, laran, kadam
+alias:: jabon, kadamba
+wood-density:: 280
+wood-durability:: low
+wood-availability:: high
 
-- wood-density:: 280
 - ![Screenshot 2024-05-26 at 01.24.37.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmaW39QGirGFwReZnk5Sd8K1PHKLTKhzfdGF6VzQ6WgQb7)
 - ![Screenshot 2024-05-26 at 01.24.51.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qmce7FAddUFVrTE3Y8G77cTwbfS6RYJhGJqJ9Kjq9HytoA)
 - ![Screenshot 2024-05-26 at 01.25.04.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qmav7K4PKfgyeLZaew3saom44UZPPhwsCVxmHmrAPiQHMd)

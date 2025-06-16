@@ -1,5 +1,5 @@
 tags:: species
-alias:: asam gelugur, asam gelugo, asam keping
+alias:: gelugor, asam gelugur, asam gelugo
 
 - ![Screenshot 2024-05-17 at 03.55.48.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmbcfvgtZeR7CFwcbnRvmrZ9orGYn9PfWfHbuwePzeHccB)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmYFC6ucGAKrBbdixKwK4frQG8JZ4SP99L5a6FMkbRwE7J)

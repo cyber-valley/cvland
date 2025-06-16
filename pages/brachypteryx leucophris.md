@@ -1,4 +1,4 @@
-tags:: birds
+tags:: species, birds
 alias:: lesser shortwing
 
 - voice:: https://ebird.org/species/lessho1

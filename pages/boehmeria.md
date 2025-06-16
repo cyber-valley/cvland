@@ -1,4 +1,4 @@
 tags:: genus
 scalable:: true
 
-- {{embed [[boehmeria nevea]]}}
+- {{embed [[boehmeria nivea]]}}

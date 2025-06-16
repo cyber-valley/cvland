@@ -1,5 +1,5 @@
 alias:: markiza, passion fruit
-tags:: genus
+tags:: genus, collectable
 scalable:: true
 
 - selected for [[edem]]
@@ -8,3 +8,4 @@ scalable:: true
 	- {{embed [[passiflora quadrangularis]]}}
 	- {{embed [[passiflora alata]]}}
 	- {{embed [[passiflora ligularis]]}}
+- [[biohacking]]

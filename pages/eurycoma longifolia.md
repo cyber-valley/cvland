@@ -1,4 +1,5 @@
-tags:: species, research
+tags:: species, major, research
 alias:: tongkat ali, pasak bumi
 
-- state:: supply
+- supply:: next-year
+-

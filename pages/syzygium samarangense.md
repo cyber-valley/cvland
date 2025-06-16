@@ -1,5 +1,5 @@
 tags:: species
-alias:: cloud apple, jambu semarang
+alias:: wax apple, jambu air, jambu semarang
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmP4J5hUxqStWxQa1EMycX2mzuACL64ugkdLpKAuStCixA)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmRXYepxCbYiQe2GygUuLF3s4MNnQZUmPZ9yJFZVm7phCR)

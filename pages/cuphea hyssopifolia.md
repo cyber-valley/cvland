@@ -1,4 +1,4 @@
 tags:: species
 
-- [[carpet]]
+- [[cover]]
 - [[diversity]]

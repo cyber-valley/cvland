@@ -3,47 +3,75 @@ type:: sector
 - connected to [[edem/sectors]]
 	- [[edem/01]]
 	- [[edem/03]]
-- [[wall]]
+- [[wall]] east fern
 	- [[debregeasia longifolia]]
 	- [[senna septemtrionalis]]
-- [[guilds]]
-	- [[morus nigra]]
+	- [[pteris vittata]]
+	- [[macrothelypteris torresiana]]
+	- [[pteris biaurita]]
+	- [[microlepia strigosa]]
+	- [[cymbopogon citratus]]:
+	- [[eupatorium capillifolium]]
+	- [[calliandra calothyrsus]]
+	- [[lantana camara]]
+	- [[stachytarpheta urticifolia]]
+	- [[trema orientalis]]
+	- [[inga edulis]]
+- [[wall]] west fern
+	- [[pitorogramma calomenalos]]
+	- [[glaphyropteridopsis erubescens]]
+	- [[cyathea arborea]]
+	- [[sphaeropteris medullaris]]
+	- [[christella dentata]]
+	- [[diplazium esculentum]]
+- [[bed]] cozy adenium
 	- [[bergera koenigii]]
-	- [[cinnamomum verum]]
-	- [[citrus hystrix]]
-	- [[nopalea cochenillifera]]
 	- [[diospyros nigra]]
 	  collapsed:: true
 		- [[symphytum officinale]]
 	- [[adenium obesum]]: 4
-	- [[dimocarpus longan]]
+	- [[crassula ovata]]
+	- [[capsicum annuum]]
+- [[bed]] breezy talinum
+	- [[talinum paniculatum]]
+	- [[synsepalum dulcificum]]
+	- [[inga edulis]]
+	  collapsed:: true
+		- DONE [[lycium barbarum]]
+		- [[colocasia esculenta]]
+- [[bed]] cozy talinum
+	- [[talinum fruticosum]]
 	- [[plinia cauliflora]]
 	  collapsed:: true
 		- [[symphytum officinale]]
 		- [[salvia leucantha]]
 		- [[salvia rosmarinus]]
-	- [[synsepalum dulcificum]]
+	- [[sapindus mukorossi]]: 5
 	- [[artocarpus heterophyllus]]
 	  collapsed:: true
 		- [[symphytum officinale]]
-	- [[inga edulis]]
-		- [[lycium barbarum]]
-		- [[colocasia esculenta]]
 	- [[punica granatum]] red
 	  collapsed:: true
 		- [[calliandra calothyrsus]]
-- [[beds]]
-	- [[pteris vittata]]
-	- [[macrothelypteris torresiana]]
-	- [[pteris biaurita]]
-	- [[microlepia strigosa]]
-	- [[pitorogramma calomenalos]]
-	- [[sphaeropteris medullaris]]
-	- [[christella dentata]]
-	- [[diplazium esculentum]]
-	- [[capsicum annuum]]
-	- [[lavandula angustifolia]]
-	- [[euphorbia lactea]]
-	- [[salvia leucantha]]
-	- [[dracaena angolensis]]
-	- [[talinum paniculatum]]
+- [[bed]] breezy cactus
+	- [[cover]]
+	- [[crown]]
+		- [[nopalea cochenillifera]]:
+		- [[euphorbia lactea]]
+		- [[dracaena angolensis]]
+		- ?
+	- [[guards]]
+		- [[lavandula angustifolia]]: 3
+		- [[salvia leucantha]]: 2
+		- [[salvia officinalis]]: 1
+	- [[morus nigra]] [[guild]]
+	- [[cinnamomum verum]] [[guild]]
+	- [[citrus hystrix]] [[guild]]
+	- [[trichanthera gigantea]] [[guild]]
+	- [[dimocarpus longan]] [[guild]]
+	- [[melastoma malabathricum]] [[guild]]
+- [[trail]]
+	-
+	-
+	-
+	-

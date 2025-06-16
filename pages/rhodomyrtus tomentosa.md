@@ -1,5 +1,5 @@
 tags:: species
-alias:: downy myrtle, hill guava, rose myrtle, kemunting
+alias:: kemunting
 
 - ![Screenshot 2024-05-17 at 03.25.52.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmTvavfVJ7WbSihxz3tE94ykrivZmbpYF1RPJJFu2UDYnS)
 - height: up to 4m

@@ -1,5 +1,5 @@
 tags:: species
-alias:: coastal premna, headache tree, buas-buas
+alias:: headache tree, buas-buas
 
 - ![Screenshot 2024-05-17 at 07.45.59.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZ5dkucuGC1DMj6qoiCY4sC3ZS5UGnGfU46GNp9xxnAZd)
 - height: up to 8m

@@ -53,7 +53,7 @@ tags:: kitchen/menu, poultry, cheese, mains, baked
 - ### 🧭 food pairing
 	- [[steamed veggies]]
 	- baked [[sweet potato]]
-	- [[salad]]
+	- [[salads]]
 	- [[fruit water]]
 	- [[tea]]
 - ### ♻️ waste use

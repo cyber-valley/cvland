@@ -46,13 +46,13 @@ tags:: kitchen/menu, cheese, flax, snacks, baked, low-carb, gluten-free
 	- fat: ~32 g
 	- carbohydrates: ~4–5 g
 - ### 🧪 variations & substitutions
-	- mix in dried herbs like [[oregano]], [[thyme,]] or [[basil]] for extra flavor
+	- mix in dried herbs like [[oregano]], [[thyme]] or [[basil]] for extra flavor
 	- sprinkle with [[black pepper]] or [[cumin]] before baking
 	- use [[edam]], [[gouda]], or [[goat cheese]] instead of mozzarella
 	- make a simple version with just flax seeds and water (no cheese) for a fully plant-based cracker
 - ### 🧭 food pairing
 	- fresh vegetable sticks
-	- [[salad]]
+	- [[salads]]
 - ### ♻️ waste use
 	- flaxseed hulls (if any): [[chicken feed]]
 - ### 💡 tips

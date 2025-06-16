@@ -1,5 +1,5 @@
 alias:: pepper
-tags:: species
+tags:: species, super
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmbDu6WE4VYoSZGfTN7vkvDVpwy7t6uoQLD2uNamj7wv7k)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmPT7g4XAMTqXh3mSUhYVAe6JcR5jUrG3X36ETBqAVMJqz)
@@ -7,4 +7,4 @@ tags:: species
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmUw1ctxCdLLBZrgMjAGtQXugiQHGDL5CDSb82wUV6HRjQ)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmabDJYFd3i45rSaJGaSKfETPYdvtRwcgtTkYtZsUNPSX1)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmcnvLWtwRFZ8j8TA6ku7e8bUtguec78k9ksd2KaBNnmRh)
-- [[high margin]]
+- [[staple]], [[high margin]], [[biohacking]]

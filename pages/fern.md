@@ -6,3 +6,8 @@ tags:: collectable
   query-table:: true
   query-sort-desc:: false
   query-properties:: [:page]
+- ## edible ferns
+	- [[diplazium esculentum]]
+	- [[osmunda japonica]]
+	- [[matteuccia struthiopteris]]
+	- [[polypodium glycyrrhiza]]

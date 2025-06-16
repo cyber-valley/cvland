@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["project" "cyber valley" "genesis" "bridge" "bootcamp" "sytech" "token engineering" "legal engineering" "projects"]
+ :favorites ["cyber valley" "genesis" "bridge" "bootcamp" "sytech" "token engineering" "legal engineering" "projects" "supply"]
 
  ;; Set flashcards interval.
  ;; Expected value:

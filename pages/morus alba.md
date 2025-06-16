@@ -7,4 +7,4 @@ alias:: white mulberry, murbai
 - [info](http://www.plantsofasia.com/index/morus/0-100)
 - [wiki](https://en.wikipedia.org/wiki/Muntingia)
 - [tokopedia](https://www.tokopedia.com/aksr-1/new-biji-benih-buah-mulberry-morus-alba-seeds-pasti-puas?extParam=ivf%3Dfalse%26src%3Dsearch)
-- [[salad]]: young [[leave]] is outstanding
+- [[salads]]: young [[leave]] is outstanding

@@ -1,4 +1,4 @@
-tags:: genus, major
+tags:: genus, major, collectable
 alias:: pir, pear
 
 - wood-density:: 700

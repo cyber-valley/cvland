@@ -1,6 +1,7 @@
-tags:: species
-scalable:: true
-alias:: kenari
+tags:: species, major, research
+alias:: kenari, galip
 
-- [[resin]] and [[nuts]]
+- supply:: next-month
+  market:: edible oils
+- [[resin]], [[oil]] and [[nuts]]
 -

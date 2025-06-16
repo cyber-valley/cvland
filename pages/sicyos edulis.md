@@ -1,11 +1,11 @@
 alias:: chayote, sechium edule
-tags:: species, major
+tags:: species, major, super
 
 - availability:: cv
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmR24VjmWmFzphF9bXMhKHSqTA9YMSxGkpZzdXCUSedFMb)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmPK71vF87G9tCrmnvwV84akMDC2jmVSpCUokCBXTps2uu)
 - [[salads]] [[lunch]]
-- [[plants/food]] :
+- [[plants/food]] : [[staple]]
 	- •	perennial climbing [[vine]], vigorous cucurbit species, commonly known as “caihua” or “chayote”; grows up to 5 meters, with slender stems, tendrils, deeply lobed leaves, small greenish-white flowers, and fleshy, hollow fruits.
 	- •	roots: fibrous, shallow-rooting system.
 		- •	compounds: [[saponins]] (medium), [[alkaloids]] (low)
@@ -46,8 +46,8 @@ tags:: species, major
 		- •	mature:: vigorous vine growth; prolific fruiting within 3–4 months after planting; continuous harvesting prolongs productivity.
 		- •	death:: plants decline after 3–5 years; sensitive to prolonged drought, frost, or severe pest infestations.
 	- •	[[plant/features]]:: [[edible-fruit]], [[fast-growing]], [[high-yield]], [[climbing-vine]], [[nutritious]]
-	- •	[[biome/layer]]:: [[vine-layer]], [[understory]]
-	- •	[[products]]:: [[food], [[pickle]], [[vegetable]], [[medicinal]]
+	- •	[[layer]]:: [[vine-layer]], [[understory]]
+	- •	[[products]]:: [[food]], [[pickle]], [[vegetable]], [[medicinal]]
 		- menu:: [[baked chayote]]
 	- Legend:
 		- •	High: abundant presence

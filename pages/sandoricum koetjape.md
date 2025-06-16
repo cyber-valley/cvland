@@ -1,5 +1,5 @@
-tags:: species
-alias:: santol, sentol, wild mangosteen, kecapi, pohon sentul
+tags:: species, major
+alias:: santol, kecapi, pohon sentul
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZ6Eq6jrNTtnodQkbFPR8VVpynCX1fFD9rsBpYyJxh4gu)
 - [plantsofasia](http://www.plantsofasia.com/index/sandoricum/0-840)

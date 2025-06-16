@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, major
 alias:: plum
 
 - products
@@ -42,7 +42,7 @@ alias:: plum
 		- mature:: begins flowering and fruiting 3–5 years after planting (grafted), with annual harvests
 		- death:: productivity declines after 25–35 years; root diseases and borer insects can accelerate death
 	- [[plant/features]]: [[deciduous]], [[edible fruit]], [[attract pollinators]], cold-hardy, spring-flowering
-	- [[biome/layer]]: [[canopy]], [[sub-canopy]]
+	- [[layer]]: [[canopy]], [[sub-canopy]]
 	- [[products]]: fresh [[plum]], dried [[plum]] ([[prunes]]), [[juice]], [[jam]], [[vinegar]], [[seed oil]], [[leaf infusion]], [[bark decoction]], [[timber]]
 	- [[chemical compounds]]  
 	  | compound               | plant part     | % amount         | description                                                              |

@@ -1,4 +1,5 @@
 tags:: species, major
+alias:: rainbow tree
 
 - wood-density:: 500
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/Qmb1AXnjLDowod535ZgSC5x35rp4gzJQHwadsqvBT3DFEJ)

@@ -1,7 +1,7 @@
-tags:: genus
+tags:: genus, collectable
 scalable:: true
 
-- convinient [[pillar]]
+- convinient [[giant]]
 - {{embed [[artocarpus heterophyllus]]}}
 - {{embed [[artocarpus altilis]]}}
 - {{embed [[artocarpus integer]]}}

@@ -1,5 +1,5 @@
 alias:: kapok, cotton tree
-tags:: species, major
+tags:: species, major, research
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmeSHoUrr1wYMDmxezU5QiXwtLgoUnB7EmwCmF2skJ7B2h)
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmaMmBgUk6z35b47TtYAasRQyZYfRaJLgVNrhtVy8JLn7w)

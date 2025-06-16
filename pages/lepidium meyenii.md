@@ -1,5 +1,5 @@
 alias:: maca
-tags:: species
+tags:: species, research, unavailable
 
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmdraiCaUEc3ACxpgCYaMWG8fP2sekZ2hmovswjtQUf2Jf)
-- [[high margin]]
+- [[high margin]] [[biohacking]]

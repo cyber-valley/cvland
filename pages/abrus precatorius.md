@@ -1,5 +1,5 @@
 tags:: species, research
-alias:: saga rambat, rosary pea, jequirity bean
+alias:: saga rambat, rosary pea
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmaMeMMzfZzYt5sUn6wBEFxSv8wtRuBSLG6yZLAvM9yZ3n)
 - wiki:: [abrus_precatorius.pdf](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmU3yg2MFujJZTdeEmecgV1xmPvS2TAKKrKKJNAaFefyc7)

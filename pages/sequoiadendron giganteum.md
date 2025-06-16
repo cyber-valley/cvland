@@ -1,7 +1,7 @@
 alias:: giant sequoia, sequoia
-tags:: species,
+tags:: species, research, unavailable
 
-- availability:: unknown
+- [[high margin]]
 - [[conifer]]
 - the largest trees by volume
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZj7RNtjgsQ14pvjt2rv1DwPDjHndcZVpaRzNdSKk9ZNE)
@@ -17,9 +17,9 @@ tags:: species,
 	- [[fire-resistant]]: thick bark and tannins provide high resistance to wildfires
 	- [[longevity]]: can live for more than 3,000 years
 	- [[fast initial growth]]: young trees grow quickly under the right conditions
-- [[biome/layer]]:
+- [[layer]]:
 	- [[canopy]],
-	- [[emergent]]
+	- [[titan]]
 - [[plant/type]]: [[tree]]
 	- [[root]]:
 		- shallow but wide-spreading root system, lacks a taproot

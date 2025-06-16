@@ -1,4 +1,4 @@
-tags:: genus
+tags:: genus, collectable
 
 - [[dahlia imperialis]]
 - [[dahlia pinnata]]

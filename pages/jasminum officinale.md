@@ -41,7 +41,7 @@ tags:: species
 		- mature:: starts flowering in 2–3 years, peak bloom in warm months, with multiple flushes
 		- death:: gradual decline in bloom and vigor over decades; overgrowth and root rot are common issues
 	- [[plant/features]]: [[fragrant]] flowers, [[climbing]], " [[attract pollinators]], [[ornamental]], [[medicinal]]
-	- [[biome/layer]]: [[climber]], [[sub-canopy]], [[vertical-layer]]
+	- [[layer]]: [[climber]], [[sub-canopy]], [[vertical-layer]]
 	- [[products]]: fresh [[flowers]], [[essential oil]], [[flower extract]], [[floral water]], [[perfume]] ingredient, [[tea]], [[herbal remedy]]
 	-
 	- [[chemical compounds]]  

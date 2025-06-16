@@ -1,7 +1,9 @@
 alias:: lucerne, alfalfa
-tags:: species, major
+tags:: species, major, super
+market:: fodder
+supply:: next-month
 
-- availability:: cv
+-
 - nitrogener:: 200
 - ![Alfalfa | Nutritious Forage Crop, Livestock Feed & Soil Enhancer |  Britannica](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmSQyjhWYg3iiPCYQHZ4ZKGEygHFVCgZNrxX1kT4TYKTYr)
 - [[floor]]

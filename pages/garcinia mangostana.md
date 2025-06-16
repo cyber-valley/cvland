@@ -1,4 +1,4 @@
-alias:: mangosteen
+alias:: mangosteen, manggis
 tags:: species, major
 
 - wood-density:: 600

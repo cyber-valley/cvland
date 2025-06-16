@@ -1,4 +1,4 @@
-tags:: species, major
+tags:: species, major, research
 
 - availability:: hanara
 - wood-density:: 700

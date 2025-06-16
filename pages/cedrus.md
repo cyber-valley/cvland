@@ -1,3 +1,3 @@
-tags:: genus, research
+tags:: genus, major, research
 
 - [[conifer]]
