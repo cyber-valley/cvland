@@ -19,7 +19,6 @@ type:: sector
 - [[jatropha curcas]]: 2
 - [[malus domestica]]
 - [[jasminum sambac]]
-- [[pandanus palm]]
 - [[hedychium coronarium]]
 - [[pogostemon cablin]]
 - [[solanum betaceum]]

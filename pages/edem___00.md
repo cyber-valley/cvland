@@ -14,7 +14,6 @@ type:: sector
 		- [[cyperus mindorensis]]
 		- [[cynodon dactylon]]
 	- [[jasminum officinale]] gambir
-	  collapsed:: true
 		- [[melastoma malabathricum]]
 	- [[persea americana]] haas
 	- [[cananga odorata]]

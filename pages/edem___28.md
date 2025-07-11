@@ -16,7 +16,7 @@ type:: sector
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:29:57]--[2024-04-26 Fri 07:56:50] =>  01:26:53
   :END:
-- [[bertholletia excelsa]]
+- DONE [[bertholletia excelsa]]
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:28:44]--[2024-04-26 Fri 07:34:21] =>  01:05:37
   :END:
@@ -24,3 +24,4 @@ type:: sector
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:25:15]--[2024-04-26 Fri 07:34:58] =>  01:09:43
   :END:
+-
