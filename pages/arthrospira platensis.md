@@ -1,4 +1,4 @@
 tags:: species, algae
 alias:: spirulina
 
-- [[high margin]] [[biohacking]]
+- [[high margin]] [[health]]

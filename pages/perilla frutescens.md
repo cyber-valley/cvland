@@ -1,4 +1,4 @@
 tags:: species, research
 
-- [[biohacking]]
+- [[health]]
 - rich in omega-3 fatty acids similar to chia seeds

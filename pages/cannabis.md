@@ -1,4 +1,4 @@
-tags:: genus, prohibited
+tags:: genus, psycho, prohibited
 alias:: hemp
 
 - [[cannabis sativa]]

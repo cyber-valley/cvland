@@ -1,5 +1,9 @@
 tags:: species, major
 alias:: mengkirai
+abundance:: yes
+supply:: no
+margin:: low
+autonomy:: support
 wood-availability:: site
 wood-density:: 400
 wood-durability:: low

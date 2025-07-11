@@ -2,6 +2,7 @@ alias:: melati, jasmine
 tags:: species
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmRLSv5fpGhZyme5Y5wrogcBWrzn7BufAQwVhPsLSYQb6G){:height 406, :width 408}
+- [[health]]
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmZQGumkYR4syavZjLcS7UVAvA8wtbg6ZGZs6P1T6tbYx2)
 - [jasminum_officinale](https://en.wikipedia.org/wiki/Jasminum_officinale)
 - [[plant/type]]: perennial woody deciduous or semi-evergreen climbing shrub
@@ -58,7 +59,7 @@ tags:: species
 	  | [[tannins]]            | bark, leaf       | ~3–7%            | [[astringent]], [[antimicrobial]], supports [[traditional medicine]] uses            |
 	  | [[chlorophyll]]        | leaf             | present (n/a)    | [[photosynthetic pigment]], supports green [[biomass]] role in composting         |
 	- operations
-		- [[propagation]]: mostly by semi-hardwood cuttings or layering; seeds used rarely due to low viability
+		- [[propagate plants]]: mostly by semi-hardwood cuttings or layering; seeds used rarely due to low viability
 		- [[maintenance]]: prune after flowering to control shape and improve airflow; mulch base; avoid overwatering
 		- [[harvest]]:
 			- fresh flowers: harvested at dawn when fragrance is highest; used for extraction and fresh sale

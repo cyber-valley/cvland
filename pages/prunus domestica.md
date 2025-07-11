@@ -58,7 +58,7 @@ alias:: plum
 	  | [[essential oils]]         | flower         | trace <0.1%      | aromatic compounds with [[calming]] and [[pollinator]]-attracting effects         |
 	  | [[lignin]], [[cellulose]]      | timber         | ~50–70%          | structural [[polymers]] in [[woody]] tissue used in [[crafts]] and [[tools]]               |
 	- operations
-		- [[propagation]]: typically grafted onto rootstock for uniformity and early fruiting. seedlings require stratification
+		- [[propagate plants]]: typically grafted onto rootstock for uniformity and early fruiting. seedlings require stratification
 		- [[maintenance]]: annual winter pruning to shape and encourage fruiting wood. [[mulch]] and composting recommended. control [[fungal]] leaf spots
 		- [[harvest]]:
 			- fruit: harvested when firm-ripe and aromatic, ripening varies with cultivar

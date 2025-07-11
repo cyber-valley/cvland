@@ -71,6 +71,6 @@ tags:: species, major
 		  | [[lignin]]           | medium | low    | none    | medium                | high   | high   | structural polymer; enhances fuelwood and timber durability; biomass resource            |
 		  | [[hemicellulose]]     | medium | low    | none    | medium                | high   | high   | structural; utilized in bioenergy production, paper and construction material industries |
 - operations
-- [[propagation]]: regular pruning or coppicing promotes vigorous regrowth; minimal fertilization required due to nitrogen-fixing capacity. Periodic pest monitoring recommended.
+- [[propagate plants]]: regular pruning or coppicing promotes vigorous regrowth; minimal fertilization required due to nitrogen-fixing capacity. Periodic pest monitoring recommended.
 - [[maintenance]] regular pruning or coppicing promotes vigorous regrowth; minimal fertilization required due to nitrogen-fixing capacity. Periodic pest monitoring recommended.
 - [[harvest]]: leaves and young twigs regularly harvested as fodder; timber harvested from coppiced stems every 2–3 years; pods collected for seed production and propagation.

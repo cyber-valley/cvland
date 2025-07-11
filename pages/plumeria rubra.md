@@ -4,7 +4,7 @@ tags:: species
 - ![Screenshot 2024-05-10 at 04.53.50.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmTwebcPF2k8ZV74cCZsNzNUqw5hjAZ5fFvP5mBYfowVCq)
 - [wiki plumeria rubra](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmU3DUzdExw7cqbgugyxB96zmBhK7YaPARKbkmuQodtzMt)
 - height: 7-8m
-- [[biohacking]]
+- [[health]]
 - [info](http://www.plantsofasia.com/index/plumeria_rubra/0-444)
 - [tokopedia](https://www.tokopedia.com/fatiamasriati/plumeria-rubra-stek-kamboja-bunga-rubra-langka?extParam=ivf%3Dfalse%26src%3Dsearch)
 - products

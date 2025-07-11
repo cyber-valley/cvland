@@ -1,5 +1,6 @@
 alias:: coneflower
 tags:: species
+supply:: wishlist
 
 - enhances immune function
-- [[high margin]] [[biohacking]]
+- [[high margin]] [[health]]

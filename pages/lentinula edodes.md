@@ -1,4 +1,4 @@
 tags:: species, fungi, research
 alias:: shiitake
 
-- [[high margin]] [[food]]
+- [[high margin]] [[eat]]

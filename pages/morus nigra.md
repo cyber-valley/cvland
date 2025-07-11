@@ -1,7 +1,10 @@
 alias:: mulberry
 tags:: species
+abundance:: yes
+supply:: no
+margin:: high
+autonomy:: staple
 
-- availability:: cv
 - best staple for [[salads]] from young [[leave]]
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmeFcaMSdE1HgnmEn6VUgfqyMjqWqLhXHd29Bb3t4vYP19)
 - products

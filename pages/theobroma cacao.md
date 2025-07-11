@@ -1,9 +1,9 @@
-tags:: species, major, super
-alias:: cacao tree, chocolate, coklat, kakao
+tags:: species, major, super, psycho
+alias:: cacao, coklat, kakao
 
 - wood-density:: 450
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmXij4UgeYZMTcrNiTWN42KJnTAvusrKuCSkmPaGZAZiMF){:height 411, :width 628}
-- [[staple]] for [[biohacking]]
+- [[staple]] for [[health]]
 - product
 	- [[fruit]]
 - [wiki](https://en.wikipedia.org/wiki/Theobroma_cacao)

@@ -1,4 +1,5 @@
-tags:: species, unavailable
+tags:: species, prohibited
+supply::  prohibited
 
 - allowed in [[thailand]] and many other countries
 - prohibited in [[indonesia]] and many other countries

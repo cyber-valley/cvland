@@ -1,5 +1,9 @@
 alias:: mistflower, ageratina
 tags:: species
+abundance:: yes
+supply:: no
+margin:: low
+autonomy:: support
 
 - ![image](https://ipfs.io/ipfs/QmeNoF8yhzUqxyPZsoRQQKNFfcDaydKUZfpgxFgV3Rg7G6)
 -
@@ -16,5 +20,6 @@ tags:: species
 - [[plant/features]]
 	- [[attractor]]
 	- [[repeller]]
-	- [[health]]
+	-
+- potential as [[biopesticides]]
 	-

@@ -1,5 +1,6 @@
-alias:: giant sequoia, sequoia
+alias:: giant sequoia
 tags:: species, research, unavailable
+supply:: wishlist
 
 - [[high margin]]
 - [[conifer]]

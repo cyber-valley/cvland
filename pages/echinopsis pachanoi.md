@@ -1,7 +1,7 @@
 tags:: species, prohibited, psycho
 alias:: san pedro
+supply:: prohibited
 
-- supply:: next-month
 - compounds
 	- [[mescaline]]
 - effects

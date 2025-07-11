@@ -1,4 +1,4 @@
 tags:: species
 alias:: Iles-iles
 
-- [[food]] [[medicine]]
+- [[eat]] [[medicine]]

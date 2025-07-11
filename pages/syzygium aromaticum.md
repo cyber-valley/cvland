@@ -4,7 +4,7 @@ wood-availability:: local
 wood-density:: 900
 wood-durability:: high
 
-- [[high margin]] [[oil]] for [[biohacking]]
+- [[high margin]] [[oil]] for [[health]]
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmPq1ahzKyDJbtbbHFyBXKv78B2Z9iEbk9DUdsV4w4zrpV)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmcmzcjiWaTewqRFEFfnXQPdWvwL9Nf64fWuVaw8G8EEqP)
 - height: 8-12m

@@ -54,7 +54,7 @@ tags:: species, major
 	  | fruits | cellulose fibers, minimal secondary metabolites |
 	  | timber | cellulose, hemicellulose, lignin |
 - **operations**:
-	- **[[propagation]]**: primarily vegetative via cuttings; seeds rarely used due to rapid viability loss
+	- **[[propagate plants]]**: primarily vegetative via cuttings; seeds rarely used due to rapid viability loss
 	- **[[maintenance]]**: regular pruning to maintain shape, remove diseased limbs, and monitor root spread
 	- **[[harvest]]**:
 		- ornamental wood selectively harvested from mature trees

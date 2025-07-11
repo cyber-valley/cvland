@@ -1,5 +1,9 @@
 alias:: napier
 tags:: species, major, super
+abundance:: yes
+supply:: no
+margin:: low
+autonomy:: support
 
 - [[grass]]
 - ![image](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmaVAi9bsUXC4DQC4bPQCL17C1VSfeTWFbxy3PqbrK4TAa)

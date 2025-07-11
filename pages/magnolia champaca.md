@@ -5,7 +5,7 @@ alias:: cempaka, champaсa, white champaca
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeiapmu3yu6gy6kdonf4xp4q3lg33wrqtsr44mfkbkepqlqzp4bqkhm)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeihkuav2sxohnpxagvqhidqj4xbns2hyvgzjfsxwgua7r2sbfkq2xu)
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/bafybeigya5s63qrx6cnqkrfhvnd54tmqtduhbzof6t3roh6ycplrdzpx4i)
-- [[biohacking]]
+- [[health]]
 - product
 	- [[flower]]
 - [magnolia_champaca](https://en.wikipedia.org/wiki/Magnolia_champaca)
@@ -75,7 +75,7 @@ alias:: cempaka, champaсa, white champaca
 	  | aromatic [[resin]] | timber         | trace <0.5%      | light scent in fresh [[wood]], used in [[incense]]                                |
 	  | sesquiterpenes       | timber         | trace <0.2%      | contribute to [[wood aroma]], mild [[bioactivity]] when fresh                     |
 	- operations
-		- [[propagation]]: propagated via seeds (fresh, pre-treated), air-layering, or semi-hardwood cuttings; seedling method is slow but reliable
+		- [[propagate plants]]: propagated via seeds (fresh, pre-treated), air-layering, or semi-hardwood cuttings; seedling method is slow but reliable
 		- [[maintenance]]: mulch and protect young trees from drying winds; prune lightly after flowering to shape; avoid waterlogging; fertilize with compost and leaf mulch annually
 		- [[harvest]]:
 			- fresh flowers: collected daily in early morning during bloom seasons for [[perfumery]] or ceremonial use

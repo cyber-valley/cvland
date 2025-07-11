@@ -6,7 +6,7 @@ title:: cananga odorata
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmfWeGeLzFWEe2kxoYQ8CU8THHfnPtcUzLHVSHPjZJTfCY){:height 312, :width 417}
 - products
 	- [[flower]]:
-- [[high margin]]
+- [[high margin]] [[health]]
 - [cananga_odorata](https://en.wikipedia.org/wiki/Cananga_odorata)
 - [plantsofasia](http://www.plantsofasia.com/index/cananga_odorata/0-860)
 - [[plant/type]]: [[fast-growing]] tropical [[evergreen tree]]
@@ -62,7 +62,7 @@ title:: cananga odorata
 		  | [[α-pinene]]           | flower, leaf     | 0.5–1%           | sharp-scented [[terpene]], opens [[airways]], [[anti-inflammatory]]                     |
 		  | [[sesquiterpenes]] [[alcohols]] | flower       | trace–moderate   | contributes to deep, lasting base notes of [[fragrance]]                        |
 		- operations
-			- [[propagation]]: propagated by [[seed]] (fresh, viable for only a short time), [[softwood]] cuttings, or air-layering. [[seedling]] establishment best with warm humidity
+			- [[propagate plants]]: propagated by [[seed]] (fresh, viable for only a short time), [[softwood]] cuttings, or air-layering. [[seedling]] establishment best with warm humidity
 			- [[maintenance]]: prune regularly after flowering to maintain size and airflow. [[mulch]] annually. requires [[well-drained]] soil and protection from strong [[wind]]
 			- [[harvest]]:
 				- fresh [[flowers]]: hand-picked early morning when [[fragrance]] is strongest

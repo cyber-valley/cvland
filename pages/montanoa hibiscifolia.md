@@ -1,5 +1,9 @@
 tags:: species
 alias:: montanoa, tree daisy
+abundance:: yes
+supply:: no
+margin:: low
+autonomy:: support
 
 - ![Screenshot 2024-05-26 at 08.36.11.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmfMg9cEVf7XZZYxi8QRAJg5E79bdvDgecDRXcy6qbthaw)
 - ![Screenshot 2024-05-26 at 08.35.36.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmWaJD2Es3RPX6zgPgGzuhTHyXMDTPbgjvUtURxgnqAEgZ)

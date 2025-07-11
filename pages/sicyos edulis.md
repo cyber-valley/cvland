@@ -1,5 +1,9 @@
 alias:: chayote, sechium edule
 tags:: species, major, super
+abundance:: yes
+supply:: no
+margin:: medium
+autonomy:: staple
 
 - availability:: cv
 - ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmR24VjmWmFzphF9bXMhKHSqTA9YMSxGkpZzdXCUSedFMb)
@@ -47,7 +51,7 @@ tags:: species, major, super
 		- •	death:: plants decline after 3–5 years; sensitive to prolonged drought, frost, or severe pest infestations.
 	- •	[[plant/features]]:: [[edible-fruit]], [[fast-growing]], [[high-yield]], [[climbing-vine]], [[nutritious]]
 	- •	[[layer]]:: [[vine-layer]], [[understory]]
-	- •	[[products]]:: [[food]], [[pickle]], [[vegetable]], [[medicinal]]
+	- •	[[products]]:: [[eat]], [[pickle]], [[vegetable]], [[medicinal]]
 		- menu:: [[baked chayote]]
 	- Legend:
 		- •	High: abundant presence
@@ -56,7 +60,7 @@ tags:: species, major, super
 		- •	Trace: very minor detectable amounts
 		- •	None: absent or negligible
 	- •	operations
-		- •	[[propagation]]:: easily propagated from seeds directly sown into soil or seedlings transplanted after germination; vegetative propagation possible by stem cuttings but less common.
+		- •	[[propagate plants]]:: easily propagated from seeds directly sown into soil or seedlings transplanted after germination; vegetative propagation possible by stem cuttings but less common.
 		- •	[[maintenance]]:: regular watering, mulching to maintain moisture; periodic pruning to encourage new growth; requires climbing supports; pest monitoring recommended.
 		- •	[[harvest]]:: fruits harvested young (5–15 cm), when tender and crisp; frequent harvesting promotes extended fruit production; mature fruits become fibrous and less palatable but seeds remain viable.
 	- ### nutrition values per 100 grams (fresh fruit)

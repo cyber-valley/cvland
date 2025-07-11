@@ -1,4 +1,3 @@
 tags:: species
-alias:: crickets
 
-- [[high margin]]
+- [[high margin]] [[cricket]]

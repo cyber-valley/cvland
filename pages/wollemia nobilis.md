@@ -1,5 +1,6 @@
 tags:: species
 alias:: wollemi pine
+supply:: wishlist
 
 - availability:: unknown
 - [[conifer]]

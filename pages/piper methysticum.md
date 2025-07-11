@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, psycho, prohibited
 alias:: kava
 
-- [[biohacking]]
+- [[health]]

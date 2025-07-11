@@ -63,7 +63,7 @@ alias:: guava, jambu batu
 	  | triterpenoids         | bark, leaf     | trace–0.5%       | mild anti-inflammatory and liver-supporting actions                     |
 	  | lignin, cellulose     | timber         | ~40–60%          | structural wood components used for tools and biofuel                   |
 	- operations
-		- [[propagation]]: most commonly grown from seed; improved cultivars propagated by grafting, air-layering, or cuttings
+		- [[propagate plants]]: most commonly grown from seed; improved cultivars propagated by grafting, air-layering, or cuttings
 		- [[maintenance]]: prune annually after fruiting to control height, shape, and encourage flowering; mulch and compost around root zone
 		- [[harvest]]:
 			- fruit: hand-harvested when yellow or light green and aromatic, fruiting occurs 2–3 times per year in tropical zones

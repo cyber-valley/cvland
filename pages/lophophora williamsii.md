@@ -1,5 +1,6 @@
 alias:: peyote
 tags:: species, prohibited, psycho
+supply:: prohibited
 
 - compunds
 	- [[mescaline]]

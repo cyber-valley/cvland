@@ -1,20 +1,19 @@
-tags:: genus
+tags:: genus, collectable
 scalable:: true
 
 - selected for [[edem]]
 	- {{embed [[eucalyptus deglupta]]}}
 - research
 	- [[eucalyptus pulverulenta]]
-	- [[eucalyptus globulus]]
-	- [[eucalyptus piperita]]
-	- [[eucalyptus robusta]]
-- avoid
 	- [[eucalyptus urophylla]]
 	- [[eucalyptus pellita]]
 	- [[eucalyptus alba]]
+	- [[eucalyptus globulus]]
+	- [[eucalyptus piperita]]
+	- [[eucalyptus robusta]]
+	- [[eucalyptus umbra]]
 	- [[eucalyptus argophloia]]
 	- [[eucalyptus microcorys]]
-	- [[eucalyptus umbra]]
 - | name                    | height | oil constituents                                                                                     | density | roles                                    | scent                                   |
   |-------------------------|--------|------------------------------------------------------------------------------------------------------|---------|------------------------------------------|-----------------------------------------|
   | [[eucalyptus pulverulenta]] | 7 m   | [[cineole]], [[alpha-pinene]], [[beta-pinene]], [[limonene]], [[p-cymene]]                            | 850     | ornamental, erosion control              | aromatic, slightly medicinal            |

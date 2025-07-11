@@ -1,5 +1,9 @@
 alias:: dadap
 tags:: species, major
+abundance:: yes
+supply:: no
+margin:: low
+autonomy:: support
 
 - nitrogener:: 150
 - wood-density:: 220
@@ -9,4 +13,4 @@ tags:: species, major
 	- sustainable, available and cheap
 	- [[rockwool]] is more expensive, less durable and efficient
 -
-- [[biohacking]]
+- [[health]]
