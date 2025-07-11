@@ -1,11 +1,17 @@
-- {{query [[@master]]}}
-  query-table:: true
+query-table:: true
+
 - {{query (page-tags [[psycho]])}}
-  query-properties:: [:page :tags]
+  query-properties:: [:page :tags :alias]
+  query-sort-by:: page
+  query-sort-desc:: false
+- {{query (property :psycho)}}
+  query-table:: true
+  query-properties:: [:page :psycho]
+- {{query (and (property :compounds) (page-tags [[psycho]]))}}
+  query-table:: true
+  query-properties:: [:page :compounds]
 - |  | [[scientific name]]       | longevity (years)     | height of plant    | [[compounds]]                                   | [[psychoactive effect]]                              |
   |---------------------|------------------------|-----------------------|--------------------|---------------------------------------------|----------------------------------------------
-  
-  
   | [[damiana]]             | [[turnera diffusa]]        | 10-15                 | 0.6-1.8 m          | [[flavonoids]], [[terpenoids]], [[caffeine]]            | [[enhances sexual pleasure]], [[increases libido]]       |
   | [[kanna]]               | [[sceletium tortuosum]]    | 10-20                 | 15-30 cm           | [[mesembrine]], [[mesembrenone]]                    | [[produces euphoria]], [[increased sociability]]         |
   | [[catuaba]]             | [[erythroxylum vaccinifolium]]   | 5-10                  | 4-6 m              | [[alkaloids]], [[flavonoids]]                       | [[enhances sexual arousal and pleasure]]             |
@@ -17,7 +23,7 @@
   | [[guarana]] | [[paullinia cupana]]       | 5-10                  | 3-4 m              | [[caffeine]], [[theobromine]], [[tannins]]              | [[boosts energy]], [[enhances mood]], [[improves libido]]    |
   | [[yohimbe]]             | [[corynanthe yohimbe]]  | 50-100                | 9-30 m             | [[yohimbine]], [[indole alkaloids]]                 | [[enhances sexual performance]], [[treats erectile dysfunction]] |
   | [[panax ginseng]]             | [[panax ginseng]]          | 20-30                 | 30-60 cm           | [[ginsenosides]], [[panaxosides]]                   | [[enhances sexual performance]], [[reduces stress]]      |
-  | [[ashwagandha]]         | [[withania somnifera]]     | 5-10                  | 0.5-1.5 m          | [[withanolides]], [[alkaloids]], [[saponins]]           | [[reduces stress]], [[enhances libido]]                  |
+  | [[ashwagandha]]         | [[withania somnifera]]     | 5-10                  | 0.5-1.5 m          | [[withanolides]], [[alkaloids]], [[saponins]]           | c, [[enhances libido]]                  |
   | [[tongkat ali]]         | [[eurycoma longifolia]]    | 20-30                 | up to 10 m         | [[quassinoids]], [[eurycomanone]]                   | [[increases testosterone]], [[improves sexual desire]]   |
   | [[muira puama]]         | [[ptychopetalum olacoides]]| 50-100                | up to 4.5 m        | [[alkaloids]], [[sterols]], [[flavonoids]]              | [[enhances libido]], [[treats sexual dysfunction]]       |
   | [[passiflora]]       | [[passiflora incarnata]]   | 5-7                   | 1.8-3 m            | [[flavonoids]], [[harmala alkaloids]]               | [[produces relaxation]], [[mild euphoria]]               |
