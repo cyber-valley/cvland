@@ -1,3 +1,3 @@
 tags:: living
-workers:: 1
-users:: 1
+size:: 64
+shape:: 8*8

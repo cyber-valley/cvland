@@ -1,6 +1,7 @@
-tags:: back
-workers:: 4
-users:: 0
+tags:: building, private
+alias:: elon
+size:: 70
+shape:: 10*7
 
 - multipurpose facility
 - components

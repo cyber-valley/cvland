@@ -1,6 +1,6 @@
-tags:: living, block
-workers:: 1
-users:: 4
+tags:: building, living, block
+size:: 324
+shape:: 18*9
 
 - founders house
 - please, respect our privacy
