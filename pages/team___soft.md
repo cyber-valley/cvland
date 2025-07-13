@@ -1,21 +1,43 @@
-- suri: 4
-	- garden: 5
-	- cook: 4
-	- clean: 5
+- [[echa]]
+	- garden: 3
+	- cook: 2
+	- clean: 3
 	- animals: 3
-	- kids: 4
+	- kids: 2
 	- massage: 3
+	- guests: 4
+	- english: 3 month
+	- math: 3
+	- social:
+		- tiktok: 1000
+		- instagram: 150
+	- gpt: 3 months
+	- hobby: sleeping
+	- team
+		- important
+			- kadek
+			- echa
+			- juli
+- [[mega]]
+	- garden: 3
+	- cook: 3
+	- clean: 4
+	- animals: 4
+	- kids: 4
+	- massage: want to learn
 	- guests: 3
 	- english: 3 month
 	- math: 4
-	- social: facebook - 100 followers
+	- social:
+		- facebook: 600
 	- gpt: not used
+	- hobby: sport
 	- team
 		- important
-			- echa
-			- sri
+			- kadek
 			- juli
-- juli: 5
+			- echa
+- [[juli]]
 	- garden: 4
 		- chemicals
 	- cook: 4
@@ -37,27 +59,25 @@
 			- kadek
 			- gina
 			- nanic
-- echa: 6
-	- garden: 3
-	- cook: 2
-	- clean: 3
+- [[suri]]
+	- garden: 5
+	- cook: 4
+	- clean: 5
 	- animals: 3
-	- kids: 2
+	- kids: 4
 	- massage: 3
-	- guests: 4
+	- guests: 3
 	- english: 3 month
-	- math: 3
-	- social:
-		- tiktok: 1000
-		- instagram: 150
-	- gpt: 3 months
-	- hobby: sleeping
+	- math: 4
+	- social
+		- facebook: 100
+	- gpt: not used
 	- team
 		- important
-			- kadek
 			- echa
+			- sri
 			- juli
-- au: 1
+- [[au]]
 	- garden: 4
 	- cook: 3
 	- clean: 4
@@ -74,7 +94,26 @@
 			- suri
 			- lia
 			- mega
-- duri: 2
+- [[lia]]
+	- garden: 4
+	- cook: 2
+	- clean: 4
+	- animals: 3
+	- kids: 3
+	- massage: 3
+	- guests: 3
+	- english: 3 month
+	- math: 4
+	- social
+		- facebook: 1000
+		- instagram: 200
+	- gpt: less than 1 year
+	- team
+		- important
+			- suri
+			- au
+			- duri
+- [[duri]]
 	- garden: 4
 	- cook: 2
 	- clean: 3
@@ -93,26 +132,7 @@
 			- echa
 			- darsana
 			- kadek
-- mega: 2
-	- garden: 3
-	- cook: 3
-	- clean: 4
-	- animals: 4
-	- kids: 4
-	- massage: want to learn
-	- guests: 3
-	- english: 3 month
-	- math: 4
-	- social:
-		- facebook: 600
-	- gpt: not used
-	- hobby: sport
-	- team
-		- important
-			- kadek
-			- juli
-			- echa
-- meli: 1
+- [[meli]]
 	- garden: 3
 	- cook: 3
 	- clean: 4
@@ -132,26 +152,7 @@
 			- kadek
 			- echa
 			- sudi
-- lia: 1
-	- garden: 4
-	- cook: 2
-	- clean: 4
-	- animals: 3
-	- kids: 3
-	- massage: 3
-	- guests: 3
-	- english: 3 month
-	- math: 4
-	- social
-		- facebook: 1000
-		- instagram: 200
-	- gpt: less than 1 year
-	- team
-		- important
-			- suri
-			- au
-			- duri
-- nik: 0
+- [[nik]]
 	- garden: 3
 	- cook: 4
 	- clean: 3
@@ -171,7 +172,7 @@
 			- putu
 			- meli
 			- juli
-- gina: 3
+- [[gina]]
 	- garden: 3
 	- cook: 4
 	- clean: 3
@@ -191,7 +192,7 @@
 			- sudi
 			- echa
 			  id:: 6862484e-6c07-45b7-8760-f1c963a9042f
-- nanic: 1
+- [[nanic]]
 	- garden: 4
 	- cook: 4
 	- clean: 4
