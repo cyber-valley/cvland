@@ -36,3 +36,5 @@
 	- rain-shedding roof with no walls or only windbreaks
 	- stone or concrete floor
 	- air drying wood
+- [github](https://github.com/orgs/cyber-valley/projects/41/views/1) link to the board with limited access
+-

@@ -31,3 +31,5 @@ shape:: 8*8
 	- [[floristics]]
 	- [[culinary]]
 	- [[genetics]]
+- [gihub](https://github.com/orgs/cyber-valley/projects/4) link to the board with limited access
+-

@@ -4,7 +4,7 @@ tags:: legal entity
 - [[asgard]]: private area for family members [[@suryani]], [[@au]], [[@putri]] [[@lia]]
 	- [[carrot house]]
 	- [[satoshi]]
-	- TODO [[yudkowsky]]
+	- [[yudkowsky]]
 - [[belt]]: shelter belt around estate [[@juli]], [[@mega]], [[@sri]], [[@nanik]]
 	- [[laba]]: [[@kadek]]
 		- construction 1: [[@putu]], [[@darsana]], [[@doplang]], [[@opa]]
