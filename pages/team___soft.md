@@ -15,7 +15,6 @@
 			- echa
 			- sri
 			- juli
-		- bad: putri
 - juli: 5
 	- garden: 4
 		- chemicals
@@ -38,7 +37,6 @@
 			- kadek
 			- gina
 			- nanic
-		- bad: sri
 - echa: 6
 	- garden: 3
 	- cook: 2
@@ -59,7 +57,6 @@
 			- kadek
 			- echa
 			- juli
-		- bad: putri, twins, putu au
 - au: 1
 	- garden: 4
 	- cook: 3
@@ -77,7 +74,6 @@
 			- suri
 			- lia
 			- mega
-		- bad: putri
 - duri: 2
 	- garden: 4
 	- cook: 2
@@ -97,7 +93,6 @@
 			- echa
 			- darsana
 			- kadek
-		- bad: ervi and putu au
 - mega: 2
 	- garden: 3
 	- cook: 3
@@ -117,7 +112,6 @@
 			- kadek
 			- juli
 			- echa
-		- bad: sri
 - meli: 1
 	- garden: 3
 	- cook: 3
@@ -138,7 +132,6 @@
 			- kadek
 			- echa
 			- sudi
-		- bad: dela
 - lia: 1
 	- garden: 4
 	- cook: 2
@@ -158,7 +151,6 @@
 			- suri
 			- au
 			- duri
-		- bad: putu au
 - nik: 0
 	- garden: 3
 	- cook: 4
@@ -179,7 +171,6 @@
 			- putu
 			- meli
 			- juli
-		- bad: putu au
 - gina: 3
 	- garden: 3
 	- cook: 4
@@ -200,7 +191,6 @@
 			- sudi
 			- echa
 			  id:: 6862484e-6c07-45b7-8760-f1c963a9042f
-		- bad: dela
 - nanic: 1
 	- garden: 4
 	- cook: 4
@@ -222,7 +212,6 @@
 			- juli
 			- kadek
 			- gina
-		- bad: dela
 - arima: 0
 	- garden: 3
 	- cook: 3
@@ -244,5 +233,4 @@
 			- tika
 			  id:: 6862484e-af4b-452a-8d9e-9d93e7a171c0
 			- duri
-		- bad: none except recently fired
 -
