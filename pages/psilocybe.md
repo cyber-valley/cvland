@@ -1,5 +1,6 @@
 tags:: genus, prohibited, psycho, fungi
 alias:: magic shroom
+supply:: prohibited
 
 - compounds
 	- [[psilocybin]]

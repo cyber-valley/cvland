@@ -1,4 +1,7 @@
 - tourism
+	- [[nomad hub]]
+	- [[tourism star]]
+	- [[event space]]
 	- [[autonomous shelters]]
 	- [[clean food]]
 	- [[wellness paradise]]

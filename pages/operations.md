@@ -1,8 +1,4 @@
-- [[sector inventory]]
-- [[species inventory]]
-- [[room inventory]]
-- [[room cleaning]]
-- [[salad harvest]]
-- [[sector construction]]
-- [[moon cycle]]
--
+- {{query (page-tags [[operation]])}}
+  query-properties:: [:page :tags]
+  query-sort-by:: page
+  query-sort-desc:: false

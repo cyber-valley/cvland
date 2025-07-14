@@ -1,15 +1,7 @@
-<<<<<<< Updated upstream
-tags:: building
-size:: 70
-shape:: 10*7
-
-||||||| Stash base
-=======
 tags:: building
 size:: 80
 shape:: 20*4
 
->>>>>>> Stashed changes
 - production facility for autonomous estate
 - storage of products
 	- [[cup]]
