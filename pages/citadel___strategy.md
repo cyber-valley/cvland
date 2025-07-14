@@ -1,7 +1,4 @@
 - tourism
-	- [[nomad hub]]
-	- [[tourism star]]
-	- [[event space]]
 	- [[autonomous shelters]]
 	- [[clean food]]
 	- [[wellness paradise]]
@@ -21,3 +18,4 @@
 	- [[quality genetics]]
 	- [[smart capital]]
 	- [[authenticated data ]]
+- keeping the [[tone]]
