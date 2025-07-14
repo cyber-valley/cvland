@@ -5,6 +5,7 @@ type:: sector
 	- [[zone two]]
 - [[guilds]]
 	- [[syzygium cumini]]
+	  collapsed:: true
 		- [[symphytum officinale]]
 		- [[potentilla indica]]
 		- [[allium tuberosum]]
@@ -13,6 +14,7 @@ type:: sector
 		- [[ocimum basilicum]]
 		- [[cyperus mindorensis]]
 		- [[cynodon dactylon]]
+	- [[potentilla indica]]
 	- [[jasminum officinale]] gambir
 	  collapsed:: true
 		- [[melastoma malabathricum]]
@@ -27,16 +29,18 @@ type:: sector
 	  collapsed:: true
 		- [[rosemary]]
 		- [[thymus vulgaris]]
-	- [[salvia rosmarinus]]
+	- [[salvia leucantha]]
 	  collapsed:: true
 		- [[piper nigrum]]
 		- [[thymus vulgaris]]
 	- [[magnolia champaca]]
 	- [[malpighia emarginata]]
+	  collapsed:: true
 		- TODO check [[verbena hastata]]
 		- [[mentha piperita]]
 	- [[cinnamomum verum]]
 	  collapsed:: true
+	- [[cyperus mindorensis]]
 	- [[inga edulis]]
 		- [[salvia coccinea]]
 		- [[taraxacum officinale]]
@@ -51,15 +55,36 @@ type:: sector
 	- TODO move [[rubus idaeus]]
 	- [[foeniculum vulgare]]
 	  collapsed:: true
-	- [[ocimum basilicum]]
 	- [[symphytum officinale]]
-	- [[lablab purpureus]]
+	- [[clitoria ternatea]]
+	- [[cynodon dactylon]]
 	- TODO [[ocimum tenuiflorum]]
 	- [[eupatorium capillifolium]]
-	- TODO [[allium tuberosum]]
-	- TODO [[tagetes lucida]]
+	- [[allium tuberosum]]
+	- [[musa acuminata]]
+	- [[plantago]]
+	- [[centella asiatica]]
+	- [[callistemon citrinus]]
+	- [[carica papaya]]
+	- [[annona muricata]]
+	- [[fragaria ananassa]]
+	- [[stachytarpheta urticifolia]]
+	- [[acmella paniculata]]
+	-
 - [[wall]]
 	- [[debregeasia longifolia]]
 	- [[imperata cylindrica]]
 	- [[ageratina riparia]]
+	- [[eupatorium capillifolium]]
+	- [[stachytarpheta urticifolia]]
+	- [[lantana camara]]
+	- [[cymbopogon citratus]]
+	- [[calliandra calothyrsus]]
+	- [[melastoma malabathricum]]
 - TODO build stone trail
+- dead:
+	- [[salvia rosmarinus]]
+	- [[ocimum basilicum]]
+	- [[lablab purpureus]]
+	- [[tagetes lucida]]
+	-

@@ -17,6 +17,17 @@ type:: sector
 	- [[stachytarpheta urticifolia]]
 	- [[trema orientalis]]
 	- [[inga edulis]]
+	- [[cymbopogon citratus]]
+	- [[eupatorium capillifolium]]
+	- [[calliandra calothyrsus]]
+	- [[melastoma malabathricum]]
+	- [[lantana camara]]
+	- [[stachytarpheta urticifolia]]
+	- [[inga edilus]]
+	- [[glaphyropteridopsis erubescens]]
+	- [[macrothelypteris torresiana]]
+	- [[cyathea arborea]]
+	- [[debregeasia longifolia]]
 - [[wall]] west fern
 	- [[pitorogramma calomenalos]]
 	- [[glaphyropteridopsis erubescens]]
@@ -26,12 +37,12 @@ type:: sector
 	- [[diplazium esculentum]]
 - [[bed]] cozy adenium
 	- [[bergera koenigii]]
+	- [[dracaena angolensis]]:13
 	- [[diospyros nigra]]
-	  collapsed:: true
 		- [[symphytum officinale]]
-	- [[adenium obesum]]: 4
+	- [[adenium obesum]]: 7
 	- [[crassula ovata]]
-	- [[capsicum annuum]]
+	- [[capsicum annuum]]: 2
 - [[bed]] breezy talinum
 	- [[talinum paniculatum]]
 	- [[synsepalum dulcificum]]
@@ -41,37 +52,55 @@ type:: sector
 		- [[colocasia esculenta]]
 - [[bed]] cozy talinum
 	- [[talinum fruticosum]]
+	- [[talinum paniculatum]]:3
 	- [[plinia cauliflora]]
-	  collapsed:: true
 		- [[symphytum officinale]]
 		- [[salvia leucantha]]
 		- [[salvia rosmarinus]]
 	- [[sapindus mukorossi]]: 5
 	- [[artocarpus heterophyllus]]
-	  collapsed:: true
 		- [[symphytum officinale]]
 	- [[punica granatum]] red
-	  collapsed:: true
 		- [[calliandra calothyrsus]]
 - [[bed]] breezy cactus
 	- [[cover]]
 	- [[crown]]
-		- [[nopalea cochenillifera]]:
+		- [[nopalea cochenillifera]]: 13
 		- [[euphorbia lactea]]
 		- [[dracaena angolensis]]
 		- ?
 	- [[guards]]
 		- [[lavandula angustifolia]]: 3
-		- [[salvia leucantha]]: 2
-		- [[salvia officinalis]]: 1
+		- [[salvia leucantha]]: 5
 	- [[morus nigra]] [[guild]]
 	- [[cinnamomum verum]] [[guild]]
 	- [[citrus hystrix]] [[guild]]
 	- [[trichanthera gigantea]] [[guild]]
 	- [[dimocarpus longan]] [[guild]]
 	- [[melastoma malabathricum]] [[guild]]
+	- [[colocasia esculenta]]
+	- [[lilium longiflorum]]: 8
+	- [[fragaria ananassa]]: 3
+	- [[plumeria rubra]]
+	- [[allium sativum]]
+	- [[allium tuberosum]]
+	- [[passiflora edulis]]
+	- [[iresine diffusa herbstii]]: 2
+	- [[hylodesmum repandum]]
+	- [[piper nigrum]]
+	- [[salvia officinalis]]
+	- [[echinocereus coccious]]
+	- [[trichanthera gigantea]]
+	- [[melastoma malabathricum]]
+	- [[crassula ovata]]
+	- [[passiflora ligularis]]
+	- [[rubus rosifolius]]
+	- [[trema orientalis]]
+	- [[musa acuminata]]
+	- [[amaranthus viridis]]
+	- [[acmella repens]]
+	-
 - [[trail]]
-	-
-	-
-	-
-	-
+- dead:
+	- [[lycium barbarum]]
+-

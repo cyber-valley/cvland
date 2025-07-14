@@ -13,3 +13,26 @@ type:: sector
 	- [[salvia leucantha]]
 	- [[iresine diffusa herbstii]]
 	- [[vitis vinifera]]
+	- [[salvia rosmarinus]]: 2
+	- [[plumeria rubra]]
+	- [[musa acuminata]]
+	- [[plantago]]: 2
+	- [[nephelium lappaceum]]
+	- [[rubus rosifolius]]
+	- [[thymus vulgaris]]
+	- [[origanum vulgare]]
+	- [[eupatorium capillifolium]]
+	- [[centella asiatica]]
+	- [[acmella repens]]
+- wall
+	- [[cymbopogon citratus]]
+	- [[eupatorium capillifolium]]
+	- [[calliandra calothyrsus]]
+	- [[melastoma malabathricum]]
+	- [[lantana camara]]
+	- [[stachytarpheta urticifolia]]
+	- [[trema orientalis]]
+	- [[inga edilus]]
+	- [[macrothelypteris torresiana]]
+-
+	-

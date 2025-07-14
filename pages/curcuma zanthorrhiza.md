@@ -1,4 +1,0 @@
-alias:: temulawak
-
-- [[staple]]
-- [[rhizome]]

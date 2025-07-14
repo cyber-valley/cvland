@@ -7,11 +7,11 @@ type:: sector
 - [[cocos nucifera]]: 9
 - [[prunus dulcis]]: 8
 - [[garcinia mangostana]]: 7
-- [[plumeria]]: 4
+- [[plumeria rubra]] : 4
 - [[mentha]]: 4
 - [[pandanus amaryllifolius]]: 3
 - [[tagetes lucida]]: 3
-- [[musa acuminata]]: 2
+- [[musa acuminata]]: 1
 - [[cnidoscolus aconitifolius]]: 2
 - [[talinum]]: 2
 - [[hibiscus acetosella]]: 2
@@ -19,17 +19,47 @@ type:: sector
 - [[jatropha curcas]]: 2
 - [[malus domestica]]
 - [[jasminum sambac]]
-- [[pandanus palm]]
 - [[hedychium coronarium]]
-- [[pogostemon cablin]]
+- [[pogostemon cablin]]: 12
 - [[solanum betaceum]]
 - [[dimocarpus longan]]
-- [[chrysanthemum]]
-- [[psophocarpus tetragonolobus]]
-- [[allium schoenoprasum]]
-- DONE [[theobroma grandiflorum]]
-- DONE [[litchi chinensis]]
-  :LOGBOOK:
-  CLOCK: [2024-04-26 Fri 06:25:04]--[2024-04-26 Fri 07:43:18] =>  01:18:14
-  :END:
+- [[allium schoenoprasum]]: 2
+- [[thymus vulgaris]]
+- [[oreganum vulgare]]
+- [[acmella repens]]
+- [[kalanchoe blossfeldiana]]
+- [[erigeron bonariensis]]: 10
+- [[youngia japonica]]
+- [[oxalis corniculata]]
+- [[hydrocotyle bonariensis]]
+- [[marsypianthes chamaedrys]]
+- [[delonix regia]]
+- [[arachis hypogaea]]
+- [[breynia androgyna]]: 2
+- [[solanum torvum]]
+- [[rumex sanguineus]]: 2
+- [[stevia rebaudiana]]: 4
+- [[rumex sanguineus]]: 2
+- wall
+	- [[cymbopogon citratus]]
+	- [[calliandra calothyrsus]]
+	- [[eupatorium capillifolium]]
+	- [[melastoma malabathricum]]
+	- [[stachytarpheta urticifolia]]
+	- [[debregeasia longifolia]]
+	- [[ageratina riparia]]
+	- [[austroeupatorium inulifolium]]
+	- [[lantana camara]]
+	- [[leucaena leucocephala]]
+	- [[trema orientalis]]
+	- [[christella dentata]]
+- dead:
+	- DONE [[chrysanthemum]]
+	- DONE [[psophocarpus tetragonolobus]]
+	- DONE [[pandanus palm]]
+	- DONE [[theobroma grandiflorum]]
+	- DONE [[litchi chinensis]]
+	  :LOGBOOK:
+	  CLOCK: [2024-04-26 Fri 06:25:04]--[2024-04-26 Fri 07:43:18] =>  01:18:14
+	  :END:
 -

@@ -6,7 +6,7 @@ alias:: lawn grass
 	- [[axonopus compressus]]
 - low trafic more shade
 	- [[centella asiatica]]
-	- [[hydrocotyle umbelara]]
+	- [[hydrocotyle umbellata]]
 	- [[pouzolzia zeylanica]]
 	- [[oplismenus hirtellus]]
 	- [[oplismenus compositus]]

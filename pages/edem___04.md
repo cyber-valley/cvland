@@ -14,10 +14,8 @@ type:: sector
 		- [[inga edulis]]
 	- [[cinnamomum verum]]
 	- [[cananga odorata]]
-	- [[prunus persica]]
-	- [[moringa oleifera]]
+	- [[prunus persica]]: 2
 	- [[aleurites moluccanus]]
-	- [[bergera koenigii]]
 	- [[prunus persica]]
 	- [[magnolia champaca]]
 	- [[cinnamomum verum]]
@@ -25,7 +23,39 @@ type:: sector
 	- [[bunchosia armeniaca]]
 	- [[sapindus mukorossi]]
 - [[beds]]
-	- [[colocasia esculenta]]: 10
+	- [[colocasia esculenta]]: 17
 	- [[hibiscus acetosella]]
-	- [[manihot esculenta]]
-	- [[carica papaya]]
+	- [[manihot esculenta]]: 11
+	- [[carica papaya]]: 6
+- [[centella asiatica]]
+- [[curcuma xanthorrhiza]]
+- [[salvia leucantha]]: 4
+- [[morus alba]]
+- [[musa acuminata]]: 2
+- [[persicaria hydropiper]]
+- [[melaleuca viminalis]]
+- [[melaleuca quinquenervia]]
+- [[plantago]]
+- [[salvia rosmarinus]]
+- [[calliandra calothyrsus]]
+- [[cuphea hyssopifolia]]
+- [[rubus rosifolius]]
+- [[thymus vulgaris]]
+- [[origanum vulgare]]
+- [[acmella repens]]
+- wall
+	- [[cymbopogon citratus]]
+	- [[eupatorium capillifolium]]
+	- [[calliandra calothyrsus]]
+	- [[melastoma malabathricum]]
+	- [[lantana camara]]
+	- [[stachytarpheta urticifolia]]
+	- [[symphytum officinale]]
+	- [[trema orientalis]]
+	- [[inga edulis]]
+	- [[macrothelypteris torresiana]]
+	- [[debregeasia longifolia]]
+- dead:
+	- [[moringa oleifera]]
+	- [[bergera koenigii]]
+-

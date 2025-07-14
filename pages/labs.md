@@ -1,6 +1,6 @@
 - experimental founders high performance bed
 - [[populus alba]]
-- [[gusticia gendarussa]]
+- [[justicia gendarussa]]
 - [[calendula]]
 - [[nepeta cataria]]
 - [[arachis hypogaea]]

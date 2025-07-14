@@ -10,3 +10,18 @@ type:: sector
 	- [[calliandra calothyrsus]]
 	- [[araucaria heterophylla]]
 	- [[bougainvillea glabra]]
+	- [[calliandra surinamensis]]
+	- [[musa acuminata]]
+	- [[plumeria rubra]]: 2
+	- [[ocimum tenuiflorum]]: 2
+	- [[centella asiatica]]
+	- [[carica papaya]]
+	- [[rubus rosifolius]]
+	- [[thymus vulgaris]]
+	- [[origanum vulgare]]
+	- [[inga edilus]]
+	- [[cymbopogon citratus]]: 4
+	- [[persea americana]]
+	- [[medicago sativa]]
+	- [[acmella repens]]
+	- [[pouzolzia zeylanica]]

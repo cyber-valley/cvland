@@ -1,4 +1,4 @@
 tags:: genus
 
 - selected for [[edem]]
-	- {{embed [[hydrocotyle umbelara]]}}
+	- {{embed [[hydrocotyle umbellata]]}}

@@ -16,6 +16,40 @@ type:: sector
 	- [[inga edulis]]
 - [[bed]]
 	- [[manihot esculenta]]: 10
-	- [[apium graveolens]] : 2
 	- [[fragaria ananassa]]: 3
-	- [[canna indica]]: 10
+	- [[canna indica]]: 13
+	- [[trema orientalis]]
+	- [[piper siriboa]]
+	- [[salvia leucantha]]
+	- [[carica papaya]]: 3
+	- [[musa acuminata]]: 2
+	- [[centella asiatica]]
+	- [[plantago]]
+	- [[iresine diffusa herbstii]]
+	- [[passiflora ligularis]]: 2
+	- [[phyllanthus buxifolius]]
+	- [[salvia rosmarinus]]
+	- [[plumeria rubra]]
+	- [[pteridium aquilinum]]: 2
+	- [[eupatorium capillifolium]]: 3
+	- [[thymus vulgaris]]
+	- [[origanum vulgare]]
+	- [[acmella repens]]
+- wall
+	- [[cymbopogon citratus]]
+	- [[eupatorium capillifolium]]
+	- [[calliandra calothyrsus]]
+	- [[melastoma malabathricum]]
+	- [[lantana camara]]
+	- [[stachytarpheta urticifolia]]
+	- [[trema orientalis]]
+	- [[inga edulis]]
+	- [[glaphyropteridopsis erubescens]]
+	- [[macrothelypteris torresiana]]
+	- [[cyathea arborea]]
+	- [[debregeasia longifolia]]
+- dead:
+	- [[apium graveolens]]
+	-
+-
+-
