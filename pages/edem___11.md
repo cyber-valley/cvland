@@ -9,9 +9,38 @@ type:: sector
 - [[calliandra tergemina]]
 - [[breynia disticha]]
 - [[murraya paniculata]]
-- TODO [[ixora coccinea]]
 - [[xanthostemon chrysanthus]] [[guild]]
 - TODO [[brunfelsia uniflora]] [[guild]]
 - TODO [[syzygium aqueum]] [[guild]]
 - TODO [[diospyros nigra]] [[guild]]
 - [[vachellia karroo]] [[guild]]
+- [[colocasia esculenta]]
+- [[plumeria rubra]]: 5
+- [[carica papaya]]: 3
+- [[thymus vulgaris]]
+- [[origanum vulgare]]
+- [[rumex sanguineus]]: 2
+- [[talinum fruticosum]]: 3
+- [[ginkgo biloba]]
+- [[salvia leucantha]]
+- [[eupatorium capillifolium]]: 3
+- [[musa acuminata]]: 3
+- [[centella asiatica]]
+- [[plantago]]
+- [[solanum torvum]]
+- [[rubus rosifolius]]
+- [[acmella repens]]
+- [[pouzolzia zeylanica]]
+- wall
+	- [[cymbopogon citratus]]
+	- [[eupatorium capillifolium]]
+	- [[calliandra calothyrsus]]
+	- [[melastoma malabathricum]]
+	- [[lantana camara]]
+	- [[debregeasia longifolia]]
+	- [[trema orientalis]]
+	- [[rubus rosifolius]]
+	- [[sphaeropteris medullaris]]
+- dead:
+	- [[ixora coccinea]]
+-

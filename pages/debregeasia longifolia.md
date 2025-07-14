@@ -35,3 +35,5 @@ autonomy:: support
   | vitamin a (mg/100g)  | not tested   | not tested | 1.78        | essential for vision, immune function              |
 - medicinal and nutritional benefits
 	- the leaves also contain phenolic compounds and flavonoids with potential antioxidant activity, useful in traditional medicine for treating various conditions.
+-
+-

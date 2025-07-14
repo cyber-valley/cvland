@@ -31,3 +31,5 @@ wood-durability:: low
 	- wood
 		- off-white or tinged with pink
 		- fine-grained, soft, light and of low durability
+-
+-

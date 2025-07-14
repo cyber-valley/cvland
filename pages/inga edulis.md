@@ -52,19 +52,84 @@ alias:: inga, snowfruit, inga edilus
 	- [[plant/features]]: [[nitrogen-fixers]], [[edible fruit]], [[shade]] tree, [[pollinator]]-friendly, [[soil improver]]
 	- [[layer]]: [[canopy]], [[sub-canopy]], [[successional]]
 	- [[products]]: fresh [[fruit pulp]], [[seed flour]], [[shade mulch]], [[firewood]], [[green-manure]], [[fodder]], [[pollinator nectar]]
-	- [[chemical compounds]]  
-	  | compound             | plant part     | % amount         | description                                                              |
-	  |----------------------|----------------|------------------|--------------------------------------------------------------------------|
-	  | [[proteins]]              | seed           | ~18–22%          | nutritional source, high in [[amino acids]], usable as [[feed]] or [[flour]]         |
-	  | [[carbohydrates]]        | [[fruit pulp]]     | ~12–18%          | sweet edible portion, mostly [[sugars]] and [[fiber]]                            |
-	  | [[flavonoids]]           | leaf, bark     | ~0.2–0.5%        | [[antioxidant]], supports [[plant defense]] and [[medicinal]] applications           |
-	  | [[saponins]]             | leaf, seed     | ~0.3–0.7%        | foam-forming compounds with [[antimicrobial]] activity                       |
-	  | [[tannins]]              | bark           | ~4–10%           | [[astringent]], used in [[folk medicine]] for [[diarrhea]] and [[skin infections]]       |
-	  | [[alkaloids]] (trace)    | bark, leaf     | <0.1%            | potential [[insect deterrents]] and [[medicinal]] effects                        |
-	  | [[dietary fiber]]     | fruit pulp     | ~5–8%            | aids [[digestion]] and slows [[sugar release]]                                   |
-	  | [[lignin]]               | timber         | ~20–30%          | structural support in [[wood]]                                               |
-	  | [[cellulose]]            | timber         | ~40–50%          | makes up the bulk of [[wood tissue]], used in [[bioenergy]] and [[mulch]]            |
-	  | [[chlorophyll]]          | leaf           | present (N/A)    | [[photosynthetic pigment]], green [[biomass]] [[fertilizer]]                         |
+	- [[chemical compounds]]
+	- ### compounds in fruit
+	  
+	  | [[compound]]                                   | [[amount per 100 g]]         |
+	  |------------------------------------------------|-------------------------------|
+	  | [[ascorbic acid]]                              | -                             |
+	  | [[thiamine]]                                   | -                             |
+	  | [[riboflavin]]                                 | -                             |
+	  | [[linoleic acid]]                              | -                             |
+	  | [[oleic acid]]                                 | -                             |
+	  | [[arginine]]                                   | -                             |
+	  | [[lysine]]                                     | -                             |
+	  | [[glutamic acid]]                              | -                             |
+	  | [[glucose]]                                    | -                             |
+	  | [[fructose]]                                   | -                             |
+	  | [[sucrose]]                                    | -                             |
+	  | [[total sugars]]                               | ~25 g                         |
+	  | total phenolics ([[gallic acid]] eq.)          | 3.86–33.4 mg GAE              |
+	  | total flavonoids ([[quercetin]] eq.)           | 1.75–19.4 mg QE               |
+	  | [[tannins]]                                     | -                             |
+	  | [[citric acid]]                                | ~10.4 mg/g                    |
+	  | [[protein (pulp)]]                             | 1.0 g                         |
+	  | [[protein (seed)]]                             | 10.7 g                        |
+	  | [[lipids (pulp)]]                              | 0.1 g                         |
+	  | [[lipids (seed)]]                              | 0.7 g                         |
+	  | [[carbohydrates (pulp)]]                       | 15.5 g                        |
+	  | [[carbohydrates (seed)]]                       | 24.0 g                        |
+	  | [[dietary fiber (pulp)]]                       | 1.2 g                         |
+	  | [[dietary fiber (seed)]]                       | 1.6 g                         |
+	  
+	  ---
+	- ### compounds in seed
+	  
+	  | [[compound]]                                     | [[amount per 100 g]]         |
+	  |--------------------------------------------------|-------------------------------|
+	  | [[linoleic acid]]                                | -                             |
+	  | [[oleic acid]]                                   | -                             |
+	  | [[palmitic acid]]                                | -                             |
+	  | [[stearic acid]]                                 | -                             |
+	  | [[α-linolenic acid]]                             | -                             |
+	  | [[γ-linolenic acid]]                             | -                             |
+	  | [[eicosapentaenoic acid]]                        | -                             |
+	  | [[tocopherols (β‑tocopherol, δ‑tocopherol)]]     | -                             |
+	  | [[p‑hydroxybenzoic acid]]                        | -                             |
+	  | [[4‑methoxybenzoic acid]]                        | -                             |
+	  | [[p‑methoxycinnamic acid]]                       | -                             |
+	  | [[ferulic acid]]                                 | -                             |
+	  | [[caffeic acid]]                                 | -                             |
+	  | [[anthocyanins]]                                 | -                             |
+	  | [[protein]]                                      | ~20.1 g                       |
+	  | [[carbohydrates]]                                | ~58 g                         |
+	- | plant part | compound                                  | amount per 100 g |
+	  |----------------|-------------------------------------------------|-----------------------|
+	  | leaves         | [[epicatechin]]                                 | –                     |
+	  | leaves         | [[apigenin c-di-hexoside]]                      | –                     |
+	  | leaves         | [[myricetin-o-hexose-deoxyhexose]]              | –                     |
+	  | leaves         | [[myricetin-o-deoxyhexose]]                     | –                     |
+	  | leaves         | [[vicenin-2]]                                   | –                     |
+	  | leaves         | [[gallic acid]]                                 | –                     |
+	  | leaves         | [[catechin]]                                    | –                     |
+	  | leaves         | [[epicatechin]]                                 | –                     |
+	  | leaves         | [[myricetin-3-rhamnopyranoside]]                | –                     |
+	  | leaves         | [[quercetin-3-glucopyranoside]]                 | –                     |
+	  | leaves         | [[quercetin-3-rhamnopyranoside]]                | –                     |
+	  | leaves         | [[delphinidin-3-glycoside (anthocyanin)]]       | –                     |
+	  | leaves         | [[other acylated anthocyanins]]                 | –                     |
+	  | leaves & bark  | [[lupeol]]                                      | –                     |
+	  | leaves & bark  | [[α-amirin]]                                    | –                     |
+	  | leaves & bark  | [[olean-18-ene acid (oleanolic-type triterpene)]] | –                   |
+	  | leaves & bark  | [[frideline]]                                   | –                     |
+	  | leaves & bark  | [[stigmasterol]]                                | –                     |
+	  | leaves & bark  | [[prenol]]                                      | –                     |
+	  | leaves & bark  | [[α-tocopherol]]                                | –                     |
+	  | leaves & bark  | [[24-methylenecycloartan-3-one]]                | –                     |
+	  | leaves & bark  | [[hexadecanoic acid methyl ester]]              | –                     |
+	  | leaves & bark  | [[hexadecanoic acid ethyl ester]]               | –                     |
+	  | leaves & bark  | [[octadecanoic acid methyl ester]]              | –                     |
+	  | leaves & bark  | [[phytol]]                                      | –                     |
 	- operations
 		- [[propagate plants]]: grown from [[seed]] immediately after harvest, can also propagate by stake or cutting in humid, protected beds
 		- [[maintenance]]: prune to manage height and shape, especially in [[agroforestry systems]], coppices well, add [[mulch]] and [[compost]] annually
@@ -73,9 +138,6 @@ alias:: inga, snowfruit, inga edilus
 			- seed: extracted from pulp, dried for [[flour]] or [[animal feed]]
 			- leaves: used as [[mulch]] or [[fodder]], collected manually
 			- wood: harvested from prunings or old trees for [[firewood]] and [[biochar]]
--
-- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmR84KRKJ5hawM7dbqqGwvkauwNgh4Wn9y1s9Ghfy6pE38)
-- ![](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmR84KRKJ5hawM7dbqqGwvkauwNgh4Wn9y1s9Ghfy6pE38)
 - | Age of tree (years) | Trees per ha | Pruning (%) | Spacing (m) | DM of leaves (kg/tree) | DM of wood (kg/tree) | DM of leaves (Mg/ha) | DM of wood (Mg/ha) | Total above-ground biomass (Mg/ha) |
   |---------------------|--------------|-------------|-------------|------------------------|----------------------|----------------------|--------------------|-----------------------------------|
   | 1                   | 5000         | 0           | 1 × 2       | 0.4                    | 0.3                  | 2.10                 | 1.65               | 3.75                              |

@@ -13,21 +13,59 @@ type:: sector
 - TODO [[litchi chinensis]]
 - [[triphasia trifolia]]
 - TODO [[strobilanthes auriculatus]]
-- TODO [[magnolia champaca]]
 - [[citrus sinensis]]
-- [[persea americana]]: 3
+- [[persea americana]]: 5
 - [[citrus sinensis]]
 - [[albizia julibrissin]]
-- TODO [[mussaenda philippica]]
 - TODO [[persea americana]]
-- TODO [[codiaeum variegatum]]
 - [[citrus sinensis]]
 - [[gladiolus murielae]]
 - [[casuarina equisetifolia]]
 - [[camellia japonica]]
 - [[dracaena sanderiana]]
-- TODO [[asplenium nidus]]
 - [[pleroma semidecandrum]]
 - TODO [[alpinia purpurata]]
 - TODO [[jasminum sambac]]
 - TODO [[thuja occidentale]]
+- [[asplenium nidus]]
+- [[thymus vulgaris]]
+- [[origanum vulgare]]
+- [[centella asiatica]]
+- [[plantago]]
+- [[acmella repens]]
+- [[tarelmounia elliptica]]: 7
+- [[duranta erecta]]: 3
+- [[xanthosoma sagittifolium]]: 6
+- [[ophiopogon japonicus]]: 7
+- [[cestrum nocturnum]]
+- [[musa acuminata]]
+- [[carica papaya]]
+- [[daucus carota]]: 5
+- [[eupatorium capillifolium]]: 2
+- [[melastoma malabathricum]]
+- [[myristica fragrans]]: 2
+- [[lantana camara]]
+- [[blechnum brasiliense]]
+- [[gmelina arborea]]: 7
+- [[digitaria ciliaris]]
+- [[oplismenus hirtellus]]
+- wall
+	- [[cymbopogon citratus]]
+	- [[eupatorium capillifolium]]
+	- [[calliandra calothyrsus]]
+	- [[melastoma malabathricum]]
+	- [[lantana camara]]
+	- [[stachytarpheta urticifolia]]
+	- [[trema orientalis]]
+	- [[dahlia imperialis]]
+	- [[debregeasia longifolia]]
+	- [[ageratina riparia]]
+	- [[austroeupatorium inulifolium]]
+	- [[macrothelypteris torresiana]]: 4
+	- [[rubus rosifolius]]
+	- [[christella dentata]]: 2
+- dead
+	- [[magnolia champaca]]
+	- [[mussaenda philippica]]
+	- [[codiaeum variegatum]]
+	- [[asplenium nidus]]

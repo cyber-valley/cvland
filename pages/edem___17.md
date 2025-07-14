@@ -5,7 +5,6 @@ type:: sector
 	- [[edem/18]]
 - TODO [[manilkara kauki]]
 - [[casuarina equisetifolia]]
-- TODO [[ixora coccinea]]
 - [[magnolia alba]]
   :LOGBOOK:
   CLOCK: [2024-04-26 Fri 06:30:27]--[2024-04-26 Fri 08:11:05] =>  01:40:38
@@ -16,13 +15,10 @@ type:: sector
   CLOCK: [2024-04-26 Fri 06:45:35]--[2024-04-26 Fri 08:11:06] =>  01:25:31
   :END:
 - [[muntingia calabura]]
-- TODO [[melaleuca viminalis]]
 - TODO [[flacourtia indica]]
 - [[pyrus communis]] green
-- TODO [[selenicereus undatus]]
 - [[annona muricata]] white
 - [[pouteria campechiana]]
-- DONE [[prunus armeniaca]]
 - TODO [[diospyros nigra]]
 - TODO [[malus pumila]]
 - [[eriobotrya japonica]]
@@ -33,6 +29,39 @@ type:: sector
 - TODO [[ficus carica]]
 - TODO [[magnolia champaca]]
 - TODO [[rubus fruticosus]]: 5
-- [[debregeasia longifolia]]: 8
-- [[melastoma malabathricum]]: 2
+- [[debregeasia longifolia]]: 3
+- [[melastoma malabathricum]]
 - [[calliandra calothyrsus]] : 1
+- [[centella asiatica]]
+- [[plantago]]
+- [[acmella repens]]
+- [[salvia leucantha]]
+- [[rubus rosifolius]]:4
+- [[cosmos sulphureus]]
+- [[muntingia calabura]]
+- [[cereus hexagonus]]
+- [[plumeria rubra]]: 3
+- [[passiflora edulis]]
+- [[musa acuminata]]
+- [[phlegmariurus squarrosus]]
+- [[sonchus oleraceus]]
+- [[syngonium podophyllum]]
+- [[medicago sativa]]
+- wall
+	- [[calliandra calothyrsus]]
+	- [[melastoma malabathricum]]
+	- [[lantana camara]]
+	- [[stachytarpheta urticifolia]]
+	- [[debregeasia longifolia]]
+	- [[ageratina riparia]]
+	- [[rubus rosifolius]]
+	- [[macrothelypteris torresiana]]
+	- [[austroeupatorium inulifolium]]
+	- [[christella dentata]]
+	- [[glaphyropteridopsis erubescens]]: 2
+- dead:
+	- [[ixora coccinea]]
+	- [[melaleuca viminalis]]
+	- [[selenicereus undatus]]
+- DONE [[prunus armeniaca]]
+-

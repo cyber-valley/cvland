@@ -8,37 +8,63 @@ type:: sector
 	  collapsed:: true
 		- [[symphytum officinale]]
 	- [[citrus japonica]]
-	- DONE [[phaleria macrocarpa]]
+	- [[phaleria macrocarpa]]
 	- [[citrus japonica]]
 	- [[punica granatum]] black
 	- [[diospyros kaki]]
 	- [[melaleuca viminalis]]
 	- [[melaleuca quinquenervia]]
-	- [[moringa oleifera]]
-	- [[cinnamomum verum]]
-	- DONE [[morinda citrifolia]]
-	- [[moringa oleifera]]
+	- [[morinda citrifolia]]
 	- [[diospyros kaki]]
 	- [[diospyros kaki]]
-	- [[cinnamomum verum]]
 	- [[spondias dulcis]]
-		- [[salvia rosmarinus]]
+		- [[salvia rosmarinus]]: 3
 - [[beds]]
 	- [[cnidoscolus aconitifolius]]: 2
-	- [[kalanchoe pinnata]]
-	- [[hydrocotyle umbelara]]
-	- [[rumex sanguineus]]
-	- [[ocimum basilicum]]
-	- [[solanum melongena]]
+	- [[kalanchoe pinnata]]: 3
+	- [[hydrocotyle umbellata]]
+	- [[rumex sanguineus]]: 5
 	- [[origanum vulgare]]
 	- [[cymbopogon citratus]]
 	- [[eleupherine bulbosa]]
-	- [[centella asiatica]]
 	- [[mentha citrata]]
 	- [[mentha spicata]]
 	- [[mentha suaveolens]]
-	- [[gynura divaricata]]
 	- [[strobilanthes reptans]]
+	- [[acorus calamus]]
+	- [[pogostemon cablin]]
+	- [[jatropha podagrica]]
+	- [[stevia rebaudiana]]
+	- [[plantago]]
+	- [[centella asiatica]]
+	- [[iresine diffusa herbstii]]
+	- [[musa acuminata]]
+	- [[carica papaya]]: 5
+	- [[allium tuberosum]]
+	- [[vernonia amygdalina]]
+	- [[fragaria ananassa]]
+	- [[daucus carota]]
+	- [[pteridium aquilinum]]
+	- [[rubus rosifolius]]
+	- [[thymus vulgaris]]
+	- [[acmella repens]]
+- wall
+	- [[cymbopogon citratus]]
+	- [[eupatorium capillifolium]]
+	- [[calliandra calothyrsus]]
+	- [[melastoma malabathricum]]
+	- [[lantana camara]]
+	- [[stachytarpheta urticifolia]]
+	- [[symphytum officinale]]
+	- [[trema orientalis]]
+	- [[inga edulis]]
+	- [[debregeasia longifolia]]
+- dead:
+	- [[moringa oleifera]]: 2
+	- [[cinnamomum verum]]: 2
+	- [[ocimum basilicum]]
+	- [[solanum melongena]]
+	- [[gynura divaricata]]
 	- [[basella alba]]
--
+	-
 -

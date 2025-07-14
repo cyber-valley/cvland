@@ -2,7 +2,7 @@
 - [[agathis dammara]]
 - [[melaleuca alternifolia]]
 - [[curcuma longa]]
-- [[debregaesia longifolia]]
+- [[debregeasia longifolia]]
 - [[bambusa]]
 - [[musa]]
 - [[ricinus communis]]
