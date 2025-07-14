@@ -1,7 +1,7 @@
 tags:: building, private
 alias:: elon
-size:: 70
-shape:: 10*7
+size:: 96
+shape:: 12*8
 
 - multipurpose facility
 - components

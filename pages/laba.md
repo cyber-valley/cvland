@@ -1,3 +1,7 @@
+tags:: building
+size:: 70
+shape:: 10*7
+
 - production facility for autonomous estate
 - modular wood + metal workshop
 	- space: 60–70 m²
