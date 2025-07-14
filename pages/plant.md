@@ -35,7 +35,7 @@ alias:: the plant
 	- [[products]]: array of posible products
 	- [[chemical compounds]]: description of compounds that are in each part of the plant (root, leaves, flowers, fruits, bark, timber)
 	- operations: how to manage the plant
-		- [[propagate plants]]: text description
+		- [[propagation]]: text description
 		- [[maintenance]]: text description
 		- [[harvest]]: text description through the lense of [[products]]
-	- [[margin]]
+	-

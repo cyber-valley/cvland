@@ -1,4 +1,5 @@
-tags:: building
+tags:: building type
+type:: public
 
 - TODO signs on the road to [[cyber valley]] and [[citadel genesis]]
 - TODO publish instructions on how to get here

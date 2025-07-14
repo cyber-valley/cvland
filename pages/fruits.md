@@ -1,3 +1,4 @@
+tags:: market
 alias:: fruit
 
 - [[staple]]
@@ -22,7 +23,7 @@ alias:: fruit
 	- [[orangee]]
 	- [[grapefruit]]
 	- [[rosiberry]]
-	- [[mullberry]]
+	- [[mulberry]]
 	- [[strawberry]]
 - seasonal
 	- [[pear]]

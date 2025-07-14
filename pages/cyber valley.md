@@ -1,10 +1,16 @@
 icon:: ⛰
-alias:: cv
+alias:: cv, about
+tags:: cv.land
 
-- Hi everyone! we are [[rockets]]!
-- we are building the [[sustainable community]]
-- in the north of Bali mountains
-- on approximately 36.4 hectares
+- # From Urban Survival to Forest Arrival
+- what is cyber valley?
+	- epicenter of mountain tourism
+	- sustainable event platform
+	- digital nomad hub
+-
+- ## [[visit us]]
+- burn.city: platform for iconic events in nature
+- [[cve]]: legal entiry
 - ![image.png](../assets/image_1725868123641_0.png)
 -
 -
@@ -18,7 +24,6 @@ alias:: cv
 	- in the most beautiful places on earth
 	- at extremely low cost which can be less when price of average car
 -
-- ## [[apply for bootcamp]] or [[visit us]]
 -
 - ## discover [[cv/districts]]
 -

@@ -14,3 +14,5 @@ tags:: collectable
   query-sort-by:: nitrogener
   query-sort-desc:: true
   query-properties:: [:page :nitrogener]
+- {{query (and (property :nitrogener) (and) (page-property :supply "next-month"))}}
+  query-table:: true

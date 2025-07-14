@@ -1,9 +1,6 @@
 alias:: markiza, passion fruit
 tags:: genus, collectable
-abundance:: yes
-supply:: no
-margin:: medium
-autonomy:: staple
+scalable:: true
 
 - selected for [[edem]]
 	- {{embed [[passiflora vitifolia]]}}
@@ -11,4 +8,4 @@ autonomy:: staple
 	- {{embed [[passiflora quadrangularis]]}}
 	- {{embed [[passiflora alata]]}}
 	- {{embed [[passiflora ligularis]]}}
-- [[health]]
+- [[biohacking]]

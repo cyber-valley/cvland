@@ -1,1 +1,1 @@
-tags:: building, planned
+tags:: planned

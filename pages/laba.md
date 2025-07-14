@@ -1,8 +1,36 @@
+<<<<<<< Updated upstream
 tags:: building
 size:: 70
 shape:: 10*7
 
+||||||| Stash base
+=======
+tags:: building
+size:: 80
+shape:: 20*4
+
+>>>>>>> Stashed changes
 - production facility for autonomous estate
+- storage of products
+	- [[cup]]
+	- [[box]]
+	- [[sign]]
+- storage of materials
+	- space:: 36
+	- [[bamboo]] 6 m
+	- [[wood]] 4 m
+	- [[metal]] 4 m
+	- [[glass]]: 1*2m
+	- [[polycarbonate]]
+	- [[silicone]]
+	- [[rope]]
+	- [[wood ash]]
+	- [[lime paste]]
+	- [[kaoline clay]]
+	- [[piping]]
+	- [[wiring]]
+	- [[solar panel]]
+	- [[equipment]]
 - modular wood + metal workshop
 	- space: 60–70 m²
 	- functions
@@ -24,18 +52,15 @@ shape:: 10*7
 		- basic soldering & tool maintenance bench
 		- glass cutter table (dual-use bench)
 		- note: non-flammable insulation for safe plastic work
-- tool storage and chargin stations (central depot)
+- tool storage and charging stations
 	- 2 electric saw and 8 charging station
 	- functions: dry storage of wood, pipes, sheets, tools
 	- structure:
 		- double-layer vertical storage racks
 		- tight-fit compartments and labeled crates
-- materials storage
-	- climate-controlled cabinet for sensitive materials (epoxy, paints)
-	- space: 35–40 m² covered, plus some semi-sheltered pallets
 - open-air yard
+	- space:: 16
 	- functions:
-	- space: 50–100 m² outdoor (unroofed or tarp-roofed)
 	- space for workers and debarcation zone
 	- rain-shedding roof with no walls or only windbreaks
 	- stone or concrete floor

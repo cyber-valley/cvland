@@ -14,7 +14,7 @@
 		- placement for producer and operator
 		- bootcamp participants preferable
 - construct infrastructure [[@joe]]
-	- [[edu]]: creative space
+	- [[coworking]]: creative space
 	- 6 [[residential buildings]]
 		- make them cozy: [[@joy]] and [[@love]]
 	- [[organiq]] construction [[@joe]]

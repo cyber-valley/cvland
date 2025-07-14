@@ -1,0 +1,2 @@
+tags:: term
+alias:: technology

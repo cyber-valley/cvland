@@ -2,7 +2,7 @@
 - schedule
 	- 00:00 - morning harvest
 	- after or not later than 01:00  - special orders, if not => follow up
-	- [[propagate plants]] : [[seed collection]], [[cuttings]], [[air layering]]
+	- [[propagation]] : [[seed collection]], [[cuttings]], [[air layering]]
 	- 02:00 - construction of new beds
 	- 05:00 - lunch harvest
 	- after or not later than 06:00 - soil and compost production

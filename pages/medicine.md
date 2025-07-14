@@ -1,4 +1,4 @@
-tags:: collectable
+tags:: collectable, market
 
 - [[adenium obesum]]
 - [[artemisia absinthium]]

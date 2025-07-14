@@ -9,7 +9,7 @@ icon:: 🌈
 	- abundance: yes, limited, trial, none, gone
 	- supply: yes, later, wishlist, no
 	- margin: high, mid, low, none
-	- autonomy: staple, support, export, none
+	- autonomy: support, staple, extra
 -
 - ## [[species/all]]
 - ## [[species/research]]

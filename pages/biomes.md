@@ -5,4 +5,4 @@
 	- TODO high margin [[rhizome]] biome in [[sinwood]]
 	- TODO [[wildness pioneers]] in [[etherland]]
 	- [[taman warisan]] biome in [[perma]] and [[asgard]]
-	- [[mantanoa]] biome
+	- [[montanoa]] biome

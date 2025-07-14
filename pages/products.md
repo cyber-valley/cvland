@@ -7,20 +7,19 @@ tags:: term
 	- [[plant/features]]: intrinsic features related to [[boime]] services
 	- [[brown]] and [[green]]: [[soil]] production function
 	- [[diversity]]: if the sole purpose of life form is to support genetic diversity
-	- [[seeds]] and [[seedlings]]
-- staple [[eat]] and [[fodder]]
+- staple [[food]] and [[fodder]]
 	- [[oil]]: the most energy dense product
 	- [[carbs]]: carbs dense product
 	- [[proteins]]: protein rich product
 - wellness
-	- [[health]]: can be eaten for improving essential body functions
-	- [[cosmetics]]: applied externally for body care
-	- [[aroma]]: for olfactory pleasure and for [[essential oil]] extraction
-	- [[mental]]: have mental effects
+	- [[health]]: can be eaten for preventing illness and improving essential body functions
+	- [[cosmetics]]: can be applied externally for skin, hair and body care
 	- [[medicine]]: deals with treatment in case of trauma or acute conditions
+	- [[psycho]]: have psychoactive effects
 	- [[flower]]: beautiful flowers for [[floristics]]
+	- [[aroma]]: for olfactory pleasure and for [[essential oil]] extraction
 	- [[indoor]]: plants for aesthetics and air purification
-- [[eat]] by types
+- [[food]] by types
 	- [[drink]]: can produce [[juice]], [[tea]], [[sap]] or [[milk]]
 	- [[meat]]: can produce meaty structure
 	- [[starch]]: thickening, stabilizing and binding food

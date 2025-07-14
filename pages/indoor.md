@@ -1,3 +1,5 @@
+tags:: market
+
 - top species by indoor popularity
 	- [[chlorophytum comosum]]
 	- [[spathiphyllum]]
