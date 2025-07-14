@@ -1,5 +1,6 @@
 tags:: species
 alias:: kudzu, ge-gen
+supply:: wishlist
 
 - crazy powerful vine
 - nitrogener: 200

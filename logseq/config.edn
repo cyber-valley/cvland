@@ -128,7 +128,7 @@
  ;; If `:sidebar` remains unset, the right sidebar will stay hidden.
  ;; Examples:
  ;; 1. Set "Changelog" as the home page and display "Contents" in the right sidebar:
- :default-home {:page "cyber valley"}
+ :default-home {:page "cv.land"}
  ;; 2. Set "Jun 3rd, 2021" as the home page without the right sidebar:
  ;; :default-home {:page "Jun 3rd, 2021"}
  ;; 3. Set "home" as the home page and display multiple pages in the right sidebar:
@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["cyber valley" "genesis" "bridge" "bootcamp" "sytech" "token engineering" "legal engineering" "projects" "supply"]
+ :favorites ["cv.land"]
 
  ;; Set flashcards interval.
  ;; Expected value:

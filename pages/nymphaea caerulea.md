@@ -1,1 +1,2 @@
-tags:: species, research
+tags:: species, research, psycho
+alias:: blue lotus

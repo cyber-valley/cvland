@@ -1,4 +1,4 @@
 tags:: species, algae
 alias:: chlorella
 
-- [[high margin]] [[biohacking]]
+- [[high margin]] [[health]]

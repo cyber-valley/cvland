@@ -1,3 +1,5 @@
+tags:: cv.land
+
 - [[unique location]]
 - [[perfect climate]]
 - [[amazing views]]
@@ -9,3 +11,4 @@
 - [[spirit of freedom]]
 - [[engaging events]]
 - [[accesable for the most]]
+- [[culture]]

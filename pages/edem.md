@@ -1,4 +1,7 @@
-tags:: rocket estate
+tags:: district, team
+
+ops:: false
+dev:: false
 
 - TODO move to dedicated graph altogether with majority of [[species]]
 - experimental high labour [[magic forest]]
@@ -6,6 +9,8 @@ tags:: rocket estate
 - TODO strategic supplier of [[organiq]] and genetics for [[citadel genesis]]
 - {{query (or (page-tags [[edem]]) (namespace [[edem]]))}}
   query-properties:: [:page]
+  query-sort-by:: page
+  query-sort-desc:: false
 -
 - ## navigation
 	- [[edem/sectors]] from top to bottom

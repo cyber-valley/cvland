@@ -1,11 +1,15 @@
 alias:: taro
 tags:: species, major, super
+abundance:: yes
+supply:: no
+margin:: medium
+autonomy:: staple
 
 - ![Taro | Description, Plant, Root, Edible, Poisonous, & Facts | Britannica](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmX2EgRoVrKzidXrrJprTmk6i1qqvwVxXJhMBnC95JU9ut)
 - products
 	- [[root]]
 - [[plant/features]]
-	- [[staple]] [[food]]
+	- [[staple]] [[eat]]
 	- [[attractor]]
 	- [[potassium]] [[accumulator]]
 - [[plant/edible]], [[root vegetable]], [[high starch]]
@@ -39,7 +43,7 @@ tags:: species, major, super
 	- growth: develops large leaves and matures in 6–12 months depending on variety
 	- harvest: corms are ready for harvest when leaves start wilting
 - [[operations]]
-	- [[propagation]]: mainly vegetative, using corms or cormels
+	- [[propagate plants]]: mainly vegetative, using corms or cormels
 	- [[maintenance]]:
 		- [[irrigation]]: consistent moisture is essential
 		- [[weed control]]: weeds compete with young plants and should be removed regularly

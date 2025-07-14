@@ -1,3 +1,4 @@
 tags:: species
+supply:: urgent
 
-- [[medicine]]
+- [[medicine]] and [[health]]

@@ -1,3 +1,3 @@
 tags:: species, major
 
-- [[high margin]] [[biohacking]]
+- [[high margin]] [[health]]

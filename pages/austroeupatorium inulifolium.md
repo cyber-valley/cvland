@@ -1,5 +1,9 @@
 alias:: fragrant, austroeupatorium
 tags:: species, genus, major
+abundance:: yes
+supply:: no
+margin:: low
+autonomy:: support
 
 - ![image.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmcvAzhLTwkwVf4kZx6ZpUJinScXvtiwmBaLRSeuQXES99)
 - very talented bush

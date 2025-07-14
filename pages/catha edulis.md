@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, prohibited, psycho
 alias:: khat
 
 -

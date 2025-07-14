@@ -1,4 +1,4 @@
-tags:: species, research, major
+tags:: species, research, major, psycho
 alias:: saffron
 
 - [[high margin]] [[spice]]

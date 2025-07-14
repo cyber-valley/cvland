@@ -1,4 +1,4 @@
-tags:: specie
+tags:: species
 alias:: fukugi
 
 - availability:: hanara

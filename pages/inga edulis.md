@@ -131,7 +131,7 @@ alias:: inga, snowfruit, inga edilus
 	  | leaves & bark  | [[octadecanoic acid methyl ester]]              | –                     |
 	  | leaves & bark  | [[phytol]]                                      | –                     |
 	- operations
-		- [[propagation]]: grown from [[seed]] immediately after harvest, can also propagate by stake or cutting in humid, protected beds
+		- [[propagate plants]]: grown from [[seed]] immediately after harvest, can also propagate by stake or cutting in humid, protected beds
 		- [[maintenance]]: prune to manage height and shape, especially in [[agroforestry systems]], coppices well, add [[mulch]] and [[compost]] annually
 		- [[harvest]]:
 			- fruit: harvested when pods mature and become slightly soft, aril is eaten fresh or processed

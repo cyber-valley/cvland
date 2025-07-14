@@ -1,4 +1,4 @@
-tags:: species
+tags:: species, psycho
 alias:: mondokaki
 supply:: tokopedia
 

@@ -1,4 +1,4 @@
-tags:: species, major, research
+tags:: species, major, research, psycho
 
 - [[high margin]] 
   
@@ -8,4 +8,4 @@ tags:: species, major, research
 - increase in [[dopamine]]
 - better [[sperm]]
 - [tokopedia](https://www.tokopedia.com/ukibibit/1-kg-benih-mucuna-pruriens?extParam=ivf%3Dfalse%26src%3Dsearch)
-- [[high margin]] [[biohacking]]
+- [[high margin]] [[health]]

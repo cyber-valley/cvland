@@ -3,7 +3,61 @@ type:: sector
 - connected to [[edem/sectors]]
 	- [[edem/01]]
 	- [[edem/03]]
+- [[bed]] cozy adenium
+	- [[bergera koenigii]]
+	- [[diospyros nigra]]
+		- [[symphytum officinale]]
+	- [[adenium obesum]]: 4
+	- [[crassula ovata]]
+	- [[capsicum annuum]]
+- [[bed]] breezy talinum
+	- [[talinum paniculatum]]
+	- [[synsepalum dulcificum]]
+	- [[inga edulis]]
+		- DONE [[lycium barbarum]]
+		- [[colocasia esculenta]]
+- [[bed]] cozy talinum
+	- [[talinum fruticosum]]
+	- [[plinia cauliflora]]
+		- [[symphytum officinale]]
+		- [[salvia leucantha]]
+		- [[salvia rosmarinus]]
+	- [[sapindus mukorossi]]: 5
+	- [[artocarpus heterophyllus]]
+		- [[symphytum officinale]]
+	- [[punica granatum]] red
+		- [[calliandra calothyrsus]]
+- [[bed]] breezy cactus
+	- [[cover]]
+		- [[acmella repens]]: 80%
+	- [[edge]] [[herbs]]
+		- [[lavandula angustifolia]]: 3
+		- [[salvia leucantha]]: 2
+		- [[salvia officinalis]]: 1
+	- [[core]] [[herbs]]
+	- [[crown]] [[herbs]]
+		- [[nopalea cochenillifera]]: 10
+		- [[dracaena angolensis]]: 10
+		- [[echinocereus coccineus]]: 5
+		- [[euphorbia lactea]]: 1
+	- [[shrub]]
+		- [[morus nigra]] [[guild]]
+		- [[trichanthera gigantea]] [[guild]]
+	- [[dwarf]]
+		- [[carica papaya]] [[guild]]
+		- [[citrus hystrix]] [[guild]]
+		- [[melastoma malabathricum]] [[guild]]
+			- [[piper nigrum]]
+	- [[canopy]]
+		- [[trema orientalis]]
+			- [[passiflora ligularis]]
+		- [[cinnamomum verum]]
+		- [[dimocarpus longan]] [[guild]]
+			- [[hylodesmum repandum]]
+			- [[irresine diffusa herbstii]]
+			- [[comfrey]]
 - [[wall]] east fern
+  collapsed:: true
 	- [[debregeasia longifolia]]
 	- [[senna septemtrionalis]]
 	- [[pteris vittata]]
@@ -29,6 +83,7 @@ type:: sector
 	- [[cyathea arborea]]
 	- [[debregeasia longifolia]]
 - [[wall]] west fern
+  collapsed:: true
 	- [[pitorogramma calomenalos]]
 	- [[glaphyropteridopsis erubescens]]
 	- [[cyathea arborea]]

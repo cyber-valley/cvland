@@ -1,18 +1,7 @@
-## [[edible oils]]
-- {{query (and (property :supply "next-month") (property :project "edible oils"))}}
-  query-sort-by:: page
+- {{query (property :supply "yes")}}
   query-table:: true
-  query-sort-desc:: false
-  query-properties:: [:page :alias :wood-density]
-- ## pasture and fodder
-- {{query (and (property :supply "next-month") (property :project "fodder"))}}
-  query-table:: true
-  query-properties:: [:page :alias :wood-density]
+  query-properties:: [:page :alias :margin]
 -
-- ## technical oils
-- {{query (and (property :supply "next-month") (property :project "technical oil"))}}
-  query-table:: true
-  query-properties:: [:page :alias :wood-density]
 - ## ironwoods
 - {{query (and (property :supply "next-month") (property :market "ironwoods"))}}
   query-table:: true

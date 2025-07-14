@@ -1,5 +1,6 @@
 alias:: european yew
 tags:: species
+supply:: wishlist
 
 - availability:: unknown
 - [[conifer]]

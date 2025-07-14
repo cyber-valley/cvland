@@ -2,6 +2,6 @@
 - which choose to be self sufficient in all key needs
 	- [[energy]]
 	- [[water]]
-	- [[food]]
+	- [[eat]]
 	- [[data]]
 	- [[and more]]

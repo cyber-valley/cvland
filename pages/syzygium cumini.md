@@ -81,7 +81,7 @@ alias:: jamblang
 		  | cellulose          | timber         | ~40–50%          | main structural component of wood                                       |
 		  | aromatic resins    | timber         | trace <1%        | contributes to wood scent and resistance to pests                       |
 	- operations
-		- [[propagation]]: mainly by fresh seed. vegetative methods include softwood grafting and budding for cultivar maintenance
+		- [[propagate plants]]: mainly by fresh seed. vegetative methods include softwood grafting and budding for cultivar maintenance
 		- [[maintenance]]: light pruning to manage crown shape and remove dead branches. [[mulch]] and [[compost]] around base. irrigation during dry periods in early years
 		- [[harvest]]:
 			- fruit: handpicked from branches when deep purple and soft (seasonally, 1–2 flushes/year)
@@ -98,7 +98,7 @@ alias:: jamblang
 - products
 	- [[fruit]]
 - ### review of the syzygium cumini
-	- tropical [[evergreen tree]] native to the indian subcontinent and southeast asia. it is widely cultivated for its [[fruit]] , which is known for its distinctive color and [[taste]]. the tree is valued for its various uses in [[food]], [[medicine]], and [[landscaping]].
+	- tropical [[evergreen tree]] native to the indian subcontinent and southeast asia. it is widely cultivated for its [[fruit]] , which is known for its distinctive color and [[taste]]. the tree is valued for its various uses in [[eat]], [[medicine]], and [[landscaping]].
 - #### parts of the plant and their uses
 - #### products
 	- **root**: the roots of syzygium cumini are sometimes used in [[traditional medicine]]. they are believed to have [[astringent]] properties and are used to treat [[digestive]] disorders and manage [[blood sugar]] levels.

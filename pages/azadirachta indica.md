@@ -3,7 +3,7 @@ alias:: neem, mimba
 wood-density:: 600
 supply:: next-month
 market:: technical oil
-propagation:: seeds
+propagate-plants:: seeds
 
 -
 -

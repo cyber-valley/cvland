@@ -1,3 +1,3 @@
 tags:: species, plant
 
-- [[biohacking]]
+- [[health]]

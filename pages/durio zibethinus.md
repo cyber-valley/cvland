@@ -1,4 +1,4 @@
-tags:: species, major, collectable
+tags:: species, major
 alias:: durian
 wood-density:: 500
 wood-availability:: local

@@ -112,7 +112,7 @@
 - raising issues and their mitigations
 	- resources availability
 		- the availability of basic resources such as
-		- [[land]], [[energy]], [[shelter]] and [[food]] plays a critical role
+		- [[land]], [[energy]], [[shelter]] and [[eat]] plays a critical role
 		- even with a favorable female-biased ratio, if resources are scarce,
 		- population growth may harm the environment
 		- these needs must be optimized on the lowest level of [[community consensus]]

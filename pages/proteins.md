@@ -1,6 +1,24 @@
 tags:: market
 alias:: protein
 
+- system synergy potential (micro-ecosystem stacking)
+	- animal hotels
+		- species:: [[chicken]]
+	- surface ponds
+		- species:: [[duckweed]], [[azolla]], [[pomacea]], [[achatina]], [[tilapia]], [[catfish]], [[carp]]
+		- function:: protein + aquatic biomass
+	- compost units
+		- species:: [[bsf]], [[crickets]], [[mealworms]]
+		- function:: protein conversion from food scraps
+	- vertical towers
+		- species:: [[basella]], [[moringa]], [[chaya]]
+		- function:: continuous leafy greens
+	- dry terraces
+		- species:: [[chaya]] , [[amaranth]], [[cassava]]
+		- function:: leaf/starch protein base
+	- logs/shade layer
+		- species:: [[hericium]], [[ganoderma]]
+		- function:: medicinal + supplemental protein
 - plant based protein in raw form
 	- [[ipomoea batatas]]
 	- [[basella alba]]
@@ -70,3 +88,4 @@ alias:: protein
 - **[[monoclonal antibodies]]**: laboratory-made proteins used in treating diseases like cancer.
 - **[[hormones]]**: protein-based signaling molecules (e.g., growth hormone).
 - **[[transport proteins]]**: facilitate the movement of molecules (e.g., sodium-potassium pump).
+-

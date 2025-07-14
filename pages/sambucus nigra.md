@@ -8,7 +8,7 @@ tags:: species, major
 - [[plant/features]]
 	- [[attractor]]
 	- [[health]]
-	- [[food]]
+	- [[eat]]
 	- [[attractor]]
 - research
 	- [bioactive properties of sambucus nigra as a functional ingredient for food and pharmaceutical industry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7185606/)

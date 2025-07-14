@@ -6,7 +6,7 @@
 - [[plants/genus]]
 - [[plants/species]]
 	-
-- [[plants/psycho]]
+- [[plants/mental]]
 -
 - [[plants/rare]]
 -

@@ -1,9 +1,11 @@
+tags:: building, cv.land
 alias:: organic market
-tags:: building
+size:: 64
+shape:: 8*8
 
 - market of nutrient dense food grown on healthy soil
 - products
-	- [[food]]
+	- [[eat]]
 		- [[honey]]
 		- [[batat]]
 		- [[taro]]
@@ -29,5 +31,3 @@ tags:: building
 	- [[floristics]]
 	- [[culinary]]
 	- [[genetics]]
-- [gihub](https://github.com/orgs/cyber-valley/projects/4) link to the board with limited access
--

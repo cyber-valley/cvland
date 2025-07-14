@@ -1,8 +1,12 @@
 tags:: species, major, collectable, super
 alias:: avocado, alpukat
+abundance:: yes
+supply:: no
+margin:: medium
+autonomy:: staple
 
 - [[staple]]
-- fermented [[leave]] for [[biohacking]]: [[sterols]]
+- fermented [[leave]] for [[health]]: [[sterols]]
 - ![Screenshot 2024-05-23 at 09.25.18.png](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmPBzCPrsA6BnSSKcXxHRHxXPWgRUicFuJzEy89APzSkM7)
 - wood-density:: 500
 -

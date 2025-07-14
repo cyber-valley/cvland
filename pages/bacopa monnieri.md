@@ -1,3 +1,5 @@
-tags:: species
+tags:: species, genus, plant
+alias:: bacopa
+supply:: urgent
 
-- [[high margin]] [[biohacking]] enhances memory, attention, and cognitive processing
+- [[high margin]] [[health]] enhances memory, attention, and cognitive processing

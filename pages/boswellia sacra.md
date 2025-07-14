@@ -1,5 +1,6 @@
 tags:: species, major, research
 alias:: frankincense
+supply:: wishlist
 
 - ![image](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmfDLN29fmzu5B3XKha3mJX2ec391QPe32i6vfo17YxuF9)
 - ![image](https://peach-geographical-bat-397.mypinata.cloud/ipfs/QmV5kKdjXNqEyVScADeVgu2RmHBhcdPkMfniZ6FFwsfr2M)

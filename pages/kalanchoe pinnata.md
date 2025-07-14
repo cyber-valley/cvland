@@ -1,4 +1,8 @@
 tags:: species, major, super
+abundance:: yes
+supply:: no
+margin:: low
+autonomy:: staple
 
 - [[staple]]
 - [[plant/miracle]]

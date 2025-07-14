@@ -1,3 +1,3 @@
-tags:: living
-workers:: 1
-users:: 2
+tags:: camp
+size:: 100
+shape:: 10*10

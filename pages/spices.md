@@ -1,3 +1,4 @@
+tags:: market
 alias:: spice
 
 - [[rosemary]]
@@ -30,13 +31,12 @@ alias:: spice
 - [[nutmeg]]
 - [[hystrix]]
 - [[zest]]
-- TODO
-	- [[vetiver]]
-	- [[galangal]]
-	- [[vanilla]]
-	- [[bay leaf]]
-	- [[paprika]]
-	- [[saffron]]
-	- [[annatto]]
-	- [[cardamom]]
-	- [[star anice]]
+- TODO [[vetiver]]
+- TODO [[galangal]]
+- TODO [[vanilla]]
+- TODO [[bay leaf]]
+- TODO [[paprika]]
+- TODO [[saffron]]
+- TODO [[annatto]]
+- TODO [[cardamom]]
+- TODO [[star anice]]

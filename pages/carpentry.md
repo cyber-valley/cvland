@@ -1,3 +1,3 @@
 tags:: back
-workers:: 7
-users:: 0
+size:: 40
+shape:: 8*5

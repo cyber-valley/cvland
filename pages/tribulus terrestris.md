@@ -1,4 +1,4 @@
-tags:: species
-alias:: rujak pala
+tags:: species, genus, psycho
+alias:: rujak pala, tribulus
 
 - supply:: next-month

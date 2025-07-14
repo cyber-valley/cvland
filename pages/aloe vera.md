@@ -77,7 +77,7 @@ alias:: aloe
 	  | [[proteins]]                       | fruit/seeds       | 2–5%             | [[seed]] nutrition, [[metabolic]] energy storage                               |
 	  | trace oils                    | fruit/seeds       | <0.5%            | [[seed]] preservation, possible [[skincare]] use                               |
 	- operations
-		- [[propagation]]: propagated by division of offsets (pups); [[seeds]] germinate slowly and unreliably
+		- [[propagate plants]]: propagated by division of offsets (pups); [[seeds]] germinate slowly and unreliably
 		- [[maintenance]]: minimal care; remove dead leaves, divide clumps every 3–4 years; protect from frost and overwatering
 		- [[harvest]]:
 			- leaf gel: harvest outer mature leaves every 2–3 months

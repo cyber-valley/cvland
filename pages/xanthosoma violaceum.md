@@ -1,3 +1,3 @@
 tags:: species
 
-- [[aroid]] with [[food]]
+- [[aroid]] with [[eat]]

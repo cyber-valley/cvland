@@ -1,5 +1,6 @@
 alias:: european larch
 tags:: species
+supply:: wishlist
 
 - availability:: unknown
   [[deciduous]] [[conifer]] with high [[resin]]
