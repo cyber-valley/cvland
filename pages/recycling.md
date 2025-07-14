@@ -1,3 +1,6 @@
+tags:: service
+type:: public
+
 - product based circulation of materials
 - 3 types of processes
 	- positive in green bins

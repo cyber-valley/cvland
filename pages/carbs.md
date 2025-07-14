@@ -1,7 +1,7 @@
 tags:: market
 alias:: carbohidrate, carbohydrates, carb
 
-- the most important species for [[food]] carbs
+- the most important species for [[eat]] carbs
 	- [[cassava]]
 	- [[taro]]
 	- [[batat]]

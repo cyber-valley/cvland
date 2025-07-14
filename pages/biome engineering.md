@@ -12,7 +12,7 @@
 - To guide this complexity, biome engineers use a simple set of [[methods]]:
 	- [[observation]]: perceive rhythm, structure, and signal
 	- [[formation]] prepares the land—groundwork for water, light, and structure
-	- [[propagation]] initiate new life
+	- [[propagate plants]] initiate new life
 	- [[harvesting]] return and redirect energy
 	- [[support]] maintain and adapt to living conditions
 - These actions follow the [[lifecycle]]: germination, growth, reproduction, decline, and decay. Every method is a dance with timing. We don’t impose control—we enter rhythm.

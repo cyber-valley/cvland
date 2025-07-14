@@ -61,7 +61,7 @@ icon:: 🏕️
 	- full moon party
 - ## available facilities
 	- 2+ km of trails on site
-	- [[coworking]]: collaboration space
+	- [[edu]]: collaboration space
 	- [[organiq]]: marketplace and meals
 	- [[carpentry]]: place for crafting cool stuff
 	- [[elons]]: chill with sheeps and starlink

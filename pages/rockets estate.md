@@ -1,5 +1,5 @@
 - products
-	- [[food]]
+	- [[eat]]
 		- [[herbal tea]]: daily blend of best herbs from [[edem]]
 		- [[eternal greens]]: daily blend of perennial salad from [[edem]]
 		- [[root crunch]]: chips from [[taro]] and [[cassava]]
@@ -13,7 +13,7 @@
 	- [[elons]]: life support
 	- [[soft]]: scene for 42 persons
 	- [[perma]]: processing facility of [[plants]], [[animals]] and [[fungi]]
-	- TODO [[gym]]: place for sports
+	- TODO [[vitalik]] : place for sports
 	- TODO [[changing room]]: showers with lockers
 	- TODO [[terrabyte]]: resto with coworking
 	- TODO [[banya]]: spa and joys

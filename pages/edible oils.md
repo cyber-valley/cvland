@@ -5,18 +5,18 @@ tags:: market
 - hero:: [[@master]]
 - deadline:: [[60 mt]]
 - resource:: [[rfe]]
-- [[highland]] species for raw [[food]] oil
+- [[highland]] species for raw [[eat]] oil
 	- [[persea americana]]
 	- [[macadamia tetraphylla]]
 	- [[olea europaea]]
 	- [[prunus dulcis]]
-- [[midland]] species for raw [[food]] oil
+- [[midland]] species for raw [[eat]] oil
 	- [[aleurites moluccanus]]
 	- [[theobroma cacao]]
 	- TODO [[moringa oleifera]]
 	- [[eleocarpus serratus]]
 	- TODO [[anacardium occidentale]]
-- [[coast]] species for raw [[food]] oil
+- [[coast]] species for raw [[eat]] oil
 	- [[cocos nucifera]]
 	- TODO [[elaeis guineensis]]
 	- TODO [[pandanus conoideus]]

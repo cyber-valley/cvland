@@ -1,6 +1,6 @@
 icon:: 🪷
 
-- tags:: cyber valley, permaculture
+- tags:: cyber valley, permaculture, tech, cv.alnd
 - scalable, sustainable, multipurpose ecosystem regeneration
 - idea that combining thoughtful set of species in one ecosystem is very efficient form of sustainability
 - 1 phase: bootstrap ecosystem

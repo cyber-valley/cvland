@@ -13,7 +13,7 @@
 	- [[ageratina riparia]]
 	- [[austroeupatorium inulifolium]]
 	- [[pteridium aquilinum]]
-- protect for [[food]]
+- protect for [[eat]]
 	- [[pouzolzia zeylanica]]
 	- [[bidens pilosa]]
 	- [[sonchus oleraceus]]

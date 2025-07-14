@@ -18,7 +18,7 @@ tags:: district
 - TODO develop tech-based plant catalog
 - TODO host training and outreach: hold workshops, invite local designers/farmers
 - TODO design starter kits
-- [[buildings]]
+- [[building]]
 	- [[kitchen]]: facility for food processing
 - primary plant [[species]]
 	- [[coffea arabica]]
