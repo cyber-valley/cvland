@@ -1,4 +1,32 @@
 {:blocks (
+{:block/created-at 1740909238272
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke "red"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 29
+:scale [1 1]
+:pageId "stove"
+:scaleLevel "xl"
+:fill "red"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [280 216]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ef9b2450-f749-11ef-adc9-4d8835a68f3f"
+:noFill false
+:point [592 -816]
+:parentId "66f651a1-fd21-4186-ab3a-83834f3131a6"
+:collapsedHeight 216
+:nonce 1740908239671}}
+:block/updated-at 1740909238272} 
 {:block/created-at 1740909217835
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -82,6 +110,34 @@
 :parentId "65b3ae5e-5d8b-4ec3-9d19-25a73b2e6491"
 :collapsedHeight 252.06277465820312
 :nonce 1706422625253}}
+:block/updated-at 1740909238275} 
+{:block/created-at 1740909238275
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke "red"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 31
+:scale [1 1]
+:pageId "soil separation"
+:scaleLevel "md"
+:fill "red"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [152 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9cc44110-f74b-11ef-adc9-4d8835a68f3f"
+:noFill false
+:point [2584 816]
+:parentId "66f651a1-fd21-4186-ab3a-83834f3131a6"
+:collapsedHeight 138.99999077843046
+:nonce 1740908959657}}
 :block/updated-at 1740909238275} 
 {:block/created-at 1740909238275
 :block/properties 
@@ -202,6 +258,34 @@
 :parentId "666a5869-2833-4c6a-8bff-d47d869b3caa"
 :nonce 1725883734915
 :italic false}}
+:block/updated-at 1740909238275} 
+{:block/created-at 1740909238275
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke "red"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 30
+:scale [1 1]
+:pageId "wind turbine"
+:scaleLevel "md"
+:fill "red"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [160 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4782d860-f74b-11ef-adc9-4d8835a68f3f"
+:noFill false
+:point [1576 -560]
+:parentId "66f651a1-fd21-4186-ab3a-83834f3131a6"
+:collapsedHeight 138.99999077843046
+:nonce 1740908816642}}
 :block/updated-at 1740909238275} 
 {:block/created-at 1740909238275
 :block/properties 
@@ -827,90 +911,6 @@
 :parentId "65b3ae5e-5d8b-4ec3-9d19-25a73b2e6491"
 :collapsedHeight 138.53015899658203
 :nonce 1706421885626}}
-:block/updated-at 1740909238275} 
-{:block/created-at 1740909238272
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke "red"
-:rotation 0
-:collapsed true
-:borderRadius 8
-:index 29
-:scale [1 1]
-:pageId "stove"
-:scaleLevel "xl"
-:fill "red"
-:compact false
-:isAutoResizing false
-:type "logseq-portal"
-:size [280 216]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "ef9b2450-f749-11ef-adc9-4d8835a68f3f"
-:noFill false
-:point [592 -816]
-:parentId "66f651a1-fd21-4186-ab3a-83834f3131a6"
-:collapsedHeight 216
-:nonce 1740908239671}}
-:block/updated-at 1740909238272} 
-{:block/created-at 1740909238275
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke "red"
-:rotation 0
-:collapsed true
-:borderRadius 8
-:index 30
-:scale [1 1]
-:pageId "wind turbine"
-:scaleLevel "md"
-:fill "red"
-:compact false
-:isAutoResizing false
-:type "logseq-portal"
-:size [160 40]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "4782d860-f74b-11ef-adc9-4d8835a68f3f"
-:noFill false
-:point [1576 -560]
-:parentId "66f651a1-fd21-4186-ab3a-83834f3131a6"
-:collapsedHeight 138.99999077843046
-:nonce 1740908816642}}
-:block/updated-at 1740909238275} 
-{:block/created-at 1740909238275
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke "red"
-:rotation 0
-:collapsed true
-:borderRadius 8
-:index 31
-:scale [1 1]
-:pageId "soil separation"
-:scaleLevel "md"
-:fill "red"
-:compact false
-:isAutoResizing false
-:type "logseq-portal"
-:size [152 40]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "9cc44110-f74b-11ef-adc9-4d8835a68f3f"
-:noFill false
-:point [2584 816]
-:parentId "66f651a1-fd21-4186-ab3a-83834f3131a6"
-:collapsedHeight 138.99999077843046
-:nonce 1740908959657}}
 :block/updated-at 1740909238275})
 :pages (
 {:block/uuid #uuid "66f651a1-fd21-4186-ab3a-83834f3131a6"
