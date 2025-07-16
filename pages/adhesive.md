@@ -7,7 +7,7 @@ tags:: material
 		- rigid (can crack under impact)
 		- requires precise mixing
 		- higher cost
-- ## polyurethane adhesive
+- ## polyurethane adhesive: [github discussion](https://github.com/cyber-valley/rockets/issues/1023)
 	- best for: applications requiring flexibility and impact resistance
 	- strengths: high flexibility, excellent impact absorption, easier application
 	- limitations
