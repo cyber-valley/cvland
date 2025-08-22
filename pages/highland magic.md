@@ -1,0 +1,31 @@
+- the idea of magic forest adopted to a highlands of [[cyber valley]]
+- criteria for species selection
+	- known to be productive
+	- easy to propagate
+	- hardy and low maintenance
+	- together cover need for basic food: [[oil]], [[protein]], [[carbs]]
+- list of species
+	- [[canopy]]
+		- main: [[jackfruit]]
+		- secondary: [[aren]], [[bamboo]]
+		- support: [[casuarina]], [[pine]], [[sengon]], [[trema]]
+	- [[dwarf]]
+		- main: [[avocado]], [[banana]]
+		- secondary: [[inga]], [[candlenut]], [[cinnamon]], [[fig]], [[sapindus]]
+		- support: [[kaliandra]], [[melaleuca]], [[dadap]], [[lamtoro]]
+	- [[shrub]]
+		- main: [[coffee]]
+		- secondary: [[guava]], [[pear]], [[mulberry]], [[jeruk]], [[cassava]]
+		- support: [[champaka]]
+	- [[herb]]
+		- main: [[taro]], [[vegy fern]], [[rubus]]
+		- secondary: [[carrot]], [[nopal]], [[patchouli]], [[hibaceto]], [[ginger]], [[curcuma]]
+		- support: [[lavandula]], [[rosemary]], [[lemongrass]]
+	- [[cover]]
+		- main: [[batat]]
+		- support: [[comfrey]]
+		- secondary: [[mint]], [[thyme]], [[oregano]], [[gotu kola]], [[plantago]], [[stevia]]
+	- [[vine]]
+		- main: [[chayote]]
+		- secondary: [[markiza]], [[basella]], [[betel]]
+	-

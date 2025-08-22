@@ -114,7 +114,6 @@ dev:: false
   query-table:: true
   query-sort-desc:: false
 - DONE [[plants/research]] available in indonesia
-- TODO establish [[14 species]] everywhere
 - TODO identify major [[plants]]
 - TODO species description
 - TODO mapping of plants

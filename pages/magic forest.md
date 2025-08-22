@@ -3,8 +3,11 @@ icon:: 🪷
 - tags:: cyber valley, permaculture, tech, cv.alnd
 - scalable, sustainable, multipurpose ecosystem regeneration
 - idea that combining thoughtful set of species in one ecosystem is very efficient form of sustainability
+- think of the list of species as menu from which you can assemble magic forest specifically adopted to you climate and needs
+- an example of such adaptation is [[highland magic]] - default system for cyber valley
+-
 - 1 phase: bootstrap ecosystem
-	- basic [[magic forest]] ecosystem canvas with focus on survival reserve
+	- basic ecosystem canvas with focus on survival reserve
 	- regenerate lifecycles
 	- building soil
 	- develops in several years
@@ -41,7 +44,7 @@ icon:: 🪷
 	- main
 		- [[oil]]: [[avocado]], [[macadamia]], [[moringa]], [[coconut]], [[olea]], [[elaeis]]
 		- [[carbs]]: [[cassava]], [[taro]], [[batat]], [[jackfruit]] and [[breadfruit]]
-		- [[proteins]]: [[talinum]], [[katuk]], [[basella]], [[cajanus]], [[cnidoscolus]][[diplazium]]
+		- [[proteins]]: [[talinum]], [[katuk]], [[basella]], [[cajanus]], [[cnidoscolus]], [[diplazium]]
 	- extra
 		- [[drinks]]: [[coffea]], [[tea]], [[theobroma]]
 		- [[aroma]]: [[sandal]], [[agarwood]], [[cinnamon]]
@@ -54,7 +57,7 @@ icon:: 🪷
 		- [[ovis aries]]: [[meat]], [[milk]], [[wool]] and [[manure]]
 	- apex:
 		- [[homo sapiens]]: efficient [[regulator]] and [[predator]]
-		- [[hardwoods]]: [[dalbergia]], [[diospyros]], [[shorea]]
+		- [[hardwoods]]: [[dalbergia]], [[diospyros]], [[shorea]], [[casuarina]]
 - 3 phase: sustaining ecosystem and expand biodiversity
 - [[toolset]] for magic forest
 - relevant links

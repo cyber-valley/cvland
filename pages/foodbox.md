@@ -28,7 +28,7 @@
 - [[honey]]: 200
 - [[herbs]]
 	- [[diplazium esculentum]]: 790
-	- [[salad]]: mix of herbs
+	- [[salad]]: 300
 	- [[centella asiatica]]: 20
 	- [[syzygium aromaticum]]: 10
 	- [[salvia officinalis]]: 5

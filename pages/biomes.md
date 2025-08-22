@@ -4,5 +4,5 @@
 	- irrational [[coconut]] biome in [[edem]]
 	- TODO high margin [[rhizome]] biome in [[sinwood]]
 	- TODO [[wildness pioneers]] in [[etherland]]
-	- [[taman warisan]] biome in [[perma]] and [[asgard]]
+	- [[highland magic]] biome in [[perma]] and [[asgard]]
 	- [[montanoa]] biome
